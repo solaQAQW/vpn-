@@ -1,2 +1,7 @@
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "Goals determine what you going to be!"
+sidebar-avatar: 
+
 google_analytics: UA-
 theme: jekyll-theme-cayman
