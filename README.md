@@ -8,14 +8,14 @@
 
 本站作者常年在国内，经常性出差，由于生活和工作需要，手机和PC上安装了上10个付费翻墙APP备用，担心出差途中不能翻墙和公共网络的安全性，所有我比较关注这类翻墙软件在不同网络环境下的稳定性和隐私数据的安全性。根据自己过去2年的测试和使用体验，对几种国内流行的翻墙技术做出对比，读者可根据自己的实际情况选择翻墙工具。
 
-其实就今天来看，VPN加密翻墙依然是最适合国人的主流科学上网工具，同样也是我重点关注和测试的。如果你不想多磨叽，想快速、直接选择一款VPN就能翻墙，<a rel="noreferrer noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank">直接购买ExpressVPN</a>，在国内使用体验最好，也是我自己最喜欢的VPN产品，目前有限时优惠，1年套餐送3个月。设备支持最全面，已经运营了12年（至2020年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。它在中国使用并不完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的VPN中最快的之一。 如果你是新手小白或者想了解更多翻墙方法的信息，请依次往下看，尤其是关于**翻墙的安全性问题**，这个问题日趋严重，且关系到每个互联网用户的信息安全和法律风险，但是目前却少有人关注。
+其实就今天来看，VPN加密翻墙依然是最适合国人的主流科学上网工具，同样也是我重点关注和测试的。如果你不想多磨叽，想快速、直接选择一款VPN就能翻墙，<a rel="nofollow noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank">直接购买ExpressVPN</a>，在国内使用体验最好，也是我自己最喜欢的VPN产品，目前有限时优惠，1年套餐送3个月。设备支持最全面，已经运营了12年（至2020年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。它在中国使用并不完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的VPN中最快的之一。 如果你是新手小白或者想了解更多翻墙方法的信息，请依次往下看，尤其是关于**翻墙的安全性问题**，这个问题日趋严重，且关系到每个互联网用户的信息安全和法律风险，但是目前却少有人关注。
 
 ## 翻墙软件与VPN的区别 – 翻墙的安全性问题
 你也许听过VPN、机场、加速器、SSR、科学上网软件、软路由、V2Ray、WireGuard、Shadowsocks、蓝灯等等翻墙工具，归根到底所有翻墙工具都是通过一个“远程服务器”将墙外的信息传输到你的设备上。通过这种方法你就可以访问被屏蔽的外网和服务了，这种方法称为翻墙，这些工具统称翻墙软件/工具。
 
 但VPN与其他的翻墙软件有一些不同，主要特点是VPN会对通信数据进行加密，能保护用户的隐私数据，特别是在网络封锁的国家，使用者更为安全。其实VPN最开始不是用来翻墙的，VPN始于国外，在国外是一个正规的IT产业，需求对象是公司的机密通信和注重信息安全的个人，它的核心任务是保障用户的数据安全，国内用户使用它翻墙只是近年来衍生出的次要任务。
 
-国外的个人用户主要是在连接公共WiFi的时候，有些恶意的公共WiFi提供者会截取连接此WiFi的通信数据并窃取机密信息，VPN则可以对数据进行加密，即使被截取也只是得到一堆无意义的乱码，以此来防止信息被窃取，所以才有了VPN这样一项服务。只是在中国，个人用户才利用VPN技术进行翻墙，但是国产的“VPN”没有行业监管，一般不会对数据进行加密，而且基本都会保留用户的访问数据，据国外媒体Financial Times爆料，还能在苹果App Store和Google Play下载的<a rel="noreferrer noopener" href="https://www.zdnet.com/article/many-free-mobile-vpn-apps-are-based-in-china-or-have-chinese-ownership/" target="_blank">大量国产翻墙软件被证实是中国ZF所控制</a>，极大可能为钓鱼的“VPN”，这些软件很可能记录用户的活动日志方面的信息，而且研究者发现，他们会与中国大陆的第三方共享用户的传输数据，记录用户的活动日志并传输到可能受到政府监管的第三方服务器，这就造成了使用者信息和法律安全的隐患，简单点说，如果你使用了这类翻墙软件，你在翻墙时访问了哪些网站，发布了什么信息，以及你真实的网络地址，甚至包括手机号、定位信息（手机上使用）都会被ZF掌握。所以说真正能实现保障用户数据传输安全的VPN服务都是在国外。翻墙的安全性问题日趋重要，但是很少有人关注这点。在中国ZF的监管下，App Store的中国商店早就全面下架各大VPN服务了，监管也越来越严，为什么还有一些国产山寨“VPN”还能在上面泛滥？其实想想也明白，他们很可能是在政府默许和控制下的，会提供用户活动日志给国内的第三方机构，以便检查和监控。
+国外的个人用户主要是在连接公共WiFi的时候，有些恶意的公共WiFi提供者会截取连接此WiFi的通信数据并窃取机密信息，VPN则可以对数据进行加密，即使被截取也只是得到一堆无意义的乱码，以此来防止信息被窃取，所以才有了VPN这样一项服务。只是在中国，个人用户才利用VPN技术进行翻墙，但是国产的“VPN”没有行业监管，一般不会对数据进行加密，而且基本都会保留用户的访问数据，据国外媒体Financial Times爆料，还能在苹果App Store和Google Play下载的<a rel="nofollow noopener" href="https://www.zdnet.com/article/many-free-mobile-vpn-apps-are-based-in-china-or-have-chinese-ownership/" target="_blank">大量国产翻墙软件被证实是中国ZF所控制</a>，极大可能为钓鱼的“VPN”，这些软件很可能记录用户的活动日志方面的信息，而且研究者发现，他们会与中国大陆的第三方共享用户的传输数据，记录用户的活动日志并传输到可能受到政府监管的第三方服务器，这就造成了使用者信息和法律安全的隐患，简单点说，如果你使用了这类翻墙软件，你在翻墙时访问了哪些网站，发布了什么信息，以及你真实的网络地址，甚至包括手机号、定位信息（手机上使用）都会被ZF掌握。所以说真正能实现保障用户数据传输安全的VPN服务都是在国外。翻墙的安全性问题日趋重要，但是很少有人关注这点。在中国ZF的监管下，App Store的中国商店早就全面下架各大VPN服务了，监管也越来越严，为什么还有一些国产山寨“VPN”还能在上面泛滥？其实想想也明白，他们很可能是在政府默许和控制下的，会提供用户活动日志给国内的第三方机构，以便检查和监控。
 
 除了正规的VPN服务，其他翻墙软件唯一作用就是帮助国内用户翻墙。自己租用服务器搭建翻墙工具仅仅自己用的话，理论上是安全的，但现在服务器ip被墙的太多，费时费力，想尝试的朋友可以去试试，我自己不推荐。我不能确定其他翻墙软件绝对都是不安全的，但在国内网络封锁的大环境下催生出来的翻墙软件行业游走在灰色地带，没有正规化的运营，缺乏行业监管和约束，很多都是个人或小团队运作，这就很难保障用户的数据安全了，唯一能做的就是希望翻墙软件的提供者能有良好的道德。
 
@@ -48,7 +48,7 @@
 >最近国内网络管制升级，各种翻墙方法都出现不同程度连接不稳定，速度变慢等情况，国内论坛上VPS的ip被封的讨论也多了起来，但ExpressVPN，PureVPN等工具仍然处于可用状态，但有些节点的连接成功率确实有所下降，有时需重连，如果发现使用困难，请各位保持耐心，困难会过去的，希望我们早日度过难关。
 
 ## 买VPS自建翻墙服务器？
-最近2年很流行租用VPS服务器自建翻墙工具，很多有点技术基础的人也在用这种方法，买了VPS服务器，下载安装脚本文件，就能翻墙了。这种方案的好处是服务器独享，仅自己一个人用，如果服务器有CN线路的话速度上也有优势，确实在刚开始我也推荐大家这样做，因为一个人独享一台服务器的资源，而且翻墙的成本也不高。但缺点就是现在IP太容易被墙了，尤其是搬瓦工、Vultr和DO这些国内用户众多的机房，因为防火长城不断在升级，对于翻墙流量的识别越来越精准。这些流行且技术含量不高的翻墙方法对于防火长城来说只需一眼就知道你在翻墙，然后导致ip被封，由于使用翻墙的多了，厂商的IP资源是有限的，很多的vps厂商已经不支持免费换IP，即使付费换了IP也不能保证是没被墙的，换来换去结果是防火长城屏蔽的IP越来越多，几个在国内最受欢迎的vps品牌也很难找到可用的IP了，那么服务器就相当于是报废了。近1年我就陆陆续续收到一些读者留言，问买的1年的服务器用了不到2个月被墙了怎么办，有些读者是换了IP也不能用，没办法，这台VPS只能放着吃灰了。在Google上的搜索也主要是IP被墙的问题，比如搬瓦工的热门搜索如下图：
+最近2年很流行租用VPS服务器自建翻墙工具，很多有点技术基础的人也在用这种方法，买了VPS服务器，下载安装脚本文件，就能翻墙了。这种方案的好处是服务器独享，仅自己一个人用，如果服务器有CN线路的话速度上也有优势，确实在刚开始我也推荐大家这样做，因为一个人独享一台服务器的资源，而且翻墙的成本也不高。但缺点就是现在IP太容易被墙了，尤其是<a rel="nofollow noopener" href="https://bandwagonhost.com/aff.php?aff=20789" target="_blank">搬瓦工</a>、<a rel="nofollow noopener" href="https://www.vultr.com/?ref=6804316" target="_blank">Vultr</a>和DO这些国内用户众多的机房，因为防火长城不断在升级，对于翻墙流量的识别越来越精准。这些流行且技术含量不高的翻墙方法对于防火长城来说只需一眼就知道你在翻墙，然后导致ip被封，由于使用翻墙的多了，厂商的IP资源是有限的，很多的vps厂商已经不支持免费换IP，即使付费换了IP也不能保证是没被墙的，换来换去结果是防火长城屏蔽的IP越来越多，几个在国内最受欢迎的vps品牌也很难找到可用的IP了，那么服务器就相当于是报废了。近1年我就陆陆续续收到一些读者留言，问买的1年的服务器用了不到2个月被墙了怎么办，有些读者是换了IP也不能用，没办法，这台VPS只能放着吃灰了。在Google上的搜索也主要是IP被墙的问题，比如搬瓦工的热门搜索如下图：
 ![Google搜索搬瓦工](/image/bw-google-search.png)
 
 前几年这种翻墙方案性价比还不错，但是就2020年来说，似乎找到未被屏蔽的IP有点困难了，况且付费换一个IP需8美元！以现在防火墙对于翻墙（SS/SSR/VPN等）的流量识别算法，大部分用户不出2个月IP就会被封。
@@ -71,7 +71,7 @@
 
 ## 几个好用的翻墙软件VPN推荐，国内实测
 
-### <a rel="noreferrer noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank">>> ExpressVPN</a>（限时优惠-1年套餐送3个月）
+### <a rel="nofollow noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank">>> ExpressVPN</a>（限时优惠-1年套餐送3个月）
 
 ![ExpressVPN](/image/express-min.png)
 
@@ -87,13 +87,13 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 - 中国大陆速度最快
 
-看<a rel="noreferrer noopener" href="https://www.youtube.com/" target="_blank">youtube</a>的1080P毫无压力。
+看<a rel="nofollow noopener" href="https://www.youtube.com/" target="_blank">youtube</a>的1080P毫无压力。
 
 - 30天退款承诺
 
 30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
 
-### <a rel="noreferrer noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">>> PureVPN</a>
+### <a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">>> PureVPN</a>
 >打开官网需梯子,但客户端直接就能登录打开
 
 ![PureVPN](/image/pure-min.png)
@@ -106,13 +106,13 @@ PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保�
 
 - 全球可访问
 
-PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是<a rel="noreferrer noopener" href="https://www.netflix.com/us-zh/" target="_blank">Netflix</a>。不管身在何处，都能稳定快速的访问资源。
+PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是<a rel="nofollow noopener" href="https://www.netflix.com/us-zh/" target="_blank">Netflix</a>。不管身在何处，都能稳定快速的访问资源。
 
 - 对抗审查制度
 
 墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。
 
-### <a rel="noreferrer noopener" href="https://www.pandamira.xyz/r/13023030" target="_blank">>> PandaVPN</a>
+### <a rel="nofollow noopener" href="https://www.pandamira.xyz/r/13023030" target="_blank">>> PandaVPN</a>
 
 ![PandaVPN](/image/panda-min.png)
 
@@ -134,12 +134,12 @@ PandaVPN相比其他几家来说要小众一些，所以价格也相对便宜，
 
 虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
 
-### <a rel="noreferrer noopener" href="https://billing.ivacy.com/page/91435" target="_blank">>> IVacy</a>
+### <a rel="nofollow noopener" href="https://billing.ivacy.com/page/91435" target="_blank">>> IVacy</a>
 
 ![IVacy](/image/ivacy-logo.png)
 >**注意**:这家VPN的网页可能需要梯子才能打开，客户端目前需要翻墙才能登录，使用Windows客户端的用户可以叫客服发给你中国专用的客户端进行登录。
 
-IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点了，一般VPN商家都会限制设备数量。不过就稳定性来说，由于不限制同时在线的设备数量，稳定性相比其他几个VPN较差，所以我更建议你选择<a rel="noreferrer noopener" href="https://www.pandamira.xyz/r/13023030" target="_blank">PandaVPN</a>或者<a rel="noreferrer noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">PureVPN</a>
+IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点了，一般VPN商家都会限制设备数量。不过就稳定性来说，由于不限制同时在线的设备数量，稳定性相比其他几个VPN较差，所以我更建议你选择<a rel="nofollow noopener" href="https://www.pandamira.xyz/r/13023030" target="_blank">PandaVPN</a>或者<a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">PureVPN</a>
 
 - 注重中国市场
 
@@ -157,7 +157,7 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
 
-### <a rel="noreferrer noopener" href="https://linkvy.com/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG" target="_blank">>> VyprVPN</a>
+### <a rel="nofollow noopener" href="https://linkvy.com/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG" target="_blank">>> VyprVPN</a>
 
 ![VyprVPN](/image/vypr_logo-min.png)
 
@@ -175,7 +175,7 @@ VyprVPN对中国用户的重视，甚至有双十一的优惠活动，可以通�
 
 VyprVPN同样支持30天退款保证，而且由于中文支持友好，如果觉得不好用，退款会更加方便。
 
-### <a rel="noreferrer noopener" href="http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079" target="_blank">>> NordVPN</a>
+### <a rel="nofollow noopener" href="http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079" target="_blank">>> NordVPN</a>
 
 ![NordVPN](/image/nord-min.png)
 
@@ -187,7 +187,7 @@ NordVPN拥有军用级别的加密技术，就算在公共场合，使用无加�
 
 - 保护所有设备
 
-NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个是非常良心了，很多VPN商家都只支持单点登陆。更贴心的是，连<a rel="noreferrer noopener" href="https://www.google.com/intl/zh-CN/chrome/" target="_blank">Chrome</a>的网页代理扩展都提供了。NordVPN还具有严格的无日志政策，自动Kill Switch，DNS泄露防护，Onion Over VPN等功能。
+NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个是非常良心了，很多VPN商家都只支持单点登陆。更贴心的是，连<a rel="nofollow noopener" href="https://www.google.com/intl/zh-CN/chrome/" target="_blank">Chrome</a>的网页代理扩展都提供了。NordVPN还具有严格的无日志政策，自动Kill Switch，DNS泄露防护，Onion Over VPN等功能。
 
 - 全球服务器支持
 
@@ -221,7 +221,7 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 ### 其他翻墙姿势
 
-上文说过，通过租用国外服务器自己搭建翻墙工具我不是很推荐，如果有基友要玩VPS翻墙的话，现在主流的在服务器搭建的科学上网方法是安装Shadowsocks或者V2Ray，VPS位置最好选择美国西海岸，LA/San Francisco或附近地区，相对比较稳定一些，VPS服务器选择<a rel="noreferrer noopener" href="https://www.vultr.com/?ref=6804316" target="_blank">Vultr的VPS</a>，性价比较高，日本机房最好避开，ip能用的寥寥无几，美国机房ip多，情况稍好一些。<a rel="noreferrer noopener" href="https://github.com/233boy/ss/wiki/Shadowsocks%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B" target="_blank">Shadowsocks搭建教程</a>有详细的搭建方法；V2Ray最近也比较火，跟Shadowsocks差不多，搭建也不复杂，<a rel="noreferrer noopener" href="https://www.v2ray.com/" target="_blank">官网</a>提供了详细的搭建过程，也提供了客户端软件。不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解，而且个人隐私信息的安全也没有绝对的保证。北京理工大学在2019年3月25提交的论文【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦审核通过之后，V2ray也就宣告失效。
+上文说过，通过租用国外服务器自己搭建翻墙工具我不是很推荐，如果有基友要玩VPS翻墙的话，现在主流的在服务器搭建的科学上网方法是安装Shadowsocks或者V2Ray，VPS位置最好选择美国西海岸，LA/San Francisco或附近地区，相对比较稳定一些，VPS服务器选择<a rel="nofollow noopener" href="https://www.vultr.com/?ref=6804316" target="_blank">Vultr的VPS</a>，性价比较高，日本机房最好避开，ip能用的寥寥无几，美国机房ip多，情况稍好一些。<a rel="nofollow noopener" href="https://github.com/233boy/ss/wiki/Shadowsocks%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B" target="_blank">Shadowsocks搭建教程</a>有详细的搭建方法；V2Ray最近也比较火，跟Shadowsocks差不多，搭建也不复杂，<a rel="nofollow noopener" href="https://www.v2ray.com/" target="_blank">官网</a>提供了详细的搭建过程，也提供了客户端软件。不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解，而且个人隐私信息的安全也没有绝对的保证。北京理工大学在2019年3月25提交的论文【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦审核通过之后，V2ray也就宣告失效。
 
 ## 关于VPN的一些问题
 
@@ -229,11 +229,11 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 ### VPN的基本原理是什么？
 
-VPN是英文Virtual Private Network的缩写，翻译过来就是<a rel="noreferrer noopener" href="https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF" target="_blank">虚拟专用网络</a>。VPN最初的设计是为了让世界上任一两台电脑，在一个加密的通道中传输数据，只是在数据上加密了，而不是在硬件上区别开来，所以就称为虚拟。也因此成为了绕过审查的翻墙工具。VPN相比于<a rel="noreferrer noopener" href="https://shadowsocks.org/en/index.html" target="_blank">Shadowsocks</a>来说要更加底层一些，它首先通过操作系统虚拟一张网卡，之后所以的收发数据都通过这张网卡加密。
+VPN是英文Virtual Private Network的缩写，翻译过来就是<a rel="nofollow noopener" href="https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF" target="_blank">虚拟专用网络</a>。VPN最初的设计是为了让世界上任一两台电脑，在一个加密的通道中传输数据，只是在数据上加密了，而不是在硬件上区别开来，所以就称为虚拟。也因此成为了绕过审查的翻墙工具。VPN相比于<a rel="nofollow noopener" href="https://shadowsocks.org/en/index.html" target="_blank">Shadowsocks</a>来说要更加底层一些，它首先通过操作系统虚拟一张网卡，之后所以的收发数据都通过这张网卡加密。
 
 ### 什么是中国防火长城？
 
-<a rel="noreferrer noopener" href="https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E" target="_blank">防火长城</a>GFW是英文Great Firewall的缩写，最开始是因为一名外国人写的《The Great Firewall of China》的文章而得名，又由于长城的原因，在网络上演变成了”墙“，表示访问境外的网站，如Facebook、Twitter、YouTube等被阻拦，主要通过拦截方式为1）黑名单的方式拦截域名解析，在黑名单中的域名会被解析到无效的IP地址，从而表现为改网站不可用。2）IP地址封锁，由于大部分被封锁的网站使用的是"虚拟主机"，所以一旦某个ip被封锁，其他相关联的网站也会被封。3）针对HTTP关键字过滤，中国防火长城会针对某些关键字进行过滤。其实网络审查制度不只是中国存在，其他国家也存在网络审查制度，但是仅仅用于金融洗钱、国际诈骗等犯罪行为，而防火长城的则会监控所有国际通讯，对不符合规定的传输内容进行屏蔽。域名解析服务缓存污染是防火长城常见的拦截手段，所有出口骨干路由在UDP的53端口的域名查询都会被检测，一旦所访问的域名不符合规定，防火长城就会返回错误域名解析地址。
+<a rel="nofollow noopener" href="https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E" target="_blank">防火长城</a>GFW是英文Great Firewall的缩写，最开始是因为一名外国人写的《The Great Firewall of China》的文章而得名，又由于长城的原因，在网络上演变成了”墙“，表示访问境外的网站，如Facebook、Twitter、YouTube等被阻拦，主要通过拦截方式为1）黑名单的方式拦截域名解析，在黑名单中的域名会被解析到无效的IP地址，从而表现为改网站不可用。2）IP地址封锁，由于大部分被封锁的网站使用的是"虚拟主机"，所以一旦某个ip被封锁，其他相关联的网站也会被封。3）针对HTTP关键字过滤，中国防火长城会针对某些关键字进行过滤。其实网络审查制度不只是中国存在，其他国家也存在网络审查制度，但是仅仅用于金融洗钱、国际诈骗等犯罪行为，而防火长城的则会监控所有国际通讯，对不符合规定的传输内容进行屏蔽。域名解析服务缓存污染是防火长城常见的拦截手段，所有出口骨干路由在UDP的53端口的域名查询都会被检测，一旦所访问的域名不符合规定，防火长城就会返回错误域名解析地址。
 
 ### VPN有什么作用？
 
