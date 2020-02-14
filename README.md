@@ -67,7 +67,7 @@
 测VPN花的钱并不多，我平时工作、出差需要翻墙就顺带连接测试一下，我也没打算把市场上的产品都测一遍，那我只能天天吃泡面了，我也不可能有那个精力，这没啥技术含量但是是个体力活，就是注册购买装好客户端，把功能试一遍，把适合中国的香港、日本、美国、新加坡等节点都试连一遍。
 
 
-我实测了一些业界知名的VPN，本文的VPN推荐都基于价格、网络速度以及使用体验等各个指标，以确保得到最客观真实的使用情况。并且提供了每家VPN近期的优惠福利，以及价格情况，希望能为大家在选择VPN的时候作为有效的参考。这几家VPN都有退款保证，如果使用过程中出现问题，可以及时联系客服解决或者退款。由于每家VPN在特殊时期都不能保证完全稳定，所以本文会定期更新，推荐当前中国还能用的VPN。
+我实测了一些业界知名的VPN，本文的VPN推荐都基于价格、网络速度以及使用体验等各个指标，以确保得到最客观真实的使用情况。并且提供了每家VPN近期的优惠福利，以及价格情况，希望能为大家在选择VPN的时候作为有效的参考。这几家VPN都有30天内不满意退款保证，如果使用过程中出现问题，可以及时联系客服解决或者退款。本文会定期更新适合在中国使用的VPN，请收藏以便查看。
 
 ## 适合在中国使用的翻墙软件VPN，国内实测
 >注意：因为防火长城会不断迭代更新，致使很多VPN接二连三遭受屏蔽。下列的几款VPN，都经过我长期的使用和测试，对防火长城封锁的应对最快，能比较快速地进行软件和节点的更新，能满足国内用户长期使用的需求。另外，该文章会不断更新，敬请收藏。
@@ -103,14 +103,49 @@ ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术�
 - USA–Los Angeles–5
 - USA–Santa Monica/HollyWood（不是官方推荐经常也能连接）
 
-除了上面那些优化过的服务器线路，**中国用户也可以改为“L2TP – IPsec”协议使用其它的服务器线路**，但是其他那些服务器没有经过混淆算法优化，速度和稳定性可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
+除了上面那些优化过的服务器线路，**中国用户也可以改为“L2TP – IPsec”协议使用其它的服务器线路**，但是其他那些服务器没有经过混淆算法优化，速度和稳定性可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。我们最近对官方推荐的节点进行了测试，测试的网络环境是：
 
-### <a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">>> PureVPN</a>
+- 客户端：Windows
+- 电信100M 无线WiFi
+- 路由器：Netgear R7000
+
+部分测试截图如下：
+![LA5节点测速](/image/express-vpn-la5-2020-01-20.png)
+
+我们连接Los Angeles – 5节点，在Chrome浏览器使用Speedtest进行在线测速，测速结果如下图，可以看到，ping延迟是174ms，还不错，下载速度是50.02Mb/s，上传的速度是12.42Mb/s，观看Youtube高清视频不存在卡顿。
+
+![sigapore节点测速](/image/expressvpn-sigapore-2020-01-20.png)
+
+测试的Singapore – Marina Bay节点速度也很不错，下载速度测试值为43.78Mb/s，顺便说一下，我们的测试中，ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。总体上来说ExpressVPN是我测试的所有翻墙软件中，在电脑端（Windows、MacBook）和手机端（iPhone、安卓手机）使用体验最好。
+
+综合评价：这款VPN是我经常使用的一款，从16年开始使用到现在，其客户端的美观简洁、服务的稳定性、连接速度在我们测试的所有VPN产品中属于一流，可称得上是在国内最好用的翻墙VPN。在我们的测试中，ExpressVPN几乎没有对我们的网速造成任何影响，浏览网页，观看YouTube十分流畅。ExpressVPN的服务器遍布全球94个国家，并且对使用流量和带宽没有任何限制。
+
+在安全性方面，他们也做得很好，支持256位OpenVPN(TCP, UDP), L2TP-IPsec, SSTP和PPTP等加密协议，并且不保留用户日志，用户可以放心上网而不必担心个人隐私泄露。
+
+ExpressVPN的客服是业内最好的之一，随时提供网上帮助。此外，ExpressVPN兼容各种常见设备，并且可以配置在路由器上，在电脑（Windows或Mac）和移动设备（iPhone、安卓、平板）上都可以使用。
+
+![ExpressVPN支持设备](/image/express-vpn-devices.png "ExpressVPN支持设备截图")
+
+套餐的价格：性价比最高的是购买一年送3个月，相当于6.67美元/月（限时优惠），同时他们保证30天内使用不满意无条件退款，所以你有足够的时间来测试。
+
+![ExpressVPN付款方式](/image/express-vpn-payment.png "ExpressVPN付款方式截图")
+
+ExpressVPN支持支付宝、银联等多种方式付款。
+
+>**2020最新提示**：ExpressVPN在国内电脑端（Windows/Mac OS）和手机端（iOS/安卓）的APP客户端直接一键连接就行了，不用自己手动配置。
+>
+>另外，ExpressVPN在国内使用的稳定性也非常不错，在目前防火长城不断升级的大环境下，能保证95%以上的稳定使用时间，按照过去2年的使用经验，一般3个月左右服务器可能会暂时被屏蔽几天，但改用L2TP协议的服务器还能使用，而且官方每次的应对很快，2-3个工作日会推出更新版本，又可以继续使用了。
+>
+>**推荐用户**：对速度和稳定性有要求的用户、iPhone用户首选
+
+### <center><a rel="nofollow noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank">>> 点击获取ExpressVPN优惠<<</a></center>
+
+## <a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">>> PureVPN</a>
 >打开官网需梯子,但客户端直接就能登录打开
 
 ![PureVPN](/image/pure-min.png)
 
-PureVPN也是一家老牌商家，网络速度、稳定性以及综合实力目前来说仅次于ExpressVPN，价格方面相对ExpressVPN便宜一些
+PureVPN也是一家老牌商家，网络速度、稳定性以及综合实力目前来说仅次于ExpressVPN，价格方面相对ExpressVPN便宜一些。
 
 - 隐私保护
 
@@ -124,7 +159,7 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。
 
-### <a rel="nofollow noopener" href="https://www.pandamira.xyz/r/13023030" target="_blank">>> PandaVPN</a>
+## <a rel="nofollow noopener" href="https://www.pandamira.xyz/r/13023030" target="_blank">>> PandaVPN</a>
 
 ![PandaVPN](/image/panda-min.png)
 
@@ -146,12 +181,12 @@ PandaVPN相比其他几家来说要小众一些，所以价格也相对便宜，
 
 虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
 
-### <a rel="nofollow noopener" href="https://billing.ivacy.com/page/91435" target="_blank">>> IVacy</a>
+## <a rel="nofollow noopener" href="https://billing.ivacy.com/page/91435" target="_blank">>> IVacy</a>
 
 ![IVacy](/image/ivacy-logo.png)
 >**注意**:这家VPN的网页可能需要梯子才能打开，客户端目前需要翻墙才能登录，使用Windows客户端的用户可以叫客服发给你中国专用的客户端进行登录。
 
-IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点了，一般VPN商家都会限制设备数量。不过就稳定性来说，由于不限制同时在线的设备数量，稳定性相比其他几个VPN较差，所以我更建议你选择<a rel="nofollow noopener" href="https://www.pandamira.xyz/r/13023030" target="_blank">PandaVPN</a>或者<a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">PureVPN</a>
+IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点了，一般VPN商家都会限制设备数量。不过就稳定性来说，由于不限制同时在线的设备数量，稳定性相比其他几个VPN较差，所以我更建议你选择<a rel="nofollow noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank">ExpressVPN</a>或者<a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">PureVPN</a>。
 
 - 注重中国市场
 
@@ -169,7 +204,7 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
 
-### <a rel="nofollow noopener" href="https://linkvy.com/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG" target="_blank">>> VyprVPN</a>
+## <a rel="nofollow noopener" href="https://linkvy.com/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG" target="_blank">>> VyprVPN</a>
 
 ![VyprVPN](/image/vypr_logo-min.png)
 
@@ -187,7 +222,7 @@ VyprVPN对中国用户的重视，甚至有双十一的优惠活动，可以通�
 
 VyprVPN同样支持30天退款保证，而且由于中文支持友好，如果觉得不好用，退款会更加方便。
 
-### <a rel="nofollow noopener" href="http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079" target="_blank">>> NordVPN</a>
+## <a rel="nofollow noopener" href="http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079" target="_blank">>> NordVPN</a>
 
 ![NordVPN](/image/nord-min.png)
 
