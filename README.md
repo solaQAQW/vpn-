@@ -99,7 +99,7 @@ Surfshark中文支持友好，不限制设备数量，这算是非常大的一�
 
 在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
 
-### <a href="https://www.vyprvpn.com/zh/refer/china?offer_id=235&aff_id=5234" target="_blank">>> VyprVPN</a>
+### <a href="https://linkvy.com/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG" target="_blank">>> VyprVPN</a>
 
 ![VyprVPN](/image/vypr_logo-min.png)
 
@@ -117,7 +117,7 @@ VyprVPN对中国用户的重视，甚至有双十一的优惠活动，可以通�
 
 VyprVPN同样支持30天退款保证，而且由于中文支持友好，如果觉得不好用，退款会更加方便。
 
-### <a href="http://go.nordvpn.net/aff_c?offer_id=15&aff_id=32326&url_id=902" target="_blank">>> NordVPN</a>
+### <a href="http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079" target="_blank">>> NordVPN</a>
 
 ![NordVPN](/image/nord-min.png)
 
@@ -125,11 +125,11 @@ NordVPN之前在中国的速度表现也非常不错，拥有军用级别的加�
 
 - 访问安全
 
-NordVPN拥有军用级别的加密技术，就算在公共场合，使用<a href="https://zh.wikipedia.org/zh/Wi-Fi" target="_blank">wifi</a>等情况下，都能有效的保护网络浏览记录的隐私性，可以说是最安全的VPN了。
+NordVPN拥有军用级别的加密技术，就算在公共场合，使用无加密或不安全的公共wifi的情况下，都能有效的保护网络浏览记录的隐私性，可以说是最安全的VPN了。
 
 - 保护所有设备
 
-NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个是非常良心了，很多VPN商家都只支持单点登陆。更贴心的是，连<a href="https://www.google.com/intl/zh-CN/chrome/" target="_blank">Chrome</a>的网页代理扩展都提供了。NordVPN还具有严格的无日志政策，自动Kill Switch，<a href="https://zhuanlan.zhihu.com/p/47095852" target="_blank">DNS泄露</a>防护，Onion Over VPN等功能。
+NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个是非常良心了，很多VPN商家都只支持单点登陆。更贴心的是，连<a href="https://www.google.com/intl/zh-CN/chrome/" target="_blank">Chrome</a>的网页代理扩展都提供了。NordVPN还具有严格的无日志政策，自动Kill Switch，DNS泄露防护，Onion Over VPN等功能。
 
 - 全球服务器支持
 
@@ -147,7 +147,7 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 ### 推荐付费的一线VPN
 
-免费VPN听起来很有诱惑力，但是真正使用起来，确实诸多麻烦。毕竟羊毛出在羊身上，人家也是要赚钱的。那么这些所谓的免费VPN就会通过其他途径来赚钱，比如满屏的弹窗广告，售卖个人信息等行为。除此之外，大部分免费VPN基本上处于不能用的状态，网络延迟到令人发指，比如<a href="https://getlantern.org/zh_CN/index.html" target="_blank">蓝灯</a>的免费版。并且如果想要稳定的服务的话，还是需要购买他的付费版本，免费只是一种营销手段。一线VPN通常会使用现有开源协议进行二次开发，会投入开发经费在研发新的翻墙技术上面，尽可能绕过墙的检测，而且一线VPN商家通常在全球部署了众多的服务器，如果碰巧某个地区的服务器IP被封锁了，也可以快速切换到其他地区的服务器，不会影响用户的使用。而小商家通常直接使用市面上的开源协议，直接安装之后就开始售卖，而这种开源协议早就列入了墙的黑名单之中，并且这些小商家很可能只租用了某个几台服务器，一旦该IP段被封，所有用户都会受到影响。
+免费VPN听起来很有诱惑力，但是真正使用起来，确实诸多麻烦。毕竟羊毛出在羊身上，人家也是要赚钱的。那么这些所谓的免费VPN就会通过其他途径来赚钱，比如满屏的弹窗广告，售卖个人信息等行为。除此之外，大部分免费VPN基本上处于不能用的状态，网络延迟到令人发指，比如蓝灯的免费版。并且如果想要稳定的服务的话，还是需要购买他的付费版本，免费只是一种营销手段。一线VPN通常会使用现有开源协议进行二次开发，会投入开发经费在研发新的翻墙技术上面，尽可能绕过墙的检测，而且一线VPN商家通常在全球部署了众多的服务器，如果碰巧某个地区的服务器IP被封锁了，也可以快速切换到其他地区的服务器，不会影响用户的使用。而小商家通常直接使用市面上的开源协议，直接安装之后就开始售卖，而这种开源协议早就列入了墙的黑名单之中，并且这些小商家很可能只租用了某个几台服务器，一旦该IP段被封，所有用户都会受到影响。
 
 ### 推荐国外的VPN商家
 
