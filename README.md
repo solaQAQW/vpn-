@@ -69,11 +69,12 @@
 
 我实测了一些业界知名的VPN，本文的VPN推荐都基于价格、网络速度以及使用体验等各个指标，以确保得到最客观真实的使用情况。并且提供了每家VPN近期的优惠福利，以及价格情况，希望能为大家在选择VPN的时候作为有效的参考。这几家VPN都有退款保证，如果使用过程中出现问题，可以及时联系客服解决或者退款。由于每家VPN在特殊时期都不能保证完全稳定，所以本文会定期更新，推荐当前中国还能用的VPN。
 
-## 几个好用的翻墙软件VPN推荐，国内实测
+## 适合在中国使用的翻墙软件VPN，国内实测
+>注意：因为防火长城会不断迭代更新，致使很多VPN接二连三遭受屏蔽。下列的几款VPN，都经过我长期的使用和测试，对防火长城封锁的应对最快，能比较快速地进行软件和节点的更新，能满足国内用户长期使用的需求。另外，该文章会不断更新，敬请收藏。
 
-### <a rel="nofollow noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank">>> ExpressVPN</a>（限时优惠-1年套餐送3个月）
+## 1.<a rel="nofollow noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank"> ExpressVPN</a>（限时优惠-1年套餐送3个月）
 
-![ExpressVPN](/image/express-min.png)
+<center>![ExpressVPN](/image/express-min.png)</center>
 
 ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN，绝对是VPN排名第一。
 
@@ -92,11 +93,22 @@ ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术�
 - 30天退款承诺
 
 30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
+在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
+
+- Hong Kong–5
+- Japan–Tokyo–3
+- Singapore–Marina Bay
+- Hong Kong–4
+- USA–Los Angeles–4
+- USA–Los Angeles–5
+- USA–Santa Monica/HollyWood（不是官方推荐经常也能连接）
+
+除了上面那些优化过的服务器线路，**中国用户也可以改为“L2TP – IPsec”协议使用其它的服务器线路**，但是其他那些服务器没有经过混淆算法优化，速度和稳定性可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。我们最近对官方推荐的节点进行了测试，测试的网络环境是：
 
 ### <a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">>> PureVPN</a>
 >打开官网需梯子,但客户端直接就能登录打开
 
-![PureVPN](/image/pure-min.png)
+<center>![PureVPN](/image/pure-min.png)</center>
 
 PureVPN也是一家老牌商家，网络速度、稳定性以及综合实力目前来说仅次于ExpressVPN，价格方面相对ExpressVPN便宜一些
 
@@ -114,7 +126,7 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 ### <a rel="nofollow noopener" href="https://www.pandamira.xyz/r/13023030" target="_blank">>> PandaVPN</a>
 
-![PandaVPN](/image/panda-min.png)
+<center>![PandaVPN](/image/panda-min.png)</center>
 
 PandaVPN相比其他几家来说要小众一些，所以价格也相对便宜，但速度表现非常出色。除此之外中文支持好，操作简单方便，性价比非常高
 
@@ -136,7 +148,7 @@ PandaVPN相比其他几家来说要小众一些，所以价格也相对便宜，
 
 ### <a rel="nofollow noopener" href="https://billing.ivacy.com/page/91435" target="_blank">>> IVacy</a>
 
-![IVacy](/image/ivacy-logo.png)
+<center>![IVacy](/image/ivacy-logo.png)</center>
 >**注意**:这家VPN的网页可能需要梯子才能打开，客户端目前需要翻墙才能登录，使用Windows客户端的用户可以叫客服发给你中国专用的客户端进行登录。
 
 IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点了，一般VPN商家都会限制设备数量。不过就稳定性来说，由于不限制同时在线的设备数量，稳定性相比其他几个VPN较差，所以我更建议你选择<a rel="nofollow noopener" href="https://www.pandamira.xyz/r/13023030" target="_blank">PandaVPN</a>或者<a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">PureVPN</a>
@@ -159,7 +171,7 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 ### <a rel="nofollow noopener" href="https://linkvy.com/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG" target="_blank">>> VyprVPN</a>
 
-![VyprVPN](/image/vypr_logo-min.png)
+<center>![VyprVPN](/image/vypr_logo-min.png)</center>
 
 VyprVPN非常注重中国市场，在中国拥有大量用户，变色龙协议专门针对防火长城设计，拥有澳门等近距离节点
 
@@ -177,7 +189,7 @@ VyprVPN同样支持30天退款保证，而且由于中文支持友好，如果�
 
 ### <a rel="nofollow noopener" href="http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079" target="_blank">>> NordVPN</a>
 
-![NordVPN](/image/nord-min.png)
+<center>![NordVPN](/image/nord-min.png)</center>
 
 NordVPN之前在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前翻墙不是很稳定，建议选择上面几家
 
