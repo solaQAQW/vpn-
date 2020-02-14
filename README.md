@@ -14,7 +14,7 @@
 
 ## 几个好用的翻墙软件VPN推荐，国内实测
 
-### <a href="https://www.linkev.com/?a_fid=fastwebcn" target="_blank">>> ExpressVPN</a>（强烈推荐）
+### <a href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank">>> ExpressVPN</a>（强烈推荐）
 
 ![ExpressVPN](/image/express-min.png)
 
@@ -36,7 +36,8 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
 
-### <a href="https://billing.purevpn.com/aff.php?aff=40286" target="_blank">>> PureVPN</a>
+### <a href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">>> PureVPN</a>
+>打开官网需梯子
 
 ![PureVPN](/image/pure-min.png)
 
