@@ -55,7 +55,7 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。
 
-### <a href="https://www.pandamira.xyz/r/9689528" target="_blank">>> PandaVPN</a>
+### <a href="https://www.pandamira.xyz/r/13023030" target="_blank">>> PandaVPN</a>
 
 ![PandaVPN](/image/panda-min.png)
 
@@ -80,8 +80,8 @@ PandaVPN相比其他几家来说要小众一些，所以价格也相对便宜，
 ### <a href="https://get.surfshark.net/aff_c?offer_id=38&aff_id=2236" target="_blank">>> Surfshark</a>
 
 ![Surfshark](/image/surfshark-min.png)
-
-Surfshark中文支持友好，不限制设备数量，这算是非常大的一个特点了，一般VPN商家都会限制设备数量，并且iOS翻墙连接快速。不过就稳定性来说，我更建议你选择<a href="https://www.pandamira.xyz/r/9689528" target="_blank">PandaVPN</a>或者<a href="https://billing.purevpn.com/aff.php?aff=40286" target="_blank">PureVPN</a>
+>**注意**:这家VPN的客户端目前需要翻墙才能登录，使用Windows客户端的用户可以叫客服发给你中国专用的客户端进行登录。
+Surfshark中文支持友好，不限制设备数量，这算是非常大的一个特点了，一般VPN商家都会限制设备数量，并且iOS翻墙连接快速。不过就稳定性来说，由于不限制同时在线的设备数量，稳定性相比其他几个VPN较差，所有我更建议你选择<a href="https://www.pandamira.xyz/r/13023030" target="_blank">PandaVPN</a>或者<a href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">PureVPN</a>
 
 - 注重中国市场
 
