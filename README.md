@@ -37,7 +37,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 30之内如果你觉得ExpressVPN不好用，可以无条件退款，这点确实是大企业风范。
 
 ### <a href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">>> PureVPN</a>
->打开官网需梯子
+>打开官网需梯子,但客户端直接就能登录打开
 
 ![PureVPN](/image/pure-min.png)
 
