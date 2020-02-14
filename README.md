@@ -77,6 +77,27 @@ PandaVPN相比其他几家来说要小众一些，所以价格也相对便宜，
 
 虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
 
+### <a href="https://get.surfshark.net/aff_c?offer_id=38&aff_id=2236" target="_blank">>> IVacy</a>
+
+![Surfshark](/image/surfshark-min.png)
+>**注意**:这家VPN的客户端目前需要翻墙才能登录，使用Windows客户端的用户可以叫客服发给你中国专用的客户端进行登录。
+IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点了，一般VPN商家都会限制设备数量。不过就稳定性来说，由于不限制同时在线的设备数量，稳定性相比其他几个VPN较差，所有我更建议你选择<a href="https://www.pandamira.xyz/r/13023030" target="_blank">PandaVPN</a>或者<a href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">PureVPN</a>
+
+- 注重中国市场
+
+在全球拥70+地区拥有服务器，最近的部署在中国香港地区，中文支持也非常友好
+
+- 安全性和匿名
+
+同样是具有军用级的加密技术，可以通过VPN实现匿名隐藏IP以及DNS隐藏等，最大限度的保护隐私安全。
+
+- 链接中断切换机制
+
+在使用的过程中，VPN掉线是无法避免的事情，IVacy实现了高效的网络切换。通过多个服务器的切换，这样也保证了隐私和匿名。
+
+- 7*24小时技术支持
+
+在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
 
 ### <a href="https://linkvy.com/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG" target="_blank">>> VyprVPN</a>
 
