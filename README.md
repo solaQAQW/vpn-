@@ -1,14 +1,14 @@
 # 2020中国最好用的翻墙软件VPN推荐，翻墙必备VPN，1月更新
 
-![好用的VPN，国内VPN，中国VPN，VPN中国，翻墙软件，VPN推荐](/image/wall.jpg "vpn")
+![好用的VPN，国内VPN，中国VPN，VPN中国，翻墙软件，VPN推荐](/image/wall-min.jpg "vpn")
 
 我们实测了一些业界知名的VPN，本文的VPN推荐都基于价格、网络速度以及使用体验等各个指标，以确保得到最客观真实的使用情况。并且提供了每家VPN近期的优惠福利，以及价格情况，希望能为大家在选择VPN的时候作为有效的参考。这几家VPN都有退款保证，如果使用过程中出现问题，可以及时联系客服解决或者退款。由于每家VPN在特殊时期都不能保证完全稳定，所以本文会定期更新，推荐当前中国还能用的VPN。
 
 ## 几个好用的翻墙软件VPN推荐，国内实测
 
-### <a href="https://www.linkev.com/?a_fid=vpnfast1" target="_blank">>> ExpressVPN</a>（强烈推荐）
+### <a href="https://www.linkev.com/?a_fid=fastwebcn" target="_blank">>> ExpressVPN</a>（强烈推荐）
 
-![ExpressVPN](/image/express.png)
+![ExpressVPN](/image/express-min.png)
 
 ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能力和快速反应中国国内网络封锁的能力，成为了翻墙到国外最好用的VPN，绝对是VPN排名第一
 
@@ -30,7 +30,7 @@ ExpressVPN可以说的上是业界的领导者了，凭借其出色的技术能�
 
 ### <a href="https://billing.purevpn.com/aff.php?aff=40286" target="_blank">>> PureVPN</a>
 
-![PureVPN](/image/pure.png)
+![PureVPN](/image/pure-min.png)
 
 PureVPN也是一家老牌商家，网络速度、稳定性以及综合实力目前来说仅次于ExpressVPN，价格方面相对ExpressVPN便宜一些
 
@@ -48,7 +48,7 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 ### <a href="https://www.pandamira.xyz/r/9689528" target="_blank">>> PandaVPN</a>
 
-![PandaVPN](/image/panda.png)
+![PandaVPN](/image/panda-min.png)
 
 PandaVPN相比其他几家来说要小众一些，所以价格也相对便宜，但速度表现非常出色。除此之外中文支持好，操作简单方便，性价比非常高
 
@@ -70,7 +70,7 @@ PandaVPN相比其他几家来说要小众一些，所以价格也相对便宜，
 
 ### <a href="https://get.surfshark.net/aff_c?offer_id=38&aff_id=2236" target="_blank">>> Surfshark</a>
 
-![Surfshark](/image/surfshark.png)
+![Surfshark](/image/surfshark-min.png)
 
 Surfshark中文支持友好，不限制设备数量，这算是非常大的一个特点了，一般VPN商家都会限制设备数量，并且iOS翻墙连接快速。不过就稳定性来说，我更建议你选择<a href="https://www.pandamira.xyz/r/9689528" target="_blank">PandaVPN</a>或者<a href="https://billing.purevpn.com/aff.php?aff=40286" target="_blank">PureVPN</a>
 
@@ -92,7 +92,7 @@ Surfshark中文支持友好，不限制设备数量，这算是非常大的一�
 
 ### <a href="https://www.vyprvpn.com/zh/refer/china?offer_id=235&aff_id=5234" target="_blank">>> VyprVPN</a>
 
-![VyprVPN](/image/vypr.jpg)
+![VyprVPN](/image/vypr_logo-min.png)
 
 VyprVPN非常注重中国市场，在中国拥有大量用户，变色龙协议专门针对防火长城设计，拥有澳门等近距离节点
 
@@ -110,7 +110,7 @@ VyprVPN同样支持30天退款保证，而且由于中文支持友好，如果�
 
 ### <a href="http://go.nordvpn.net/aff_c?offer_id=15&aff_id=32326&url_id=902" target="_blank">>> NordVPN</a>
 
-![NordVPN](/image/nord.png)
+![NordVPN](/image/nord-min.png)
 
 NordVPN之前在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前翻墙不是很稳定，建议选择上面几家
 
@@ -128,7 +128,7 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 ## 翻墙软件VPN推荐的标准
 
-![VPN推荐](/image/standard.jpg)
+![VPN推荐](/image/standard-min.jpg)
 
 我们的VPN推荐基于这些标准，所以我们也建议大家考虑下面这些选择标准，或者参考上面的VPN排名，而不是盲目的付费购买。
 
@@ -158,7 +158,7 @@ NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个
 
 ## 关于VPN的一些问题
 
-![VPN是什么](/image/question.jpg)
+![VPN是什么](/image/question-min.jpg)
 
 ### VPN的基本原理是什么？
 
