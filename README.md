@@ -77,10 +77,11 @@ PandaVPN相比其他几家来说要小众一些，所以价格也相对便宜，
 
 虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
 
-### <a href="https://get.surfshark.net/aff_c?offer_id=38&aff_id=2236" target="_blank">>> IVacy</a>
+### <a href="https://billing.ivacy.com/page/91435" target="_blank">>> IVacy</a>
 
-![Surfshark](/image/surfshark-min.png)
->**注意**:这家VPN的客户端目前需要翻墙才能登录，使用Windows客户端的用户可以叫客服发给你中国专用的客户端进行登录。
+![IVacy](/image/ivacy-logo.png)
+>**注意**:这家VPN的网页可能需要梯子才能打开，客户端目前需要翻墙才能登录，使用Windows客户端的用户可以叫客服发给你中国专用的客户端进行登录。
+
 IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点了，一般VPN商家都会限制设备数量。不过就稳定性来说，由于不限制同时在线的设备数量，稳定性相比其他几个VPN较差，所有我更建议你选择<a href="https://www.pandamira.xyz/r/13023030" target="_blank">PandaVPN</a>或者<a href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">PureVPN</a>
 
 - 注重中国市场
@@ -189,6 +190,6 @@ VPN是英文Virtual Private Network的缩写，翻译过来就是<a href="https:
 
 首先下结论，使用VPN会被处罚，但是中国国内使用VPN的用户数量是极大了，不可能全部都处罚，只能说杀鸡儆猴，比如某些<a href="https://www.bbc.com/zhongwen/simp/chinese-news-46823319" target="_blank">使用VPN被罚的新闻</a>。当然也不是说这个处罚是随机的，而是最先处罚那些浏览了国外政治敏感网站，并且肆意传播的人。所以在使用VPN的时候一定要记住read-only，就是只读取信息，不要传播信息，文明使用VPN翻墙，切勿从事违法反动行为。
 
-[English page](/english) 本文会根据测评情况，定期更新排名，如果觉得内容有用的话，欢迎添加收藏
+本文会根据测评情况，定期更新排名，如果觉得内容有用的话，欢迎添加收藏。
 
 
