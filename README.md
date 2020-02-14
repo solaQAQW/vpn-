@@ -1,4 +1,4 @@
-# 2020中国最好用的翻墙软件VPN推荐，翻墙必备VPN，1月更新
+# 翻墙软件VPN推荐指南(含2020优惠)
 
 ![好用的VPN，国内VPN，中国VPN，VPN中国，翻墙软件，VPN推荐](/image/wall-min.jpg "vpn")
 
