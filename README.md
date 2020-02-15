@@ -140,7 +140,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 
 ### <center><a rel="nofollow noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank">>> 点击获取ExpressVPN优惠<<</a></center>
 
-## <a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">>> PureVPN</a>
+## 2.<a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank"> PureVPN</a>
 >打开官网需梯子,但客户端直接就能登录打开
 
 ![PureVPN](/image/pure-min.png)
@@ -159,7 +159,7 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。
 
-## <a rel="nofollow noopener" href="https://www.pandamira.xyz/r/13023030" target="_blank">>> PandaVPN</a>
+## 3.<a rel="nofollow noopener" href="https://www.pandamira.xyz/r/13023030" target="_blank"> PandaVPN</a>
 
 ![PandaVPN](/image/panda-min.png)
 
@@ -181,7 +181,7 @@ PandaVPN相比其他几家来说要小众一些，所以价格也相对便宜，
 
 虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
 
-## <a rel="nofollow noopener" href="https://billing.ivacy.com/page/91435" target="_blank">>> IVacy</a>
+## 4.<a rel="nofollow noopener" href="https://billing.ivacy.com/page/91435" target="_blank"> IVacy</a>
 
 ![IVacy](/image/ivacy-logo.png)
 >**注意**:这家VPN的网页可能需要梯子才能打开，客户端目前需要翻墙才能登录，使用Windows客户端的用户可以叫客服发给你中国专用的客户端进行登录。
@@ -204,7 +204,7 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
 
-## <a rel="nofollow noopener" href="https://linkvy.com/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG" target="_blank">>> VyprVPN</a>
+## 5.<a rel="nofollow noopener" href="https://linkvy.com/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG" target="_blank"> VyprVPN</a>
 
 ![VyprVPN](/image/vypr_logo-min.png)
 
@@ -222,7 +222,7 @@ VyprVPN对中国用户的重视，甚至有双十一的优惠活动，可以通�
 
 VyprVPN同样支持30天退款保证，而且由于中文支持友好，如果觉得不好用，退款会更加方便。
 
-## <a rel="nofollow noopener" href="http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079" target="_blank">>> NordVPN</a>
+## 6.<a rel="nofollow noopener" href="http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079" target="_blank"> NordVPN</a>
 
 ![NordVPN](/image/nord-min.png)
 
