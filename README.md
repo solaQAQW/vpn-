@@ -92,7 +92,7 @@
 我实测了一些业界知名的VPN，本文的VPN推荐都基于价格、网络速度以及使用体验等各个指标，以确保得到最客观真实的使用情况。并且提供了每家VPN近期的优惠福利，以及价格情况，希望能为大家在选择VPN的时候作为有效的参考。这几家VPN都有30天内不满意退款保证，如果使用过程中出现问题，可以及时联系客服解决或者退款。本文会定期更新适合在中国使用的VPN，请收藏[本页面备用地址](https://github.com/vpncn/vpncn.github.io/blob/master/README.md),以便查看。
 
 ## 适合在中国使用的翻墙软件VPN，国内实测
->注意：因为防火长城会不断迭代更新，致使很多VPN接二连三遭受屏蔽。下列的几款VPN，都经过我长期的使用和测试，对防火长城封锁的应对最快，能比较快速地进行软件和节点的更新，能满足国内用户长期使用的需求。另外，该文章会不断更新，[请收藏本页面备用地址](https://github.com/vpncn/vpncn.github.io/blob/master/README.md)。
+>注意：因为防火长城会不断迭代更新，致使很多VPN接二连三遭受屏蔽。下列的几款VPN，都经过我长期的使用和测试，对防火长城封锁的应对最快，能比较快速地进行软件和节点的更新，能满足国内用户长期使用的需求。另外，该文章会不断更新，请收藏本页面或者本页面的[备用地址](https://github.com/vpncn/vpncn.github.io/blob/master/README.md)。
 
 ## 1.<a rel="nofollow noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank"> ExpressVPN</a>
 
