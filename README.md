@@ -179,7 +179,7 @@ PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过20000
 
 墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。
 
-## 3.<a rel="nofollow noopener" href="https://www.pandamira.xyz/r/13023030" target="_blank"> PandaVPN</a>
+## 3.<a rel="nofollow noopener" href="https://www.pancerra.xyz/r/13023030" target="_blank"> PandaVPN</a>
 
 ![PandaVPN](/image/panda-min.png)
 
