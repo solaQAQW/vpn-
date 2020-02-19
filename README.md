@@ -207,7 +207,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 
 NordVPN在全球范围内应该是为数不多的能和ExpressVPN抗衡的服务商之一，在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前客户端直连翻墙不是很稳定，要么连上很快，要么有时候连不上。推荐这款是因为**如果你会使用OpenVPN手动配置的话，它的速度和稳定性依然不错**，性价比比Express高。
 
-如果是只会使用客户端APP直连，建议[ExpressVPN](#1-expressvpn)或者[Panda](#3-pandavpn)、[PureVPN](#4-purevpn)或，因为Nord客户端的节点线路非常多（几千条你敢信？），被屏蔽了之后线路更新和客户端更新所需的时间较Express长一些，只能用OpenVPN或IKEV2进行手动配置才能保证全年95%左右的可用率。
+如果是只会使用客户端APP直连，建议[ExpressVPN](#1-expressvpn)或者[Panda](#3-pandavpn)、[PureVPN](#4-purevpn)，因为Nord客户端的节点线路非常多（几千条你敢信？），被屏蔽了之后线路更新和客户端更新所需的时间较Express长一些，只能用OpenVPN或IKEV2进行手动配置才能保证全年95%左右的可用率。
 
 - 隐私保护
 
