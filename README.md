@@ -75,6 +75,8 @@
 
 大型的VPN服务商IP资源多，被封了再换一批，个人使用这种VPS翻墙就很蛋疼了，被封了只能花钱换IP，很可能下一个IP又是被封的，总之够折腾！这种VPS搭搭网站还行，用来翻墙还是算了。
 
+除非你是网络安全技术方面的大咖或者有捣腾VPS这方面的兴趣，否则我现在不建议这么做，尤其是采用目前流行的脚本的方法，ip很容易死。
+
 ## 什么VPN适合中国用户？
 
 ### 在中国能用
@@ -142,7 +144,7 @@ ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术�
 
 在安全性方面，他们也做得很好，支持256位OpenVPN(TCP, UDP), L2TP-IPsec, SSTP和PPTP等加密协议，并且不保留用户日志，用户可以放心上网而不必担心个人隐私泄露。
 
-ExpressVPN的客服是业内最好的之一，随时提供网上帮助。此外，ExpressVPN兼容各种常见设备，并且可以配置在路由器上，在电脑（Windows或Mac）和移动设备（iPhone、安卓、平板）上都可以使用。
+ExpressVPN的客服是业内最好的之一，随时提供网上帮助。此外，ExpressVPN兼容各种常见设备，并且可以配置在路由器上，在电脑（Windows或Mac）和移动设备（iPhone、安卓、平板）上都可以使用，**最多支持5台设备同时在线使用**。
 
 ![ExpressVPN支持设备](/image/express-vpn-devices.png "ExpressVPN支持设备截图")
 
@@ -161,11 +163,15 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 ### <center><a rel="nofollow noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank">>> 点击获取ExpressVPN优惠<<</a></center>
 
 ## 2.<a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank"> PureVPN</a>
->打开官网需梯子,但客户端直接就能登录打开
+>由于没有镜像官网地址，打开官网需梯子,但客户端直接就能登录打开
 
 ![PureVPN](/image/pure-min.png)
 
-PureVPN也是一家老牌商家，网络速度、稳定性以及综合实力目前来说仅次于ExpressVPN，价格方面相对ExpressVPN便宜一些。
+PureVPN也是一家老牌服务商，成立2006年，总部设在香港，在全球的180+个地区拥有2000+台服务器，线路很多，但在中国不是所有节点能用，我测试的结果是30%的节点大部分时候还是可用的。在中国的网络速度、稳定性目前来说也还不错，就我去年的体验来说基本能保证全年90%以上的使用率，如果你在敏感时期会用OpenVPN手动配置的话全年可用率会更高，它的价格方面也是个优势，长期套餐相对ExpressVPN便宜不少。
+
+Pure的客户端支持中文，对国内的用户十分友好。另一大特点是有北京、上海等城市的服务器，极大方便海外华人浏览优酷、爱奇艺、酷狗音乐等有国内版权的网站，是翻墙回国必备神器之一。
+
+**支持设备**：Windows、Mac OS、iOS（iPhone和iPad）、安卓Android这些常见的设备都有客户端APP，**最多支持5台设备同时使用**。Mac用户需要注意一下，我在Macbook上使用，发现Mac版本的APP在国内并不好用，软件很容易卡死，Mac系统最好是使用OpenVPN手动配置，在其他设备的APP客户端还没有发现这些问题。
 
 - 隐私保护
 
@@ -173,33 +179,37 @@ PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保�
 
 - 全球可访问
 
-PureVPN同样在全球70多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是<a rel="nofollow noopener" href="https://www.netflix.com/us-zh/" target="_blank">Netflix</a>。不管身在何处，都能稳定快速的访问资源。
+PureVPN在全球140多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是<a rel="nofollow noopener" href="https://www.netflix.com/us-zh/" target="_blank">Netflix</a>。不管身在何处，都能稳定快速的访问资源。
 
 - 对抗审查制度
 
 墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。
 
+付款方式主要包含银联卡、信用卡、支付宝、PayPal、比特币等，有31天内不满意退款政策。
+
 ## 3.<a rel="nofollow noopener" href="https://www.pancerra.xyz/r/13023030" target="_blank"> PandaVPN</a>
 
 ![PandaVPN](/image/panda-min.png)
 
-PandaVPN相比其他几家来说要小众一些，所以价格也相对便宜，但速度表现非常出色。除此之外中文支持好，操作简单方便，性价比非常高
+>这款是我去年发现的黑马，虽然创办时间相对另外几个老牌服务商不算长，但是在国内的体验还是很不错的，不管是连接成功率还是速度上来说，总体体验我觉得能排进前三名。
 
-- 银行级的虚拟网络安全保护
+PandaVPN相比其他几家来说要小众一些，所以价格也相对便宜，但速度表现也比较出色。除此之外中文支持好，操作简单方便，性价比非常高。
+
+- 安全加密保护
 
 不管再任何公共场合访问网络，都会受到256位银行级的加密的保护，保证个人隐私不被窥探。
 
-- 操作简单
+**支持设备**：同样支持Windows，Mac，iOS，Android这些常见客户端，**最多支持3台设备同时在线使用**。
 
-同样支持Windows，Mac，iOS，Android这些常见客户端，UI做的非常简洁大方，只需要一个开关按钮就能连接VPN。
+- 技术支持
 
-- 全球技术支持
-
-在使用过程中遇到任何问题，都可以联系技术人员解决
+在使用过程中遇到任何问题，都可以联系技术人员解决。
 
 - 7天退款保证
 
-虽然不像ExpressVPN的30天内退款保证，但是如果有问题的话，基本上使用7天内就能发现了。
+虽然不像ExpressVPN和Pure的一个月的退款时限，但是如果有问题的话，基本上使用7天内就能发现了。
+
+付款方式主要包含支付宝、Visa信用卡、PayPal等和7天退款政策。
 
 ## 4.<a rel="nofollow noopener" href="https://billing.ivacy.com/page/91435" target="_blank"> IVacy</a>
 
