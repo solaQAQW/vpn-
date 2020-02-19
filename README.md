@@ -200,7 +200,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 ### <center><a rel="nofollow noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank">>> 点击获取ExpressVPN优惠<<</a></center>
 
 
-## 2.<a rel="nofollow noopener" href="http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079" target="_blank"> NordVPN</a> - 最多优惠70%
+## 2.<a rel="nofollow noopener" href="http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079" target="_blank"> NordVPN</a>
 
 ![NordVPN](/image/nord-min.png)
 
@@ -224,7 +224,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 - 支付方式
 
-支付方式支持支付宝、银联卡、Paypal、信用卡等，拥有30天内不满意退款政策。
+支付方式支持支付宝、银联卡、Paypal、信用卡等，拥有30天内不满意退款政策，目前性价比最高的套餐是三年套餐优惠70%，仅需$3.49/月。
 
 >注：使用NordVPN最好要会用OpenVPN手动，iOS设备上用手动ikev2，手动配置的节点比APP直连的稳定性高很多，尤其是在敏感时期。
 
