@@ -24,11 +24,11 @@
 >### 6.[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 >### 7. [适合在中国使用的翻墙软件VPN，国内实测](#适合在中国使用的翻墙软件vpn国内实测)
 >>#### 7.1 [ExpressVPN](#1-expressvpn)
->>#### 7.2 [PureVPN](#2-purevpn)
+>>#### 7.2 [NordVPN](#2-nordvpn)
 >>#### 7.3 [PandaVPN](#3-pandavpn)
->>#### 7.4 [IVacy](#4-ivacy)
->>#### 7.5 [VyprVPN](#5-vyprvpn)
->>#### 7.6 [NordVPN](#6-nordvpn)
+>>#### 7.4 [PureVPN](#4-purevpn)
+>>#### 7.5 [IVacy](#5-ivacy)
+>>#### 7.6 [VyprVPN](#6-vyprvpn)
 >
 >### 8. [翻墙软件VPN推荐的标准](#翻墙软件vpn推荐的标准)
 
@@ -199,12 +199,63 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 
 ### <center><a rel="nofollow noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank">>> 点击获取ExpressVPN优惠<<</a></center>
 
-## 2.<a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank"> PureVPN</a>
+
+## 2.<a rel="nofollow noopener" href="http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079" target="_blank"> NordVPN</a>
+
+![NordVPN](/image/nord-min.png)
+
+NordVPN在全球范围内应该是为数不多的能和ExpressVPN抗衡的服务商之一，在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前客户端直连翻墙不是很稳定，要么连上很快，要么有时候连不上。推荐这款是因为**如果你会使用OpenVPN手动配置的话，它的速度和稳定性依然不错**，性价比比Express高。
+
+如果是只会使用客户端APP直连，建议[ExpressVPN](#1-expressvpn)或者[Panda](#3-pandavpn)、[PureVPN](#4-purevpn)或，因为Nord客户端的节点线路非常多（几千条你敢信？），被屏蔽了之后线路更新较前几个提到的慢一些，只能用OpenVPN进行手动配置才能保证全年95%以上的可用率。
+
+- 隐私保护
+
+NordVPN拥有军用级别的加密技术，就算在公共场合，使用无加密或不安全的公共wifi的情况下，都能有效的保护网络浏览记录的隐私性，不保留用户活动日志，可以说是最安全的VPN了。
+
+- 客户端APP支持设备
+
+NordVPN的客户端APP支持几乎所有网络设备，Windows，Mac，iOS，Android这些常见的系统都有客户端APP。**允许最多6台设备同时在线使用**，NordVPN还具有严格的无日志政策，自动Kill Switch开关，DNS泄露防护，Onion Over VPN等功能。
+
+![NordVPN支持设备](/image/nord-devices-min.png)
+
+- 全球服务器支持
+
+NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下载文件时候表现不错。**中国用户推荐连接“Obfuscated Servers”（混淆服务器）**，这些服务器通过混淆算法优化，适合在网络封锁的地区使用，或者连接美国线路新出的服务器。
+
+>注：使用NordVPN最好要会用OpenVPN手动，iOS设备上用手动ikev2，手动配置的节点比APP直连的稳定性高很多，尤其是在敏感时期。
+
+## 3.<a rel="nofollow noopener" href="https://www.pancerra.xyz/r/13023030" target="_blank"> PandaVPN</a>
+
+![PandaVPN](/image/panda-min.png)
+
+>这款是我前几个月发现的黑马，虽然创办时间相对另外几个老牌服务商不算长，但是在国内的体验还是很不错的，不管是连接成功率还是速度上来说，总体体验我觉得能排进前三名。
+
+PandaVPN总部在美国，相比其他几家来说要小众一些，所以价格也相对便宜，由中文团队开发，所以中文支持很好，运营的时间不长，是中国VPN市场的后期之秀，支持Windows，Mac，iOS，Android。速度表现也比较出色。除此之外中文支持好，操作简单方便，性价比非常高。看名字可能是专耕中国市场的，毕竟国外的VPN市场竞争太激烈。
+
+熊猫VPN创办时间不长，我使用也不到半年，虽然总体体验不错，但是**长期的可用性我还不清楚，建议先买一个月，觉得不错再续费使用**。
+
+- 安全加密协议
+
+不管再任何公共场合访问网络，都会受到256位银行级的加密的保护，保证个人隐私不被窥探。
+
+**支持设备**：同样支持Windows，Mac，iOS，Android这些常见客户端，**最多支持3台设备同时在线使用**。
+
+- 技术支持
+
+在使用过程中遇到任何问题，都可以联系技术人员解决。
+
+- 7天退款保证
+
+虽然不像ExpressVPN和Pure的一个月的退款时限，但是如果有问题的话，基本上使用7天内就能发现了。
+
+付款方式主要包含支付宝、Visa信用卡、PayPal等和7天退款政策。
+
+## 4.<a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank"> PureVPN</a>
 >由于没有镜像官网地址，打开官网需梯子,但客户端直接就能登录打开
 
 ![PureVPN](/image/pure-min.png)
 
-PureVPN也是一家老牌服务商，成立2006年，总部设在香港，在全球的180+个地区拥有2000+台服务器，线路很多，但在中国不是所有节点能用，我测试的结果是30%的节点大部分时候还是可用的。在中国的网络速度、稳定性目前来说也还不错，就我去年的体验来说基本能保证全年90%以上的使用率，如果你在敏感时期会用OpenVPN手动配置的话全年可用率会更高，它的价格方面也是个优势，长期套餐相对ExpressVPN便宜不少。
+PureVPN也是一家老牌服务商，成立2006年，总部设在香港，在全球的180+个地区拥有2000+台服务器，线路很多，但在中国不是所有节点能用，我测试的结果是30%的节点大部分时候还是可用的，特殊时期还可以手动配置翻墙。在中国的网络速度、稳定性目前来说也还不错，就我去年的体验来说客户端直连基本能保证全年90%以上的使用率，如果你在敏感时期会用OpenVPN手动配置的话全年可用率会更高，它的价格方面也是个优势，长期套餐相对ExpressVPN便宜不少。
 
 Pure的客户端支持中文，对国内的用户十分友好。另一大特点是有北京、上海等城市的服务器，极大方便海外华人浏览优酷、爱奇艺、酷狗音乐等有国内版权的网站，是翻墙回国必备神器之一。
 
@@ -224,36 +275,12 @@ PureVPN在全球140多个国家都配备了VPN服务器，拥有超过200000个I
 
 付款方式主要包含银联卡、信用卡、支付宝、PayPal、比特币等，有31天内不满意退款政策。
 
-## 3.<a rel="nofollow noopener" href="https://www.pancerra.xyz/r/13023030" target="_blank"> PandaVPN</a>
-
-![PandaVPN](/image/panda-min.png)
-
->这款是我去年发现的黑马，虽然创办时间相对另外几个老牌服务商不算长，但是在国内的体验还是很不错的，不管是连接成功率还是速度上来说，总体体验我觉得能排进前三名。
-
-PandaVPN总部在美国，相比其他几家来说要小众一些，所以价格也相对便宜，由中文团队开发，所以中文支持很好，运营的时间不长，是中国VPN市场的后期之秀，支持Windows，Mac，iOS，Android。速度表现也比较出色。除此之外中文支持好，操作简单方便，性价比非常高。
-
-- 安全加密保护
-
-不管再任何公共场合访问网络，都会受到256位银行级的加密的保护，保证个人隐私不被窥探。
-
-**支持设备**：同样支持Windows，Mac，iOS，Android这些常见客户端，**最多支持3台设备同时在线使用**。
-
-- 技术支持
-
-在使用过程中遇到任何问题，都可以联系技术人员解决。
-
-- 7天退款保证
-
-虽然不像ExpressVPN和Pure的一个月的退款时限，但是如果有问题的话，基本上使用7天内就能发现了。
-
-付款方式主要包含支付宝、Visa信用卡、PayPal等和7天退款政策。
-
-## 4.<a rel="nofollow noopener" href="https://billing.ivacy.com/page/91435" target="_blank"> IVacy</a>
+## 5.<a rel="nofollow noopener" href="https://billing.ivacy.com/page/91435" target="_blank"> IVacy</a>
 
 ![IVacy](/image/ivacy-logo.png)
 >**注意**:这家VPN的网页可能需要梯子才能打开，客户端目前需要翻墙才能登录，使用Windows客户端的用户可以叫客服发给你中国专用的客户端进行登录。
 
-IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点了，一般VPN商家都会限制设备数量。不过就稳定性来说，由于不限制同时在线的设备数量，稳定性相比其他几个VPN较差，所以我更建议你选择<a rel="nofollow noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank">ExpressVPN</a>或者<a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">PureVPN</a>。
+IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点了，一般VPN商家都会限制设备数量。不过就稳定性来说，正是由于不限制同时在线的设备数量，可能存在滥用的情况，稳定性相比其他几个VPN较差，所以我更建议你选择<a rel="nofollow noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank">ExpressVPN</a>或者<a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">PureVPN</a>。
 
 - 注重中国市场
 
@@ -271,17 +298,17 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 在使用过程中如果遇到问题，可以联系他们的技术团队，全天候在线。
 
-## 5.<a rel="nofollow noopener" href="https://linkvy.com/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG" target="_blank"> VyprVPN</a>
+## 6.<a rel="nofollow noopener" href="https://linkvy.com/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG" target="_blank"> VyprVPN</a>
 
 ![VyprVPN](/image/vypr_logo-min.png)
 
-VyprVPN非常注重中国市场，在中国拥有大量用户，变色龙协议专门针对防火长城设计，拥有澳门等近距离节点
+VyprVPN在中国拥有大量用户，非常注重中国市场，独有的变色龙技术听着很厉害，但我个人的使用体验是前2年在中国很是很不错的，速度快、稳定性好，被屏蔽后修复也快，但是据说VyprVPN的用户量增长不快，已经2年没更新硬件设备了。现在给我的感觉是**在中国能用，但速度和稳定性比较一般**，不过退款倒是很爽快。
 
 - 注重中国市场
 
-VyprVPN对中国用户的重视，甚至有双十一的优惠活动，可以通过中文和在线客服联系，翻墙专用变色龙协议非常不错。
+VyprVPN对中国用户的重视，甚至有双十一的优惠活动，可以通过中文和在线客服联系，翻墙专用变色龙协议。
 
-- 高级加密
+- 加密技术
 
 使用目前顶级的工业级AES 256位加密方式，并提供DNS保护。
 
@@ -289,23 +316,6 @@ VyprVPN对中国用户的重视，甚至有双十一的优惠活动，可以通�
 
 VyprVPN同样支持30天退款保证，而且由于中文支持友好，如果觉得不好用，退款会更加方便。
 
-## 6.<a rel="nofollow noopener" href="http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079" target="_blank"> NordVPN</a>
-
-![NordVPN](/image/nord-min.png)
-
-NordVPN之前在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前翻墙不是很稳定，建议选择上面几家
-
-- 访问安全
-
-NordVPN拥有军用级别的加密技术，就算在公共场合，使用无加密或不安全的公共wifi的情况下，都能有效的保护网络浏览记录的隐私性，可以说是最安全的VPN了。
-
-- 保护所有设备
-
-NordVPN支持几乎所有设备，能允许多达6台设备同时在线，这个是非常良心了，很多VPN商家都只支持单点登陆。更贴心的是，连<a rel="nofollow noopener" href="https://www.google.com/intl/zh-CN/chrome/" target="_blank">Chrome</a>的网页代理扩展都提供了。NordVPN还具有严格的无日志政策，自动Kill Switch，DNS泄露防护，Onion Over VPN等功能。
-
-- 全球服务器支持
-
-大家都知道，影响VPN访问速度最大因素，就是地理位置。NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下载文件时候表现不错。
 
 ## 翻墙软件VPN推荐的标准
 
