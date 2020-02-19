@@ -200,13 +200,13 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 ### <center><a rel="nofollow noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank">>> 点击获取ExpressVPN优惠<<</a></center>
 
 
-## 2.<a rel="nofollow noopener" href="http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079" target="_blank"> NordVPN</a>
+## 2.<a rel="nofollow noopener" href="http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079" target="_blank"> NordVPN</a> - 最多优惠70%
 
 ![NordVPN](/image/nord-min.png)
 
 NordVPN在全球范围内应该是为数不多的能和ExpressVPN抗衡的服务商之一，在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前客户端直连翻墙不是很稳定，要么连上很快，要么有时候连不上。推荐这款是因为**如果你会使用OpenVPN手动配置的话，它的速度和稳定性依然不错**，性价比比Express高。
 
-如果是只会使用客户端APP直连，建议[ExpressVPN](#1-expressvpn)或者[Panda](#3-pandavpn)、[PureVPN](#4-purevpn)或，因为Nord客户端的节点线路非常多（几千条你敢信？），被屏蔽了之后线路更新较前几个提到的慢一些，只能用OpenVPN进行手动配置才能保证全年95%以上的可用率。
+如果是只会使用客户端APP直连，建议[ExpressVPN](#1-expressvpn)或者[Panda](#3-pandavpn)、[PureVPN](#4-purevpn)或，因为Nord客户端的节点线路非常多（几千条你敢信？），被屏蔽了之后线路更新较前几个提到的慢一些，只能用OpenVPN或IK2进行手动配置才能保证全年95%以上的可用率。
 
 - 隐私保护
 
@@ -221,6 +221,10 @@ NordVPN的客户端APP支持几乎所有网络设备，Windows，Mac，iOS，And
 - 全球服务器支持
 
 NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下载文件时候表现不错。**中国用户推荐连接“Obfuscated Servers”（混淆服务器）**，这些服务器通过混淆算法优化，适合在网络封锁的地区使用，或者连接美国线路新出的服务器。
+
+- 支付方式
+
+支付方式支持支付宝、银联卡、Paypal、信用卡等，拥有30天内不满意退款政策。
 
 >注：使用NordVPN最好要会用OpenVPN手动，iOS设备上用手动ikev2，手动配置的节点比APP直连的稳定性高很多，尤其是在敏感时期。
 
