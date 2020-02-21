@@ -78,7 +78,7 @@
 ## 买VPS自建翻墙服务器？
 最近2年很流行租用VPS服务器自建翻墙工具，很多有点技术基础的人也在用这种方法，买了VPS服务器，下载安装脚本文件，就能翻墙了。这种方案的好处是服务器独享，仅自己一个人用，如果服务器有CN线路的话速度上也有优势，确实在刚开始我也推荐大家这样做，因为一个人独享一台服务器的资源，而且翻墙的成本也不高。但缺点就是现在IP太容易被墙了，尤其是<a rel="nofollow noopener" href="https://bandwagonhost.com/aff.php?aff=20789" target="_blank">搬瓦工</a>、<a rel="nofollow noopener" href="https://www.vultr.com/?ref=6804316" target="_blank">Vultr</a>和DO这些国内用户众多的机房，因为防火长城不断在升级，对于翻墙流量的识别越来越精准。这些流行且技术含量不高的翻墙方法对于防火长城来说只需一眼就知道你在翻墙，然后导致ip被封，由于使用翻墙的多了，厂商的IP资源是有限的，很多的vps厂商已经不支持免费换IP，即使付费换了IP也不能保证是没被墙的，换来换去结果是防火长城屏蔽的IP越来越多，几个在国内最受欢迎的vps品牌也很难找到可用的IP了，那么服务器就相当于是报废了。近1年我就陆陆续续收到一些读者留言，问买的1年的服务器用了不到2个月被墙了怎么办，有些读者是换了IP也不能用，没办法，这台VPS只能放着吃灰了。在Google上的搜索也主要是IP被墙的问题，比如搬瓦工的热门搜索如下图：
 
-[![Google搜索搬瓦工](/image/bw-google-search.png)]()
+[![Google搜索搬瓦工](/image/bw-google-search.png)](#买vps自建翻墙服务器)
 
 前几年这种翻墙方案性价比还不错，但是就2020年来说，似乎找到未被屏蔽的IP有点困难了，况且付费换一个IP需8美元！以现在防火墙对于翻墙（SS/SSR/VPN等）的流量识别算法，大部分用户不出2个月IP就会被封。
 
@@ -194,11 +194,11 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 - 路由器：Netgear R7000
 
 部分测试截图如下：
-[![LA5节点测速](/image/express-vpn-la5-2020-01-20.png)](#)
+[![LA5节点测速](/image/express-vpn-la5-2020-01-20.png)](#1-expressvpn)
 
 我们连接Los Angeles – 5节点，在Chrome浏览器使用Speedtest进行在线测速，测速结果如下图，可以看到，ping延迟是174ms，还不错，下载速度是50.02Mb/s，上传的速度是12.42Mb/s，观看Youtube高清视频不存在卡顿。
 
-[![sigapore节点测速](/image/expressvpn-sigapore-2020-01-20.png)](#)
+[![sigapore节点测速](/image/expressvpn-sigapore-2020-01-20.png)](#1-expressvpn)
 
 测试的Singapore – Marina Bay节点速度也很不错，下载速度测试值为43.78Mb/s，顺便说一下，我们的测试中，ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。总体上来说ExpressVPN是我测试的所有翻墙软件中，在电脑端（Windows、MacBook）和手机端（iPhone、安卓手机）使用体验最好。
 
@@ -208,11 +208,11 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ExpressVPN的客服是业内最好的之一，随时提供网上帮助。此外，ExpressVPN兼容各种常见设备，并且可以配置在路由器上，在电脑（Windows或Mac）和移动设备（iPhone、安卓、平板）上都可以使用，**最多支持5台设备同时在线使用**。
 
-[![ExpressVPN支持设备](/image/express-vpn-devices.png "ExpressVPN支持设备截图")](#)
+[![ExpressVPN支持设备](/image/express-vpn-devices.png "ExpressVPN支持设备截图")](#1-expressvpn)
 
 套餐的价格：性价比最高的是1年套餐，同时他们保证30天内使用不满意无条件退款，所以你有足够的时间来测试。
 
-[![ExpressVPN付款方式](/image/express-vpn-payment.png "ExpressVPN付款方式截图")](#)
+[![ExpressVPN付款方式](/image/express-vpn-payment.png "ExpressVPN付款方式截图")](#1-expressvpn)
 
 ExpressVPN支持支付宝、银联等多种方式付款。
 
@@ -242,7 +242,7 @@ NordVPN拥有军用级别的加密技术，就算在公共场合，使用无加�
 
 NordVPN的客户端APP支持几乎所有网络设备，Windows，Mac，iOS，Android这些常见的系统都有客户端APP。**允许最多6台设备同时在线使用**，NordVPN还具有严格的无日志政策，自动`Kill Switch`开关，DNS泄露防护，`Onion Over VPN`等功能。
 
-[![NordVPN支持设备](/image/nord-devices-min.png)](#)
+[![NordVPN支持设备](/image/nord-devices-min.png)](#2-nordvpn)
 
 - 全球服务器支持
 
@@ -360,7 +360,7 @@ VyprVPN同样支持30天退款保证，而且由于中文支持友好，如果�
 
 ## 翻墙软件VPN推荐的标准
 
-[![VPN推荐](/image/standard-min.jpg)](#)
+[![VPN推荐](/image/standard-min.jpg)](#翻墙软件vpn推荐的标准)
 
 我们的VPN推荐基于这些标准，所以我们也建议大家考虑下面这些选择标准，或者参考上面的VPN排名，而不是盲目的付费购买。
 
@@ -392,7 +392,7 @@ VyprVPN同样支持30天退款保证，而且由于中文支持友好，如果�
 
 ## 关于VPN的一些问题
 
-[![VPN是什么](/image/question-min.jpg)](#)
+[![VPN是什么](/image/question-min.jpg)](#关于vpn的一些问题)
 
 ### VPN的基本原理是什么？
 
