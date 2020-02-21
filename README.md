@@ -137,9 +137,9 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 ## 适合在中国使用的翻墙软件VPN，国内实测
 >注意：因为防火长城会不断迭代更新，致使很多VPN接二连三遭受屏蔽。下列的几款VPN，都经过我长期的使用和测试，对防火长城封锁的应对最快，能比较快速地进行软件和节点的更新，能满足国内用户长期使用的需求。另外，该文章会不断更新，请收藏本页面以便以后查看。
 
-## 1.<a rel="nofollow noopener" href="https://www.linkev.com/?a_aid=fastwebcn" target="_blank"> ExpressVPN</a>
+## 1.<a rel="nofollow noopener" href="https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree" target="_blank"> ExpressVPN</a>
 
-[![ExpressVPN](/image/express-min.png)](https://www.linkev.com/?a_aid=fastwebcn)
+[![ExpressVPN](/image/express-min.png)](https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree)
 
 ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN，绝对是VPN排名第一。
 
@@ -173,7 +173,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ### ExpressVPN的缺点
 
-**ExpresssVPN价格较贵**，是市场上价格最高的VPN之一。目前提供三种套餐，单月12.95美金每月，买6个月为9.99美金每月，总计约60美金，买一年为8.32美金每月，总计约99美金，折合人民币快700块每年了，对不少读者确实有点贵。
+**ExpresssVPN价格较贵**，是市场上价格最高的VPN之一。目前提供三种套餐，单月12.95美金每月，买6个月为9.99美金每月，总计约60美金，买一年为8.32美金每月，总计约99美金，折合人民币快700块每年了，对不少读者确实有点贵，不过现在有限时优惠**买一年送三个月活动,相当于$6.67/月**，我买的时候没这个活动-_-!。
 
 >一分钱一分货，适合不缺钱而且注重隐私数据保护和较好的使用体验的朋友。如果要求性价比，[PandaVPN](#3-pandavpn)应该会更适合你，PandaVPN我感觉类似于SSR，官网称有256位加密保护，不过我感觉对于隐私安全的保护不如ExpressVPN。
 
@@ -222,7 +222,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 >
 >**推荐用户**：对速度和稳定性有要求的用户、iPhone用户首选
 
-### <center><a rel="nofollow noopener" href="https://www.linkev.com/?a_aid=fastwebcn" target="_blank">>> 点击获取ExpressVPN<<</a></center>
+### <center><a rel="nofollow noopener" href="https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree" target="_blank">>> 点击获取ExpressVPN<<</a></center>
 
 >**注意**：官网镜像网站打开速度有时不快，耐心等待一下，如果页面加载不正常，如排版乱掉，可以试试重新点击进入或者刷新下页面。如果镜像站链接打不开，这种情况一般是镜像网站被墙，官网一般在当天会放出新的镜像站，请收藏本文后等一段时间再打开。
 
