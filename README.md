@@ -2,7 +2,7 @@
 
 >翻墙（科学上网）重不重要？不会翻墙回不了Gmail邮件，不能Google找程序代码，能不能看到武汉肺炎的真实信息，Udemy买的课程能不能看的舒服，HBO、Netflix能不能追剧？我想答案是肯定的，不然你也不会来到这里了。我在国内针对中国国际互联网用户的翻墙软件进行评测，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙技术，为读者推荐在国内最好用、稳定的科学上网方法和工具。
 
-![翻墙，VPN推荐](/image/wall-min.jpg "翻墙")
+[![翻墙，VPN推荐](/image/wall-min.jpg "翻墙")](#)
 
 >这篇文章是中国安全翻墙攻略的**详细版**，讨论翻墙软件、科学上网方法和网络安全的相关问题。
 
@@ -77,7 +77,8 @@
 
 ## 买VPS自建翻墙服务器？
 最近2年很流行租用VPS服务器自建翻墙工具，很多有点技术基础的人也在用这种方法，买了VPS服务器，下载安装脚本文件，就能翻墙了。这种方案的好处是服务器独享，仅自己一个人用，如果服务器有CN线路的话速度上也有优势，确实在刚开始我也推荐大家这样做，因为一个人独享一台服务器的资源，而且翻墙的成本也不高。但缺点就是现在IP太容易被墙了，尤其是<a rel="nofollow noopener" href="https://bandwagonhost.com/aff.php?aff=20789" target="_blank">搬瓦工</a>、<a rel="nofollow noopener" href="https://www.vultr.com/?ref=6804316" target="_blank">Vultr</a>和DO这些国内用户众多的机房，因为防火长城不断在升级，对于翻墙流量的识别越来越精准。这些流行且技术含量不高的翻墙方法对于防火长城来说只需一眼就知道你在翻墙，然后导致ip被封，由于使用翻墙的多了，厂商的IP资源是有限的，很多的vps厂商已经不支持免费换IP，即使付费换了IP也不能保证是没被墙的，换来换去结果是防火长城屏蔽的IP越来越多，几个在国内最受欢迎的vps品牌也很难找到可用的IP了，那么服务器就相当于是报废了。近1年我就陆陆续续收到一些读者留言，问买的1年的服务器用了不到2个月被墙了怎么办，有些读者是换了IP也不能用，没办法，这台VPS只能放着吃灰了。在Google上的搜索也主要是IP被墙的问题，比如搬瓦工的热门搜索如下图：
-![Google搜索搬瓦工](/image/bw-google-search.png)
+
+[![Google搜索搬瓦工](/image/bw-google-search.png)](#)
 
 前几年这种翻墙方案性价比还不错，但是就2020年来说，似乎找到未被屏蔽的IP有点困难了，况且付费换一个IP需8美元！以现在防火墙对于翻墙（SS/SSR/VPN等）的流量识别算法，大部分用户不出2个月IP就会被封。
 
@@ -95,7 +96,6 @@
 为了对中国能用的VPN做到尽量准确评价，我都会买上至少一个月的使用期，有的VPN很好测，装好就能稳定连上，测试起来很省力。有的就不是，往往要做点配置，或者试多几个服务器才能连上。但我测试的绝大多数的VPN是根本用不了的，我一般测个几天后也就死心了。能用的我会续费使用，观察长期的总体表现。
 
 测VPN花的钱并不多，我平时工作、出差需要翻墙就顺带连接测试一下，我也没打算把市场上的产品都测一遍，那我只能天天吃泡面了，我也不可能有那个精力，这没啥技术含量但是是个体力活，就是注册购买装好客户端，把功能试一遍，把适合中国的香港、日本、美国、新加坡等节点都试连一遍。
-
 
 我实测了一些业界知名的VPN，本文的VPN推荐都基于价格、网络速度以及使用体验等各个指标，以确保得到最客观真实的使用情况。并且提供了每家VPN近期的优惠福利，以及价格情况，希望能为大家在选择VPN的时候作为有效的参考。这几家VPN都有30天内不满意退款保证，如果使用过程中出现问题，可以及时联系客服解决或者退款。本文会定期更新适合在中国使用的VPN，请收藏本文,以便查看。
 
@@ -137,9 +137,9 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 ## 适合在中国使用的翻墙软件VPN，国内实测
 >注意：因为防火长城会不断迭代更新，致使很多VPN接二连三遭受屏蔽。下列的几款VPN，都经过我长期的使用和测试，对防火长城封锁的应对最快，能比较快速地进行软件和节点的更新，能满足国内用户长期使用的需求。另外，该文章会不断更新，请收藏本页面以便以后查看。
 
-## 1.<a rel="nofollow noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank"> ExpressVPN</a>
+## 1.<a rel="nofollow noopener" href="https://www.linkev.com/?a_aid=fastwebcn" target="_blank"> ExpressVPN</a>
 
-![ExpressVPN](/image/express-min.png)
+[![ExpressVPN](/image/express-min.png)](https://www.linkev.com/?a_aid=fastwebcn)
 
 ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN，绝对是VPN排名第一。
 
@@ -194,11 +194,11 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 - 路由器：Netgear R7000
 
 部分测试截图如下：
-![LA5节点测速](/image/express-vpn-la5-2020-01-20.png)
+[![LA5节点测速](/image/express-vpn-la5-2020-01-20.png)](#)
 
 我们连接Los Angeles – 5节点，在Chrome浏览器使用Speedtest进行在线测速，测速结果如下图，可以看到，ping延迟是174ms，还不错，下载速度是50.02Mb/s，上传的速度是12.42Mb/s，观看Youtube高清视频不存在卡顿。
 
-![sigapore节点测速](/image/expressvpn-sigapore-2020-01-20.png)
+[![sigapore节点测速](/image/expressvpn-sigapore-2020-01-20.png)](#)
 
 测试的Singapore – Marina Bay节点速度也很不错，下载速度测试值为43.78Mb/s，顺便说一下，我们的测试中，ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。总体上来说ExpressVPN是我测试的所有翻墙软件中，在电脑端（Windows、MacBook）和手机端（iPhone、安卓手机）使用体验最好。
 
@@ -208,11 +208,11 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ExpressVPN的客服是业内最好的之一，随时提供网上帮助。此外，ExpressVPN兼容各种常见设备，并且可以配置在路由器上，在电脑（Windows或Mac）和移动设备（iPhone、安卓、平板）上都可以使用，**最多支持5台设备同时在线使用**。
 
-![ExpressVPN支持设备](/image/express-vpn-devices.png "ExpressVPN支持设备截图")
+[![ExpressVPN支持设备](/image/express-vpn-devices.png "ExpressVPN支持设备截图")](#)
 
 套餐的价格：性价比最高的是1年套餐，同时他们保证30天内使用不满意无条件退款，所以你有足够的时间来测试。
 
-![ExpressVPN付款方式](/image/express-vpn-payment.png "ExpressVPN付款方式截图")
+[![ExpressVPN付款方式](/image/express-vpn-payment.png "ExpressVPN付款方式截图")](#)
 
 ExpressVPN支持支付宝、银联等多种方式付款。
 
@@ -222,12 +222,13 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 >
 >**推荐用户**：对速度和稳定性有要求的用户、iPhone用户首选
 
-### <center><a rel="nofollow noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank">>> 点击获取ExpressVPN优惠<<</a></center>
+### <center><a rel="nofollow noopener" href="https://www.linkev.com/?a_aid=fastwebcn" target="_blank">>> 点击获取ExpressVPN<<</a></center>
 
+>**注意**：官网镜像网站打开速度有时不快，耐心等待一下，如果页面加载不正常，如排版乱掉，可以试试重新点击进入或者刷新下页面。如果镜像站链接打不开，这种情况一般是镜像网站被墙，官网一般在当天会放出新的镜像站，请收藏本文后等一段时间再打开。
 
 ## 2.<a rel="nofollow noopener" href="http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079" target="_blank"> NordVPN</a>
 
-![NordVPN](/image/nord-min.png)
+[![NordVPN](/image/nord-min.png)](http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079)
 
 NordVPN在全球范围内应该是为数不多的能和ExpressVPN抗衡的服务商之一，在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前客户端直连翻墙不是很稳定，要么连上很快，要么有时候连不上。推荐这款是因为**如果你会使用OpenVPN手动配置的话，它的速度和稳定性依然不错**，性价比比Express高。
 
@@ -241,7 +242,7 @@ NordVPN拥有军用级别的加密技术，就算在公共场合，使用无加�
 
 NordVPN的客户端APP支持几乎所有网络设备，Windows，Mac，iOS，Android这些常见的系统都有客户端APP。**允许最多6台设备同时在线使用**，NordVPN还具有严格的无日志政策，自动`Kill Switch`开关，DNS泄露防护，`Onion Over VPN`等功能。
 
-![NordVPN支持设备](/image/nord-devices-min.png)
+[![NordVPN支持设备](/image/nord-devices-min.png)](#)
 
 - 全球服务器支持
 
@@ -255,7 +256,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 ## 3.<a rel="nofollow noopener" href="https://www.pancerra.xyz/r/13023030" target="_blank"> PandaVPN</a>
 
-![PandaVPN](/image/panda-min.png)
+[![PandaVPN](/image/panda-min.png)](https://www.pancerra.xyz/r/13023030)
 
 >这款是我前几个月发现的黑马，虽然创办时间相对另外几个老牌服务商不算长，但是在国内的体验还是很不错的，不管是连接成功率还是速度上来说，总体体验我觉得能排进前三名。
 
@@ -286,7 +287,7 @@ PandaVPN总部在美国，相比其他几家来说要小众一些，所以价格
 ## 4.<a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank"> PureVPN</a>
 >由于没有针对中国的镜像官网地址，打开官网需梯子，但客户端直接就能登录打开。
 
-![PureVPN](/image/pure-min.png)
+[![PureVPN](/image/pure-min.png)](https://billing.purevpn.com/aff.php?aff=32147)
 
 PureVPN也是一家老牌服务商，成立2006年，总部设在香港，在全球的180+个地区拥有2000+台服务器，线路很多，但在中国不是所有节点能用，我测试的结果是30%的节点大部分时候还是可用的，特殊时期还可以手动配置翻墙。在中国的网络速度、稳定性目前来说也还不错，就我去年的体验来说客户端直连基本能保证全年90%以上的使用率，如果你在敏感时期会用OpenVPN手动配置的话全年可用率会更高，它的价格方面也是个优势，长期套餐相对ExpressVPN便宜不少。
 
@@ -300,7 +301,7 @@ PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保�
 
 - 全球可访问
 
-PureVPN在全球140多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是<a rel="nofollow noopener" href="https://www.netflix.com/us-zh/" target="_blank">Netflix</a>。不管身在何处，都能稳定快速的访问资源。
+PureVPN在全球140多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是Netflix。不管身在何处，都能稳定快速的访问资源。
 
 - 对抗审查制度
 
@@ -310,11 +311,11 @@ PureVPN在全球140多个国家都配备了VPN服务器，拥有超过200000个I
 
 ## 5.<a rel="nofollow noopener" href="https://billing.ivacy.com/page/91435" target="_blank"> IVacy</a>
 
-![IVacy](/image/ivacy-logo.png)
+[![IVacy](/image/ivacy-logo.png)](https://billing.ivacy.com/page/91435)
 
 >**注意**:这家VPN的官网可能也需要梯子才能打开，客户端目前需要翻墙才能登录，使用Windows客户端的用户可以叫客服发给你prime版本的客户端进行登录。
 
-IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点了，一般VPN商家都会限制设备数量。不过就稳定性来说，正是由于不限制同时在线的设备数量，可能存在滥用的情况，目前速度方面相比其他几个VPN感觉很一般，所以我更建议你选择<a rel="nofollow noopener" href="https://www.linkev.com/?offer=3monthsfree&a_fid=fastwebcn" target="_blank">ExpressVPN</a>或者<a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank">PureVPN</a>。
+IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点了，一般VPN商家都会限制设备数量。不过就稳定性来说，正是由于不限制同时在线的设备数量，可能存在滥用的情况，目前速度方面相比其他几个VPN感觉很一般，所以我更建议你选择[ExpressVPN](#1-expressvpn)或者[PureVPN](#4-purevpn)。
 
 - 注重中国市场
 
@@ -334,7 +335,7 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 ## 6.<a rel="nofollow noopener" href="https://linkvy.com/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG" target="_blank"> VyprVPN</a>
 
-![VyprVPN](/image/vypr_logo-min.png)
+[![VyprVPN](/image/vypr_logo-min.png)](https://linkvy.com/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG)
 
 VyprVPN在中国拥有大量用户，非常注重中国市场，独有的变色龙技术听着很厉害，但我个人的使用体验是前2年在中国很是很不错的，速度快、稳定性好，被屏蔽后修复也快，但是据说VyprVPN的用户量增长不快，已经2年没更新硬件设备了。现在给我的感觉是**在中国能用，但速度和稳定性比较一般**，不过退款倒是很爽快。
 
@@ -359,7 +360,7 @@ VyprVPN同样支持30天退款保证，而且由于中文支持友好，如果�
 
 ## 翻墙软件VPN推荐的标准
 
-![VPN推荐](/image/standard-min.jpg)
+[![VPN推荐](/image/standard-min.jpg)](#)
 
 我们的VPN推荐基于这些标准，所以我们也建议大家考虑下面这些选择标准，或者参考上面的VPN排名，而不是盲目的付费购买。
 
@@ -391,7 +392,7 @@ VyprVPN同样支持30天退款保证，而且由于中文支持友好，如果�
 
 ## 关于VPN的一些问题
 
-![VPN是什么](/image/question-min.jpg)
+[![VPN是什么](/image/question-min.jpg)](#)
 
 ### VPN的基本原理是什么？
 
