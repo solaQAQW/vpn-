@@ -222,7 +222,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 >
 >**推荐用户**：对速度和稳定性有要求的用户、iPhone用户首选
 
-### <center><a rel="nofollow noopener" href="https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree" target="_blank">>> 点击获取ExpressVPN<<</a></center>
+### <center><a rel="nofollow noopener" href="https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
 
 >**注意**：官网镜像网站打开速度有时不快，耐心等待一下，如果页面加载不正常，如排版乱掉，可以试试重新点击进入或者刷新下页面。如果镜像站链接打不开，这种情况一般是镜像网站被墙，官网一般在当天会放出新的镜像站，请收藏本文后等一段时间再打开。
 
