@@ -24,11 +24,11 @@
 >### 6.[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 >### 7. [适合在中国使用的翻墙软件VPN，国内实测](#适合在中国使用的翻墙软件vpn国内实测)
 >>#### 7.1 [ExpressVPN](#1-expressvpn)
->>#### 7.2 [NordVPN](#2-nordvpn)
->>#### 7.3 [PandaVPN](#3-pandavpn)
->>#### 7.4 [PureVPN](#4-purevpn)
->>#### 7.5 [IVacy](#5-ivacy)
->>#### 7.6 [VyprVPN](#6-vyprvpn)
+>>#### 7.2 [VyprVPN](#2-vyprvpn)
+>>#### 7.3 [NordVPN](#3-nordvpn)
+>>#### 7.4 [PandaVPN](#4-pandavpn)
+>>#### 7.5 [PureVPN](#5-purevpn)
+>>#### 7.6 [IVacy](#6-ivacy)
 >
 >### 8. [翻墙软件VPN推荐的标准](#翻墙软件vpn推荐的标准)
 
@@ -73,7 +73,7 @@
 ### 突发事件
 没人能预测这种黑天鹅事件什么时候会发生，比如香港事件、新冠肺炎等。如果这段时间很多科学上网软件无法翻墙了，那么一定是有什么事情发生。也许我们不知道是什么，但我现在的第一判断都是“西方对我们的新一轮舆论攻势又开始了”，或者我党内部是不是又出幺蛾子了，或者什么地方是不是又出什么安全事件了。这时候只能“等”，一般几天过后网络就会自动恢复，我们中国人又继续我们各自的生活：加班，赚钱，吃吃吃。
 
->最近国内网络管制升级，各种翻墙方法都出现不同程度连接不稳定，速度变慢等情况，国内论坛上VPS的ip被封的讨论也多了起来，但ExpressVPN，PureVPN等工具仍然处于可用状态，但有些节点的连接成功率确实有所下降，有时需重连，如果发现使用困难，请各位保持耐心，困难会过去的，希望我们早日度过难关。
+>最近国内网络管制升级，各种翻墙方法都出现不同程度连接不稳定，速度变慢等情况，国内论坛上VPS的ip被封的讨论也多了起来，但ExpressVPN，Vypr和PureVPN等工具仍然处于可用状态，但有些节点的连接成功率确实有所下降，有时需重连，如果发现使用困难，请各位保持耐心，困难会过去的，希望我们早日度过难关。
 
 ## 买VPS自建翻墙服务器？
 最近2年很流行租用VPS服务器自建翻墙工具，很多有点技术基础的人也在用这种方法，买了VPS服务器，下载安装脚本文件，就能翻墙了。这种方案的好处是服务器独享，仅自己一个人用，如果服务器有CN线路的话速度上也有优势，确实在刚开始我也推荐大家这样做，因为一个人独享一台服务器的资源，而且翻墙的成本也不高。但缺点就是现在IP太容易被墙了，尤其是<a rel="nofollow noopener" href="https://bandwagonhost.com/aff.php?aff=20789" target="_blank">搬瓦工</a>、<a rel="nofollow noopener" href="https://www.vultr.com/?ref=6804316" target="_blank">Vultr</a>和DO这些国内用户众多的机房，因为防火长城不断在升级，对于翻墙流量的识别越来越精准。这些流行且技术含量不高的翻墙方法对于防火长城来说只需一眼就知道你在翻墙，然后导致ip被封，由于使用翻墙的多了，厂商的IP资源是有限的，很多的vps厂商已经不支持免费换IP，即使付费换了IP也不能保证是没被墙的，换来换去结果是防火长城屏蔽的IP越来越多，几个在国内最受欢迎的vps品牌也很难找到可用的IP了，那么服务器就相当于是报废了。近1年我就陆陆续续收到一些读者留言，问买的1年的服务器用了不到2个月被墙了怎么办，有些读者是换了IP也不能用，没办法，这台VPS只能放着吃灰了。在Google上的搜索也主要是IP被墙的问题，比如搬瓦工的热门搜索如下图：
@@ -134,6 +134,15 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 >注意：现在淘宝不让卖Apple ID，卖家会弄一些擦边球的字眼，几块钱的那些商品其实也是卖ID的，进店咨询就行了。
 
+### 取消服务需要注意什么？（重要！）
+
+如果你选择购买了某款VPN，因为种种原因想要退款，先确认是否在退款时限内，一般是30天左右（PandaVPN是7天），找客服进行退款申请后，一般是一个星期之内付款原路返回，以后不再扣费。但是**支付宝和Paypal用户**为了保险起见，还需要确认一下**自动扣款项目**，因为有些客服在流程的疏忽，导致少数用户下个订阅周期再次被扣款，论坛有个用户说了这个问题(IVacy)，又要再去找客服退款，导致不必要的麻烦。
+
+- 支付宝用户请在设置->支付设置->自动扣款 里面查看已签约的服务，如果还存在的话需要关闭服务。
+
+- Paypal用户登入账号界面，点击设置->付款->管理自动付款，如果还存在的话直接取消就行了。
+
+
 ## 适合在中国使用的翻墙软件VPN，国内实测
 >注意：因为防火长城会不断迭代更新，致使很多VPN接二连三遭受屏蔽。下列的几款VPN，都经过我长期的使用和测试，对防火长城封锁的应对最快，能比较快速地进行软件和节点的更新，能满足国内用户长期使用的需求。另外，该文章会不断更新，请收藏本页面以便以后查看。
 
@@ -173,11 +182,20 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ### ExpressVPN的缺点
 
-ExpresssVPN价格较贵，基本上一年套餐比其他VPN的一年套餐贵20%左右，并且软件客户端没有中文。
+[![express-vpn-servers](/image/express-vpn-servers.png)](#1-expressvpn)
 
-目前提供三种套餐并`支持支付宝支付`，单月12.95美金每月，买6个月为9.99美金每月，买一年为8.32美金每月，对不少读者确实有点贵，不过现在有限时优惠**买一年送三个月活动，每月$6.67/月**，我买的那时候没这个活动-_-!。
+ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右。
 
->适合不缺钱而且注重隐私数据保护和较好的使用体验的朋友。如果要求性价比，[PandaVPN](#3-pandavpn)应该会更适合你，PandaVPN我感觉类似于SSR，官网称有256位加密保护，不过我感觉对于隐私安全的保护不如ExpressVPN。
+目前提供三种套餐并`支持支付宝支付`，单月$12.95/月，买6个月为$9.99/月，买一年为$8.32/月，不过现在有限时优惠**买一年送三个月活动，每月$6.67/月**。
+
+>适合注重隐私数据保护和较好的使用体验的朋友。如果要求性价比，[VyprVPN](#2-vyprvpn)或者[PandaVPN](#4-pandavpn)应该会更适合你，PandaVPN我感觉类似于SSR，官网称有256位加密保护，不过我感觉对于隐私安全的保护不如ExpressVPN。
+
+### 有续费打算请收藏本页面 - 送3个月优惠
+
+如果买了ExpresssVPN之后打算续费买**年套餐**的，通过本页面的优惠链接进入，然后**用新邮箱注册新账号，可以获得三个月的免费赠送**，旧账号续费或直接进官网购买年套餐是没有这个活动的。所以有续费打算的请收藏本页面，续费购买时**首先要断开ExpressVPN，清除浏览器cookie或者换一个浏览器，然后点击本页面的优惠链接进入官网，换一个新的Email进行注册购买就行了**。
+
+其他品牌续费获得优惠的操作方法也是一样的，因为一般年套餐的优惠只对新帐号开放，为了避免被系统认为是重复注册，需要清除浏览器cookie记录或者换一个浏览器再进行注册。
+
 
 在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
 
@@ -226,19 +244,46 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 
 ### <center><a rel="nofollow noopener" href="https://www.mmasfny.com/zh-cn?a_fid=fastwebcn&offer=3monthsfree" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
 
-### 有续费打算请收藏本页面 - 送3个月优惠
-
-如果买了ExpresssVPN之后**打算续费买年套餐的，通过本页面的优惠链接进入，然后用新邮箱注册新账号，可以获得三个月的免费赠送，旧账号续费或直接进官网购买年套餐是没有这个活动的**。所以有续费打算的请收藏本页面，续费购买时首先要断开ExpressVPN，清除浏览器cookie或者换一个浏览器，然后点击本页面的优惠链接进入官网，换一个新的Email进行注册购买就行了。
-
 >**注意**：官网镜像网站打开速度有时不快，耐心等待一下，如果页面加载不正常，如排版乱掉，可以试试重新点击进入或者刷新下页面。如果镜像站链接打不开，这种情况一般是镜像网站被墙，官网一般在当天会放出新的镜像站，请收藏本文后等一段时间再打开。
 
-## 2.<a rel="nofollow noopener" href="http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079" target="_blank"> NordVPN</a>
+## 2.<a rel="nofollow noopener" href="https://www.getvy.net/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG" target="_blank"> VyprVPN</a>
+
+[![VyprVPN](/image/vypr_logo-min.png)](https://www.getvy.net/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG)
+
+VyprVPN个人版和ExpressVPN一样在中国能用，**支持5台设备同时在线使用**，能在[国内直接购买](https://www.getvy.net/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG)，支持支付宝，30天无条件退款，提供香港、日本、美国、韩国、台湾等地节点，具备防止DNS泄露的能力，VyprVPN的零日志也经过独立第三方审计，且使用自己构建的私有服务器，安全有保障。
+
+VyprVPN在中国拥有大量用户，非常注重中国市场，独有的变色龙技术听着很厉害，但我个人的使用体验是前2年在中国很是很不错的，速度快、稳定性好，被屏蔽后修复也快，现在给我的感觉是在中国能用，但**速度和稳定性**相比[ExpressVPN](#1-expressvpn)还是差一些。
+
+VyprVPN个人版还有个非变色龙版，但可惜这个版本在中国很多地方是用不了的，别买这个，一定要买包含变色龙（Chameleon）协议的版本。
+
+[![Chameleon](/image/vypr-chameleon-2.png "变色龙Chameleon协议")](#2-vyprvpn)
+
+VyprVPN支持Windows，Mac，Android，iOS和路由器上安装客户端APP使用。在中国使用时，建议先将协议设置为变色龙（Chameleon）再使用（如下图）。
+
+[![Chameleon](/image/vypr-chameleon.png "变色龙Chameleon协议")](#2-vyprvpn)
+
+- 注重中国市场
+
+VyprVPN对中国用户的重视，甚至有双十一的优惠活动，可以通过中文和在线客服联系，翻墙专用变色龙协议。
+
+- 加密技术
+
+使用目前顶级的工业级AES 256位加密方式，并提供DNS保护。
+
+- 30天退款保证
+
+VyprVPN同样支持30天退款保证，而且由于中文支持友好，如果觉得不好用，退款也比较方便。
+
+
+## 3.<a rel="nofollow noopener" href="http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079" target="_blank"> NordVPN</a>
 
 [![NordVPN](/image/nord-min.png)](http://go.affiliatescn.net/aff_c?offer_id=177&aff_id=6186&url_id=3079)
 
+>镜像官网再次被屏蔽，打开官网需梯子。
+
 NordVPN在全球范围内应该是为数不多的能和ExpressVPN抗衡的服务商之一，在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前客户端直连翻墙不是很稳定，要么连上很快，要么有时候连不上。推荐这款是因为**如果你会使用OpenVPN手动配置的话，它的速度和稳定性依然不错**，性价比比Express高。
 
-如果是只会使用客户端APP直连，建议[ExpressVPN](#1-expressvpn)或者[Panda](#3-pandavpn)、[PureVPN](#4-purevpn)，因为Nord客户端的节点线路非常多（几千条你敢信？），被屏蔽了之后线路更新和客户端更新所需的时间较Express长一些，只能用OpenVPN或IKEV2进行手动配置才能保证全年95%左右的可用率。
+如果是只会使用客户端APP直连，建议[ExpressVPN](#1-expressvpn)或者[VyprVPN](#2-vyprvpn)、[Panda](#4-pandavpn)，因为Nord客户端的节点线路非常多（几千条你敢信？），被屏蔽了之后线路更新和客户端更新所需的时间较Express长一些，只能用OpenVPN或IKEV2进行手动配置才能保证全年95%左右的可用率。
 
 - 隐私保护
 
@@ -260,7 +305,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 >注：使用NordVPN最好要会用OpenVPN手动，iOS设备上用手动ikev2，手动配置的节点比APP直连的稳定性高很多，尤其是在敏感时期。另一个需要注意的地方是如果遇到问题随时联系在线客服，让售后给你解决方案。
 
-## 3.<a rel="nofollow noopener" href="https://www.pancerra.xyz/r/13023030" target="_blank"> PandaVPN</a>
+## 4.<a rel="nofollow noopener" href="https://www.pancerra.xyz/r/13023030" target="_blank"> PandaVPN</a>
 
 [![PandaVPN](/image/panda-min.png)](https://www.pancerra.xyz/r/13023030)
 
@@ -294,7 +339,7 @@ PandaVPN总部在美国，相比其他几家来说要小众一些，所以价格
 
 付款方式主要包含支付宝、Visa信用卡、PayPal等和7天退款政策。
 
-## 4.<a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank"> PureVPN</a>
+## 5.<a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank"> PureVPN</a>
 >由于没有针对中国的镜像官网地址，打开官网需梯子，但客户端直接就能登录打开。
 
 [![PureVPN](/image/pure-min.png)](https://billing.purevpn.com/aff.php?aff=32147)
@@ -319,13 +364,13 @@ PureVPN在全球140多个国家都配备了VPN服务器，拥有超过200000个I
 
 付款方式主要包含银联卡、信用卡、支付宝、PayPal、比特币等，有31天内不满意退款政策。
 
-## 5.<a rel="nofollow noopener" href="https://billing.ivacy.com/page/91435" target="_blank"> IVacy</a>
+## 6.<a rel="nofollow noopener" href="https://billing.ivacy.com/page/91435" target="_blank"> IVacy</a>
 
 [![IVacy](/image/ivacy-logo.png)](https://billing.ivacy.com/page/91435)
 
 >**注意**:这家VPN的官网可能也需要梯子才能打开，客户端目前需要翻墙才能登录，使用Windows客户端的用户可以叫客服发给你prime版本的客户端进行登录。
 
-IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点了，一般VPN商家都会限制设备数量。不过就稳定性来说，正是由于不限制同时在线的设备数量，可能存在滥用的情况，目前速度方面相比其他几个VPN感觉很一般，所以我更建议你选择[ExpressVPN](#1-expressvpn)或者[PureVPN](#4-purevpn)。
+IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点了，一般VPN商家都会限制设备数量。不过就稳定性来说，正是由于不限制同时在线的设备数量，可能存在滥用的情况，目前速度方面相比其他几个VPN感觉很一般，所以我更建议你选择[ExpressVPN](#1-expressvpn)或者[PureVPN](#5-purevpn)。
 
 - 注重中国市场
 
@@ -342,26 +387,6 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 - 7*24小时技术支持
 
 在使用过程中如果遇到问题，可以在任意时刻联系他们的客户服务团队。
-
-## 6.<a rel="nofollow noopener" href="https://linkvy.com/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG" target="_blank"> VyprVPN</a>
-
-[![VyprVPN](/image/vypr_logo-min.png)](https://linkvy.com/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG)
-
-VyprVPN在中国拥有大量用户，非常注重中国市场，独有的变色龙技术听着很厉害，但我个人的使用体验是前2年在中国很是很不错的，速度快、稳定性好，被屏蔽后修复也快，但是据说VyprVPN的用户量增长不快，已经2年没更新硬件设备了。现在给我的感觉是**在中国能用，但速度和稳定性比较一般**，不过退款倒是很爽快。
-
->在群里的几个不同地区朋友对这款VPN褒贬不一，有的说好用，有的说根本连不上，不同区域和不同网络运营商的状态不一样。如果想尝试这一款，建议只买一个月，如果好用可以考虑续费，不好用就趁早申请退款，他们是30天的退款期限。
-
-- 注重中国市场
-
-VyprVPN对中国用户的重视，甚至有双十一的优惠活动，可以通过中文和在线客服联系，翻墙专用变色龙协议。
-
-- 加密技术
-
-使用目前顶级的工业级AES 256位加密方式，并提供DNS保护。
-
-- 30天退款保证
-
-VyprVPN同样支持30天退款保证，而且由于中文支持友好，如果觉得不好用，退款也比较方便。
 
 
 
