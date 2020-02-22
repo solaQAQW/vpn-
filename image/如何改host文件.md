@@ -43,24 +43,24 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 插入这2行：
 
-54.171.39.37 go.nordvpn.net
+`54.171.39.37 go.nordvpn.net`
 
-54.171.39.37 nordvpn.net
+`54.171.39.37 nordvpn.net`
 
 ### 2.PureVPN
 
 插入这3行：
 
-104.18.76.57 billing.purevpn.com
+`104.18.76.57 billing.purevpn.com`
 
-104.16.113.39 www.purevpn.com
+`104.16.113.39 www.purevpn.com`
 
-104.18.193.71 my.purevpn.com
+`104.18.193.71 my.purevpn.com`
 
 ### 3.IVacy
 
 插入这2行：
 
-104.18.200.99 www.ivacy.com
+`104.18.200.99 www.ivacy.com`
 
-104.17.69.88 billing.ivacy.com
+`104.17.69.88 billing.ivacy.com`
