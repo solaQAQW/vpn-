@@ -17,7 +17,7 @@ hosts文件可以视为一个系统本地上启用的DNS服务器，我们通过
 
 Windows系统: C:\Windows\System32\drivers\etc
 
->技术小白还是建议在电脑上进行操作，更为方便。
+>技术小白建议在电脑上进行操作，更为方便。
 
 直接把文件位置复制到文件夹地址栏，按`Enter`键就看到了。
 
@@ -27,7 +27,7 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 ### 2.2 如何修改Hosts
 
-以Windows系统为例，打开文件夹C:\Windows\System32\drivers\etc，把 hosts文件移动到桌面，打开方式选择记事本。
+以Windows系统为例，打开文件夹C:\Windows\System32\drivers\etc，把 hosts文件**移动到桌面**，打开方式选择记事本。
 
 [![hosts](hosts-open.png)](#22-如何修改hosts)
 
@@ -36,6 +36,8 @@ Android/iPhone/Mac/Linux: /etc/hosts
 [![](hosts-edit.png)](#22-如何修改hosts)
 
 ## 网站域名与对应 IP
+
+直接复制下面的ip解析行，插入到Host文件最末端，保存之后，再移动到原来的文件夹覆盖。
 
 ### 1.NordVPN
 
