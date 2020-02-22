@@ -186,7 +186,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右。
 
-目前提供三种套餐并`支持支付宝支付`，单月$12.95/月，买6个月为$9.99/月，买一年为$8.32/月，不过现在有限时优惠**买一年送三个月活动，每月$6.67/月**。
+目前提供三种套餐并支持支付宝支付，单月$12.95/月，买6个月为$9.99/月，买一年为$8.32/月，不过现在有限时优惠**买一年送三个月活动，每月$6.67/月**。
 
 >适合注重隐私数据保护和较好的使用体验的朋友。如果要求性价比，[VyprVPN](#2-vyprvpn)或者[PandaVPN](#4-pandavpn)应该会更适合你，PandaVPN我感觉类似于SSR，官网称有256位加密保护，不过我感觉对于隐私安全的保护不如ExpressVPN。
 
@@ -250,7 +250,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 
 [![VyprVPN](/image/vypr_logo-min.png)](https://www.getvy.net/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG)
 
-VyprVPN个人版和ExpressVPN一样在中国能用，**支持5台设备同时在线使用**，能在[国内直接购买](https://www.getvy.net/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG)，支持支付宝，30天无条件退款，提供香港、日本、美国、韩国、台湾等地节点，具备防止DNS泄露的能力，VyprVPN的零日志也经过独立第三方审计，且使用自己构建的私有服务器，安全有保障。
+VyprVPN个人版和ExpressVPN一样在中国能用，**支持5台设备同时在线使用**，能在[国内直接购买](https://www.getvy.net/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG)，支持银联卡和Paypal支付，30天无条件退款，提供香港、日本、美国、韩国、台湾等地节点，具备防止DNS泄露的能力，VyprVPN的零日志也经过独立第三方审计，且使用自己构建的私有服务器，安全有保障。
 
 VyprVPN在中国拥有大量用户，非常注重中国市场，独有的变色龙技术听着很厉害，但我个人的使用体验是前2年在中国很是很不错的，速度快、稳定性好，被屏蔽后修复也快，现在给我的感觉是在中国能用，但**速度和稳定性**相比[ExpressVPN](#1-expressvpn)还是差一些。
 
