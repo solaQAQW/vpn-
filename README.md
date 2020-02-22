@@ -242,7 +242,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 
 >2020年2月使用，确认可用。
 
->镜像官网再次被屏蔽，打开官网需梯子，或者改Host文件，很简单,方法[查看这篇文章](https://github.com/vpncn/vpncn.github.io/edit/master/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6.md)或者自己百度。
+>镜像官网再次被屏蔽，打开官网需梯子，或者改Host文件，很简单,方法[查看这篇文章](https://github.com/vpncn/vpncn.github.io/blob/master/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6.md)或者自己百度。
 
 国内访问官网，需要在Host文件末尾加入2行：
 
@@ -350,7 +350,7 @@ PandaVPN总部在美国，相比其他几家来说要小众一些，所以价格
 
 >2020年2月使用，确认可用。
 
->官网被屏蔽，无镜像网站，打开官网需梯子或者改Host文件，很简单，改Host方法[查看这篇文章](https://github.com/vpncn/vpncn.github.io/edit/master/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6.md)或者自己百度。
+>官网被屏蔽，无镜像网站，打开官网需梯子或者改Host文件，很简单，改Host方法[查看这篇文章](https://github.com/vpncn/vpncn.github.io/blob/master/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6.md)或者自己百度。
 
 国内访问官网，需要在Host文件末尾加入3行：
 
@@ -388,7 +388,7 @@ PureVPN在全球140多个国家都配备了VPN服务器，拥有超过200000个I
 
 >2020年2月测试，确认可用，但速度较慢，客服说正在改进服务器，看后续表现再更新。
 
->官网在国内被屏蔽，无镜像网站，打开官网需梯子或者改Host文件，很简单,方法[查看这篇文章](https://github.com/vpncn/vpncn.github.io/edit/master/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6.md)或者自己百度。
+>官网在国内被屏蔽，无镜像网站，打开官网需梯子或者改Host文件，很简单,方法[查看这篇文章](https://github.com/vpncn/vpncn.github.io/blob/master/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6.md)或者自己百度。
 
 国内访问官网，需要在Host文件末尾加入2行：
 
