@@ -352,7 +352,7 @@ PandaVPN总部在美国，相比其他几家来说要小众一些，所以价格
 
 >官网被屏蔽，无镜像网站，打开官网需梯子或者改Host文件，很简单，改Host方法[查看这篇文章](https://github.com/vpncn/vpncn.github.io/blob/master/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6.md)或者自己百度。
 
-国内访问官网，需要在Host文件末尾加入3行：
+国内访问官网，需要在Host文件末尾加入4行：
 
 `104.18.76.57 billing.purevpn.com`
 
