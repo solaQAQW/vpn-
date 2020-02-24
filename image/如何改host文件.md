@@ -37,7 +37,7 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 ## 网站域名与对应 IP
 
-直接复制下面的ip解析行，插入到Host文件最末端，保存之后，再移动到原来的文件夹覆盖。
+直接复制下面的ip解析行，插入到Host文件最末端，保存之后，再移动到原来的文件夹覆盖。然后刷新浏览器或打开浏览器设置清空缓存再点击下方链接即可进入官网。
 
 ### 1.NordVPN
 
@@ -51,13 +51,15 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 ### 2.PureVPN
 
-插入这3行：
+插入这4行：
 
 `104.18.76.57 billing.purevpn.com`
 
 `104.16.113.39 www.purevpn.com`
 
 `104.18.193.71 my.purevpn.com`
+
+`45.33.3.7 affiliates.purevpn.com`
 
 添加完成后[点击获取PureVPN官网优惠](https://billing.purevpn.com/aff.php?aff=32147)，应该可以打开官网了。
 
