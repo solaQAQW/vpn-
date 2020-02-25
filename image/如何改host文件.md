@@ -37,9 +37,25 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 ## 网站域名与对应 IP
 
-直接复制下面的ip解析行，插入到Host文件最末端，保存之后，再移动到原来的文件夹覆盖。然后刷新浏览器或打开浏览器设置清空缓存再点击下方链接即可进入官网。如果还是打不开，请关闭浏览器再重新进入此页面点击下方链接进入官网。
+直接复制下面的ip解析行，插入到Host文件最末端，保存之后，再移动到原来的文件夹覆盖。然后**刷新浏览器或打开浏览器设置清空缓存**再点击下方链接即可进入官网。
 
-### 1.NordVPN
+>如果还是打不开，请关闭浏览器再重新进入此页面点击下方链接进入官网。
+
+### 1.StrongVPN
+
+插入这4行：
+
+`216.131.67.250 strongvpn.com`
+
+`216.131.67.250 intranet.strongvpn.com`
+
+`104.16.55.111 support.strongvpn.com`
+
+`216.131.124.181 links.strongvpn.com`
+
+添加完成后点击[**获取StrongVPN官网优惠**](https://strongvpn.com/?tr_aid=5e51d8882415d)，应该可以打开官网了。
+
+### 2.NordVPN
 
 插入这2行：
 
@@ -47,9 +63,9 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 `54.171.39.37 nordvpn.net`
 
-添加完成，保存然后[点击获取NordVPN官网优惠](https://go.nordvpn.net/aff_c?offer_id=177&aff_id=6186&url_id=631)。
+添加完成，保存然后[**获取NordVPN官网优惠**](https://go.nordvpn.net/aff_c?offer_id=177&aff_id=6186&url_id=631)。
 
-### 2.PureVPN
+### 3.PureVPN
 
 插入这4行：
 
@@ -63,7 +79,7 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 添加完成后[点击获取PureVPN官网优惠](https://billing.purevpn.com/aff.php?aff=32147)，应该可以打开官网了。
 
-### 3.IVacy
+### 4.IVacy
 
 插入这2行：
 
