@@ -53,7 +53,7 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 `216.131.124.181 links.strongvpn.com`
 
-添加完成后点击[**获取StrongVPN官网优惠**](https://strongvpn.com/?tr_aid=5e51d8882415d)，应该可以打开官网了。
+添加完成后保存，刷新浏览器，点击[**获取StrongVPN官网优惠**](https://strongvpn.com/?tr_aid=5e51d8882415d)，应该可以打开官网了。
 
 ### 2.NordVPN
 
@@ -77,7 +77,7 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 `45.33.3.7 affiliates.purevpn.com`
 
-添加完成后[点击获取PureVPN官网优惠](https://billing.purevpn.com/aff.php?aff=32147)，应该可以打开官网了。
+添加完成后保存，然后刷新浏览器，[点击获取PureVPN官网优惠](https://billing.purevpn.com/aff.php?aff=32147)，应该可以打开官网了。
 
 ### 4.IVacy
 
@@ -87,4 +87,4 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 `104.17.69.88 billing.ivacy.com`
 
-添加完成后[点击获取IVacy官网优惠](https://billing.ivacy.com/page/91435)
+添加完成后保存，然后刷新浏览器，[点击获取IVacy官网优惠](https://billing.ivacy.com/page/91435)
