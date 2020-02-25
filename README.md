@@ -255,7 +255,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 
 `216.131.124.181 links.strongvpn.com`
 
-然后[点击获取StrongVPN官网优惠](https://strongvpn.com/?tr_aid=5e51d8882415d)。
+保存之后刷新浏览器，然后[点击获取StrongVPN官网优惠](https://strongvpn.com/?tr_aid=5e51d8882415d)。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有59500个IP地址。名气在中国相比[ExpressVPN](#1-expressvpn)相对没那么出名，但是在国外也是排名TOP 10的大牌服务商，从18年开始也开始重视开发中国市场，售后服务也很不错，它也和ExpressVPN一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告（[官网搜索](https://strongvpn.com/?tr_aid=5e51d8882415d) “What is the best VPN configuration for China?”），但是遗憾的是StrongVPN在中国还没有镜像域名，需要修改hosts文件才能打开官网，方法和教程如上面所示，很简单，只需2步。
 
@@ -330,7 +330,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 `54.171.39.37 nordvpn.net`
 
-然后[点击获取NordVPN官网优惠](https://go.nordvpn.net/aff_c?offer_id=177&aff_id=6186&url_id=631)。
+保存之后刷新浏览器，然后[点击获取NordVPN官网优惠](https://go.nordvpn.net/aff_c?offer_id=177&aff_id=6186&url_id=631)。
 
 NordVPN在全球范围内应该是为数不多的能和ExpressVPN抗衡的服务商之一，在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前客户端直连翻墙**建议连接新出的服务器**，服务器越新连通率越高，速度也快，点击日本、新加坡、英国、加拿大这些服务器(如下图)。学会使用OpenVPN手动配置，很简单，官网有教程，它的速度和稳定性会更高，敏感时期配合用OpenVPN或IKEV2进行手动配置可以保证全年95%以上的可用率。
 
@@ -416,7 +416,7 @@ PandaVPN总部在美国，相比其他几家来说要小众一些，所以价格
 
 `45.33.3.7 affiliates.purevpn.com`
 
-然后[点击获取PureVPN官网优惠](https://billing.purevpn.com/aff.php?aff=32147)。
+保存之后刷新浏览器，然后[点击获取PureVPN官网优惠](https://billing.purevpn.com/aff.php?aff=32147)。
 
 PureVPN也是一家老牌服务商，成立2006年，总部设在香港，在全球的180+个地区拥有2000+台服务器，线路很多，但在中国不是所有节点能用，我测试的结果是30%的节点大部分时候还是可用的，特殊时期还可以手动配置翻墙。在中国的网络速度、稳定性目前来说也还不错，就我去年的体验来说客户端直连基本能保证全年90%以上的使用率，如果你在敏感时期会用OpenVPN手动配置的话全年可用率会更高，它的价格方面也是个优势，长期套餐相对ExpressVPN便宜不少。
 
@@ -452,7 +452,7 @@ PureVPN在全球140多个国家都配备了VPN服务器，拥有超过200000个I
 
 `104.17.69.88 billing.ivacy.com`
 
-然后[点击获取官网优惠](https://billing.ivacy.com/page/91435)。
+保存之后刷新浏览器，然后[点击获取官网优惠](https://billing.ivacy.com/page/91435)。
 
 
 >**注意**:使用Windows客户端的用户可以叫客服发给你China prime版本的客户端进行登录，这个是中国用户版本。
