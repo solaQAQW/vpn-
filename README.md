@@ -24,13 +24,14 @@
 >### 6.[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 >### 7. [适合在中国使用的翻墙软件VPN，国内实测](#适合在中国使用的翻墙软件vpn国内实测)
 >>#### 7.1 [ExpressVPN](#1-expressvpn)
->>#### 7.2 [NordVPN](#2-nordvpn)
->>#### 7.3 [VyprVPN](#3-vyprvpn)
+>>#### 7.2 [StrongVPN](#2-strongvpn)
+>>#### 7.3 [NordVPN](#3-nordvpn)
 >>#### 7.4 [PandaVPN](#4-pandavpn)
 >>#### 7.5 [PureVPN](#5-purevpn)
 >>#### 7.6 [IVacy](#6-ivacy)
 >
->### 8. [翻墙软件VPN推荐的标准](#翻墙软件vpn推荐的标准)
+>### 8.[不要入坑的VPN](#不要入坑的vpn)
+>### 9. [翻墙软件VPN推荐的标准](#翻墙软件vpn推荐的标准)
 
 ## 翻墙软件与VPN的区别 – 翻墙的安全性问题
 你也许听过VPN、机场、加速器、SSR、科学上网软件、软路由、V2Ray、WireGuard、Shadowsocks、蓝灯等等翻墙工具，归根到底所有翻墙工具都是通过一个“远程服务器”将墙外的信息传输到你的设备上。通过这种方法你就可以访问被屏蔽的外网和服务了，这种方法称为翻墙，这些工具统称翻墙软件/工具。
@@ -180,7 +181,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右，现在有限时优惠**买一年送三个月活动，每月$6.67/月**，支持支付宝支付。
 
->适合注重隐私数据保护和较好的使用体验的朋友。如果要求性价比，[NordVPN](#2-nordvpn)或者[PandaVPN](#4-pandavpn)应该会更适合你，PandaVPN我感觉类似于SSR，官网称有256位加密保护，不过我感觉对于隐私安全的保护不如ExpressVPN。
+>适合注重隐私数据保护和较好的使用体验的朋友。如果要求性价比，[StrongVPN](#2-strongvpn)、[NordVPN](#3-nordvpn)或者[PandaVPN](#4-pandavpn)应该会更适合你，StrongVPN可以作为ExpresssVPN替代方案，稳定性也不错；NordVPN要优先连接日本、新加坡、英国、加拿大这些地区新出的服务器节点，速度很快；PandaVPN我感觉类似于SSR，官网称有256位加密保护，不过我感觉对于隐私安全的保护不如ExpressVPN。
 
 在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
 
@@ -236,9 +237,88 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 其他品牌续费获得优惠的操作方法也是一样的，因为一般年套餐的优惠只对新帐号开放，为了避免被系统认为是重复注册，需要清除浏览器cookie记录或者换一个浏览器再进行注册。
 
 
-## 2.<a rel="nofollow noopener" href="https://go.nordvpn.net/aff_c?offer_id=177&aff_id=6186&url_id=631" target="_blank"> NordVPN</a>
+## 2.<a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=5e51d8882415d" target="_blank"> StrongVPN</a>
 
-[![NordVPN](/image/nord-min.png)](#2-nordvpn)
+[![StrongVPN](/image/strong-logo.png)](#2-strongvpn)
+
+>2020年2月测试，确认能用，稳定性不错，大部分节点都能直连。
+
+>打开官网需梯子，或者改Host文件，很简单,方法[**查看这篇文章**](https://github.com/vpncn/vpncn.github.io/blob/master/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6.md)或者自己百度。
+
+国内访问官网，需要在Host文件末尾加入4行：
+
+`216.131.67.250 strongvpn.com`
+
+`216.131.67.250 intranet.strongvpn.com`
+
+`104.16.55.111 support.strongvpn.com`
+
+`216.131.124.181 links.strongvpn.com`
+
+然后[点击获取StrongVPN官网优惠](https://strongvpn.com/?tr_aid=5e51d8882415d)。
+
+StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有59500个IP地址。名气在中国相比[ExpressVPN](#1-expressvpn)相对没那么出名，但是在国外也是排名TOP 10的大牌服务商，从18年开始也开始重视开发中国市场，售后服务也很不错，它也和ExpressVPN一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告（[官网搜索](https://strongvpn.com/?tr_aid=5e51d8882415d) “What is the best VPN configuration for China?”），但是遗憾的是StrongVPN在中国还没有镜像域名，需要修改hosts文件才能打开官网，方法和教程如上面所示，很简单，只需2步。
+
+这款VPN是我在19年初测试了一个月并在之后续费了一年，总体来讲，在去年1年的使用时间里，全年可用率能达到95%左右，能连接的节点比ExpressVPN多，稳定性两者都差不多，但是速度较ExpressVPN慢一些，不过打开网页和看视频也够用了。
+
+StrongVPN的Windows客户端界面
+
+[![StrongVPN](/image/strong-connect.png)](#2-strongvpn)
+
+### 如何获取StrongVPN？
+
+进入官网后，选择套餐输入Email注册，付款之后系统会自动分配初始登录密码，付款方式支持支付宝、银联卡、信用卡和Paypal等。
+
+[![StrongVPN](/image/strong-price.png)](#如何获取strongvpn)
+
+登录进用户界面后，点击“StrongVPN Clients”下载客户端APP：
+
+[![StrongVPN](/image/strong-client.png)](#如何获取strongvpn)
+
+下载安装APP客户端后，打开输入用户名密码登录就行了，在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
+
+[![StrongVPN](/image/reinstall-tap.png)](#如何获取strongvpn)
+
+我建议连接这些节点：
+
+- 日本（Japan）
+
+- 香港（HongKong）
+
+- 韩国（South Korea）
+
+- 美国-San Francisco
+
+- 新加坡
+
+还有欧洲的很多节点也可以连接。
+
+在防火长城升级的敏感时期，可以更改为IPSec的协议继续使用，等几天官方推出更新客户端，就可以继续使用OpenVPN协议了。
+
+
+**支持设备**：同样支持Windows，Mac，iOS，Android这些常见客户端，还支持路由器和安卓系统的电视安装。并且**最多支持12台设备同时在线使用**。
+
+- 协议支持
+
+提供L2TP, SSTP, OpenVPN（UDP/TCP,IPSec,IKEv2和 WireGuard，是我使用的VPN服务里面支持协议最多的：
+
+[![StrongVPN](/image/strong-protcol.png)](#如何获取strongvpn)
+
+- 注重中国市场
+
+StrongVPN虽然没有中国的镜像官网，但是对在中国用户反应的连接问题很重视，能始终在防火墙升级后以最快的速度修复在中国的连接问题，一般在2-3个工作日能恢复使用。
+
+- 加密技术/隐私保护
+
+使用目前顶级的AES 256位加密方式，并提供DNS保护。承诺零日志政策，保护用户隐私。
+
+- 30天退款保证
+
+StrongVPN同样支持30天退款保证，有足够的时间测试使用。
+
+## 3.<a rel="nofollow noopener" href="https://go.nordvpn.net/aff_c?offer_id=177&aff_id=6186&url_id=631" target="_blank"> NordVPN</a>
+
+[![NordVPN](/image/nord-min.png)](#3-nordvpn)
 
 >2020年2月使用，确认可用。
 
@@ -256,11 +336,11 @@ NordVPN在全球范围内应该是为数不多的能和ExpressVPN抗衡的服务
 
 NordVPN Windows客户端日本节点：
 
-[![NordVPN-win](/image/nord-win.png)](#2-nordvpn)
+[![NordVPN-win](/image/nord-win.png)](#3-nordvpn)
 
 NordVPN 安卓客户端日本节点：
 
-[![NordVPN-android](/image/nord-android.png)](#2-nordvpn)
+[![NordVPN-android](/image/nord-android.png)](#3-nordvpn)
 
 - 隐私保护
 
@@ -270,7 +350,7 @@ NordVPN拥有军用级别的加密技术，就算在公共场合，使用无加�
 
 NordVPN的客户端APP支持几乎所有网络设备，Windows，Mac，iOS，Android这些常见的系统都有客户端APP。**允许最多6台设备同时在线使用**，NordVPN还具有严格的无日志政策，自动`Kill Switch`开关，DNS泄露防护，`Onion Over VPN`等功能。
 
-[![NordVPN支持设备](/image/nord-devices-min.png)](#2-nordvpn)
+[![NordVPN支持设备](/image/nord-devices-min.png)](#3-nordvpn)
 
 - 全球服务器支持
 
@@ -281,40 +361,6 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 支付方式支持支付宝、银联卡、Paypal、信用卡等，拥有30天内不满意退款政策，目前性价比最高的套餐是三年套餐优惠70%，仅需$3.49/月。
 
 >注：在敏感时期，使用NordVPN最好能结合官网的教程进行OpenVPN手动配置，iOS设备上用手动ikev2，手动配置的节点比APP直连的稳定性高很多。另一个需要注意的地方是如果遇到连接或者下载问题随时联系在线客服，让售后给你备用服务器地址。
-
-## 3.<a rel="nofollow noopener" href="https://www.getvy.net/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG" target="_blank"> VyprVPN</a>
-
-[![VyprVPN](/image/vypr_logo-min.png)](#3-vyprvpn)
-
->2020年2月测试，确认能用，但稳定性一般，有时会掉线，速度时快时慢。
-
-VyprVPN个人版在中国也能用，但稳定性差一些。**支持5台设备同时在线使用**，能在[国内直接购买](https://www.getvy.net/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG)，支持银联卡和Paypal支付，30天无条件退款，提供香港、日本、美国、韩国、台湾等地节点，具备防止DNS泄露的能力，VyprVPN的零日志也经过独立第三方审计，且使用自己构建的私有服务器，安全有保障。
-
-### VyprVPN缺点
-
-VyprVPN在中国拥有大量用户，非常注重中国市场，独有的变色龙技术听着很厉害，但我个人的使用体验是**前2年**在中国很是很不错的，速度快、稳定性好，被屏蔽后修复也快，现在给我的感觉是在中国勉强能用，**速度和稳定性**相比[ExpressVPN](#1-expressvpn)还是差一些，速度比[NordVPN](#2-nordvpn)慢。
-
-貌似**不支持支付宝**了，差评！国内的基本只有银联卡、信用卡和Paypal支付，介意的可以绕路。
-
-VyprVPN个人版还有个非变色龙版，但可惜这个版本在中国很多地方是用不了的，别买这个，一定要买包含变色龙（Chameleon）协议的版本。
-
-[![Chameleon](/image/vypr-chameleon-2.png "变色龙Chameleon协议")](#2-vyprvpn)
-
-VyprVPN支持Windows，Mac，Android，iOS和路由器上安装客户端APP使用。在中国使用时，建议先将协议设置为变色龙（Chameleon）再使用（如下图）。
-
-[![Chameleon](/image/vypr-chameleon.png "变色龙Chameleon协议")](#2-vyprvpn)
-
-- 注重中国市场
-
-VyprVPN对中国用户的重视，甚至有双十一的优惠活动，可以通过中文和在线客服联系，翻墙专用变色龙协议。
-
-- 加密技术
-
-使用目前顶级的工业级AES 256位加密方式，并提供DNS保护。
-
-- 30天退款保证
-
-VyprVPN同样支持30天退款保证，而且由于中文支持友好，如果觉得不好用，退款也比较方便。
 
 ## 4.<a rel="nofollow noopener" href="https://www.pancerra.xyz/r/13023030" target="_blank"> PandaVPN</a>
 
@@ -429,6 +475,13 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 在使用过程中如果遇到问题，可以在任意时刻联系他们的客户服务团队。
 
+## 不要入坑的VPN
+
+### 1.[VyprVPN](https://www.getvy.net/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG)
+
+如果你看到其他人推荐VyprVPN，不要再入坑了。这款VPN目前在中国也能勉强使用，但稳定性很差。我个人的使用体验是**前2年**在中国很是不错的，速度和稳定性都不错，被屏蔽后修复也快，现在给我的感觉是在中国**比较难用**，速度和稳定性都不如以前了。我近期测试的VyprVPN，经常连接不上，连上了速度也是时快时慢。
+
+其他在中国根本**不能用**的VPN：TunnelBear，CyberGhost，Ipvanish, VPNHub。
 
 
 **本文会根据测评情况和使用体验，定期更新排名，如果觉得内容有用的话，欢迎添加收藏。**
@@ -472,11 +525,11 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 ### VPN的基本原理是什么？
 
-VPN是英文Virtual Private Network的缩写，翻译过来就是<a rel="nofollow noopener" href="https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E7%A7%81%E4%BA%BA%E7%B6%B2%E8%B7%AF" target="_blank">虚拟专用网络</a>。VPN最初的设计是为了让世界上任一两台电脑，在一个加密的通道中传输数据，只是在数据上加密了，而不是在硬件上区别开来，所以就称为虚拟。也因此成为了绕过网络封锁的翻墙工具。VPN相比于<a rel="nofollow noopener" href="https://shadowsocks.org/en/index.html" target="_blank">Shadowsocks</a>来说要更加底层一些，它首先通过操作系统虚拟一张网卡，之后所以的收发数据都通过这张网卡加密。
+VPN是英文Virtual Private Network的缩写，翻译过来就是虚拟专用网络。VPN最初的设计是为了让世界上任一两台电脑，在一个加密的通道中传输数据，只是在数据上加密了，而不是在硬件上区别开来，所以就称为虚拟。也因此成为了绕过网络封锁的翻墙工具。VPN相比于Shadowsocks来说要更加底层一些，它首先通过操作系统虚拟一张网卡，之后所以的收发数据都通过这张网卡加密。
 
 ### 什么是中国防火长城？
 
-<a rel="nofollow noopener" href="https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E" target="_blank">防火长城</a>GFW是英文Great Firewall的缩写，最开始是因为一名外国人写的《The Great Firewall of China》的文章而得名，又由于防火墙的原因，在网络上演变成了”墙“，表示访问境外的网站，如Facebook、Twitter、YouTube等网站被阻拦，主要通过拦截方式为1）黑名单的方式污染DNS解析，在黑名单中的域名会被解析到无效的IP地址，从而表现为网站不能访问。2）IP地址封锁，由于大部分被封锁的网站使用的是"虚拟主机"，所以一旦某个ip被封锁，这个虚拟主机上的网站也会被封。3）针对HTTP关键字过滤，中国防火长城会针对某些关键字进行过滤。其实网络审查制度不只是中国存在，其他国家也存在网络审查制度，但是仅仅用于金融洗钱、国际诈骗等犯罪行为，而防火长城的则会监控所有国际通讯，对不符合规定的传输内容进行屏蔽。域名解析服务缓存污染是防火长城常见的拦截手段，所有出口骨干路由在UDP的53端口的域名查询都会被检测，一旦所访问的域名不符合规定，防火长城就会返回错误域名解析地址。
+防火长城GFW是英文Great Firewall的缩写，最开始是因为一名外国人写的《The Great Firewall of China》的文章而得名，又由于防火墙的原因，在网络上演变成了”墙“，表示访问境外的网站，如Facebook、Twitter、YouTube等网站被阻拦，主要通过拦截方式为1）黑名单的方式污染DNS解析，在黑名单中的域名会被解析到无效的IP地址，从而表现为网站不能访问。2）IP地址封锁，由于大部分被封锁的网站使用的是"虚拟主机"，所以一旦某个ip被封锁，这个虚拟主机上的网站也会被封。3）针对HTTP关键字过滤，中国防火长城会针对某些关键字进行过滤。其实网络审查制度不只是中国存在，其他国家也存在网络审查制度，但是仅仅用于金融洗钱、国际诈骗等犯罪行为，而防火长城的则会监控所有国际通讯，对不符合规定的传输内容进行屏蔽。域名解析服务缓存污染是防火长城常见的拦截手段，所有出口骨干路由在UDP的53端口的域名查询都会被检测，一旦所访问的域名不符合规定，防火长城就会返回错误域名解析地址。
 
 ### VPN有什么作用？
 
