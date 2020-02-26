@@ -255,7 +255,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 
 `216.131.124.181 links.strongvpn.com`
 
-保存之后刷新浏览器，然后[http://linkv.org/strong](https://strongvpn.com/?tr_aid=5e51d8882415d)。
+保存之后刷新浏览器，然后[点击获取StrongVPN官网优惠](http://linkv.org/strong)。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有59500个IP地址。名气在中国相比[ExpressVPN](#1-expressvpn)相对没那么出名，但是在国外也是排名TOP 10的大牌服务商，从18年开始也开始重视开发中国市场，售后服务也很不错，它也和ExpressVPN一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告（[官网搜索](https://strongvpn.com/?tr_aid=5e51d8882415d) “What is the best VPN configuration for China?”），但是遗憾的是StrongVPN在中国还没有镜像域名，需要修改hosts文件才能打开官网，方法和教程如上面所示，很简单，只需2步。
 
