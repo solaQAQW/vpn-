@@ -243,19 +243,17 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 
 >2020年2月测试，确认能用，稳定性不错，大部分节点都能直连。
 
-打开官网需梯子或者改Host文件，很简单,方法[**查看这篇文章**](https://github.com/vpncn/vpncn.github.io/blob/master/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6.md)或者自己百度。
+国内打开StrongVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单，国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**（手机用户建议在电脑上打开本页面操作）：
 
-国内访问官网，需要在Host文件末尾加入4行：
+1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
 
-`216.131.67.250 strongvpn.com`
+2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。
 
-`216.131.67.250 intranet.strongvpn.com`
+3.完成之后清空浏览器缓存、刷新浏览器，然后[点击获取StrongVPN官网优惠](https://linkv.org/strong)。
 
-`104.16.55.111 support.strongvpn.com`
+完成之后，就可以正常访问官网和使用服务了。
 
-`216.131.124.181 links.strongvpn.com`
-
-保存之后刷新浏览器，然后[点击获取StrongVPN官网优惠](https://linkv.org/strong)。
+如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有59500个IP地址。名气在中国相比[ExpressVPN](#1-expressvpn)相对没那么出名，但是在国外也是排名TOP 10的大牌服务商，从18年开始也开始重视开发中国市场，售后服务也很不错，它也和ExpressVPN一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告（[官网搜索](https://linkv.org/strong) “What is the best VPN configuration for China?”），但是遗憾的是StrongVPN在中国还没有镜像域名，需要修改hosts文件才能打开官网，方法和教程如上面所示，很简单，只需2步。
 
@@ -338,15 +336,19 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 >2020年2月使用，确认可用。
 
->镜像官网再次被屏蔽，打开官网需梯子，或者改Host文件，很简单,方法[查看这篇文章](https://github.com/vpncn/vpncn.github.io/blob/master/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6.md)或者自己百度。
+国内打开NordVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
 
-国内访问官网，需要在Host文件末尾加入2行：
+国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**（手机用户建议在电脑上打开本页面操作）：
 
-`54.171.39.37 go.nordvpn.net`
+1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
 
-`54.171.39.37 nordvpn.net`
+2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。
 
-保存之后刷新浏览器，然后[点击获取NordVPN官网优惠](http://linkv.org/nord)。
+3.完成之后清空浏览器缓存、刷新浏览器，然后[点击获取NordVPN官网优惠](http://linkv.org/nord)。
+
+完成之后，就可以正常访问官网和使用服务了。
+
+如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
 
 NordVPN在全球范围内应该是为数不多的能和ExpressVPN抗衡的服务商之一，在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前客户端直连翻墙**建议连接新出的服务器**，服务器越新连通率越高，速度也快，点击日本、新加坡、英国、加拿大这些服务器(如下图)。学会使用OpenVPN手动配置，很简单，官网有教程，它的速度和稳定性会更高，敏感时期**配合用OpenVPN或IKEV2进行手动配置**可以保证全年95%左右的可用率。
 
@@ -420,19 +422,19 @@ PandaVPN总部在美国，相比其他几家来说要小众一些，所以价格
 
 >2020年2月使用，确认可用，但没有亮点，体验中规中矩，有些节点能连上，但网速不算快。Mac用户不推荐使用这款。
 
->官网被屏蔽，无镜像网站，打开官网需梯子或者改Host文件，很简单，改Host方法[查看这篇文章](https://github.com/vpncn/vpncn.github.io/blob/master/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6.md)或者自己百度。
+国内打开PureVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
 
-国内访问官网，需要在Host文件末尾加入4行：
+国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**（手机用户建议在电脑上打开本页面操作）：
 
-`104.18.76.57 billing.purevpn.com`
+1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
 
-`104.16.113.39 www.purevpn.com`
+2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。
 
-`104.18.193.71 my.purevpn.com`
+3.完成之后清空浏览器缓存、刷新浏览器，然后[点击获取PureVPN官网优惠](https://linkv.org/pure)。
 
-`45.33.3.7 affiliates.purevpn.com`
+完成之后，就可以正常访问官网和使用服务了。
 
-保存之后刷新浏览器，然后[点击获取PureVPN官网优惠](https://linkv.org/pure)。
+如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
 
 PureVPN也是一家老牌服务商，成立2006年，总部设在香港，在全球的180+个地区拥有2000+台服务器，线路很多，但在中国不是所有节点能用，我测试的结果是30%的节点大部分时候还是可用的，特殊时期可以手动配置翻墙。在中国的网络速度、稳定性目前来说对比前几位算一般，就我去年的体验来说客户端连不上的时间加起来有一个多月左右，差不多85%的全年可用率，如果你在敏感时期用OpenVPN手动配置的话全年可用率会更高一些。
 
@@ -464,15 +466,19 @@ PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保�
 
 >2020年2月测试，确认可用，但速度较慢，客服说正在改进服务器，看后续表现再更新。
 
->官网在国内被屏蔽，无镜像网站，打开官网需梯子或者改Host文件，很简单,方法[查看这篇文章](https://github.com/vpncn/vpncn.github.io/blob/master/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6.md)或者自己百度。
+国内打开IVacy官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
 
-国内访问官网，需要在Host文件末尾加入2行：
+国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**（手机用户建议在电脑上打开本页面操作）：
 
-`104.18.200.99 www.ivacy.com`
+1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
 
-`104.17.69.88 billing.ivacy.com`
+2.Windows用户移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。
 
-保存之后刷新浏览器，然后[点击获取官网优惠](https://linkv.org/ivacy)。
+3.完成之后清空浏览器缓存、刷新浏览器，然后[获取IVacy官网优惠](https://linkv.org/ivacy)。
+
+完成之后，就可以正常访问官网和使用服务了。
+
+如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
 
 >**注意**:使用Windows客户端的用户可以叫客服发给你China prime版本的客户端进行登录，这个是中国用户版本。
 
