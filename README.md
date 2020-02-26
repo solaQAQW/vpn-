@@ -38,7 +38,7 @@
 
 但VPN与其他的翻墙软件有一些不同，主要特点是VPN会对通信数据进行加密，能保护用户的隐私数据，特别是在网络封锁的国家，使用者更为安全。其实VPN最开始不是用来翻墙的，VPN始于国外，在国外是一个正规的IT产业，需求对象是公司的机密通信和注重信息安全的个人，它的核心任务是保障用户的数据安全，国内用户使用它翻墙只是近年来衍生出的次要任务。
 
-国外的个人用户主要是在连接公共WiFi的时候，有些恶意的公共WiFi提供者会截取连接此WiFi的通信数据并窃取机密信息，VPN则可以对数据进行加密，即使被截取也只是得到一堆无意义的乱码，以此来防止信息被窃取，所以才有了VPN这样一项服务。只是在中国，个人用户才利用VPN技术进行翻墙，但是国产的“VPN”没有行业监管，一般不会对数据进行加密，而且基本都会保留用户的访问数据，据国外媒体Financial Times爆料，还能在苹果App Store和Google Play下载的<a rel="nofollow noopener" href="https://www.zdnet.com/article/many-free-mobile-vpn-apps-are-based-in-china-or-have-chinese-ownership/" target="_blank">大量国产翻墙软件被证实是中国ZF所控制</a>，极大可能为钓鱼的“VPN”，这些软件很可能记录用户的活动日志方面的信息，而且研究者发现，他们会与中国大陆的第三方共享用户的传输数据，记录用户的活动日志并传输到可能受到政府监管的第三方服务器，这就造成了使用者信息和法律安全的隐患，简单点说，如果你使用了这类翻墙软件，你在翻墙时访问了哪些网站，发布了什么信息，以及你真实的网络地址，甚至包括手机号、定位信息（手机上使用）都会被ZF掌握。所以说真正能实现保障用户数据传输安全的VPN服务都是在国外。翻墙的安全性问题日趋重要，但是很少有人关注这点。在中国ZF的监管下，App Store的中国商店早就全面下架各大VPN服务了，监管也越来越严，为什么还有一些国产山寨“VPN”还能在上面泛滥？其实想想也明白，他们很可能是在政府默许和控制下的，会提供用户活动日志给国内的第三方机构，以便检查和监控。
+国外的个人用户主要是在连接公共WiFi的时候，有些恶意的公共WiFi提供者会截取连接此WiFi的通信数据并窃取机密信息，VPN则可以对数据进行加密，即使被截取也只是得到一堆无意义的乱码，以此来防止信息被窃取，所以才有了VPN这样一项服务。只是在中国，个人用户才利用VPN技术进行翻墙，但是国产的“VPN”没有行业监管，一般不会对数据进行加密，而且基本都会保留用户的访问数据，据国外媒体Financial Times爆料，还能在苹果App Store和Google Play下载的<a rel="nofollow noopener" href="http://linkv.org/express" target="_blank">大量国产翻墙软件被证实是中国ZF所控制</a>，极大可能为钓鱼的“VPN”，这些软件很可能记录用户的活动日志方面的信息，而且研究者发现，他们会与中国大陆的第三方共享用户的传输数据，记录用户的活动日志并传输到可能受到政府监管的第三方服务器，这就造成了使用者信息和法律安全的隐患，简单点说，如果你使用了这类翻墙软件，你在翻墙时访问了哪些网站，发布了什么信息，以及你真实的网络地址，甚至包括手机号、定位信息（手机上使用）都会被ZF掌握。所以说真正能实现保障用户数据传输安全的VPN服务都是在国外。翻墙的安全性问题日趋重要，但是很少有人关注这点。在中国ZF的监管下，App Store的中国商店早就全面下架各大VPN服务了，监管也越来越严，为什么还有一些国产山寨“VPN”还能在上面泛滥？其实想想也明白，他们很可能是在政府默许和控制下的，会提供用户活动日志给国内的第三方机构，以便检查和监控。
 
 除了正规的VPN服务，其他翻墙软件唯一作用就是帮助国内用户翻墙。自己租用服务器搭建翻墙工具仅仅自己用的话，理论上是安全的，但现在服务器ip被墙的太多，费时费力，想尝试的朋友可以去试试，我自己不推荐。我不能确定其他翻墙软件绝对都是不安全的，但在国内网络封锁的大环境下催生出来的翻墙软件行业游走在灰色地带，没有正规化的运营，缺乏行业监管和约束，很多都是个人或小团队运作，这就很难保障用户的数据安全了，唯一能做的就是希望翻墙软件的提供者能有良好的道德。
 
@@ -139,11 +139,11 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 >注意：因为防火长城会不断迭代更新，致使很多VPN接二连三遭受屏蔽。下列的几款VPN，都经过我长期的使用和测试，对防火长城封锁的应对最快，能比较快速地进行软件和节点的更新，能满足国内用户长期使用的需求。另外，该文章会不断更新，请收藏本页面以便以后查看。
 
-## 1.<a rel="nofollow noopener" href="https://www.mmasfny.com/?a_fid=fastwebcn&offer=3monthsfree" target="_blank"> ExpressVPN</a>
+## 1.<a rel="nofollow noopener" href="http://linkv.org/express" target="_blank"> ExpressVPN</a>
 
 >2020年2月使用，确认可用。
 
-[![ExpressVPN](/image/express-min.png)](https://www.mmasfny.com/?a_fid=fastwebcn&offer=3monthsfree)
+[![ExpressVPN](/image/express-min.png)](http://linkv.org/express)
 
 ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN，绝对是VPN排名第一。
 
@@ -228,7 +228,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 >
 >**推荐用户**：对速度和稳定性有要求的用户、iPhone用户首选
 
-### <center><a rel="nofollow noopener" href="https://www.mmasfny.com/?a_fid=fastwebcn&offer=3monthsfree" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
+### <center><a rel="nofollow noopener" href="http://linkv.org/express" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
 
 >**注意**：官网镜像网站打开速度有时不快，耐心等待一下，如果页面加载不正常，如排版乱掉，可以试试重新点击进入或者刷新下页面。如果镜像站链接打不开，这种情况一般是镜像网站被墙，官网一般在当天会放出新的镜像站，请收藏本文后等一段时间再打开。
 
@@ -237,7 +237,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 其他品牌续费获得优惠的操作方法也是一样的，因为一般年套餐的优惠只对新帐号开放，为了避免被系统认为是重复注册，需要清除浏览器cookie记录或者换一个浏览器再进行注册。
 
 
-## 2.<a rel="nofollow noopener" href="https://strongvpn.com/?tr_aid=5e51d8882415d" target="_blank"> StrongVPN</a>
+## 2.<a rel="nofollow noopener" href="http://linkv.org/strong" target="_blank"> StrongVPN</a>
 
 [![StrongVPN](/image/strong-logo.png)](#2-strongvpn)
 
@@ -255,7 +255,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 
 `216.131.124.181 links.strongvpn.com`
 
-保存之后刷新浏览器，然后[点击获取StrongVPN官网优惠](https://strongvpn.com/?tr_aid=5e51d8882415d)。
+保存之后刷新浏览器，然后[http://linkv.org/strong](https://strongvpn.com/?tr_aid=5e51d8882415d)。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有59500个IP地址。名气在中国相比[ExpressVPN](#1-expressvpn)相对没那么出名，但是在国外也是排名TOP 10的大牌服务商，从18年开始也开始重视开发中国市场，售后服务也很不错，它也和ExpressVPN一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告（[官网搜索](https://strongvpn.com/?tr_aid=5e51d8882415d) “What is the best VPN configuration for China?”），但是遗憾的是StrongVPN在中国还没有镜像域名，需要修改hosts文件才能打开官网，方法和教程如上面所示，很简单，只需2步。
 
@@ -332,7 +332,7 @@ StrongVPN虽然没有中国的镜像官网，但是对在中国用户反应的�
 
 StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
-## 3.<a rel="nofollow noopener" href="https://go.nordvpn.net/aff_c?offer_id=177&aff_id=6186&url_id=631" target="_blank"> NordVPN</a>
+## 3.<a rel="nofollow noopener" href="http://linkv.org/nord" target="_blank"> NordVPN</a>
 
 [![NordVPN](/image/nord-min.png)](#3-nordvpn)
 
@@ -346,7 +346,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 `54.171.39.37 nordvpn.net`
 
-保存之后刷新浏览器，然后[点击获取NordVPN官网优惠](https://go.nordvpn.net/aff_c?offer_id=177&aff_id=6186&url_id=631)。
+保存之后刷新浏览器，然后[点击获取NordVPN官网优惠](http://linkv.org/nord)。
 
 NordVPN在全球范围内应该是为数不多的能和ExpressVPN抗衡的服务商之一，在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前客户端直连翻墙**建议连接新出的服务器**，服务器越新连通率越高，速度也快，点击日本、新加坡、英国、加拿大这些服务器(如下图)。学会使用OpenVPN手动配置，很简单，官网有教程，它的速度和稳定性会更高，敏感时期**配合用OpenVPN或IKEV2进行手动配置**可以保证全年95%左右的可用率。
 
@@ -378,11 +378,11 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 >注：在敏感时期，使用NordVPN最好能结合官网的教程进行OpenVPN手动配置，iOS设备上用手动ikev2，手动配置的节点比APP直连的稳定性高很多。另一个需要注意的地方是如果遇到连接或者下载问题随时联系在线客服，让售后给你备用服务器地址。
 
-## 4.<a rel="nofollow noopener" href="https://www.pancerra.xyz/r/13023030" target="_blank"> PandaVPN</a>
+## 4.<a rel="nofollow noopener" href="http://linkv.org/panda" target="_blank"> PandaVPN</a>
 
 >2020年2月使用，确认可用。
 
-[![PandaVPN](/image/panda-min.png)](https://www.pancerra.xyz/r/13023030)
+[![PandaVPN](/image/panda-min.png)](http://linkv.org/panda)
 
 >这款是我前几个月发现的黑马，虽然创办时间相对另外几个老牌服务商不算长，但是不管是连接成功率还是速度上来说，在我使用的这几个月还是不错的。
 
@@ -414,7 +414,7 @@ PandaVPN总部在美国，相比其他几家来说要小众一些，所以价格
 
 付款方式主要包含支付宝、Visa信用卡、PayPal等和7天退款政策。
 
-## 5.<a rel="nofollow noopener" href="https://billing.purevpn.com/aff.php?aff=32147" target="_blank"> PureVPN</a>
+## 5.<a rel="nofollow noopener" href="http://linkv.org/pure" target="_blank"> PureVPN</a>
 
 [![PureVPN](/image/pure-min.png)](#5-purevpn)
 
@@ -432,7 +432,7 @@ PandaVPN总部在美国，相比其他几家来说要小众一些，所以价格
 
 `45.33.3.7 affiliates.purevpn.com`
 
-保存之后刷新浏览器，然后[点击获取PureVPN官网优惠](https://billing.purevpn.com/aff.php?aff=32147)。
+保存之后刷新浏览器，然后[点击获取PureVPN官网优惠](http://linkv.org/pure)。
 
 PureVPN也是一家老牌服务商，成立2006年，总部设在香港，在全球的180+个地区拥有2000+台服务器，线路很多，但在中国不是所有节点能用，我测试的结果是30%的节点大部分时候还是可用的，特殊时期可以手动配置翻墙。在中国的网络速度、稳定性目前来说对比前几位算一般，就我去年的体验来说客户端连不上的时间加起来有一个多月左右，差不多85%的全年可用率，如果你在敏感时期用OpenVPN手动配置的话全年可用率会更高一些。
 
@@ -458,7 +458,7 @@ PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保�
 
 >Mac电脑用户只能用手动配置连接，Mac的APP客户端很难用，不推荐Mac用户使用。
 
-## 6.<a rel="nofollow noopener" href="https://billing.ivacy.com/page/91435" target="_blank"> IVacy</a>
+## 6.<a rel="nofollow noopener" href="http://linkv.org/ivacy" target="_blank"> IVacy</a>
 
 [![IVacy](/image/ivacy-logo.png)](#6-ivacy)
 
@@ -472,7 +472,7 @@ PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保�
 
 `104.17.69.88 billing.ivacy.com`
 
-保存之后刷新浏览器，然后[点击获取官网优惠](https://billing.ivacy.com/page/91435)。
+保存之后刷新浏览器，然后[点击获取官网优惠](http://linkv.org/ivacy)。
 
 >**注意**:使用Windows客户端的用户可以叫客服发给你China prime版本的客户端进行登录，这个是中国用户版本。
 
@@ -496,7 +496,7 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 ## 不要入坑的VPN
 
-### 1.[VyprVPN](https://www.getvy.net/zh/vyprvpn/special/vpn-premium-promo?offer_id=227&aff_id=3919&TDMBG)
+### 1.[VyprVPN](http://linkv.org/vypr)
 
 如果你看到其他人推荐VyprVPN，不要再入坑了。这款VPN目前在中国虽然也能勉强使用，但稳定性很差。我个人的使用体验是**前2年**在中国很是不错的，速度和稳定性都不错，被屏蔽后修复也快，现在给我的感觉是在中国**比较难用**，速度和稳定性都不如以前了。我近期测试的VyprVPN，经常连接不上，有时连上了速度也是时快时慢，有时容易掉线。
 
