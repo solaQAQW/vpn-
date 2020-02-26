@@ -27,6 +27,34 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 ### 2.2 如何修改Hosts
 
+**方法一：**
+
+国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**（手机用户建议在电脑上打开本页面操作）：
+
+1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
+
+2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。
+
+3.完成之后清空浏览器缓存、刷新浏览器。
+
+完成之后，就可以正常访问官网和使用服务了。
+
+**打开VPN官网测试：**
+
+>如果还是打不开，请关闭浏览器再重新进入此页面点击下方链接进入官网。
+
+
+1. [**获取StrongVPN官网优惠**](https://linkv.org/strong)
+
+2. [**获取NordVPN官网优惠**](http://linkv.org/nord)
+
+3. [点击获取PureVPN官网优惠](https://linkv.org/pure)
+
+4. [点击获取IVacy官网优惠](https://linkv.org/ivacy)
+
+
+**方法二：**
+
 以Windows系统为例，打开文件夹C:\Windows\System32\drivers\etc，把 hosts文件**移动到桌面**，打开方式选择记事本。
 
 [![hosts](hosts-open.png)](#22-如何修改hosts)
@@ -67,15 +95,13 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 ### 3.PureVPN
 
-插入这4行：
+插入这3行：
 
 `104.18.76.57 billing.purevpn.com`
 
 `104.16.113.39 www.purevpn.com`
 
 `104.18.193.71 my.purevpn.com`
-
-`45.33.3.7 affiliates.purevpn.com`
 
 添加完成后保存，然后刷新浏览器，[点击获取PureVPN官网优惠](https://linkv.org/pure)，应该可以打开官网了。
 
