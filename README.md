@@ -108,7 +108,7 @@
 
 PureVPN在你注册后系统会给你分配一个客户端的登录名和密码，在“`Account Details`”查看，登录名以“purevpn0s”开头，密码可以自己改。
 
-PandaVPN、IVacy、Nord和VyprVPN都是下载安装客户端后，输入注册时的邮箱密码登陆就行了。
+StrongVPN、PandaVPN、Nord、Pure和IVacy都是下载安装客户端后，输入注册时的邮箱密码登陆就行了。
 
 ### 安卓Android手机客户端
 
