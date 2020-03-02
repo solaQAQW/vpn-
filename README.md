@@ -137,7 +137,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 ## 1.<a rel="nofollow noopener" href="https://linkv.org/express" target="_blank"> ExpressVPN</a>
 
->2020年2月使用，确认可用。
+>2020年3月使用，确认可用。
 
 [![ExpressVPN](/image/express-min.png)](https://linkv.org/express)
 
@@ -237,7 +237,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 
 [![StrongVPN](/image/strong-logo.png)](#2-strongvpn)
 
->2020年2月测试，确认能用，稳定性不错，大部分节点都能直连。
+>2020年3月使用，确认能用，稳定性不错，大部分节点都能直连。
 
 ### 如何打开StrongVPN官网？
 
@@ -336,7 +336,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 [![NordVPN](/image/nord-min.png)](#3-nordvpn)
 
->2020年2月使用，确认可用。
+>2020年2月使用，确认可用，建议连接日本的最新出来的节点。
 
 ### 如何打开NordVPN官网？
 
@@ -386,7 +386,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 ## 4.<a rel="nofollow noopener" href="http://linkv.org/panda" target="_blank"> PandaVPN</a>
 
->2020年2月使用，确认可用。
+>2020年3月使用，确认可用。
 
 [![PandaVPN](/image/panda-min.png)](http://linkv.org/panda)
 
@@ -424,7 +424,7 @@ PandaVPN总部在美国，相比其他几家来说要小众一些，所以价格
 
 [![PureVPN](/image/pure-min.png)](#5-purevpn)
 
->2020年2月使用，确认可用，但没有亮点，体验中规中矩，有些节点能连上，但网速不算快。Mac用户不推荐使用这款。
+>2020年2月测试，确认可用，但没有亮点，体验中规中矩，有些节点能连上，但网速不算快。Mac用户不推荐使用这款。
 
 国内打开PureVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
 
