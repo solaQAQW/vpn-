@@ -253,9 +253,9 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 
 如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
 
-StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有59500个IP地址。名气在中国相比[ExpressVPN](#1-expressvpn)相对没那么出名，但是在国外也是排名TOP 10的大牌服务商，从18年开始也开始重视开发中国市场，售后服务也很不错，它也和ExpressVPN一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告（[官网搜索](https://linkv.org/strong) “What is the best VPN configuration for China?”），但是遗憾的是StrongVPN在中国还没有镜像域名，需要修改hosts文件才能打开官网，方法和教程如上面所示，很简单，只需2步。
+StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有59500个IP地址。名气在中国相比[ExpressVPN](#1-expressvpn)相对没那么出名，但是在国外也是排名前列的大牌服务商，从前几年开始也开始重视开发中国市场，售后服务也很不错，它也和ExpressVPN一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告（[官网查找](https://linkv.org/strong) “What is the best VPN configuration for China?”），在Google上查找这款VPN相关的信息发现它过去几年在中国一直可用，但是遗憾的是StrongVPN在中国还没有镜像域名，需要修改hosts文件才能打开官网，方法和教程如上面所示，很简单，只需2步。
 
-这款VPN是我在19年初使用了一个月并在之后续费了一年，总体来讲，在去年1年的使用时间里，全年可用率能达到95%左右，服务器经常更新，直接通过客户端APP直连就行了，不用自己手动设置，能连接的节点比ExpressVPN多一些，稳定性两者都差不多，但是速度较ExpressVPN稍慢一些，不过打开网页和看Youtube视频也够用，无论是电脑还是手机（包括iPhone和安卓）APP客户端的**使用体验和稳定性在我使用的VPN软件中仅次于ExpressVPN**。
+这款VPN是我在19年初使用了一个月并在之后续费了一年，总体来讲，在去年1年的使用时间里，全年可用率能达到95%左右，服务器经常更新，每次登陆客户端都会自动检测服务器更新。使用的时候直接通过客户端APP一键连接就行了，不用自己手动设置，能连接的节点比ExpressVPN多一些，建立连接所需的时间和稳定性两者都差不多，但是速度较ExpressVPN稍慢一些，不过打开网页和看Youtube视频也够用，无论是电脑还是手机（包括iPhone和安卓）APP客户端的**使用体验和稳定性在我使用的VPN软件中仅次于ExpressVPN**，对于大多数人来说，性价比略高于ExpressVPN。
 
 StrongVPN的Windows客户端界面
 
@@ -318,7 +318,7 @@ StrongVPN的Windows客户端界面
 
 - 注重中国市场
 
-StrongVPN虽然没有中国的镜像官网，但是对在中国用户反应的连接问题很重视，能始终在防火墙升级后以最快的速度修复在中国的连接问题，一般在2-3个工作日能恢复使用。
+StrongVPN虽然没有中国的镜像官网，但是对在中国用户反应的连接问题很重视，能始终在防火墙升级后以最快的速度更新服务器，修复在中国的连接问题，一般在2-3个工作日能恢复使用。
 
 - 加密技术/隐私保护
 
