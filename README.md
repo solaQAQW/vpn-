@@ -186,12 +186,16 @@ ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且
 在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
 
 - Hong Kong–5
-- Japan–Tokyo–3
+- Japan - Yokohama
 - Singapore–Marina Bay
 - Hong Kong–4
 - USA–Los Angeles–4
 - USA–Los Angeles–5
-- USA–Santa Monica/HollyWood（不是官方推荐经常也能连接）
+- USA–Santa Monica
+- UK - Wembley
+- Canada - Toronto - 2
+- France - Strasbourg
+- Germany - Nuremberg
 
 除了上面那些优化过的服务器线路，**中国用户也可以改为“`L2TP – IPsec`”协议使用其它的服务器线路**，但是其他那些服务器没有经过混淆算法优化，速度和稳定性可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。我们最近对官方推荐的节点进行了测试，测试的网络环境是：
 
@@ -309,7 +313,7 @@ StrongVPN的Windows客户端界面
 
 - 台湾
 
-还有欧洲的很多节点也可以连接。
+还有其他很多节点也可以连接，我就不一一说明了，需要你自己去测试。
 
 在防火长城升级的敏感时期，可以更改为IPSec的协议作为备用选择，等2-3个工作日官方更新了服务器，就可以继续使用OpenVPN协议了。
 
