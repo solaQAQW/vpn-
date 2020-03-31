@@ -44,13 +44,11 @@ Android/iPhone/Mac/Linux: /etc/hosts
 >如果还是打不开，请关闭浏览器再重新进入此页面点击下方链接进入官网。
 
 
-1. [**获取StrongVPN官网优惠**](https://linkv.org/strong)
+1. [**获取NordVPN官网优惠**](http://linkv.org/nord)
 
-2. [**获取NordVPN官网优惠**](http://linkv.org/nord)
+2. [点击获取PureVPN官网优惠](https://linkv.org/pure)
 
-3. [点击获取PureVPN官网优惠](https://linkv.org/pure)
-
-4. [点击获取IVacy官网优惠](https://linkv.org/ivacy)
+3. [点击获取IVacy官网优惠](https://linkv.org/ivacy)
 
 
 **方法二：**
@@ -69,21 +67,9 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 >如果还是打不开，请关闭浏览器再重新进入此页面点击下方链接进入官网。
 
-### 1.StrongVPN
 
-插入这4行：
 
-`216.131.67.250 strongvpn.com`
-
-`216.131.67.250 intranet.strongvpn.com`
-
-`104.16.55.111 support.strongvpn.com`
-
-`216.131.124.181 links.strongvpn.com`
-
-添加完成后保存，刷新浏览器，点击[**获取StrongVPN官网优惠**](https://linkv.org/strong)，应该可以打开官网了。
-
-### 2.NordVPN
+### 1.NordVPN
 
 插入这2行：
 
@@ -93,7 +79,7 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 添加完成，保存然后[**获取NordVPN官网优惠**](http://linkv.org/nord)。
 
-### 3.PureVPN
+### 2.PureVPN
 
 插入这3行：
 
@@ -105,7 +91,7 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 添加完成后保存，然后刷新浏览器，[点击获取PureVPN官网优惠](https://linkv.org/pure)，应该可以打开官网了。
 
-### 4.IVacy
+### 3.IVacy
 
 插入这2行：
 
