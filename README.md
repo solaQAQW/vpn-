@@ -140,7 +140,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 >2020年3月使用，确认可用。
 
-**<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看ExpressVPN最新测评</a>**
+**<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看ExpressVPN最新节点速度测试报告</a>**
 
 [![ExpressVPN](/image/express-min.png)](https://linkv.org/express)
 
@@ -249,7 +249,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 
 >2020年3月使用，确认可用，建议连接日本的最新出来的节点。
 
-**<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看NordVPN最新测评</a>**
+**<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看NordVPN最新节点速度测试报告</a>**
 
 ### 如何打开NordVPN官网？
 
