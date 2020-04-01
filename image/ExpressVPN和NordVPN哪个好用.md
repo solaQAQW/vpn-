@@ -12,9 +12,10 @@
 2. ExpressVPN（Windows10+App直连+IKEv2）;
 3. NordVPN（Windows10+App直连+混淆协议关闭）；
 
->唠叨：我一直希望转达一个信息给各位读者：在可见的未来，防火墙将一直存在；有此墙存在，中国境内用户使用任何一款VPN或其它工具都是一个动态的过程，不存在一劳永逸的方法。
+>唠叨一句：我一直希望转达一个信息给各位读者：在可见的未来，防火墙将一直存在；有此墙存在，中国境内用户使用任何一款VPN或其它工具都是一个动态的过程，不存在一劳永逸的方法。
 
-本地测试网络及设备：Windows10/200M电信宽带/有线连接；
+本地测试网络及设备：Windows10/200M电信宽带/有线连接，测速软件为SpeedTest。 
+
 首先我先对本地速度进行一个测试，这样可以为连接VPN后的速度做一个对比参考。如下图所示。
 
 [![Windows10-本地网速测试-SpeedTest-20200331](test-img/Windows10-本地网速测试-SpeedTest-20200331.jpg)](#)
@@ -67,7 +68,7 @@ Germany – Nuremberg：1次连接成功；(SpeedTest Ping：410ms)
 
 Hong Kong – 2：1次连接成功；(SpeedTest Ping：227ms)
 
-[![Windows10-Express-HK-4-20200331](test-img/Windows10-Express-HK-4-20200331.jpg)](#)
+[![Windows10-Express-HK-2-20200331](test-img/Windows10-Express-IKEv2-HK-2-20200331.jpg)](#)
 
 Japan – Tokyo – 2：1次连接成功；(SpeedTest Ping：201ms)
 
@@ -147,7 +148,7 @@ NordVPN官网地址：**<a rel="nofollow noopener" href="http://linkv.org/nord" 
 
 测试节点一：“United States” – USA #4318：连接成功；(SpeedTest Ping：280ms)
 
-[![Windows10-Nord-混淆关闭-USA-2987-20200331](test-img/Windows10-Nord-混淆关闭-USA-2987-20200331.jpg)](#)
+[![Windows10-Nord-混淆关闭-USA-4318-20200331](test-img/Windows10-Nord-混淆关闭-USA-4318-20200331.jpg)](#)
 
 **总结**：今天将NordVPN的“混淆协议关闭”后在进行连接测试，效果非常棒！因为之前在“混淆协议”的服务器中能连接成功服务器只有USA #7144和Japan #2093。但是现在却可以连接更多的服务器，我以上只是测试了部分的情况，如果你有时间可以尝试更多地区的服务器连接。这次测试我没有对“混淆协议开启”进行测试，但根据“混淆协议关闭”也是可以连接成功USA #7144和Japan #2093这两个服务器的，我想开启状态应该也是没有问题的。
 
