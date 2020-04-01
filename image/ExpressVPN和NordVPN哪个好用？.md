@@ -1,5 +1,5 @@
 
-# ExpressVPN和NordVPN哪个好用？ - 最新中国翻墙测试报告
+# ExpressVPN和NordVPN哪个好用？- 最新中国翻墙测试报告
 
 本测试报告会长期进行测试，敬请收藏以便以后查看。
 
