@@ -77,6 +77,8 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 `54.171.39.37 nordvpn.net`
 
+`18.207.28.166 get.affiliatescn.net`
+
 添加完成，保存然后[**获取NordVPN官网优惠**](http://linkv.org/nord)。
 
 ### 2.PureVPN
