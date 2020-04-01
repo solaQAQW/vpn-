@@ -10,7 +10,7 @@
 
 本文作者常年在国内出差，由于生活和工作需要，手机和PC上安装了上10个付费翻墙APP备用，担心出差途中不能翻墙和公共网络的安全性，所有我比较关注这类翻墙软件在不同网络环境下的稳定性和隐私数据的安全性。根据自己过去2年的测试和使用体验，对几种国内流行的翻墙技术做出对比，读者可根据自己的实际情况选择翻墙工具。
 
-其实就今天来看，VPN加密翻墙依然是最适合国人的主流科学上网工具，同样也是我重点关注和测试的。如果你不想多磨叽，想快速、直接选择一款VPN就能翻墙，<a rel="nofollow noopener" href="https://linkv.org/express" target="_blank">直接购买ExpressVPN</a>，在国内使用体验最好，也是我自己最喜欢的VPN产品。设备支持最全面，已经运营了12年（至2020年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。它在中国使用并不完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的VPN中最快的之一。 如果你是新手小白或者想了解更多翻墙方法的信息，请依次往下看，尤其是关于**翻墙的安全性问题**，这个问题日趋严重，且关系到每个互联网用户的信息安全和法律风险，但是目前却少有人关注。
+其实就今天来看，VPN加密翻墙依然是最适合国人的主流科学上网工具，同样也是我重点关注和测试的。如果你不想多磨叽，想快速、直接选择一款VPN就能翻墙，<a rel="nofollow noopener" href="https://linkv.org/express" target="_blank">直接购买ExpressVPN</a>(<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看最新测评</a>)，在国内使用体验最好，也是我自己最喜欢的VPN产品。设备支持最全面，已经运营了12年（至2020年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。它在中国使用并不完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的VPN中最快的之一。 如果你是新手小白或者想了解更多翻墙方法的信息，请依次往下看，尤其是关于**翻墙的安全性问题**，这个问题日趋严重，且关系到每个互联网用户的信息安全和法律风险，但是目前却少有人关注。
 
 > ## 本文内容导航
 > ### 1. [翻墙软件与VPN的区别 – 翻墙的安全性问题](#翻墙软件与vpn的区别--翻墙的安全性问题)
@@ -140,6 +140,8 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 >2020年3月使用，确认可用。
 
+**<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看ExpressVPN最新测评</a>**
+
 [![ExpressVPN](/image/express-min.png)](https://linkv.org/express)
 
 ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN产品，绝对是VPN排名第一。
@@ -246,6 +248,8 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 [![NordVPN](/image/nord-min.png)](#2-nordvpn)
 
 >2020年3月使用，确认可用，建议连接日本的最新出来的节点。
+
+**<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看NordVPN最新测评</a>**
 
 ### 如何打开NordVPN官网？
 
