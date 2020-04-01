@@ -28,53 +28,69 @@
 **以下测试连接采用的协议：Automatic（自动）**
 
 Hong Kong – 4：1次连接成功；(SpeedTest Ping：236ms)
+
 [![Windows10-Express-HK-4-20200331](test-img/Windows10-Express-HK-4-20200331.jpg)](#)
 
 Singapore – Marina Bay：1次连接成功；(SpeedTest Ping：311ms)
+
 [![Windows10-Express-Singapore-Marina-Bay-20200331](test-img/Windows10-Express-Singapore-Marina-Bay-20200331.jpg)](#)
 
 Japan – Yokohama：1次连接成功；(SpeedTest Ping：103ms)
+
 [![Windows10-Express-Japan-Yokohama-20200331](test-img/Windows10-Express-Japan-Yokohama-20200331.jpg)](#)
 
 USA – Los Angeles – 5：1次连接成功；(SpeedTest Ping：231ms)
+
 [![Windows10-Express-USA-Los-Angeles-5-20200331](test-img/Windows10-Express-USA-Los-Angeles-5-20200331.jpg)](#)
 
 UK – Wembley：1次连接成功；(SpeedTest Ping：332ms)
+
 [![Windows10-Express-UK-Wembley-20200331](test-img/Windows10-Express-UK-Wembley-20200331.jpg)](#)
 
 USA – Santa Monica：1次连接成功；(SpeedTest Ping：177ms)
+
 [![Windows10-Express-USA-Santa-Monica-20200331](test-img/Windows10-Express-USA-Santa-Monica-20200331.jpg)](#)
 
 Canada – Toronto – 2：1次连接成功-秒连；(SpeedTest Ping：379ms)
+
 [![Windows10-Express-Canada-Toronto-2-20200331](test-img/Windows10-Express-Canada-Toronto-2-20200331.jpg)](#)
 
 France – Strasbourg：1次连接成功；(SpeedTest Ping：402ms)
+
 [![Windows10-Express-France-Strasbourg-20200331](test-img/Windows10-Express-France-Strasbourg-20200331.jpg)](#)
 
 Germany – Nuremberg：1次连接成功；(SpeedTest Ping：410ms)
+
 [![Windows10-Express-Germany-Nuremberg-20200331](test-img/Windows10-Express-Germany-Nuremberg-20200331.jpg)](#)
 
 以下测试连接采用的协议：IKEv2
 
 Hong Kong – 2：1次连接成功；(SpeedTest Ping：227ms)
+
 [![Windows10-Express-HK-4-20200331](test-img/Windows10-Express-HK-4-20200331.jpg)](#)
 
 Japan – Tokyo – 2：1次连接成功；(SpeedTest Ping：201ms)
+
 [![Windows10-Express-IKEv2-Japan-Tokyo-2-20200331](test-img/Windows10-Express-IKEv2-Japan-Tokyo-2-20200331.jpg)](#)
 
 Singapore – CBD：1次连接成功；(SpeedTest Ping：595ms)
+
 [![Windows10-Express-IKEv2-Singapore-CBD-20200331](test-img/Windows10-Express-IKEv2-Singapore-CBD-20200331.jpg)](#)
 
 Australia – Melbourne：1次连接成功；(SpeedTest Ping：439ms)
+
 [![Windows10-Express-IKEv2-Australia-Melbourne-20200331](test-img/Windows10-Express-IKEv2-Australia-Melbourne-20200331.jpg)](#)
 
 USA – Los Angeles – 4：1次连接成功；(SpeedTest Ping：719ms)
+
 [![Windows10-Express-IKEv2-USA-Los-Angeles-4-20200331](test-img/Windows10-Express-IKEv2-USA-Los-Angeles-4-20200331.jpg)](#)
 
 USA – Chicago：1次连接成功；(SpeedTest Ping：533ms)
+
 [![Windows10-Express-IKEv2-USA-Chicago-20200331](test-img/Windows10-Express-IKEv2-USA-Chicago-20200331.jpg)](#)
 
 USA – Denver：1次连接成功；(SpeedTest Ping：466ms)
+
 [![Windows10-Express-IKEv2-USA-Denver-20200331](test-img/Windows10-Express-IKEv2-USA-Denver-20200331.jpg)](#)
 
 **总结**：今日在Windows10中对ExpressVPN进行测试。通过“自动”和“IKEv2”两种协议进行连接都可以非常顺利的完成。自动协议的测试，服务器选择是针对官方推荐的服务器。而IKEv2则是随机选择服务器进行测试。具体测试的速度大家可以看上面的实际情况。
@@ -96,28 +112,41 @@ NordVPN官网地址：**<a rel="nofollow noopener" href="http://linkv.org/nord" 
 >之前有读者给我反馈说，如果关闭混淆协议可以连接更多的服务器，我想尝试一下，看看效果如何。
 
 测试节点一：“Quick connect” – USA #7144：连接成功；(SpeedTest Ping：432ms)
+
 [![Windows10-Nord-混淆关闭-USA-7144-20200331](test-img/Windows10-Nord-混淆关闭-USA-7144-20200331.jpg)](#)
 
 测试节点一第二次连：“Quick connect” – USA #7144：连接成功；(相同服务器 不测速)
+
 测试节点二：“Quick connect” – Taiwan #34…：连接失败；(长时间连接中状态)
+
 测试节点三：“Quick connect” – USA #7144：连接成功；(相同服务器 不测速)
+
 测试节点四：“Quick connect” – Japan #2093：连接成功；(SpeedTest Ping：249ms)
+
 [![Windows10-Nord-混淆关闭-Japan-2093-20200331](test-img/Windows10-Nord-混淆关闭-Japan-2093-20200331.jpg)](#)
 
 测试节点五：“Japan” – Japan #2093：连接成功；(相同服务器 不测速)
+
 测试节点六：“Germany” – Japan #2093：连接成功；(相同服务器 不测速)
+
 测试节点一：“Hong Kong” – USA #7144：连接成功；(相同服务器 不测速)
+
 测试节点一：“Canada” – USA #7144：连接成功；(相同服务器 不测速)
+
 测试节点一：“United Kingdom” – UK #1400：连接成功；(SpeedTest Ping：422ms)
+
 [![Windows10-Nord-混淆关闭-UK-1400-20200331](test-img/Windows10-Nord-混淆关闭-UK-1400-20200331.jpg)](#)
 
 测试节点一：“United States” – USA #3354：连接成功；(SpeedTest Ping：383ms)
+
 [![Windows10-Nord-混淆关闭-USA-3354-20200331](test-img/Windows10-Nord-混淆关闭-USA-3354-20200331.jpg)](#)
 
 测试节点一：“United States” – USA #2987：连接成功；(SpeedTest Ping：332ms)
+
 [![Windows10-Nord-混淆关闭-USA-2987-20200331](test-img/Windows10-Nord-混淆关闭-USA-2987-20200331.jpg)](#)
 
 测试节点一：“United States” – USA #4318：连接成功；(SpeedTest Ping：280ms)
+
 [![Windows10-Nord-混淆关闭-USA-2987-20200331](test-img/Windows10-Nord-混淆关闭-USA-2987-20200331.jpg)](#)
 
 **总结**：今天将NordVPN的“混淆协议关闭”后在进行连接测试，效果非常棒！因为之前在“混淆协议”的服务器中能连接成功服务器只有USA #7144和Japan #2093。但是现在却可以连接更多的服务器，我以上只是测试了部分的情况，如果你有时间可以尝试更多地区的服务器连接。这次测试我没有对“混淆协议开启”进行测试，但根据“混淆协议关闭”也是可以连接成功USA #7144和Japan #2093这两个服务器的，我想开启状态应该也是没有问题的。
