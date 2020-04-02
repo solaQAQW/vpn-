@@ -138,7 +138,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 ## 1.<a rel="nofollow noopener" href="https://linkv.org/express" target="_blank"> ExpressVPN</a>
 
->2020年3月使用，确认可用。
+>2020年4月使用，确认可用。
 
 **<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看ExpressVPN最新节点速度测试报告</a>**
 
@@ -252,6 +252,8 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 **<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看NordVPN最新节点速度测试报告</a>**
 
 ### 如何打开NordVPN官网？
+
+>**最新提示**：***目前Nord官网在国内的访问已经修复，如果不能访问官网请参照下列方法。***
 
 国内打开NordVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
 
