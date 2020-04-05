@@ -1,14 +1,2 @@
-title: 翻墙软件VPN推荐指南(含2020优惠)
-SEOTitle: 翻墙软件VPN推荐指南(含2020优惠)
-description: "科学上网与翻墙方法"
-keyword: "翻墙软件, vpn推荐, 中国VPN, 科学上网"
-url: "https://vpncn.github.io/"          # your host, for absolute URL
-github_repo: "https://github.com/vpncn/vpncn.github.io" # you code repository
-
-# Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: 
-
 google_analytics: UA-105027784-6
 theme: jekyll-theme-cayman
