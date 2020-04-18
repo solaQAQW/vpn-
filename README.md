@@ -138,7 +138,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 ## 1.<a rel="nofollow noopener" href="https://linkv.org/express" target="_blank"> ExpressVPN</a>
 
->2020年4月使用，确认可用。
+>2020年4月使用，确认可用，使用体验在我测试使用的几款中表现最好。
 
 [![ExpressVPN](/image/express-min.png)](https://linkv.org/express)
 
