@@ -1,6 +1,6 @@
 # 翻墙软件VPN推荐指南(含2020优惠)
 
-最近更新：`2020年4月25日`
+最近更新：`2020年5月2日`
 
 >翻墙（科学上网）重不重要？不会翻墙回不了Gmail邮件，不能Google找程序代码，不翻墙能不能看YouTube视频？Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。我在国内针对中国国际互联网用户的翻墙软件进行测试和评价，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具。
 
@@ -138,7 +138,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 ## 1.<a rel="nofollow noopener" href="https://linkv.org/express" target="_blank"> ExpressVPN</a>
 
->2020年4月使用，确认可用，使用体验在我测试使用的几款中表现最好。
+>2020年5月使用，确认可用，使用体验在我测试使用的几款中表现最好。
 
 [![ExpressVPN](/image/express-min.png)](https://linkv.org/express)
 
