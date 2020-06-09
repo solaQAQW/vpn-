@@ -246,7 +246,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 
 [![NordVPN](/image/nord-min.png)](#2-nordvpn)
 
->2020年6月使用，确认可用，建议连接美国、日本等地区最新出来的节点，可参考下方最新的测试报告页面。
+>2020年5月使用，确认可用，但可用节点不多，建议连接美国、日本等地区最新出来的节点，可参考下方最新的测试报告页面。
 
 **<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看NordVPN最新节点速度测试报告</a>**
 
