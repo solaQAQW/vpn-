@@ -1,6 +1,6 @@
 # 翻墙软件VPN推荐指南(含2020优惠)
 
-最近更新：`2020年6月9日`
+最近更新：`2020年6月21日`
 
 >翻墙（科学上网）重不重要？不会翻墙回不了Gmail邮件，不能Google找程序代码，不翻墙能不能看YouTube视频？Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。我在国内针对中国国际互联网用户的翻墙软件进行测试和评价，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具。
 
@@ -190,7 +190,6 @@ ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且
 - USA–Los Angeles–4
 - USA–Los Angeles–5
 - USA–Santa Monica
-- UK - Wembley
 - Canada - Toronto - 2
 - France - Strasbourg
 - Germany - Nuremberg
@@ -302,7 +301,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 [![IVacy](/image/ivacy-logo.png)](#3-ivacy)
 
->2020年5月测试，确认可用，但速度和连接成功率一般，客服说即将升级服务器，这方面表现会有提高。
+>2020年5月测试，确认可用，但速度和连接成功率一般。
 
 ### 如何打开IVacy官网？
 
