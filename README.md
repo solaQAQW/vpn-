@@ -1,6 +1,6 @@
 # 翻墙软件VPN推荐指南(含2020优惠)
 
-最近更新：`2020年6月21日`
+最近更新：`2020年6月29日`
 
 >翻墙（科学上网）重不重要？不会翻墙回不了Gmail邮件，不能Google找程序代码，不翻墙能不能看YouTube视频？Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。我在国内针对中国国际互联网用户的翻墙软件进行测试和评价，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具。
 
@@ -26,9 +26,9 @@
 >### 7. [适合在中国使用的翻墙软件VPN，国内实测](#适合在中国使用的翻墙软件vpn国内实测)
 >>#### 7.1 [ExpressVPN](#1-expressvpn)
 >>#### 7.2 [NordVPN](#2-nordvpn)
->>#### 7.3 [IVacy](#3-ivacy)
->>#### 7.4 [PureVPN](#4-purevpn)
->>#### 7.5 [PandaVPN](#5-pandavpn)
+>>#### 7.3 [PureVPN](#3-purevpn)
+>>#### 7.4 [PandaVPN](#4-pandavpn)
+>>#### 7.5 [IVacy](#5-ivacy)
 >
 >### 8.[不要入坑的VPN](#不要入坑的vpn)
 >### 9. [翻墙软件VPN推荐的标准](#翻墙软件vpn推荐的标准)
@@ -297,50 +297,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 >注：在敏感时期，使用NordVPN最好能结合官网的教程进行OpenVPN手动配置，iOS设备上用手动ikev2，手动配置的节点比APP直连的稳定性高很多。另一个需要注意的地方是如果遇到连接或者下载问题随时联系在线客服，让售后给你备用服务器地址。
 
-## 3.<a rel="nofollow noopener" href="https://linkv.org/ivacy" target="_blank"> IVacy</a>
-
-[![IVacy](/image/ivacy-logo.png)](#3-ivacy)
-
->2020年5月测试，确认可用，但速度和连接成功率一般。
-
-### 如何打开IVacy官网？
-
-国内打开IVacy官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
-
-国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**（手机用户建议在电脑上打开本页面操作）：
-
-1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
-
-2.Windows用户移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。
-
-3.完成之后清空浏览器缓存、刷新浏览器，然后[获取IVacy官网优惠](https://linkv.org/ivacy)。
-
-完成之后，就可以正常访问官网和使用服务了。
-
-如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
-
->**注意**:使用Windows客户端的用户可以叫客服发给你China prime版本的客户端进行登录，这个是中国用户版本。
-
-IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点了，一般VPN商家都会限制设备数量。
-
-- 注重中国市场
-
-在全球拥70+地区拥有服务器，中文支持也不错。
-
-- 安全性和匿名
-
-同样是具有军用级的加密技术，可以通过VPN实现匿名隐藏IP以及DNS隐藏等，最大限度的保护隐私安全。
-
-- 掉线切换机制
-
-在使用的过程中，VPN掉线是无法避免的事情，IVacy实现了高效的网络切换。通过多个服务器的切换，这样也保证了隐私和匿名。
-
-- 7*24小时技术支持
-
-在使用过程中如果遇到问题，可以在任意时刻联系他们的客户服务团队。
-
-
-## 4.<a rel="nofollow noopener" href="https://linkv.org/pure" target="_blank"> PureVPN</a>
+## 3.<a rel="nofollow noopener" href="https://linkv.org/pure" target="_blank"> PureVPN</a>
 
 [![PureVPN](/image/pure-min.png)](#4-purevpn)
 
@@ -385,7 +342,7 @@ PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保�
 >Mac电脑用户只能用手动配置连接，Mac的APP客户端很难用，不推荐Mac用户使用。
 
 
-## 5.<a rel="nofollow noopener" href="http://linkv.org/panda" target="_blank"> PandaVPN</a>
+## 4.<a rel="nofollow noopener" href="http://linkv.org/panda" target="_blank"> PandaVPN</a>
 
 >2020年5月测试，确认可用。
 
@@ -416,6 +373,48 @@ PandaVPN由中文团队开发，所以对中文支持很好，相比其他几家
 虽然不像其他几个大型VPN商家有一个月左右的的退款时限，但是如果有问题的话，基本上使用7天内就能发现了。
 
 付款方式主要包含支付宝、Visa信用卡、PayPal等和7天退款政策。
+
+## 5.<a rel="nofollow noopener" href="https://linkv.org/ivacy" target="_blank"> IVacy</a>
+
+[![IVacy](/image/ivacy-logo.png)](#3-ivacy)
+
+>2020年5月测试，确认可用，但速度和连接成功率一般。
+
+### 如何打开IVacy官网？
+
+国内打开IVacy官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
+
+国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**（手机用户建议在电脑上打开本页面操作）：
+
+1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
+
+2.Windows用户移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。
+
+3.完成之后清空浏览器缓存、刷新浏览器，然后[获取IVacy官网优惠](https://linkv.org/ivacy)。
+
+完成之后，就可以正常访问官网和使用服务了。
+
+如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
+
+>**注意**:使用Windows客户端的用户可以叫客服发给你China prime版本的客户端进行登录，这个是中国用户版本。
+
+IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点了，一般VPN商家都会限制设备数量。
+
+- 注重中国市场
+
+在全球拥70+地区拥有服务器，中文支持也不错。
+
+- 安全性和匿名
+
+同样是具有军用级的加密技术，可以通过VPN实现匿名隐藏IP以及DNS隐藏等，最大限度的保护隐私安全。
+
+- 掉线切换机制
+
+在使用的过程中，VPN掉线是无法避免的事情，IVacy实现了高效的网络切换。通过多个服务器的切换，这样也保证了隐私和匿名。
+
+- 7*24小时技术支持
+
+在使用过程中如果遇到问题，可以在任意时刻联系他们的客户服务团队。
 
 ## 不要入坑的VPN
 
