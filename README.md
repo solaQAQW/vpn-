@@ -2,6 +2,8 @@
 
 最近更新：`2020年7月25日`
 
+由于Github在国内部分网络中图片加载存在问题，为了有更好的阅读体验，建议下载<a rel="nofollow noopener" href="http://linkv.org/nord" target="_blank">2020版翻墙VPN推荐指南PDF版本</a>，以备不时之需。
+
 >翻墙（科学上网）重不重要？不会翻墙回不了Gmail邮件，不能Google找程序代码，不翻墙能不能看YouTube视频？Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。我在国内针对中国国际互联网用户的翻墙软件进行测试和评价，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具。
 
 [![翻墙VPN推荐](/image/wall-min.png "梯子")](#翻墙软件vpn推荐指南)
@@ -261,7 +263,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 
 2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。
 
-3.完成之后清空浏览器缓存、刷新浏览器，然后[点击获取NordVPN官网优惠](http://linkv.org/nord)。
+3.完成之后清空浏览器缓存、刷新浏览器，然后<a rel="nofollow noopener" href="http://linkv.org/nord" target="_blank"> 点击获取NordVPN官网优惠</a>。
 
 完成之后，就可以正常访问官网和使用服务了。
 
