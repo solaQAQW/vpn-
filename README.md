@@ -2,7 +2,7 @@
 
 最近更新：`2020年7月25日`
 
-由于Github在国内部分网络中图片加载存在问题，为了有更好的阅读体验，建议下载<a rel="nofollow noopener" href="http://linkv.org/nord" target="_blank">2020版翻墙VPN推荐指南PDF版本</a>，以备不时之需。
+由于Github在国内部分网络中图片加载存在问题，为了有更好的阅读体验，建议下载<a rel="nofollow noopener" href="https://linkv.org/download/推荐指南.pdf" target="_blank">2020版翻墙VPN推荐指南PDF版本</a>，以备不时之需。
 
 >翻墙（科学上网）重不重要？不会翻墙回不了Gmail邮件，不能Google找程序代码，不翻墙能不能看YouTube视频？Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。我在国内针对中国国际互联网用户的翻墙软件进行测试和评价，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具。
 
