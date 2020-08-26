@@ -1,6 +1,6 @@
 # 翻墙软件VPN推荐指南(含2020优惠)
 
-最近更新：`2020年8月19日`
+最近更新：`2020年8月25日`
 
 由于Github在国内部分地区网络中图片加载存在问题，为了有更好的阅读体验，建议下载<a rel="nofollow noopener" href="https://linkv.org/download/推荐指南.pdf" target="_blank">2020版翻墙VPN推荐指南PDF版本</a>(右键另存)，以备不时之需。
 
@@ -44,7 +44,7 @@
 
 除了正规的VPN服务，其他翻墙软件唯一作用就是帮助国内用户翻墙。自己租用服务器搭建翻墙工具仅仅自己用的话，理论上是安全的，但现在服务器ip被墙的太多，费时费力，想尝试的朋友可以去试试，我自己不推荐。我不能确定其他翻墙软件绝对都是不安全的，但在国内网络封锁的大环境下催生出来的翻墙软件行业游走在灰色地带，没有正规化的运营，缺乏行业监管和约束，很多都是个人或小团队运作，这就很难保障用户的数据安全了，唯一能做的就是希望翻墙软件的提供者能有良好的道德。
 
-尤其对于翻墙用户来说，防止通信数据被跟踪和窃取都是很有必要的，但是很多人使用360浏览器、猎豹、UC、QQ浏览器、百度浏览器等国产的浏览器，对于翻墙的用户来说，应该尽量避免在翻墙时使用国产浏览器，在官网上下载的Chrome、Firefox是可以的，但是在第三方网站下载的就有后门漏洞风险了。**我的选择是使用Chrome+Brave浏览器**，<a rel="nofollow noopener" href="https://brave.com/vpn055" target="_blank">Brave浏览器</a>作为<a rel="noopener" href="https://www.cepingtu.com/vpn-browser-for-china/" target="_blank">翻墙时的浏览器</a>，因为翻墙时网页加载的速度比Chrome还快，且防跟踪和隐私保护，Chrome用来日常上网。
+尤其对于翻墙用户来说，防止通信数据被跟踪和窃取都是很有必要的，但是很多人使用360浏览器、猎豹、UC、QQ浏览器、百度浏览器等国产的浏览器，对于翻墙的用户来说，应该尽量避免在翻墙时使用国产浏览器，在官网上下载的Chrome、Firefox是可以的，但是在第三方网站下载的就有后门漏洞风险了。**我使用的浏览器是Chrome+Brave浏览器**，<a rel="nofollow noopener" href="https://brave.com/vpn055" target="_blank">Brave浏览器</a>作为连上VPN的时候用的浏览器，因为翻墙时网页加载的速度比Chrome还快，且防跟踪和隐私保护，Chrome用来日常上网。
 
 ## VPN服务翻墙稳定吗？
 >相比以前，现在国内一款翻墙软件都会在使用一段时间之后被墙，没有任何翻墙工具能在任何时期保证翻墙成功，即使是一线最佳的VPN服务商也只能做到全年95%左右的时间里面正常使用，在国内的敏感时期，它们都有连接不畅、掉线这些问题。但知名、正规的VPN不仅在于信息的安全，还有相对优质的服务和可靠的售后，因为**大型VPN服务商不但技术上有优势，而且能获取的ip资源丰富，能在最短的时间更换ip修复被屏蔽的服务器**。
@@ -245,9 +245,9 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 
 其他品牌续费获得优惠的操作方法也是一样的，因为一般年套餐的优惠只对新帐号开放，为了避免被系统认为是重复注册，需要清除浏览器cookie记录或者换一个浏览器再进行注册。
 
-### 翻墙时的浏览器（重要）
+### 安全的浏览器（重要）
 
-[翻墙的安全性](#翻墙软件与vpn的区别--翻墙的安全性问题)尤为重要，前面已经讲过，翻墙还在使用国产浏览器的朋友赶紧更换，因为国产浏览器可能会留有后门和保存用户的访问记录，具体可以查看<a rel="nofollow noopener" href="https://www.cepingtu.com/vpn-browser-for-china/" target="_blank">翻墙时使用的浏览器</a>。建议大家按我的方案，使用<a rel="nofollow noopener" href="https://brave.com/vpn055" target="_blank">Brave浏览器</a>（官网在国内被墙）在翻墙时使用，这款浏览器完全防跟踪和保护隐私，免费且快速；平时使用Chrome作为日常上网，前提是Chrome是在Google官网下载的，第三方平台很多留有后门。另外，我是设置了Split Tunneling的，Brave浏览器走VPN流量，Chrome走本地流量。
+[翻墙的安全性](#翻墙软件与vpn的区别--翻墙的安全性问题)尤为重要，前面已经讲过，翻墙还在使用国产浏览器的朋友赶紧更换，因为国产浏览器可能会留有后门和保存用户的访问记录，具体可以查看<a rel="noopener" href="https://www.cepingtu.com/vpn-browser-for-china/" target="_blank">翻墙时使用的浏览器</a>。建议大家按我的方案，**使用<a rel="nofollow noopener" href="https://brave.com/vpn055" target="_blank">Brave浏览器</a>（官网在国内被墙）在连上VPN时使用**，这款浏览器完全防跟踪和保护隐私，免费且快速；**平时使用Chrome作为日常上网**，前提是Chrome是在Google官网下载的，第三方平台很多留有后门。另外，我是设置了Split Tunneling的，Brave浏览器走VPN流量，Chrome走本地流量。
 
 ## 2.<a rel="nofollow noopener" href="http://linkv.org/nord" target="_blank"> NordVPN</a>
 
