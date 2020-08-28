@@ -26,11 +26,12 @@
 >### 5. [什么VPN适合中国用户？](#什么vpn适合中国用户)
 >### 6.[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 >### 7. [适合在中国使用的翻墙软件VPN，国内实测](#适合在中国使用的翻墙软件vpn国内实测)
->>#### 7.1 [ExpressVPN](#1-expressvpn)
->>#### 7.2 [NordVPN](#2-nordvpn)
->>#### 7.3 [PureVPN](#3-purevpn)
->>#### 7.4 [PandaVPN](#4-pandavpn)
->>#### 7.5 [IVacy](#5-ivacy)
+>>#### 7.1 [ExpressVPN-中国使用体验最佳](#1-expressvpn--中国使用体验最佳--中国使用体验最佳)
+>>#### 7.2 [StrongVPN-性价比最佳](#2-strongvpn--性价比最佳--性价比最佳)
+>>#### 7.3 [NordVPN](#3-nordvpn)
+>>#### 7.4 [PureVPN](#4-purevpn)
+>>#### 7.5 [PandaVPN](#5-pandavpn)
+>>#### 7.6 [IVacy](#6-ivacy)
 >
 >### 8.[不要入坑的VPN](#不要入坑的vpn)
 >### 9. [翻墙软件VPN推荐的标准](#翻墙软件vpn推荐的标准)
@@ -140,11 +141,11 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 >注意：因为防火长城的不断迭代更新，过去几年很多VPN商家接二连三遭受屏蔽或跑路。下列的几款VPN，都经过我长期的使用和测试，对防火长城封锁的应对最快，能比较快速地进行软件客户端和服务器节点的更新，能满足国内用户长期使用的需求。另外，该文章会不断更新，请收藏本页面以便以后查看。
 
-## 1.<a rel="nofollow noopener" href="https://linkv.org/express" target="_blank"> ExpressVPN</a>
+## 1.<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank"> ExpressVPN – 中国使用体验最佳</a>
 
->2020年8月使用，确认可用，使用体验在我测试使用的几款中表现最好。
+>2020年8月使用，确认可用，使用体验在我测试使用的几款中表现最好，最适合在中国使用。
 
-[![ExpressVPN](/image/express-min.png)](https://linkv.org/express)
+[![ExpressVPN](/image/express-min.png)](https://linkv.org/express/)
 
 ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN产品，绝对是VPN排名第一。
 
@@ -180,11 +181,11 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ### ExpressVPN的缺点
 
-[![express-vpn-servers](/image/express-vpn-servers.png)](#1-expressvpn)
+[![express-vpn-servers](/image/express-vpn-servers.png)](#1-expressvpn--中国使用体验最佳)
 
 ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右，现在有限时优惠**买一年送三个月活动，每月$6.67/月**，支持支付宝支付。
 
->适合注重隐私数据保护和较好的使用体验的朋友。如果要求性价比，[NordVPN](#2-nordvpn)应该会更适合你，[NordVPN](#2-nordvpn)要优先连接日本、新加坡、英国、加拿大这些地区新出的服务器节点，速度很快，但敏感时期的稳定性不如ExpressVPN，各方面使用体验Expresss还是好一些。
+>适合注重隐私数据保护和较好的使用体验的朋友。如果要求性价比，[StrongVPN](#2-strongvpn--性价比最佳)应该更适合你，[StrongVPN](#2-strongvpn--性价比最佳)建议优先连接日本、新加坡、韩国、欧洲这些地区新出的服务器节点，速度相对其他节点更快，但整体速度我的体验是不如ExpressVPN，各方面使用体验Expresss还是比StrongVPN好一些。
 
 在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
 
@@ -205,11 +206,11 @@ ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且
 - 路由器：Netgear R7000
 
 部分测试截图如下：
-[![LA5节点测速](/image/express-vpn-la5-2020-01-20.png)](#1-expressvpn)
+[![LA5节点测速](/image/express-vpn-la5-2020-01-20.png)](#1-expressvpn--中国使用体验最佳)
 
 我们连接Los Angeles – 5节点，在Chrome浏览器使用Speedtest进行在线测速，测速结果如下图，可以看到，ping延迟是174ms，还不错，下载速度是50.02Mb/s，上传的速度是12.42Mb/s，观看Youtube高清视频不存在卡顿。
 
-[![sigapore节点测速](/image/expressvpn-sigapore-2020-01-20.png)](#1-expressvpn)
+[![sigapore节点测速](/image/expressvpn-sigapore-2020-01-20.png)](#1-expressvpn--中国使用体验最佳)
 
 测试的Singapore – Marina Bay节点速度也很不错，下载速度测试值为43.78Mb/s，顺便说一下，我们的测试中，ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。总体上来说ExpressVPN是我测试的所有翻墙软件中，在电脑端（Windows、MacBook）和手机端（iPhone、安卓手机）使用体验最好。
 
@@ -221,11 +222,11 @@ ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且
 
 ExpressVPN的客服是业内最好的之一，随时提供网上帮助。此外，ExpressVPN兼容各种常见设备，并且可以配置在路由器上，在电脑（Windows或Mac）和移动设备（iPhone、安卓、平板）上都可以使用，**最多支持5台设备同时在线使用**。
 
-[![ExpressVPN支持设备](/image/express-vpn-devices.png "ExpressVPN支持设备截图")](#1-expressvpn)
+[![ExpressVPN支持设备](/image/express-vpn-devices.png "ExpressVPN支持设备截图")](#1-expressvpn--中国使用体验最佳)
 
 套餐的价格：性价比最高的是1年套餐，同时他们保证30天内使用不满意无条件退款，所以你有足够的时间来测试。
 
-[![ExpressVPN付款方式](/image/express-vpn-payment.png "ExpressVPN付款方式截图")](#1-expressvpn)
+[![ExpressVPN付款方式](/image/express-vpn-payment.png "ExpressVPN付款方式截图")](#1-expressvpn--中国使用体验最佳)
 
 ExpressVPN支持支付宝、银联等多种方式付款。
 
@@ -235,7 +236,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 >
 >**推荐用户**：对速度和稳定性有要求的用户、iPhone用户首选
 
-### <center><a rel="nofollow noopener" href="https://linkv.org/express" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
+### <center><a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
 
 >**注意**：官网镜像网站打开速度有时不快，耐心等待一下，如果页面加载不正常，如排版乱掉，可以试试重新点击进入或者刷新下页面。如果镜像站链接打不开，这种情况一般是镜像网站被墙，官网一般在当天会放出新的镜像站，请收藏本文后等一段时间再打开。
 
@@ -249,9 +250,121 @@ ExpressVPN支持支付宝、银联等多种方式付款。
 
 [翻墙的安全性](#翻墙软件与vpn的区别--翻墙的安全性问题)尤为重要，前面已经讲过，翻墙还在使用国产浏览器的朋友赶紧更换，因为国产浏览器可能会留有后门和保存用户的访问记录，具体可以查看<a rel="noopener" href="https://www.cepingtu.com/vpn-browser-for-china/" target="_blank">翻墙时使用的浏览器</a>。建议大家按我的方案，**使用<a rel="nofollow noopener" href="https://brave.com/vpn055" target="_blank">Brave浏览器</a>（官网在国内被墙）在连上VPN时使用**，这款浏览器完全防跟踪和保护隐私，免费且快速；**平时使用Chrome作为日常上网**，前提是Chrome是在Google官网下载的，第三方平台很多留有后门。另外，我是设置了Split Tunneling的，Brave浏览器走VPN流量，Chrome走本地流量。
 
-## 2.<a rel="nofollow noopener" href="http://linkv.org/nord" target="_blank"> NordVPN</a>
+## 2.<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank"> StrongVPN – 性价比最佳</a>
 
-[![NordVPN](/image/nord-min.png)](#2-nordvpn)
+[![StrongVPN](/image/strong-logo.png)](#2-strongvpn--性价比最佳)
+
+>2020年8月使用，确认可用，可用节点较多，网络速度中规中矩、不算亮点，但性价比不错。
+
+StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
+
+名气在中国相比ExpressVPN相对没那么出名，但是在国外也是排名前列的大牌服务商，从近2年开始也开始重视开发中国市场，售后服务也不错，它也和Express一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告（官网查找 “What is the best VPN configuration for China?”），其实据我了解，这款VPN在过去几年在中国一直可用，只是相对Express略显小众，使用者是以在中国的老外居多。
+
+[![Strong-device](/image/strong-home.png)](#2-strongvpn--性价比最佳)
+
+这款VPN是我在19年初开始使用，总体来讲，在过去1年的使用时间里，全年可用率能达到90%以上，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。在国内的用户可以下载StrongVPN精简版，登录和连接更为顺畅，稍后放上官网的下载链接。除了最基本的VPN套餐，官网还会额外赠送250 GB SugarSync云储存套餐，赠送的服务值不值见仁见智。
+
+使用的时候直接通过客户端APP一键连接就行了，不用自己手动设置，敏感时期可在官网右下角的在线聊天框找客服获取连接方案。能连接的节点比ExpressVPN多一些，建立连接所需的时间两者都差不多，但是网络速度比ExpressVPN慢，不过打开网页和看Youtube视频也基本够用，无论是电脑还是手机（包括iPhone和安卓）APP客户端的使用体验和稳定性在我使用的VPN软件中仅次于ExpressVPN，对于在乎性价比的人来说，是除[ExpressVPN](#1-expressvpn--中国使用体验最佳)外的最佳选择。
+
+如果安装或者连接遇到问题，可以在官网的右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持），咨询客服相关问题，我有几次遇到连接问题都是找技术支持解决的。
+
+### 如何获取StrongVPN？
+
+1.进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>（右键打开），然后点击“Join Now”按钮，进入选择套餐页面：
+
+[![Strong-device](/image/strongvpn-plan-price-min.png)](#如何获取strongvpn)
+
+输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
+
+付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%，优惠码是`TAKEOFF20`**。
+
+[![Strong优惠码](/image/strongvpn-alipay-payment-min.png)](#如何获取strongvpn)
+
+获取优惠码之后的结算页面：
+
+[![Strong优惠码](/image/strongvpn-plan-coupon-price-min.png)](#如何获取strongvpn)
+
+在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，一般就可以直接下载客户端并安装使用了。
+
+如果不能使用，查看是不是支付过程出现了问题，需要登录服务管理页面点击确认支付，点击Invoice，
+
+[![Strong-Invoice](/image/strongvpn-pay-invoice-min.png)](#如何获取strongvpn)
+
+看到自己选择的套餐后显示为unpaid，点击unpaid，
+
+[![Strong-unpaid](/image/strongvpn-unpaid-min.png)](#如何获取strongvpn)
+
+然后在打开的页面选择付款方式，并进行支付，以支付宝为例：
+
+[![Strong-alipay](/image/strongvpn-alipay-min.png)](#如何获取strongvpn)
+
+支付完成页面：
+
+[![Strong-paid](/image/strongvpn-paid-min.png)](#如何获取strongvpn)
+
+### StrongVPN如何使用？
+
+登录进官网用户后台界面后，点击“StrongVPN Clients”下载客户端APP，如果下载速度太慢，取消后重试。
+
+[![Strong客户端下载](/image/strongvpn-client-min.png)](#strongvpn如何使用)
+
+>**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版</a>，这是找官网技术客服推荐给我的，因为标准版的Windows APP首次使用账号登录困难，精简版的更适合在中国使用。**
+
+下载安装APP客户端后，打开输入用户名密码登录就行了，在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
+
+[![Strong客户端标准版](/image/strong-connect.png)](#strongvpn如何使用)
+
+[![Strong客户端精简版](/image/strongvpn-china-client-min.png)](#strongvpn如何使用)
+
+官方建议：Change your VPN connection protocol If changing server did not help you get connected, try changing your protocol. We recommend using OpenVPN via UDP or OpenVPN via TCP configuration for customers in China. If both fails, then try the aforementioned protocols with Scramble feature enabled.
+
+官方的意思也就是说：“在中国使用建议使用OpenVPN的UDP或者TCP协议，当出现连接问题的时候，开启Scramble功能选项。”Scramble功能应该是官方的魔改OpenVPN协议，加入了混淆算法，在敏感时期更容易连接上。
+
+我建议连接这些节点：
+
+- 日本（Japan）
+
+- 韩国（South Korea）
+
+- 新加坡
+
+- 台湾
+
+- 欧洲地区的节点
+
+美国的节点也可以连接，但在我这里相对其他地区慢一些，*网络环境不同最佳节点可能也不一样*，你可以自己测试进行节点的选择。
+
+在防火长城升级的敏感时期，可以更改为IPSec的协议作为备用选择，等2-3个工作日官方更新了服务器，就可以继续使用OpenVPN协议了。
+
+- **支持设备**
+
+同样支持Windows，Mac，iOS，Android这些常见客户端，还支持路由器和安卓系统的电视安装。并且最多支持12台设备同时在线使用。
+
+- **协议支持**
+
+提供L2TP, SSTP, OpenVPN（UDP/TCP,IPSec,IKEv2和 WireGuard，是我使用的VPN服务里面支持协议最多的。
+
+- **注重中国市场**
+
+StrongVPN虽然客户端不支持中文，但是对在在中国的用户反应的连接问题很重视，能始终在防火墙升级后以最快的速度更新服务器，修复在中国的连接问题，一般在2-3个工作日能恢复使用。
+
+- **加密技术/隐私保护
+
+使用目前顶级的AES 256位加密方式，并提供DNS保护。承诺零日志政策，保护用户隐私。
+
+- **客服支持**
+
+在使用过程中遇到任何问题，可以在任何时候点开官网的在线对话框联系售后人员解决，他们是7天24小时在线。
+
+- **30天退款保证**
+
+StrongVPN同样支持30天退款保证，有足够的时间测试使用。
+
+
+
+## 3.<a rel="nofollow noopener" href="https://linkv.org/nord/" target="_blank"> NordVPN</a>
+
+[![NordVPN](/image/nord-min.png)](#3-nordvpn)
 
 >2020年8月使用，确认可用，但目前可用节点不多，建议连接美国、日本等地区最新出来的节点，可参考下方最新的测试报告页面。
 
@@ -279,11 +392,11 @@ NordVPN在全球范围内应该是为数不多的能和ExpressVPN抗衡的服务
 
 NordVPN Windows客户端日本节点：
 
-[![NordVPN-win](/image/nord-win.png)](#2-nordvpn)
+[![NordVPN-win](/image/nord-win.png)](#3-nordvpn)
 
 NordVPN 安卓客户端日本节点：
 
-[![NordVPN-android](/image/nord-android.png)](#2-nordvpn)
+[![NordVPN-android](/image/nord-android.png)](#3-nordvpn)
 
 - 隐私保护
 
@@ -293,7 +406,7 @@ NordVPN拥有军用级别的加密技术，就算在公共场合，使用无加�
 
 NordVPN的客户端APP支持几乎所有网络设备，Windows，Mac，iOS，Android这些常见的系统都有客户端APP。**允许最多6台设备同时在线使用**，NordVPN还具有严格的无日志政策，自动`Kill Switch`开关，DNS泄露防护，`Onion Over VPN`等功能。
 
-[![NordVPN支持设备](/image/nord-devices-min.png)](#2-nordvpn)
+[![NordVPN支持设备](/image/nord-devices-min.png)](#3-nordvpn)
 
 - 全球服务器支持
 
@@ -305,7 +418,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 >注：在敏感时期，使用NordVPN最好能结合官网的教程进行OpenVPN手动配置，iOS设备上用手动ikev2，手动配置的节点比APP直连的稳定性高很多。另一个需要注意的地方是如果遇到连接或者下载问题随时联系在线客服，让售后给你备用服务器地址，进行手动配置，连接成功率和速度我感觉明显要高于APP直连。
 
-## 3.<a rel="nofollow noopener" href="https://linkv.org/pure" target="_blank"> PureVPN</a>
+## 4.<a rel="nofollow noopener" href="https://linkv.org/pure/" target="_blank"> PureVPN</a>
 
 [![PureVPN](/image/pure-min.png)](#4-purevpn)
 
@@ -319,7 +432,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。
 
-3.完成之后清空浏览器缓存、刷新浏览器，然后[点击获取PureVPN官网优惠](https://linkv.org/pure)。
+3.完成之后清空浏览器缓存、刷新浏览器，然后[点击获取PureVPN官网优惠](https://linkv.org/pure/)。
 
 完成之后，就可以正常访问官网和使用服务了。
 
@@ -350,11 +463,11 @@ PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保�
 >Mac电脑用户只能用手动配置连接，Mac的APP客户端很难用，不推荐Mac用户使用。
 
 
-## 4.<a rel="nofollow noopener" href="http://linkv.org/panda" target="_blank"> PandaVPN</a>
+## 5.<a rel="nofollow noopener" href="http://linkv.org/panda/" target="_blank"> PandaVPN</a>
 
 >2020年7月测试，确认可用，体验中规中矩。
 
-[![PandaVPN](/image/panda-min.png)](http://linkv.org/panda)
+[![PandaVPN](/image/panda-min.png)](http://linkv.org/panda/)
 
 >这款我去年开始使用，虽然创办时间相对另外几个老牌服务商不算长，但是不管是连接成功率还是速度上来说，在我使用的这几个月还算OK。
 
@@ -364,11 +477,11 @@ PandaVPN由中文团队开发，所以对中文支持很好，相比其他几家
 
 熊猫VPN创办时间不长，我使用也不到半年，虽然总体体验还行，但是**长期的可用性我还不清楚，总之对于这款，如果想入手，建议先购买短期套餐，觉得不错再续费使用，总之，新创立的小品牌服务质量和售后还要观望，这方面还是比不过已成熟运营多年的大品牌**。
 
-虽说名字是VPN，但我感觉这家的底层技术更类似于SSR，因为客户端里能区分全局代理或分应用代理，官网称有256位加密保护，不过我感觉对于隐私安全的保护可能不如[Express](#1-expressvpn)和Nord，暂且把它作为VPN看待。
+虽说名字是VPN，但我感觉这家的底层技术更类似于SSR，因为客户端里能区分全局代理或分应用代理，官网称有256位加密保护，不过我感觉对于隐私安全的保护可能不如[Express](#1-expressvpn--中国使用体验最佳)和Strong、以及Nord，暂且把它作为VPN看待。
 
 最开始使用体验不错，但近一个月的**稳定性**体验下降了，估计是用的人多了，这方面比ExpressVPN差一些，不过勉强也能接受。
 
-**有用户最近反映PandaVPN退款慢**，如果介意的朋友还是推荐选择[Express](#1-expressvpn)，或者买一个月试用之后再决定是否续费。
+**有用户最近反映PandaVPN退款慢**，如果介意的朋友还是推荐选择[Express](#1-expressvpn--中国使用体验最佳)，或者买一个月试用之后再决定是否续费。
 
 - 安全加密协议
 
@@ -386,9 +499,9 @@ PandaVPN由中文团队开发，所以对中文支持很好，相比其他几家
 
 付款方式主要包含支付宝、Visa信用卡、PayPal等和7天退款政策，不过有小伙伴反映退款慢，要催客服。
 
-## 5.<a rel="nofollow noopener" href="https://linkv.org/ivacy" target="_blank"> IVacy</a>
+## 6.<a rel="nofollow noopener" href="https://linkv.org/ivacy" target="_blank"> IVacy</a>
 
-[![IVacy](/image/ivacy-logo.png)](#3-ivacy)
+[![IVacy](/image/ivacy-logo.png)](#6-ivacy)
 
 >2020年7月测试，速度和连接成功率较低，勉强能凑合用。
 
@@ -442,8 +555,6 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 ## 翻墙软件VPN推荐的标准
 
-[![VPN推荐](/image/standard-min.jpg)](#翻墙软件vpn推荐的标准)
-
 我们的VPN推荐基于这些标准，所以我们也建议大家考虑下面这些选择标准，或者参考上面的VPN排名j及我分享的最新使用信息，而不是盲目的付费购买。
 
 ### 稳定可靠，大品牌
@@ -474,8 +585,6 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 ## 关于VPN的一些问题
 
-[![VPN是什么](/image/question-min.jpg)](#关于vpn的一些问题)
-
 ### VPN的基本原理是什么？
 
 VPN是英文Virtual Private Network的缩写，翻译过来就是虚拟专用网络。VPN最初的设计是为了让世界上任一两台电脑，在一个加密的通道中传输数据，只是在数据上加密了，而不是在硬件上区别开来，所以就称为虚拟。也因此成为了绕过网络封锁的翻墙工具。VPN相比于Shadowsocks来说要更加底层一些，它首先通过操作系统虚拟一张网卡，之后所以的收发数据都通过这张网卡加密。
@@ -489,5 +598,3 @@ VPN是英文Virtual Private Network的缩写，翻译过来就是虚拟专用网
 通过以上对VPN的原理和防火长城的原理，有了一定了解之后，就会发现使用VPN的好处了。首先VPN最初的目的是为了企业之间在不安全的网络上进行安全的数据传输，所有在网络传输的数据都是经过加密的，让我们不用担心被中间人获取，保证了我们的隐私安全，当然首先要保证购买的VPN不会记录用户的访问日志，所以需要选择国际大品牌且信誉较好的商家。当然大部分中国用户把VPN都是当作翻墙软件，因为VPN的特性能够很好的满足翻墙的需求，并且一些有点技术实力的VPN服务商都针对防火长城做了优化，因为近几年墙的检测技术越来越复杂，普通开源协议加密的流量很容易被识别，所以为了能够稳定翻墙，这些VPN商家都开发一些适用于中国网络环境的混淆通讯协议，在日常浏览网站、观看视频或者和朋友通讯的时候，不用担心传输数据受到运营商的监听。
 
 >如果觉得本文有帮助，欢迎收藏，本文会根据使用体验和测试结果实时更新。
-
-
