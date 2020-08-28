@@ -286,11 +286,15 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 
 在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，一般就可以直接下载客户端并安装使用了。
 
-如果不能使用，查看是不是支付过程出现了问题，需要登录服务管理页面点击确认支付，点击Invoice，
+**如果不能使用，查看是不是支付过程出现了问题**，需要<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">登录官网用户后台</a>确认支付，点击“Billing Area”：
+
+[![Strong-billing](/image/strongvpn-billing-min.png)](#如何获取strongvpn)
+
+然后点击最右边的Invoice，
 
 [![Strong-Invoice](/image/strongvpn-pay-invoice-min.png)](#如何获取strongvpn)
 
-看到自己选择的套餐后显示为unpaid，点击unpaid，
+看到自己选择的套餐是否显示为unpaid，点击unpaid，
 
 [![Strong-unpaid](/image/strongvpn-unpaid-min.png)](#如何获取strongvpn)
 
@@ -312,7 +316,11 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 
 下载安装APP客户端后，打开输入用户名密码登录就行了，在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
 
+StrongVPN Windows客户端标准版：
+
 [![Strong客户端标准版](/image/strong-connect.png)](#strongvpn如何使用)
+
+StrongVPN客户端精简版（中国Windows用户推荐）：
 
 [![Strong客户端精简版](/image/strongvpn-china-client-min.png)](#strongvpn如何使用)
 
@@ -332,7 +340,7 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 
 - 欧洲地区的节点
 
-美国的节点也可以连接，但在我这里相对其他地区慢一些，*网络环境不同最佳节点可能也不一样*，你可以自己测试进行节点的选择。
+美国的节点也可以连接，但在我这里相对其他地区慢一些，**网络环境不同最佳节点可能也不一样**，你可以自己测试进行节点的选择。
 
 在防火长城升级的敏感时期，可以更改为IPSec的协议作为备用选择，等2-3个工作日官方更新了服务器，就可以继续使用OpenVPN协议了。
 
