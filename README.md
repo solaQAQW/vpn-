@@ -342,7 +342,7 @@ StrongVPN客户端精简版（中国Windows用户推荐）：
 
 ### Strong速度测试
 
-[![Strong客户端精简版](/image/StrongVPN-speedtest-tokyo-min.png)](#strongvpn速度测试)
+[![Strong客户端精简版](/image/StrongVPN-speedtest-tokyo-min.png)](#strong速度测试)
 
 上面的速度测试图片可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps，速度感觉一般般，浏览网页、看视频够用，但看清晰度为1080P以上的视频会有点卡，这点不如[ExpressVPN](#1-expressvpn--中国使用体验最佳)。
 
