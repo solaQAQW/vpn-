@@ -208,7 +208,7 @@ ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且
 部分测试截图如下：
 [![LA5节点测速](/image/ExpressVPN-speedtest-LA5-min.png)](#1-expressvpn--中国使用体验最佳)
 
-我们连接Los Angeles – 5节点，在Chrome浏览器使用Speedtest进行在线测速，测速结果如下图，可以看到，ping延迟是196ms，还不错，下载速度是56.96Mb/s，上传的速度是16.63Mb/s，观看Youtube高清视频不存在卡顿。
+我们连接Los Angeles – 5节点，在Chrome浏览器使用Speedtest进行在线测速，测速结果如下图，可以看到，ping延迟是196ms，还不错，下载速度是56.96Mb/s，上传的速度是16.53Mb/s，观看Youtube高清视频不存在卡顿。
 
 [![sigapore节点测速](/image/expressvpn-sigapore-min.png)](#1-expressvpn--中国使用体验最佳)
 
