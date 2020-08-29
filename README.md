@@ -206,13 +206,13 @@ ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且
 - 路由器：Netgear R7000
 
 部分测试截图如下：
-[![LA5节点测速](/image/express-vpn-la5-2020-01-20.png)](#1-expressvpn--中国使用体验最佳)
+[![LA5节点测速](/image/ExpressVPN-speedtest-LA5-min.png)](#1-expressvpn--中国使用体验最佳)
 
-我们连接Los Angeles – 5节点，在Chrome浏览器使用Speedtest进行在线测速，测速结果如下图，可以看到，ping延迟是174ms，还不错，下载速度是50.02Mb/s，上传的速度是12.42Mb/s，观看Youtube高清视频不存在卡顿。
+我们连接Los Angeles – 5节点，在Chrome浏览器使用Speedtest进行在线测速，测速结果如下图，可以看到，ping延迟是196ms，还不错，下载速度是56.96Mb/s，上传的速度是16.63Mb/s，观看Youtube高清视频不存在卡顿。
 
-[![sigapore节点测速](/image/expressvpn-sigapore-2020-01-20.png)](#1-expressvpn--中国使用体验最佳)
+[![sigapore节点测速](/image/expressvpn-sigapore-min.png)](#1-expressvpn--中国使用体验最佳)
 
-测试的Singapore – Marina Bay节点速度也很不错，下载速度测试值为43.78Mb/s，顺便说一下，我们的测试中，ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。总体上来说ExpressVPN是我测试的所有翻墙软件中，在电脑端（Windows、MacBook）和手机端（iPhone、安卓手机）使用体验最好。
+测试的Singapore – Marina Bay节点速度也很不错，下载速度测试值为42.14Mb/s，顺便说一下，我们的测试中，ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。总体上来说ExpressVPN是我测试的所有翻墙软件中，在电脑端（Windows、MacBook）和手机端（iPhone、安卓手机）使用体验最好，尤其是网络速度方面。
 
 **<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看ExpressVPN最新节点速度测试报告</a>**
 
@@ -228,13 +228,13 @@ ExpressVPN的客服是业内最好的之一，随时提供网上帮助。此外�
 
 [![ExpressVPN付款方式](/image/express-vpn-payment.png "ExpressVPN付款方式截图")](#1-expressvpn--中国使用体验最佳)
 
-ExpressVPN支持支付宝、银联等多种方式付款。
+ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 
 >**2020最新提示**：ExpressVPN在国内电脑端（Windows/Mac OS）和手机端（iOS/安卓）的APP客户端直接一键连接就行了，不用自己手动配置。
 >
 >另外，ExpressVPN在国内使用的稳定性也非常不错，在目前防火长城不断升级的大环境下，能保证95%以上的稳定使用时间，按照过去2年的使用经验，一般3个月左右服务器可能会暂时被屏蔽几天，但改用L2TP协议的服务器还能使用，而且官方每次的应对很快，2-3个工作日会推出更新版本，更新客户端就可以继续使用了。
 >
->**推荐用户**：对速度和稳定性有要求的用户、iPhone用户首选
+>**推荐用户**：对速度和稳定性有要求的用户、iPhone和Mac用户首选
 
 ### <center><a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
 
@@ -272,7 +272,7 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 
 3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank"> 点击获取StrongVPN优惠</a>。
 
-完成之后，就可以正常访问官网和使用客户端了。
+完成之后，就可以正常访问官网和使用客户端了。购买后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 
 如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
 
