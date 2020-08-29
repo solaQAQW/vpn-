@@ -340,6 +340,12 @@ StrongVPN客户端精简版（中国Windows用户推荐）：
 
 [![Strong客户端精简版](/image/strongvpn-china-client-min.png)](#strongvpn如何使用)
 
+### Strong速度测试
+
+[![Strong客户端精简版](/image/StrongVPN-speedtest-tokyo-min.png)](#strongvpn速度测试)
+
+上面的速度测试图片可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps，速度感觉一般般，浏览网页、看视频够用，但看清晰度为1080P以上的视频会有点卡，这点不如[ExpressVPN](#1-expressvpn--中国使用体验最佳)。
+
 官方建议：Change your VPN connection protocol If changing server did not help you get connected, try changing your protocol. We recommend using OpenVPN via UDP or OpenVPN via TCP configuration for customers in China. If both fails, then try the aforementioned protocols with Scramble feature enabled.
 
 官方的意思也就是说：“在中国使用建议使用OpenVPN的UDP或者TCP协议，当出现连接问题的时候，开启Scramble功能选项。”Scramble功能应该是官方的魔改OpenVPN协议，加入了混淆算法，在敏感时期更容易连接上。
