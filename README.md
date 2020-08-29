@@ -205,6 +205,8 @@ ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且
 - 电信100M 无线WiFi
 - 路由器：Netgear R7000
 
+**测试时间：**2020年8月
+
 部分测试截图如下：
 [![LA5节点测速](/image/ExpressVPN-speedtest-LA5-min.png)](#1-expressvpn--中国使用体验最佳)
 
@@ -213,8 +215,6 @@ ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且
 [![sigapore节点测速](/image/expressvpn-sigapore-min.png)](#1-expressvpn--中国使用体验最佳)
 
 测试的Singapore – Marina Bay节点速度也很不错，下载速度测试值为42.14Mb/s，顺便说一下，我们的测试中，ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。总体上来说ExpressVPN是我测试的所有翻墙软件中，在电脑端（Windows、MacBook）和手机端（iPhone、安卓手机）使用体验最好，尤其是网络速度方面。
-
-**<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看ExpressVPN最新节点速度测试报告</a>**
 
 综合评价：这款VPN是我经常使用的一款，从16年开始使用到现在，其客户端的美观简洁、服务的稳定性、连接速度在我们测试的所有VPN产品中属于一流，可称得上是在国内最好用的翻墙VPN。在我们的测试中，ExpressVPN几乎没有对我们的网速造成任何影响，浏览网页、观看YouTube十分流畅。ExpressVPN的服务器遍布全球94个国家，并且对使用流量和带宽没有任何限制。
 
@@ -342,9 +342,11 @@ StrongVPN客户端精简版（中国Windows用户推荐）：
 
 ### Strong速度测试
 
+**测试时间：**2020年8月
+
 [![Strong客户端精简版](/image/StrongVPN-speedtest-tokyo-min.png)](#strong速度测试)
 
-上面的速度测试图片可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps，速度感觉一般般，浏览网页、看视频够用，但看清晰度为1080P以上的视频会有点卡，这点不如[ExpressVPN](#1-expressvpn--中国使用体验最佳)。
+这是最近我使用StrongVPN时的测试结果，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps，速度感觉一般般，浏览网页、看视频够用，但看清晰度为1080P以上的视频会有点卡，这点不如[ExpressVPN](#1-expressvpn--中国使用体验最佳)。
 
 官方建议：Change your VPN connection protocol If changing server did not help you get connected, try changing your protocol. We recommend using OpenVPN via UDP or OpenVPN via TCP configuration for customers in China. If both fails, then try the aforementioned protocols with Scramble feature enabled.
 
