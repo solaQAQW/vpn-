@@ -262,7 +262,9 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 
 ### 如何打开StrongVPN官网？
 
-很遗憾，Strong官网在中国被墙，国内打开StrongVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单，国内Windows/Mac用户可以直接下载hosts文件解锁本文中所有VPN官网，手机用户建议在电脑上打开本页面操作，因为手机由于系统改host操作较麻烦，下面是操作步骤：
+有梯子的同学直接可访问<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">官网</a>，但没梯子的同学注意，Strong官网在中国被墙，国内打开StrongVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
+
+方法很简单，国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**，手机用户建议在电脑上打开本页面操作，因为手机由于系统版本原因改host操作较麻烦，下面是操作步骤：
 
 1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
 
