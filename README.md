@@ -260,6 +260,20 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 
 名气在中国相比ExpressVPN相对没那么出名，但是在国外也是排名前列的大牌服务商，从近2年开始也开始重视开发中国市场，售后服务也不错，它也和Express一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告（官网查找 “What is the best VPN configuration for China?”），其实据我了解，这款VPN在过去几年在中国一直可用，只是相对Express略显小众，使用者是以在中国的老外居多。
 
+### 如何打开StrongVPN官网？
+
+很遗憾，Strong官网在中国被墙，国内打开StrongVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单，国内Windows/Mac用户可以直接下载hosts文件解锁本文中所有VPN官网，手机用户建议在电脑上打开本页面操作，因为手机由于系统改host操作较麻烦，下面是操作步骤：
+
+1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
+
+2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
+
+3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank"> 点击获取StrongVPN优惠</a>。
+
+完成之后，就可以正常访问官网和使用客户端了。
+
+如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
+
 [![Strong-device](/image/strong-home.png)](#2-strongvpn--性价比最佳)
 
 这款VPN是我在19年初开始使用，总体来讲，在过去1年的使用时间里，全年可用率能达到90%以上，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。在国内的用户可以下载StrongVPN精简版，登录和连接更为顺畅，稍后放上官网的下载链接。除了最基本的VPN套餐，官网还会额外赠送250 GB SugarSync云储存套餐，赠送的服务值不值见仁见智。
@@ -388,11 +402,11 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
 
-2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。
+2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
-3.完成之后清空浏览器缓存、刷新浏览器，然后<a rel="nofollow noopener" href="http://linkv.org/nord" target="_blank"> 点击获取NordVPN官网优惠</a>。
+3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="http://linkv.org/nord" target="_blank"> 点击获取NordVPN官网优惠</a>。
 
-完成之后，就可以正常访问官网和使用服务了。
+完成之后，就可以正常访问官网和使用客户端了。
 
 如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
 
@@ -438,11 +452,11 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
 
-2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。
+2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
 3.完成之后清空浏览器缓存、刷新浏览器，然后[点击获取PureVPN官网优惠](https://linkv.org/pure/)。
 
-完成之后，就可以正常访问官网和使用服务了。
+完成之后，就可以正常访问官网和使用客户端了。
 
 如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
 
@@ -521,11 +535,11 @@ PandaVPN由中文团队开发，所以对中文支持很好，相比其他几家
 
 1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
 
-2.Windows用户移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。
+2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
 3.完成之后清空浏览器缓存、刷新浏览器，然后[获取IVacy官网优惠](https://linkv.org/ivacy)。
 
-完成之后，就可以正常访问官网和使用服务了。
+完成之后，就可以正常访问官网和使用客户端了。
 
 如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
 
