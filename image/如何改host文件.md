@@ -43,13 +43,13 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 >如果还是打不开，请关闭浏览器再重新进入此页面点击下方链接进入官网。
 
-1.[**获取StrongVPN最新优惠**](https://linkv.org/strongcn/)
+- [**获取StrongVPN最新优惠**](https://linkv.org/strongcn/)
 
-2. [**获取NordVPN官网优惠**](https://linkv.org/nord/)
+- [**获取NordVPN官网优惠**](https://linkv.org/nord/)
 
-3. [点击获取PureVPN官网优惠](https://linkv.org/pure/)
+- [点击获取PureVPN官网优惠](https://linkv.org/pure/)
 
-4. [点击获取IVacy官网优惠](https://linkv.org/ivacy/)
+- [点击获取IVacy官网优惠](https://linkv.org/ivacy/)
 
 
 **方法二：** 手动修改
