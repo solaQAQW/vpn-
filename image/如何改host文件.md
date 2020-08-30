@@ -27,7 +27,7 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 ### 2.2 如何修改Hosts
 
-**方法一：**
+**方法一：** 这种最简单
 
 国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**（手机用户建议在电脑上打开本页面操作）：
 
@@ -43,15 +43,16 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 >如果还是打不开，请关闭浏览器再重新进入此页面点击下方链接进入官网。
 
+1.[**获取StrongVPN最新优惠**](https://linkv.org/strongcn/)
 
-1. [**获取NordVPN官网优惠**](http://linkv.org/nord)
+2. [**获取NordVPN官网优惠**](https://linkv.org/nord/)
 
-2. [点击获取PureVPN官网优惠](https://linkv.org/pure)
+3. [点击获取PureVPN官网优惠](https://linkv.org/pure/)
 
-3. [点击获取IVacy官网优惠](https://linkv.org/ivacy)
+4. [点击获取IVacy官网优惠](https://linkv.org/ivacy/)
 
 
-**方法二：**
+**方法二：** 手动修改
 
 以Windows系统为例，打开文件夹C:\Windows\System32\drivers\etc，把 hosts文件**移动到桌面**，打开方式选择记事本。
 
@@ -69,36 +70,50 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 
 
-### 1.NordVPN
+### NordVPN
 
-插入这2行：
+插入这3行：
 
 `54.171.39.37 go.nordvpn.net`
 
 `54.171.39.37 nordvpn.net`
 
-`18.207.28.166 get.affiliatescn.net`
+`52.44.235.100 get.affiliatescn.net`
 
-添加完成，保存然后[**获取NordVPN官网优惠**](http://linkv.org/nord)。
+添加完成，保存然后重启浏览器，[**获取NordVPN官网优惠**](http://linkv.org/nord)。
 
-### 2.PureVPN
+### StrongVPN
+
+插入5行：
+
+`216.131.67.250 strongvpn.com`
+`216.131.67.250 intranet.strongvpn.com`
+`216.131.124.181 links.strongvpn.com`
+`216.131.91.84 affiliate.strongvpn.com`
+`104.16.53.111 support.strongvpn.com`
+
+添加完成，保存然后重启浏览器，[**获取StrongVPN最新优惠**](https://linkv.org/strongcn/)
+
+### PureVPN
 
 插入这3行：
 
-`104.18.76.57 billing.purevpn.com`
+`104.16.37.8 purevpn.com`
+
+`104.18.4.178 billing.purevpn.com`
 
 `104.16.113.39 www.purevpn.com`
 
-`104.18.193.71 my.purevpn.com`
+`104.18.0.55 my.purevpn.com`
 
-添加完成后保存，然后刷新浏览器，[点击获取PureVPN官网优惠](https://linkv.org/pure)，应该可以打开官网了。
+添加完成后保存，然后刷新浏览器，[点击获取PureVPN官网优惠](https://linkv.org/pure/)，应该可以打开官网了。
 
-### 3.IVacy
+### IVacy
 
 插入这2行：
 
 `104.18.200.99 www.ivacy.com`
 
-`104.17.69.88 billing.ivacy.com`
+`104.18.85.5 billing.ivacy.com`
 
-添加完成后保存，然后刷新浏览器，[点击获取IVacy官网优惠](https://linkv.org/ivacy)
+添加完成后保存，然后刷新浏览器，[点击获取IVacy官网优惠](https://linkv.org/ivacy/)
