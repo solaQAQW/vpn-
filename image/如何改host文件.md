@@ -100,11 +100,13 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 ### PureVPN
 
-插入这3行：
+插入这5行：
 
 `104.16.37.8 purevpn.com`
 
 `104.18.4.178 billing.purevpn.com`
+
+`45.33.2.97 affiliates.purevpn.com`
 
 `104.16.113.39 www.purevpn.com`
 
