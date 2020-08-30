@@ -43,7 +43,7 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 >如果还是打不开，请关闭浏览器再重新进入此页面点击下方链接进入官网。
 
-- [**获取StrongVPN最新优惠**](https://linkv.org/strongcn/)
+- [**获取StrongVPN最新优惠**](https://linkv.org/strongcn/)([StrongVPN中国使用提示](https://github.com/vpncn/vpncn.github.io#strongvpn%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8))
 
 - [**获取NordVPN官网优惠**](https://linkv.org/nord/)
 
