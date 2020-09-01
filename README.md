@@ -6,7 +6,7 @@
 
 >翻墙（科学上网）重不重要？不会翻墙回不了Gmail邮件，不能Google找程序代码，不翻墙能不能看YouTube视频？Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。我在国内针对中国国际互联网用户的翻墙软件进行测试和评价，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具。
 
-[![翻墙VPN推荐](https://www.safewebcn.com/img/wall-min.png "梯子")](#翻墙软件vpn推荐指南)
+[![翻墙VPN推荐](https://www.safewebcn.com/img/wall-min.png "梯子")](#%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6vpn%E6%8E%A8%E8%8D%90%E6%8C%87%E5%8D%97%E5%90%AB2020%E4%BC%98%E6%83%A0)
 
 >这篇文章是中国安全翻墙攻略的**详细版**，讨论翻墙软件、科学上网方法和网络安全的相关问题。如果只想快速选个工具来翻墙，直接看[翻墙软件VPN推荐名单](#适合在中国使用的翻墙软件vpn国内实测)。
 
@@ -81,7 +81,7 @@
 ## 买VPS自建翻墙服务器？
 最近2年很流行租用VPS服务器自建翻墙工具，很多有点技术基础的人也在用这种方法，买了VPS服务器，下载安装脚本文件，就能翻墙了。这种方案的好处是服务器独享，仅自己一个人用，如果服务器有CN线路的话速度上也有优势，确实在刚开始我也推荐大家这样做，因为一个人独享一台服务器的资源，而且翻墙的成本也不高。但缺点就是现在IP太容易被墙了，尤其是<a rel="nofollow noopener" href="https://bandwagonhost.com/aff.php?aff=20789" target="_blank">搬瓦工</a>、<a rel="nofollow noopener" href="https://www.vultr.com/?ref=6804316" target="_blank">Vultr</a>和DO这些国内用户众多的机房，因为防火长城不断在升级，对于翻墙流量的识别越来越精准。这些流行且技术含量不高的翻墙方法对于防火长城来说只需一眼就知道你在翻墙，然后导致ip被封，由于使用翻墙的多了，厂商的IP资源是有限的，很多的vps厂商已经不支持免费换IP，即使付费换了IP也不能保证是没被墙的，换来换去结果是防火长城屏蔽的IP越来越多，几个在国内最受欢迎的vps品牌也很难找到可用的IP了，那么服务器就相当于是报废了。近1年我就陆陆续续收到一些读者留言，问买的1年的服务器用了不到2个月被墙了怎么办，有些读者是换了IP也不能用，没办法，这台VPS只能放着吃灰了。在Google上的搜索也主要是IP被墙的问题，比如搬瓦工的热门搜索如下图：
 
-[![Google搜索搬瓦工](/image/bw-google-search.png)](#买vps自建翻墙服务器)
+[![Google搜索搬瓦工](https://www.safewebcn.com/img/bw-google-search.png)](#买vps自建翻墙服务器)
 
 前几年这种翻墙方案性价比还不错，但是就2020年来说，似乎找到未被屏蔽的IP有点困难了，况且付费换一个IP需8美元！以现在防火墙对于翻墙（SS/SSR/VPN等）的流量识别算法，大部分用户不出2个月IP就会被封。
 
@@ -145,7 +145,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 >2020年8月使用，确认可用，使用体验在我测试使用的几款中表现最好，最适合在中国使用。
 
-[![ExpressVPN](/image/express-min.png)](https://linkv.org/express/)
+[![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://linkv.org/express/)
 
 ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN产品，绝对是VPN排名第一。
 
@@ -181,7 +181,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ### ExpressVPN的缺点
 
-[![express-vpn-servers](/image/express-vpn-servers.png)](#1-expressvpn--中国使用体验最佳)
+[![express-vpn-servers](https://www.safewebcn.com/img/express-vpn-servers.png)](#1-expressvpn--中国使用体验最佳)
 
 ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右，现在有限时优惠**买一年送三个月活动，每月$6.67/月**，支持支付宝支付。
 
@@ -208,11 +208,11 @@ ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且
 **测试时间**：2020年8月
 
 部分测试截图如下：
-[![LA5节点测速](/image/ExpressVPN-speedtest-LA5-min.png)](#1-expressvpn--中国使用体验最佳)
+[![LA5节点测速](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-min.png)](#1-expressvpn--中国使用体验最佳)
 
 我们连接Los Angeles – 5节点，在Chrome浏览器使用Speedtest进行在线测速，测速结果如下图，可以看到，ping延迟是196ms，还不错，下载速度是56.96Mb/s，上传的速度是16.53Mb/s，观看Youtube高清视频不存在卡顿。
 
-[![sigapore节点测速](/image/expressvpn-sigapore-min.png)](#1-expressvpn--中国使用体验最佳)
+[![sigapore节点测速](https://www.safewebcn.com/img/expressvpn-sigapore-min.png)](#1-expressvpn--中国使用体验最佳)
 
 测试的Singapore – Marina Bay节点速度也很不错，下载速度测试值为42.14Mb/s，顺便说一下，我们的测试中，ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。总体上来说ExpressVPN是我测试的所有翻墙软件中，在电脑端（Windows、MacBook）和手机端（iPhone、安卓手机）使用体验最好，尤其是网络速度方面。
 
@@ -222,11 +222,11 @@ ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且
 
 ExpressVPN的客服是业内最好的之一，随时提供网上帮助。此外，ExpressVPN兼容各种常见设备，并且可以配置在路由器上，在电脑（Windows或Mac）和移动设备（iPhone、安卓、平板）上都可以使用，**最多支持5台设备同时在线使用**。
 
-[![ExpressVPN支持设备](/image/express-vpn-devices.png "ExpressVPN支持设备截图")](#1-expressvpn--中国使用体验最佳)
+[![ExpressVPN支持设备](https://www.safewebcn.com/img/express-vpn-devices.png "ExpressVPN支持设备截图")](#1-expressvpn--中国使用体验最佳)
 
 套餐的价格：性价比最高的是1年套餐，同时他们保证30天内使用不满意无条件退款，所以你有足够的时间来测试。
 
-[![ExpressVPN付款方式](/image/express-vpn-payment.png "ExpressVPN付款方式截图")](#1-expressvpn--中国使用体验最佳)
+[![ExpressVPN付款方式](https://www.safewebcn.com/img/express-vpn-payment.png "ExpressVPN付款方式截图")](#1-expressvpn--中国使用体验最佳)
 
 ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 
@@ -254,7 +254,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机�
 
 ## 2.<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank"> StrongVPN – 性价比最佳</a>
 
-[![StrongVPN](/image/strong-logo.png)](#2-strongvpn--性价比最佳)
+[![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
 >2020年8月使用，确认可用，可用节点较多，网络速度中规中矩、不算亮点，但性价比不错，有优惠码可使用。
 
@@ -278,7 +278,7 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 
 如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
 
-[![Strong-device](/image/strong-home.png)](#2-strongvpn--性价比最佳)
+[![Strong-device](https://www.safewebcn.com/img/strong-home.png)](#2-strongvpn--性价比最佳)
 
 这款VPN是我在19年初开始使用，总体来讲，在过去1年的使用时间里，全年可用率能达到90%以上，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。在国内的用户可以下载StrongVPN精简版，登录和连接更为顺畅，稍后放上官网的下载链接。除了最基本的VPN套餐，官网还会额外赠送250 GB SugarSync云储存套餐，赠送的服务值不值见仁见智。
 
@@ -290,45 +290,45 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 
 1.进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>（右键打开），然后点击“Join Now”按钮，进入选择套餐页面：
 
-[![Strong-device](/image/strongvpn-plan-price-min.png)](#如何获取strongvpn)
+[![Strong-device](https://www.safewebcn.com/img/strongvpn-plan-price-min.png)](#如何获取strongvpn)
 
 输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
 
 付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%，优惠码是`TAKEOFF20`**。
 
-[![Strong优惠码](/image/strongvpn-alipay-payment-min.png)](#如何获取strongvpn)
+[![Strong优惠码](https://www.safewebcn.com/img/strongvpn-alipay-payment-min.png)](#如何获取strongvpn)
 
 获取优惠码之后的结算页面：
 
-[![Strong优惠码](/image/strongvpn-plan-coupon-price-min.png)](#如何获取strongvpn)
+[![Strong优惠码](https://www.safewebcn.com/img/strongvpn-plan-coupon-price-min.png)](#如何获取strongvpn)
 
 在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，一般就可以直接下载客户端并安装使用了。
 
 **如果不能使用，查看是不是支付过程出现了问题**，需要<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">登录官网用户后台</a>确认支付，点击“Billing Area”：
 
-[![Strong-billing](/image/strongvpn-billing-min.png)](#如何获取strongvpn)
+[![Strong-billing](https://www.safewebcn.com/img/strongvpn-billing-min.png)](#如何获取strongvpn)
 
 然后点击最右边的Invoice，
 
-[![Strong-Invoice](/image/strongvpn-pay-invoice-min.png)](#如何获取strongvpn)
+[![Strong-Invoice](https://www.safewebcn.com/img/strongvpn-pay-invoice-min.png)](#如何获取strongvpn)
 
 看到自己选择的套餐是否显示为unpaid，点击unpaid，
 
-[![Strong-unpaid](/image/strongvpn-unpaid-min.png)](#如何获取strongvpn)
+[![Strong-unpaid](https://www.safewebcn.com/img/strongvpn-unpaid-min.png)](#如何获取strongvpn)
 
 然后在打开的页面选择付款方式，并进行支付，以支付宝为例：
 
-[![Strong-alipay](/image/strongvpn-alipay-min.png)](#如何获取strongvpn)
+[![Strong-alipay](https://www.safewebcn.com/img/strongvpn-alipay-min.png)](#如何获取strongvpn)
 
 支付完成页面：
 
-[![Strong-paid](/image/strongvpn-paid-min.png)](#如何获取strongvpn)
+[![Strong-paid](https://www.safewebcn.com/img/strongvpn-paid-min.png)](#如何获取strongvpn)
 
 ### StrongVPN如何使用？
 
 登录进官网用户后台界面后，点击“StrongVPN Clients”下载客户端APP，如果下载速度太慢，取消后重试。
 
-[![Strong客户端下载](/image/strongvpn-client-min.png)](#strongvpn如何使用)
+[![Strong客户端下载](https://www.safewebcn.com/img/strongvpn-client-min.png)](#strongvpn如何使用)
 
 >**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版</a>，这是找官网技术客服推荐给我的，因为标准版的Windows APP首次使用账号登录困难，精简版的更适合在中国使用。**
 
@@ -336,17 +336,17 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 
 StrongVPN Windows客户端标准版：
 
-[![Strong客户端标准版](/image/strong-connect.png)](#strongvpn如何使用)
+[![Strong客户端标准版](https://www.safewebcn.com/img/strong-connect.png)](#strongvpn如何使用)
 
 StrongVPN客户端精简版（中国Windows用户推荐）：
 
-[![Strong客户端精简版](/image/strongvpn-china-client-min.png)](#strongvpn如何使用)
+[![Strong客户端精简版](https://www.safewebcn.com/img/strongvpn-china-client-min.png)](#strongvpn如何使用)
 
 ### Strong速度测试
 
 **测试时间**：2020年8月
 
-[![Strong客户端精简版](/image/StrongVPN-speedtest-tokyo-min.png)](#strong速度测试)
+[![Strong客户端精简版](https://www.safewebcn.com/img/StrongVPN-speedtest-tokyo-min.png)](#strong速度测试)
 
 这是最近我使用StrongVPN时的测试结果，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps，速度感觉一般般，浏览网页、看视频够用，但看清晰度为1080P以上的视频会有点卡，这点不如[ExpressVPN](#1-expressvpn--中国使用体验最佳)。
 
@@ -398,7 +398,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 ## 3.<a rel="nofollow noopener" href="https://linkv.org/nord/" target="_blank"> NordVPN</a>
 
-[![NordVPN](/image/nord-min.png)](#3-nordvpn)
+[![NordVPN](https://www.safewebcn.com/img/nord-min.png)](#3-nordvpn)
 
 >2020年8月使用，确认可用，但目前可用节点不多，建议连接美国、日本等地区最新出来的节点，可参考下方最新的测试报告页面。
 
@@ -426,11 +426,11 @@ NordVPN在全球范围内应该是为数不多的能和ExpressVPN抗衡的服务
 
 NordVPN Windows客户端日本节点：
 
-[![NordVPN-win](/image/nord-win.png)](#3-nordvpn)
+[![NordVPN-win](https://www.safewebcn.com/img/nord-win.png)](#3-nordvpn)
 
 NordVPN 安卓客户端日本节点：
 
-[![NordVPN-android](/image/nord-android.png)](#3-nordvpn)
+[![NordVPN-android](https://www.safewebcn.com/img/nord-android.png)](#3-nordvpn)
 
 - 隐私保护
 
@@ -440,7 +440,7 @@ NordVPN拥有军用级别的加密技术，就算在公共场合，使用无加�
 
 NordVPN的客户端APP支持几乎所有网络设备，Windows，Mac，iOS，Android这些常见的系统都有客户端APP。**允许最多6台设备同时在线使用**，NordVPN还具有严格的无日志政策，自动`Kill Switch`开关，DNS泄露防护，`Onion Over VPN`等功能。
 
-[![NordVPN支持设备](/image/nord-devices-min.png)](#3-nordvpn)
+[![NordVPN支持设备](https://www.safewebcn.com/img/nord-devices-min.png)](#3-nordvpn)
 
 - 全球服务器支持
 
@@ -454,7 +454,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 ## 4.<a rel="nofollow noopener" href="https://linkv.org/pure/" target="_blank"> PureVPN</a>
 
-[![PureVPN](/image/pure-min.png)](#4-purevpn)
+[![PureVPN](https://www.safewebcn.com/img/purevpn-logo.png)](#4-purevpn)
 
 >2020年7月测试，确认可用，但没有亮点，体验中规中矩，有些节点能连上，但网速不算快。Mac用户不推荐使用这款。
 
@@ -501,7 +501,7 @@ PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保�
 
 >2020年7月测试，确认可用，体验中规中矩。
 
-[![PandaVPN](/image/panda-min.png)](http://linkv.org/panda/)
+[![PandaVPN](https://www.safewebcn.com/img/panda-min.png)](http://linkv.org/panda/)
 
 >这款我去年开始使用，虽然创办时间相对另外几个老牌服务商不算长，但是不管是连接成功率还是速度上来说，在我使用的这几个月还算OK。
 
@@ -535,7 +535,7 @@ PandaVPN由中文团队开发，所以对中文支持很好，相比其他几家
 
 ## 6.<a rel="nofollow noopener" href="https://linkv.org/ivacy" target="_blank"> IVacy</a>
 
-[![IVacy](/image/ivacy-logo.png)](#6-ivacy)
+[![IVacy](https://www.safewebcn.com/img/ivacy-logo.png)](#6-ivacy)
 
 >2020年7月测试，速度和连接成功率较低，勉强能凑合用。
 
