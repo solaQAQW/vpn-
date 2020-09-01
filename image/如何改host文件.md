@@ -5,7 +5,7 @@
 
 >有时你会发现，某些网站在国内网站无法访问，一般有三种可能：1.这个网站关闭了；2.被墙了；3.被DNS 污染了。像在国内被屏蔽的中小型网站网站就属于第 3 种，通过修改电脑和手机Hosts文件多数可以解决这个问题。但是像Google、Youtube、Facebook、Twitter等这些大网站和手机上的APP是直接ip都被墙了，这种办法就行不通了，只能找梯子翻墙访问。
 
-[![dns-wuran](dns-wuran.png)](#1%E4%BB%80%E4%B9%88%E6%98%AF-dns-%E6%B1%A1%E6%9F%93)
+[![dns-wuran](https://www.safewebcn.com/img/dns-wuran-min.png)](#1%E4%BB%80%E4%B9%88%E6%98%AF-dns-%E6%B1%A1%E6%9F%93)
 
 hosts文件可以视为一个系统本地上启用的DNS服务器，我们通过编辑它能把域名定向到正确的ip，可以解锁在国内受到DNS污染的网站服务。hosts是一个系统文件，在Windows系统下位于`C:\windows\system32\drivers\etc`，这个文件没有后缀，你可以用文字处理软件去编辑它，要注意的是它是一个系统保护的文件，所以需要用管理员权限才可以编辑。
 
@@ -21,7 +21,7 @@ Windows系统: C:\Windows\System32\drivers\etc
 
 直接把文件位置复制到文件夹地址栏，按`Enter`键就看到了。
 
-[![hosts](hosts.png)](#21-hosts文件位置)
+[![hosts](https://www.safewebcn.com/img/hosts-min.png)](#21-hosts文件位置)
 
 Android/iPhone/Mac/Linux: /etc/hosts
 
@@ -56,11 +56,11 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 以Windows系统为例，打开文件夹C:\Windows\System32\drivers\etc，把 hosts文件**移动到桌面**，打开方式选择记事本。
 
-[![hosts](hosts-open.png)](#22-如何修改hosts)
+[![hosts](https://www.safewebcn.com/img/hosts-open-min.png)](#22-如何修改hosts)
 
 在末尾处添加ip地址和域名（之间加一个空格），**保存文件并重新移动回** C:\Windows\System32\drivers\etc **覆盖掉之前的Host文件**，最后打开浏览器设置，清空浏览器缓存，即可访问。
 
-[![](hosts-edit.png)](#22-如何修改hosts)
+[![](https://www.safewebcn.com/img/hosts-edit-min.png)](#22-如何修改hosts)
 
 ## 网站域名与对应 IP
 
