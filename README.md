@@ -1,6 +1,6 @@
 # 翻墙软件VPN推荐指南(含2020优惠)
 
-最近更新：`2020年8月25日`
+最近更新：`2020年9月2日`
 
 由于Github在国内部分地区网络中图片加载存在问题，为了有更好的阅读体验，建议下载<a rel="nofollow noopener" href="https://linkv.org/download/推荐指南.pdf" target="_blank">2020版翻墙VPN推荐指南PDF版本</a>(右键另存)，以备不时之需。
 
@@ -29,9 +29,9 @@
 >>#### 7.1 [ExpressVPN-中国使用体验最佳](#1-expressvpn--中国使用体验最佳)
 >>#### 7.2 [StrongVPN-性价比最佳](#2-strongvpn--性价比最佳)
 >>#### 7.3 [NordVPN](#3-nordvpn)
->>#### 7.4 [PureVPN](#4-purevpn)
->>#### 7.5 [PandaVPN](#5-pandavpn)
->>#### 7.6 [IVacy](#6-ivacy)
+>>#### 7.4 [PandaVPN](#4-pandavpn)
+>>#### 7.5 [IVacy](#5-ivacy)
+>>#### 7.6 [PureVPN](#6-purevpn)
 >
 >### 8.[不要入坑的VPN](#不要入坑的vpn)
 >### 9. [翻墙软件VPN推荐的标准](#翻墙软件vpn推荐的标准)
@@ -143,7 +143,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 ## 1.<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank"> ExpressVPN – 中国使用体验最佳</a>
 
->2020年8月使用，确认可用，使用体验在我测试使用的几款中表现最好，最适合在中国使用。
+>2020年9月使用，确认可用，使用体验在我测试使用的几款中表现最好，最适合在中国使用。
 
 [![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://linkv.org/express/)
 
@@ -256,7 +256,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机�
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
->2020年8月使用，确认可用，可用节点较多，网络速度中规中矩、不算亮点，但性价比不错，有优惠码可使用。
+>2020年9月使用，确认可用，可用节点较多，网络速度中规中矩、不算亮点，但性价比不错，有优惠码可使用。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
 
@@ -452,54 +452,10 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 >注：在敏感时期，使用NordVPN最好能结合官网的教程进行OpenVPN手动配置，iOS设备上用手动ikev2，手动配置的节点比APP直连的稳定性高很多。另一个需要注意的地方是如果遇到连接或者下载问题随时联系在线客服，让售后给你备用服务器地址，进行手动配置，连接成功率和速度我感觉明显要高于APP直连。
 
-## 4.<a rel="nofollow noopener" href="https://linkv.org/pure/" target="_blank"> PureVPN</a>
 
-[![PureVPN](https://www.safewebcn.com/img/purevpn-logo.png)](#4-purevpn)
+## 4.<a rel="nofollow noopener" href="http://linkv.org/panda/" target="_blank"> PandaVPN</a>
 
->2020年7月测试，确认可用，但没有亮点，体验中规中矩，有些节点能连上，但网速不算快。Mac用户不推荐使用这款。
-
-国内打开PureVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
-
-国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**（手机用户建议在电脑上打开本页面操作）：
-
-1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
-
-2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
-
-3.完成之后清空浏览器缓存、刷新浏览器，然后[点击获取PureVPN官网优惠](https://linkv.org/pure/)。
-
-完成之后，就可以正常访问官网和使用客户端了。
-
-如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
-
-PureVPN也是一家老牌服务商，成立2006年，总部设在香港，在全球的180+个地区拥有2000+台服务器，线路很多，但在中国不是所有节点能用，我测试的结果是30%的节点大部分时候还是可用的，特殊时期可以手动配置翻墙。在中国的网络速度、稳定性目前来说对比前几位算一般，就我去年的体验来说客户端vpn线路连不上的时间加起来有2个月左右，差不多80%出头的全年可用率，如果你在敏感时期用OpenVPN手动配置的话全年可用率会更高一些。
-
-Pure的客户端支持中文，对国内的用户十分友好。另一大特点是有北京、上海等城市的服务器，极大方便海外华人浏览优酷、爱奇艺、酷狗音乐等有国内版权的网站，是**翻墙回国必备神器**之一。
-
-**支持设备**：Windows、Mac OS、iOS（iPhone和iPad）、安卓Android这些常见的设备都有客户端APP，**最多支持5台设备同时使用**。Mac用户需要注意一下，我在Macbook上使用，发现Mac版本的APP在国内并不好用，软件很容易卡死，Mac系统最好是使用OpenVPN手动配置，在其他设备的APP客户端还没有发现这些问题。
-
-- 隐私保护
-
-PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保护功能。其中就有保护连接断开切换的机制，以防在连接中断之后，出现数据泄露的风险。PureVPN承诺不会记录行为日志，并且不会将数据分享给任何的第三方机构。
-
-- 全球可访问
-
-“PureVPN在全球140多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是Netflix。不管身在何处，都能访问资源。”
-
-我的体验：有些节点能连，但真的不算快。
-
-- 对抗审查制度
-
-“墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。”这是官方的宣传，实际上还是有节点会被墙，这点貌似都无法避免的。
-
-付款方式主要包含银联卡、信用卡、支付宝、PayPal、比特币等，有31天内不满意退款政策。
-
->Mac电脑用户只能用手动配置连接，Mac的APP客户端很难用，不推荐Mac用户使用。
-
-
-## 5.<a rel="nofollow noopener" href="http://linkv.org/panda/" target="_blank"> PandaVPN</a>
-
->2020年7月测试，确认可用，体验中规中矩。
+>2020年8月测试，确认可用，体验中规中矩。
 
 [![PandaVPN](https://www.safewebcn.com/img/panda-min.png)](http://linkv.org/panda/)
 
@@ -533,7 +489,7 @@ PandaVPN由中文团队开发，所以对中文支持很好，相比其他几家
 
 付款方式主要包含支付宝、Visa信用卡、PayPal等和7天退款政策，不过有小伙伴反映退款慢，要催客服。
 
-## 6.<a rel="nofollow noopener" href="https://linkv.org/ivacy" target="_blank"> IVacy</a>
+## 5.<a rel="nofollow noopener" href="https://linkv.org/ivacy" target="_blank"> IVacy</a>
 
 [![IVacy](https://www.safewebcn.com/img/ivacy-logo.png)](#6-ivacy)
 
@@ -574,6 +530,50 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 - 7*24小时技术支持
 
 在使用过程中如果遇到问题，可以在任意时刻联系他们的客户服务团队。
+
+## 6.<a rel="nofollow noopener" href="https://linkv.org/pure/" target="_blank"> PureVPN</a>
+
+[![PureVPN](https://www.safewebcn.com/img/purevpn-logo.png)](#6-purevpn)
+
+>2020年7月测试，确认可用，但没有亮点，体验中规中矩，有些节点能连上，但网速不算快。Mac用户不推荐使用这款。**唯一优势是方便国外翻墙回国**。
+
+国内打开PureVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
+
+国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**（手机用户建议在电脑上打开本页面操作）：
+
+1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
+
+2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
+
+3.完成之后清空浏览器缓存、刷新浏览器，然后[点击获取PureVPN官网优惠](https://linkv.org/pure/)。
+
+完成之后，就可以正常访问官网和使用客户端了。
+
+如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
+
+PureVPN也是一家老牌服务商，成立2006年，总部设在香港，在全球的180+个地区拥有2000+台服务器，线路很多，但在中国不是所有节点能用，我测试的结果是30%的节点大部分时候还是可用的，但是敏感时期节点几乎集体挂掉。在中国的网络速度、稳定性目前来说对比前几位算一般，就我去年的体验来说客户端vpn线路连不上的时间加起来有2个月左右，差不多80%左右的全年可用率，如果你在敏感时期用OpenVPN手动配置的话全年可用率会更高一些。
+
+Pure的客户端支持中文，对国内的用户十分友好。另一大特点是有北京、上海等城市的服务器，极大方便海外华人浏览优酷、爱奇艺、酷狗音乐等有国内版权的网站，是**翻墙回国必备神器**之一。
+
+**支持设备**：Windows、Mac OS、iOS（iPhone和iPad）、安卓Android这些常见的设备都有客户端APP，**最多支持5台设备同时使用**。Mac用户需要注意一下，我在Macbook上使用，发现Mac版本的APP在国内并不好用，软件很容易卡死，Mac系统最好是使用OpenVPN手动配置，在其他设备的APP客户端还没有发现这些问题。
+
+- 隐私保护
+
+PureVPN拥有多种加密协议，提供安全DNS机制以及其他的隐私保护功能。其中就有保护连接断开切换的机制，以防在连接中断之后，出现数据泄露的风险。PureVPN承诺不会记录行为日志，并且不会将数据分享给任何的第三方机构。
+
+- 全球可访问
+
+“PureVPN在全球140多个国家都配备了VPN服务器，拥有超过200000个IP地址，突破了音视频访问的区域限制，尤其是Netflix。不管身在何处，都能访问资源。”
+
+我的体验：有些节点能连，但真的不算快。
+
+- 对抗审查制度
+
+“墙的主要检测手段就是根据流量指纹来判断，他们独有的加密协议，可以最大限度的绕开国内墙的检测。”这是官方的宣传，实际上还是有节点会被墙，这点貌似都无法避免的。
+
+付款方式主要包含银联卡、信用卡、支付宝、PayPal、比特币等，有31天内不满意退款政策。
+
+>Mac电脑用户只能用手动配置连接，Mac的APP客户端很难用，不推荐Mac用户使用。
 
 ## 不要入坑的VPN
 
