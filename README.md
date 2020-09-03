@@ -256,7 +256,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机�
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
->2020年9月使用，确认可用，可用节点较多，网络速度中规中矩、不算亮点，但性价比不错，有优惠码可使用。
+>2020年9月使用，确认可用，可用节点较多，有些节点网络速度还不错，有些节点网络速度就一般，要自己测试。性价比不错，有优惠码可使用。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
 
@@ -280,7 +280,7 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 
 [![Strong-device](https://www.safewebcn.com/img/strong-home.png)](#2-strongvpn--性价比最佳)
 
-这款VPN是我在19年初开始使用，总体来讲，在过去1年的使用时间里，全年可用率能达到90%以上，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。在国内的用户可以下载StrongVPN精简版，登录和连接更为顺畅，稍后放上官网的下载链接。除了最基本的VPN套餐，官网还会额外赠送250 GB SugarSync云储存套餐，赠送的服务值不值见仁见智。
+这款VPN是我在19年初开始使用，总体来讲，在过去1年多的使用时间里，全年可用率能达到90%以上，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。在国内的用户可以下载StrongVPN精简版，登录和连接更为顺畅，稍后放上官网的下载链接。除了最基本的VPN套餐，官网还会额外赠送250 GB SugarSync云储存套餐，赠送的服务值不值见仁见智。
 
 使用的时候直接通过客户端APP一键连接就行了，不用自己手动设置，敏感时期可在官网右下角的在线聊天框找客服获取连接方案。能连接的节点比ExpressVPN多一些，建立连接所需的时间两者都差不多，但是网络速度比ExpressVPN慢，不过打开网页和看Youtube视频也基本够用，无论是电脑还是手机（包括iPhone和安卓）APP客户端的使用体验和稳定性在我使用的VPN软件中仅次于ExpressVPN，对于在乎性价比的人来说，是除[ExpressVPN](#1-expressvpn--中国使用体验最佳)外的最佳选择。
 
@@ -348,7 +348,7 @@ StrongVPN客户端精简版（中国Windows用户推荐）：
 
 [![Strong客户端精简版](https://www.safewebcn.com/img/StrongVPN-speedtest-tokyo-min.png)](#strong速度测试)
 
-这是最近我使用StrongVPN时的测试结果，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps，速度感觉一般般，浏览网页、看视频够用，但看清晰度为1080P以上的视频会有点卡，这点不如[ExpressVPN](#1-expressvpn--中国使用体验最佳)。
+这是最近我使用StrongVPN时的测试结果，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps，速度感觉浏览网页、看视频勉强够用，但看清晰度为1080P以上的视频会有点卡，这点不如[ExpressVPN](#1-expressvpn--中国使用体验最佳)。
 
 官方建议：Change your VPN connection protocol If changing server did not help you get connected, try changing your protocol. We recommend using OpenVPN via UDP or OpenVPN via TCP configuration for customers in China. If both fails, then try the aforementioned protocols with Scramble feature enabled.
 
