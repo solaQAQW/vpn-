@@ -346,7 +346,7 @@ StrongVPN客户端精简版（中国Windows用户推荐）：
 
 [![Strong客户端精简版](https://www.safewebcn.com/img/StrongVPN-speedtest-tokyo-min.png)](#strong速度测试)
 
-这是最近我使用StrongVPN时的测试结果，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps，速度感觉浏览网页、看视频勉强够用，但看清晰度为1080P以上的视频会有点吃力，这点不如[ExpressVPN](#1-expressvpn--中国使用体验最佳)。StrongVPN相对速度较快的节点选择可以查看：[线路如何选择](#线路选择提示)。
+这是最近我使用StrongVPN时的测试结果，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps，速度感觉浏览网页、看视频勉强够用，但看清晰度为1080P以上的视频会有点吃力，这点不如[ExpressVPN](#1-expressvpn--中国使用体验最佳)。StrongVPN速度较快的节点选择可以查看：[线路选择提示](#strong线路选择提示)。
 
 官方建议：Change your VPN connection protocol If changing server did not help you get connected, try changing your protocol. We recommend using OpenVPN via UDP or OpenVPN via TCP configuration for customers in China. If both fails, then try the aforementioned protocols with Scramble feature enabled.
 
@@ -370,7 +370,7 @@ StrongVPN客户端精简版（中国Windows用户推荐）：
 
 ### Strong线路选择提示
 
-在不同的网络运营商下，连接同一节点的速度也可能不同，每个节点的速度也会不一样。但StrongVPN我选择线路有一点原则，就是选择当前使用人数较少的节点。然后多测试几个节点，选择速度最满意的作为常用节点。
+在不同的网络运营商下，连接同一节点的速度也可能不同，每个节点的网络速度也会不一样。但StrongVPN我选择线路有一点原则，就是选择当前使用人数相对较少的节点。然后多测试几个节点，选择速度最满意的作为常用节点。
 登录官网用户后台，然后点击'VPN Accounts'，在下拉框里面点击'Legacy VPN Accounts Summary'，查看下面的“Servers available”，就可以查看各个节点和当前使用人数。我测试的结果是当前使用人数相对较少的节点的速度还是好于人数上万的节点。
 
 - **支持设备**
