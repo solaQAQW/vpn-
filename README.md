@@ -1,6 +1,6 @@
 # 翻墙软件VPN推荐指南(含2020优惠)
 
-最近更新：`2020年9月2日`
+最近更新：`2020年9月12日`
 
 >翻墙（科学上网）重不重要？不会翻墙回不了Gmail邮件，不能Google找程序代码，不翻墙能不能看YouTube视频？Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。我在国内针对中国国际互联网用户的翻墙软件进行测试和评价，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具。
 
@@ -15,6 +15,8 @@
 >其实就2020年的今天来看，VPN加密翻墙依然是最适合国人的主流安全科学上网工具，同样也是我重点关注和测试的。**如果你不想多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择**：
 >
 > - [StrongVPN](#1-strongvpn--性价比最佳)，这款我已经使用了1年多，性价比不错。总体来讲，在过去的使用时间里，全年可用率基本能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的用户可以下载StrongVPN精简版，登录和连接更为顺畅**。遗憾的是Strong官网在中国被墙，有梯子的同学可以用梯子访问，[国内打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
+
+> - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>，在国内速度体验最好，也是我自己很喜欢的VPN产品。设备支持最全面，已经运营了12年（至2020年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的VPN中最快的之一。 不过**由于防火长城的干扰，镜像网站在国内打开较慢，需耐心等待**，如果排版错误或打不开重新载入试试。
 
 如果你是新手小白或者想了解更多翻墙方法的信息，请依次往下看，尤其是关于**翻墙的安全性问题**，这个问题日趋严重，且关系到每个互联网用户的信息安全和法律风险，但是目前却少有人关注。
 
@@ -305,11 +307,11 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 [翻墙的安全性](#翻墙软件与vpn的区别--翻墙的安全性问题)尤为重要，前面已经讲过，翻墙还在使用国产浏览器的朋友赶紧更换，因为国产浏览器可能会留有后门和保存用户的访问记录，具体可以查看<a rel="noopener" href="https://www.cepingtu.com/vpn-browser-for-china/" target="_blank">翻墙时使用的浏览器</a>。建议大家按我的方案，**使用<a rel="nofollow noopener" href="https://brave.com/vpn055" target="_blank">Brave浏览器</a>（官网在国内被墙）在连上VPN时使用**，这款浏览器完全防跟踪和保护隐私，免费且快速；**平时使用Chrome作为日常上网**，前提是Chrome是在Google官网下载的，第三方平台很多留有后门。另外，我是设置了Split Tunneling的，Brave浏览器走VPN流量，Chrome走本地流量。
 
 
-## 2.<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank"> ExpressVPN – 速度体验最佳</a>
+## 2.<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank"> ExpressVPN – 速度体验最佳</a>
 
 >2020年9月使用，确认可用，速度体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快。
 
-[![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://linkv.org/express/)
+[![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
 
 ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN产品。但因为价格相对较高，我放在第二位，**适合不差钱和要求较好使用体验的朋友**。
 
@@ -345,7 +347,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ### ExpressVPN的缺点
 
-[![express-vpn-servers](https://www.safewebcn.com/img/express-vpn-servers.png)](#2-expressvpn--速度体验最佳)
+[![express-vpn-servers](https://www.safewebcn.com/img/express-vpn-servers.png)](https://www.fastvpncn.com/expressvpn)
 
 - ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右，现在有限时优惠**买一年送三个月活动，每月$6.67/月**，支持支付宝支付。
 
@@ -396,7 +398,7 @@ ExpressVPN的客服是业内最好的之一，随时提供网上帮助。此外�
 
 套餐的价格：性价比最高的是1年套餐，同时他们保证30天内使用不满意无条件退款，所以你有足够的时间来测试。
 
-[![ExpressVPN付款方式](https://www.safewebcn.com/img/express-vpn-payment.png "ExpressVPN付款方式截图")](#2-expressvpn--速度体验最佳)
+[![ExpressVPN付款方式](https://www.safewebcn.com/img/express-vpn-payment.png "ExpressVPN付款方式截图")](https://www.fastvpncn.com/expressvpn)
 
 ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 
@@ -408,7 +410,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机�
 >
 >**推荐用户**：对速度和稳定性有要求的用户、iPhone和Mac用户首选
 
-### <center><a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
+### <center><a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
 
 >**注意**：官网镜像网站打开速度有时不快，耐心等待一下，如果页面加载不正常，如排版乱掉，可以试试重新点击进入或者刷新下页面。如果镜像站链接打不开，这种情况一般是镜像网站被墙，官网一般在当天会放出新的镜像站，请收藏本文后等一段时间再打开。
 
@@ -602,7 +604,11 @@ VyprVPN在中国怎么样？这款VPN目前在中国虽然也能勉强使用，�
 
 ### 2.佛跳墙VPN
 
-这款虽然名字叫VPN，但我觉得底层还是基于SS的，而且DNS会有泄漏，对隐私数据的保护不好。这款之前买了一年，收了280，用了几天就废了，关键是无法使用的问题，不推荐佛跳墙VPN，看到的避免入坑。
+有读者问我佛跳墙VPN怎么样？好用靠谱吗？最好别用，稳定性和安全性都不好！这款虽然名字叫VPN，但我觉得底层还是基于SS的，而且DNS会有泄漏，对隐私数据的保护不好。这款佛跳墙很久之前买了一年的套餐，收了280，用了几天就被封了，关键是很长时间都无法使用的问题，**不推荐佛跳墙VPN，看到的避免入坑**。
+
+### 3.老王VPN
+
+有读者和我说对这款老王VPN的安全性有疑虑，据我的了解和调查，老王VPN可能存在钓鱼风险，网上查得到有人因为在手机上使用老王VPN被请喝茶的消息。总的来说，像Google Play里面的很多国产翻墙软件最好不要碰，尤其是不要在手机上安装，手机上隐私信息太多，存在隐私数据被截获的风险。而且目前网上因为翻墙出问题的，一般都是使用这种野路子VPN翻车的，这种翻墙软件我是不会使用的，测试都不敢。当然如果只是上网查查学习资料，不涉及账号登录和敏感信息，像老王VPN这种可以也最好只在电脑上(Windows/Mac)使用。最好是使用[国外知名的VPN服务](#适合在中国使用的翻墙软件vpn国内实测)，虽然有时会被封锁，但一年中绝大部分时间都是可以连接的，最重要的是安全，不泄漏隐私信息。
 
 其他在中国根本**不能用**的VPN：TunnelBear，CyberGhost，Ipvanish, VPNHub。
 
