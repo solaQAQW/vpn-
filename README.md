@@ -190,15 +190,11 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 [![Strong-device](https://www.safewebcn.com/img/strongvpn-plan-price-min.png)](#如何获取strongvpn)
 
-输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
-
-付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%，优惠码是`TAKEOFF20`**。
+付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%，优惠码是`TAKEOFF20` **，点击“Have a coupon?”输入优惠码。
 
 [![Strong优惠码](https://www.safewebcn.com/img/strongvpn-alipay-payment-min.png)](#如何获取strongvpn)
 
-获取优惠码之后的结算页面：
-
-[![Strong优惠码](https://www.safewebcn.com/img/strongvpn-plan-coupon-price-min.png)](#如何获取strongvpn)
+输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
 
 在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，一般就可以直接下载客户端并安装使用了。
 
