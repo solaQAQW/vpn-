@@ -190,7 +190,7 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 [![Strong-device](https://www.safewebcn.com/img/strongvpn-plan-price-min.png)](#如何获取strongvpn)
 
-付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%，优惠码是`TAKEOFF20` **，点击“Have a coupon?”输入优惠码。
+付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%**，优惠码是`TAKEOFF20` ，点击“Have a coupon?”输入优惠码。
 
 [![Strong优惠码](https://www.safewebcn.com/img/strongvpn-alipay-payment-min.png)](#如何获取strongvpn)
 
