@@ -247,7 +247,7 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 [![Strong WireGuard](https://www.safewebcn.com/img/strong-wireguard-min.png)](#使用wireguard实现秒连)
 
-点击按钮，一般在1s左右就能实现连接：
+点击按钮，一般在1s左右就能实现连接（如下图），WireGuard协议在手机翻墙时特别方便，目前大多数VPN商家还没有加入WireGuard协议，这是StrongVPN的优势之一。
 
 [![Strong WireGuard](https://www.safewebcn.com/img/strong-wireguard-2-min.png)](#使用wireguard实现秒连)
 
