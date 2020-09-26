@@ -385,7 +385,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 除了上面那些优化过的服务器线路，**中国用户也可以改为“`L2TP – IPsec`”协议使用其它的服务器线路**，但是其他那些服务器没有经过混淆算法优化，速度和稳定性可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
 
-关于使用和更新客户端的问题，请查看<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/21" target="_blank">问题#21</a>。
+关于使用和更新客户端的问题，请查看<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/21" target="_blank">问题#21</a>。关于更多ExpressVPN的信息，可以查看<a rel="noopener" href="https://www.cepingtu.com/express-vpn-review-in-china/" target="_blank">ExpressVPN在中国怎么样</a>。
 
 我们最近对官方推荐的节点进行了测试，测试的网络环境是：
 
@@ -633,7 +633,7 @@ VyprVPN在中国怎么样？这款VPN目前在中国虽然也能勉强使用，�
 **本文会根据测评情况和使用体验，定期更新排名，如果觉得内容有用的话，欢迎添加收藏。**
 
 
-## 翻墙软件VPN推荐的标准
+## <a rel="noopener" href="https://www.cepingtu.com/best-stable-vpn/" target="_blank">翻墙软件VPN推荐</a>的标准
 
 我们的VPN推荐基于这些标准，所以我们也建议大家考虑下面这些选择标准，或者参考上面的VPN排名j及我分享的最新使用信息，而不是盲目的付费购买。
 
