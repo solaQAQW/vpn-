@@ -18,7 +18,7 @@
 
 > - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>，在国内速度体验最好，也是我自己很喜欢的VPN产品。设备支持最全面，已经运营了12年（至2020年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的VPN中最快的之一。
 
-> <a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds VPS服务器</a>，如果打算自己用**便宜的VPS搭建机场**，首先你要确保能自己应对使用VPS时可能出现的问题；其次，**热门的<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。**目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个不错的替代选择**，国内访问网络速度快，且没有很多国人扎堆，IP基本为全新，便宜流量大，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，用来搭梯子和建站都不错。**可以免费换IP，换IP的方法**：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
+> <a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds VPS服务器</a>，如果打算自己用**便宜的VPS搭建机场**，首先你要确保能自己应对使用VPS时可能出现的问题；其次，**热门的<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。**目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个不错的替代选择**，国内访问网络速度快，且没有很多国人扎堆，IP基本为全新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，用来搭梯子和建站都不错。**可以免费换IP，换IP的方法**：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
 
 如果你是新手小白或者想了解更多翻墙方法的信息，请依次往下看，尤其是关于**翻墙的安全性问题**，这个问题日趋严重，且关系到每个互联网用户的信息安全和法律风险，但是目前却少有人关注。
 
