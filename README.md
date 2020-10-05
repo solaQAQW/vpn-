@@ -14,9 +14,9 @@
 
 >其实就2020年的今天来看，VPN加密翻墙依然是最适合小白的主流安全科学上网工具，同样也是我长期关注和测试的。**如果你不想多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择下列任意一款**：
 >
-> - [StrongVPN](#1-strongvpn--性价比最佳)，这款我已经使用了1年多，性价比不错。总体来讲，在过去的使用时间里，全年可用率基本能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。支持Wireguard协议，在手机上使用可以实现秒连。**在国内的Windows用户可以下载StrongVPN精简版(下载链接在下文)，登录和连接更为顺畅**。目前有打折的优惠券可以使用，遗憾的是Strong官网域名在中国被墙（软件APP能正常使用），有梯子的同学可以用梯子访问，[国内的本地网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
-
 > - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>，在国内速度体验最好，也是我自己很喜欢的VPN产品。设备支持最全面，已经运营了12年（至2020年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的VPN中最快的之一。
+
+> - [StrongVPN](#1-strongvpn--性价比最佳)，这款我已经使用了1年多，性价比还不错。总体来讲，在过去的使用时间里，全年可用率基本能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。支持Wireguard协议，在手机上使用可以实现秒连。**在国内的Windows用户可以下载StrongVPN精简版(下载链接在下文)，登录和连接更为顺畅**。目前有打折的优惠券可以使用，**遗憾的是使用strong翻墙时的网络速度相对于<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>要慢一些**。Strong官网域名在中国被墙（软件APP能正常使用），有梯子的同学可以用梯子访问，[国内的本地网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
 > 如果打算自己用**便宜的VPS搭建机场**，首先你要确保能自己应对使用VPS时可能出现的问题；其次，**热门的<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。**目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个不错的替代选择**，没有很多国人扎堆，IP基本为全新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度快，用来搭梯子和建站都不错。**可以免费换IP，换IP的方法**：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
 
