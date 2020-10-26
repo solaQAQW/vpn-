@@ -18,7 +18,7 @@
 
 > - [StrongVPN](#1-strongvpn--性价比最佳)，这款我已经使用了1年多，性价比还不错。总体来讲，在过去的使用时间里，全年可用率基本能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。支持Wireguard协议，在手机上使用可以实现秒连。**在国内的Windows用户可以下载StrongVPN精简版(下载链接在下文)，登录和连接更为顺畅**。目前有打折的优惠券可以使用，**遗憾的是使用strong翻墙时的网络速度相对于<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>要慢一些**。Strong官网域名在中国被墙（软件APP能正常使用），有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），需使用本地网络访问，这点比较坑。[国内的本地网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
-> 如果打算自己用**便宜的VPS搭建机场**，首先你要确保能自己应对使用VPS时可能出现的问题；其次，**热门的<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。**目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个不错的替代选择**，没有很多国人扎堆，IP基本为全新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度快，用来搭梯子和建站都不错。**可以免费换IP，换IP的方法**：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
+> 如果打算自己用**便宜的VPS搭建机场**，首先你要确保能自己应对使用VPS时可能出现的问题；其次，**热门的<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。**目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个不错的替代选择**，没有很多国人扎堆，IP相对较新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度快，用来搭梯子和建站都不错。**可以免费换IP，换IP的方法**：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
 
 如果你是新手小白或者想了解更多翻墙方法的信息，请依次往下看，尤其是关于**翻墙的安全性问题**，这个问题日趋严重，且关系到每个互联网用户的信息安全和法律风险，但是目前却少有人关注。
 
