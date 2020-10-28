@@ -168,7 +168,9 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 ### 如何打开StrongVPN官网？
 
-有梯子的同学直接可访问<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，但没梯子的同学注意，Strong官网在中国被墙，国内打开官网需要改电脑Host文件，因为其官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
+有梯子的同学直接可访问<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，但如果在套餐下单时页面出现“We detected that you are using a VPN or Proxy service,please disconnect it before placing an order, thank you!”（可以顺利下单的话不用管），说明StrongVPN反欺诈系统检测到你是用代理IP访问的（国外存在代理IP盗刷信用卡），要断开梯子使用本地网络访问官网，方法如下文。
+
+没梯子的同学注意，Strong官网在中国被墙，国内打开官网需要改电脑Host文件，因为其官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
 改电脑Host文件方法很简单，国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**，手机用户建议在电脑上打开本页面操作，因为手机由于系统版本原因改host操作较麻烦，下面是操作步骤：
 
