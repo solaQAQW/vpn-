@@ -160,7 +160,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#1-strongvpn--性价比最佳)
 
->2020年9月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，有优惠码可使用。
+>2020年10月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，有优惠码可使用。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
 
@@ -330,7 +330,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 ## 2.<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank"> ExpressVPN – 速度体验最佳</a>
 
->2020年9月使用，确认可用，速度体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快。
+>2020年10月使用，确认可用，速度体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快。
 
 [![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
 
