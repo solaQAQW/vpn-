@@ -126,8 +126,6 @@
 
 比如ExpressVPN直接在客户端登录页面填入注册码就行了，最为方便，注册码在用户后台页面一眼就能找到；
 
-PureVPN在你注册后系统会给你分配一个客户端的登录名和密码，在“`Account Details`”查看，登录名以“purevpn0s”开头，密码可以自己改。
-
 StrongVPN、PandaVPN、Nord、Pure和IVacy都是下载安装客户端后，输入注册时的邮箱密码登陆就行了。
 
 ### 安卓Android手机客户端
@@ -164,7 +162,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
 
-StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的大牌服务商。从近2年开始也开始重视开发中国市场，售后服务也不错，它也和Express一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告（官网查找 “What is the best VPN configuration for China?”），其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。
+StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的大牌服务商。从近2年开始也开始重视开发中国市场，售后服务也不错，它也和Express一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告（官网查找 “What is the best VPN configuration for China?”），其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（在官网的右下角的“Zendesk chat”聊天框，选择Technical Support），2020年几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，客户端被封的线路也在几天后会更新恢复**。
 
 ### 如何打开StrongVPN官网？
 
@@ -236,7 +234,7 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 [![Strong客户端下载](https://www.safewebcn.com/img/strongvpn-client-min.png)](#strongvpn如何使用)
 
->**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版</a>，这是找官网技术客服推荐给我的，因为标准版的Windows APP首次使用账号登录困难，精简版的更适合在中国使用。**安装精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，详细见<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">问题#23</a>。
+>**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版</a>，这是找官网技术客服推荐给我的，因为标准版的Windows客户端在国内部分地区首次使用账号登录困难，精简版的更适合在中国使用。**安装精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，详细见<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">问题#23</a>。
 
 下载安装APP客户端后，打开输入用户名密码登录就行了，在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
 
@@ -260,8 +258,6 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 
 ### Strong速度测试
-
-**测试时间**：2020年8月
 
 日本东京节点测速：
 
@@ -296,6 +292,7 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 ### Strong线路选择提示
 
 在不同的网络运营商下，连接同一节点的速度也可能不同，每个节点的网络速度也会不一样。但StrongVPN我选择线路有一点原则，就是选择当前使用人数相对较少的节点。然后多测试几个节点，选择速度最满意的作为常用节点。
+
 登录官网用户后台，然后点击'VPN Accounts'，在下拉框里面点击'Legacy VPN Accounts Summary'，查看下面的“Servers available”，就可以查看各个节点和当前使用人数。我测试的结果是当前使用人数相对较少的节点的速度还是好于人数上万的节点。
 
 - **支持设备**
@@ -374,8 +371,6 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 - ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右，现在有限时优惠**买一年送三个月活动，每月$6.67/月**，支持支付宝支付。
 
-- **由于防火长城的干扰，镜像网站在国内打开较慢，有时需耐心等待**，如果打不开或者排版错误重新载入试试。
-
 >适合注重隐私数据保护和较好的使用体验的朋友。如果要求性价比，[StrongVPN](#1-strongvpn--性价比最佳)应该更适合你，[StrongVPN](#1-strongvpn--性价比最佳)建议优先连接日本、新加坡、韩国、欧洲这些地区新出的服务器节点，速度相对其他节点更快，但整体速度我的体验是不如ExpressVPN，各方面使用体验Expresss还是比StrongVPN好一些。
 
 在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
@@ -399,8 +394,6 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 - 客户端：Windows
 - 电信100M 无线WiFi
 - 路由器：Netgear R7000
-
-**测试时间**：2020年8月
 
 部分测试截图如下：
 [![LA5节点测速](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-min.png)](#2-expressvpn--速度体验最佳)
@@ -442,7 +435,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机�
 
 [![NordVPN](https://www.safewebcn.com/img/nord-min.png)](#3-nordvpn)
 
->2020年8月使用，确认可用，但目前可用节点不多，建议连接美国、日本等地区最新出来的节点，可参考下方最新的测试报告页面。
+>2020年10月使用，确认可用，但目前可用节点不多，建议连接美国、日本等地区最新出来的节点，可参考下方最新的测试报告页面。NordVPN另一个翻墙方案是咨询客服获取服务器地址进行手动配置翻墙。
 
 **<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看NordVPN最新节点速度测试报告</a>**
 
@@ -497,7 +490,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 ## 4.<a rel="nofollow noopener" href="http://linkv.org/panda/" target="_blank"> PandaVPN</a>
 
->2020年8月测试，确认可用，体验中规中矩。
+>2020年10月测试，确认可用，体验中规中矩。
 
 [![PandaVPN](https://www.safewebcn.com/img/panda-min.png)](http://linkv.org/panda/)
 
@@ -577,7 +570,7 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 [![PureVPN](https://www.safewebcn.com/img/purevpn-logo.png)](#6-purevpn)
 
->2020年7月测试，确认可用，但没有亮点，体验中规中矩，有些节点能连上，但网速不算快。Mac用户不推荐使用这款。**唯一优势是方便国外翻墙回国**。
+>2020年9月测试，可用，但没有亮点，体验很一般，少数节点能连上，但网速不算快。国内不再不推荐使用这款。**唯一优势是方便国外翻墙回国（墙外翻回墙内）**。
 
 国内打开PureVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
 
