@@ -16,7 +16,7 @@
 >
 > - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>，在国内速度体验最好，也是我自己很喜欢的VPN产品。设备支持最全面，已经运营了12年（至2020年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的VPN中最快的之一。
 
-> - [StrongVPN](#1-strongvpn--性价比最佳)，这款我已经使用了1年多，性价比还不错。总体来讲，在过去的使用时间里，全年可用率基本能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。支持Wireguard协议，在手机上使用可以实现秒连。**在国内的Windows、Mac和安卓用户可以找客服要中国地区专用的客户端，登录和连接更为顺畅**，标准客户端版本在封锁期间会有连接问题。目前有打折的优惠券可以使用，**遗憾的是使用strong翻墙时的网络速度相对于<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>要慢一些**。Strong官网域名在中国被墙（软件APP能正常使用），有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），需使用本地网络访问，这点比较坑。[国内的本地网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
+> - [StrongVPN](#1-strongvpn--性价比最佳)，这款我已经使用了1年多，性价比还不错。总体来讲，在过去的使用时间里，全年可用率基本能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。支持Wireguard协议，在手机上使用可以实现秒连。**在国内的Windows、Mac和安卓用户可以找客服要中国专用的客户端，登录和连接更为顺畅**，标准客户端在大封锁期间会有连接问题，需等几天更新之后才能用。目前有打折的优惠券可以使用，**遗憾的是使用strong翻墙时的网络速度相对于<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>要慢一些**。Strong官网域名在中国被墙（软件APP能正常使用），有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），需使用本地网络访问，这点比较坑。[国内的本地网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
 > 如果打算自己用**便宜的VPS搭建机场**，首先你要确保能自己应对使用VPS时可能出现的问题；其次，**热门的<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。**目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个不错的替代选择**，没有很多国人扎堆，IP相对较新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度快，用来搭梯子和建站都不错。**可以免费换IP，换IP的方法**：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
 
@@ -240,7 +240,7 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 >**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版</a>，这是找官网技术客服推荐给我的，因为标准版的Windows客户端在国内部分地区首次使用账号登录困难，精简版的更适合在中国使用**。安装精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
 >
->Mac和安卓手机用户也可以找客服获取用于中国的专用客户端，连接成功率很高，在敏感时期也比较稳定。
+>Mac和安卓手机用户也可以找客服获取用于**中国地区的专用客户端**，连接成功率很高，相较于标准版客户端在敏感时期也更加稳定。
 
 下载安装APP客户端后，打开输入用户名密码登录就行了，在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
 
