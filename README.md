@@ -234,17 +234,19 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 [![Strong客户端下载](https://www.safewebcn.com/img/strongvpn-client-min.png)](#strongvpn如何使用)
 
->**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版</a>，这是找官网技术客服推荐给我的，因为标准版的Windows客户端在国内部分地区首次使用账号登录困难，精简版的更适合在中国使用。**安装精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
+### 使用建议
+
+>**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版</a>，这是找官网技术客服推荐给我的，因为标准版的Windows客户端在国内部分地区首次使用账号登录困难，精简版的更适合在中国使用**。安装精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
 
 下载安装APP客户端后，打开输入用户名密码登录就行了，在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
 
 StrongVPN Windows客户端标准版：
 
-[![Strong客户端标准版](https://www.safewebcn.com/img/strong-connect.png)](#strongvpn如何使用)
+[![Strong客户端标准版](https://www.safewebcn.com/img/strong-connect.png)](#使用建议)
 
 StrongVPN客户端精简版（中国Windows用户推荐）：
 
-[![Strong客户端精简版](https://www.safewebcn.com/img/strongvpn-china-client-min.png)](#strongvpn如何使用)
+[![Strong客户端精简版](https://www.safewebcn.com/img/strongvpn-china-client-min.png)](#使用建议)
 
 #### 使用WireGuard实现秒连
 
