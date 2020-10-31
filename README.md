@@ -186,7 +186,9 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 [![Strong-device](https://www.safewebcn.com/img/strong-home.png)](#1-strongvpn--性价比最佳)
 
-这款VPN是我在19年初开始使用，总体来讲，在过去1年多的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的Windows用户可以下载StrongVPN精简版，登录和连接更为顺畅**，**电脑Windows版的标准版客户端在国内的某些网络首次登录可能比较困难**。稍后放上官网Windows精简版的下载链接，或者联系客服提供中国地区使用的客户端的下载地址。**手机版本（iPhone/安卓）的登录和使用直接使用App Store和Google Play下载安装即可**。
+这款VPN是我在19年初开始使用，总体来讲，在过去1年多的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的Windows用户可以下载StrongVPN中国地区专用精简版，登录和连接更为顺畅**，**电脑Windows版的标准版客户端在国内的某些网络首次登录可能比较困难**。稍后放上官网Windows精简版的下载链接，或者联系客服提供中国地区使用的客户端的下载地址。手机版本（iPhone/安卓）的登录和使用直接使用App Store和Google Play下载安装即可，
+
+**另外，和Windows系统一样，Mac和安卓用户也可以找客服获取中国专用版本客户端，在敏感时期连接成功率很高，官网的标准版客户端遇到墙升级可能会存在连接问题，要等版本更新**。
 
 除了最基本的VPN套餐，官网还会额外赠送250 GB SugarSync云储存套餐，赠送的服务值不值见仁见智。
 
@@ -237,6 +239,8 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 ### 使用建议
 
 >**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版</a>，这是找官网技术客服推荐给我的，因为标准版的Windows客户端在国内部分地区首次使用账号登录困难，精简版的更适合在中国使用**。安装精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
+>
+>Mac和安卓手机用户也可以找客服获取用于中国的专用客户端，连接成功率很高，在敏感时期也比较稳定。
 
 下载安装APP客户端后，打开输入用户名密码登录就行了，在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
 
@@ -289,7 +293,7 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 美国的不少节点也可以连接，但在我自己测试相对其他地区慢一些（电信网络），**网络环境不同最佳节点可能也不一样**，你可以自己测试进行节点的选择。
 
-在墙升级的敏感时期，可以更改为IPSec的协议作为备用选择，等2-3个工作日官方更新了服务器，就可以继续使用OpenVPN协议了。
+在墙升级的敏感时期，建议使用中国专用客户端，可以找在线客服获取，等几个工作日官方更新了服务器，就可以继续使用标准版了。
 
 ### Strong线路选择提示
 
