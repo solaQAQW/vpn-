@@ -12,6 +12,8 @@
 
 **重要提示**：在选择或者使用某款VPN的时候，**一定要把本文中与对应这款VPN相关的使用信息看完**，因为涉及到安装和使用过程中的线路选择问题，不然可能会导致使用不便。
 
+建议下载本文的PDF版本：<a rel="nofollow noopener" href="https://linkv.org/download/推荐指南.pdf" target="_blank">2020版翻墙VPN推荐指南PDF版本</a>(右键另存)，有一些VPN使用提示，随时查阅，以备不时之需。
+
 >其实就2020年的今天来看，VPN加密翻墙依然是最适合小白的主流安全科学上网工具，同样也是我长期关注和测试的。**如果你不想多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择下列任意一款**：
 >
 > - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（活动链接）</a>，在国内速度体验最好，也是我自己很喜欢的VPN产品。设备支持最全面，已经运营了12年（至2020年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的VPN中最快的之一。
@@ -166,9 +168,9 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 ### 如何打开StrongVPN官网？
 
-有梯子的同学直接可访问<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，但如果在套餐下单时页面出现“We detected that you are using a VPN or Proxy service,please disconnect it before placing an order, thank you!”（可以顺利下单的话不用管），说明StrongVPN反欺诈系统检测到你是用代理IP访问的（国外存在代理IP盗刷信用卡），要断开梯子使用本地网络访问官网，方法如下文。
+有梯子的同学直接可访问<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，但如果在套餐下单时页面出现“We detected that you are using a VPN or Proxy service...”而不能购买（可以顺利下单的话不用管），说明StrongVPN反欺诈系统检测到你是用代理IP访问的（国外存在代理IP盗刷信用卡），要断开梯子使用本地网络访问官网，方法如下文。
 
-没梯子的同学注意，Strong官网在中国被墙，国内打开官网需要改电脑Host文件，因为其官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
+**国内本地网络访问方法**：Strong官网在中国被墙，国内打开官网需要改电脑Host文件，因为其官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
 改电脑Host文件方法很简单，国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**，手机用户建议在电脑上打开本页面操作，因为手机由于系统版本原因改host操作较麻烦，下面是操作步骤：
 
@@ -186,7 +188,7 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 [![Strong-device](https://www.safewebcn.com/img/strong-home.png)](#1-strongvpn--性价比最佳)
 
-这款VPN是我在19年初开始使用，总体来讲，在过去1年多的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的Windows用户可以下载StrongVPN中国地区专用精简版，登录和连接更为顺畅**，**电脑Windows版的标准版客户端在国内的某些网络首次登录可能比较困难**。稍后放上官网Windows精简版的下载链接，或者联系客服提供中国地区使用的客户端的下载地址。手机版本（iPhone/安卓）的登录和使用直接使用App Store和Google Play下载安装即可，
+这款VPN是我在19年初开始使用，总体来讲，在过去1年多的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的Windows用户可以下载StrongVPN中国地区专用精简版，登录和连接更为顺畅，电脑Windows版的标准版客户端在国内的某些网络首次登录可能比较困难，中国专用版本在敏感时期时连接成功率也很稳定**。稍后放上官网Windows精简版的下载链接，也可以联系客服提供中国地区使用的客户端的下载地址。iPhone苹果手机APP版本的登录和使用直接使用App Store下载安装即可。
 
 **另外，和Windows系统一样，Mac和安卓用户也可以找客服获取中国专用版本客户端，在敏感时期连接成功率很高，官网的标准版客户端遇到墙升级可能会存在连接问题，要等版本更新**。
 
@@ -238,9 +240,9 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 ### 使用建议
 
->**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版</a>，这是找官网技术客服推荐给我的，因为标准版的Windows客户端在国内部分地区首次使用账号登录困难，精简版的更适合在中国使用**。安装精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
+>**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的中国专用精简版</a>，这是找官网技术客服给我的，因为标准版的Windows客户端在国内部分地区首次使用账号登录困难，中国专用版的更适合在中国使用**。安装专用精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
 >
->Mac和安卓手机用户也可以找客服获取用于**中国地区的专用客户端**，连接成功率很高，相较于标准版客户端在敏感时期也更加稳定。
+>Mac和安卓手机用户也可以找客服获取用于**中国地区的专用客户端**，连接成功率很高，相较于通用标准版客户端在敏感时期也更加稳定。
 
 下载安装APP客户端后，打开输入用户名密码登录就行了，在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
 
@@ -248,7 +250,7 @@ StrongVPN Windows客户端标准版：
 
 [![Strong客户端标准版](https://www.safewebcn.com/img/strong-connect.png)](#使用建议)
 
-StrongVPN客户端精简版（中国Windows用户推荐）：
+StrongVPN专用精简版客户端（中国Windows用户推荐使用）：
 
 [![Strong客户端精简版](https://www.safewebcn.com/img/strongvpn-china-client-min.png)](#使用建议)
 
