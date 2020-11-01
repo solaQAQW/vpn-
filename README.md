@@ -12,7 +12,7 @@
 
 **重要提示**：在选择或者使用某款VPN的时候，**一定要把本文中与对应这款VPN相关的使用信息看完**，因为涉及到安装和使用过程中的线路选择问题，不然可能会导致使用不便。
 
-建议下载本文的PDF版本：<a rel="nofollow noopener" href="https://linkv.org/download/推荐指南.pdf" target="_blank">2020版翻墙VPN推荐指南PDF版本</a>(右键另存)，有一些VPN使用提示，随时查阅，以备不时之需。
+建议下载本文的PDF版本：<a rel="nofollow noopener" href="https://www.safewebcn.com/download/推荐指南.pdf" target="_blank">2020版翻墙VPN推荐指南PDF版本</a>(右键另存)，有一些VPN使用提示，随时查阅，以备不时之需。
 
 >其实就2020年的今天来看，VPN加密翻墙依然是最适合小白的主流安全科学上网工具，同样也是我长期关注和测试的。**如果你不想多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择下列任意一款**：
 >
@@ -160,7 +160,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#1-strongvpn--性价比最佳)
 
->2020年10月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，有优惠码可使用。Windows、Mac和Android设备用户建议找客服要中国地区专用客户端，使用OpenVPN（TCP）协议连接成功率一直很高（敏感时期也很稳），官方标准客户端版本在大封锁时期会有连接问题，只能等版本更新。
+>2020年11月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，有优惠码可使用。Windows、Mac和Android设备用户建议找客服要中国地区专用客户端，使用OpenVPN（TCP）协议连接成功率一直很高（敏感时期也很稳），官方标准客户端版本在大封锁时期会有连接问题，只能等版本更新。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
 
@@ -335,7 +335,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 ## 2.<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank"> ExpressVPN – 速度体验最佳</a>
 
->2020年10月使用，确认可用，速度体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快。
+>2020年11月使用，确认可用，速度体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快。
 
 [![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
 
@@ -443,7 +443,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机�
 
 [![NordVPN](https://www.safewebcn.com/img/nord-min.png)](#3-nordvpn)
 
->2020年10月使用，确认可用，但目前可用节点不多，建议连接美国、日本等地区最新出来的节点，可参考下方最新的测试报告页面。NordVPN另一个翻墙方案是咨询客服获取服务器地址进行手动配置翻墙。
+>2020年11月使用，确认可用，但目前可用节点不多，建议连接美国、日本等地区最新出来的节点，可参考下方最新的测试报告页面。NordVPN另一个翻墙方案是咨询客服获取服务器地址进行手动配置翻墙。
 
 **<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看NordVPN最新节点速度测试报告</a>**
 
@@ -536,7 +536,7 @@ PandaVPN由中文团队开发，所以对中文支持很好，相比其他几家
 
 [![IVacy](https://www.safewebcn.com/img/ivacy-logo.png)](#6-ivacy)
 
->2020年7月测试，速度和连接成功率较低，勉强能凑合用。
+>2020年10月测试，速度和连接成功率较低，勉强能凑合用。
 
 ### 如何打开IVacy官网？
 
@@ -578,7 +578,7 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 [![PureVPN](https://www.safewebcn.com/img/purevpn-logo.png)](#6-purevpn)
 
->2020年9月测试，可用，但没有亮点，体验很一般，少数节点能连上，但网速不算快。国内不再不推荐使用这款。**唯一优势是方便国外翻墙回国（墙外翻回墙内）**。
+>2020年9月测试，勉强可用但没有亮点，体验很一般，少数节点能连上，但网速不算快。国内不再不推荐使用这款。**唯一优势是方便国外翻墙回国（墙外翻回墙内）**。
 
 国内打开PureVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
 
