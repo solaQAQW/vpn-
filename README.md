@@ -240,7 +240,7 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 ### 使用建议
 
->**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的中国专用精简版</a>，这是找官网技术客服给我的，因为标准版的Windows客户端在国内部分地区首次使用账号登录困难，中国专用版的更适合在中国使用**。安装专用精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
+>**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的中国专用精简版</a>，这是找官网技术客服给我的，因为标准版的Windows客户端在国内部分地区首次使用账号登录困难，中国专用版的更适合在中国使用**。安装专用精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
 >
 >Mac和安卓手机用户也可以找客服获取用于**中国地区的专用客户端**，连接成功率很高，相较于通用标准版客户端在敏感时期也更加稳定。
 
