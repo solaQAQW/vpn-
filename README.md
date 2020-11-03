@@ -12,7 +12,7 @@
 
 **重要提示**：在选择或者使用某款VPN的时候，**一定要把本文中与对应这款VPN相关的使用信息看完**，因为涉及到安装和使用过程中的线路选择问题，不然可能会导致使用不便。
 
-建议下载本文的PDF版本：<a rel="nofollow noopener" href="https://www.safewebcn.com/download/推荐指南.pdf" target="_blank">2020版翻墙VPN推荐指南PDF版本</a>(右键另存)，有一些VPN使用提示，随时查阅，以备不时之需。
+建议下载本文的PDF版本：<a rel="nofollow noopener" href="https://www.safewebcn.com/download/vpn选择指南.pdf" target="_blank">2020版翻墙VPN选择指南PDF版本</a>(右键另存)，有一些VPN使用提示，随时查阅，以备不时之需。
 
 >其实就2020年的今天来看，VPN加密翻墙依然是最适合小白的主流安全科学上网工具，同样也是我长期关注和测试的。**如果你不想多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择下列任意一款**：
 >
