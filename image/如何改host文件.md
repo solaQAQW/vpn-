@@ -86,17 +86,17 @@ Android/iPhone/Mac/Linux: /etc/hosts
 
 插入5行：
 
-`216.131.67.250 strongvpn.com`
+`69.16.145.224 strongvpn.com`
 
-`216.131.67.250 intranet.strongvpn.com`
+`69.16.145.224 intranet.strongvpn.com`
 
-`216.131.124.181 links.strongvpn.com`
+`69.16.145.213 links.strongvpn.com`
 
-`216.131.91.84 affiliate.strongvpn.com`
+`192.200.155.38 affiliate.strongvpn.com`
 
 `104.16.53.111 support.strongvpn.com`
 
-添加完成，保存然后重启浏览器，[**获取StrongVPN最新优惠**](https://linkv.org/strongcn/)
+添加完成，保存然后重启或使用另一浏览器，点击[**获取StrongVPN最新优惠**](https://linkv.org/strongcn/)
 
 ### PureVPN
 
