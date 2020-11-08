@@ -240,9 +240,11 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 ### 使用建议
 
->**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版客户端V1 app</a>，这是找官网技术客服给我的，因为标准版的Windows客户端在国内部分地区首次使用账号登录困难，精简版客户端更适合在中国使用**。安装专用精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
+>**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版客户端V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">备用下载地址</a>），这是找官网技术客服给我的，因为标准版的Windows客户端在国内部分地区首次使用账号登录困难，精简版客户端更适合在中国使用**。安装专用精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
 >
 >**Mac和安卓手机用户也可以找客服获取精简版客户端V1 app**，连接成功率很高，相较于通用标准版客户端在敏感时期也更加稳定。
+
+Mac精简版<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/mac/StrongVPN_mac-latest.zip" target="_blank">V1 app下载地址</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/Strong_mac-latest.zip" target="_blank">备用下载地址</a>）
 
 下载安装APP客户端后，打开输入用户名密码登录就行了，在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
 
@@ -279,7 +281,9 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 官方建议：Change your VPN connection protocol If changing server did not help you get connected, try changing your protocol. We recommend using OpenVPN via UDP or OpenVPN via TCP configuration for customers in China. If both fails, then try the aforementioned protocols with Scramble feature enabled.
 
-官方的意思也就是说：“在中国使用建议使用OpenVPN的UDP或者TCP协议，当出现连接问题的时候，开启Scramble功能选项。”Scramble功能应该是官方的魔改OpenVPN协议，加入了混淆算法，在敏感时期更容易连接上。
+官方的意思也就是说：“在中国使用建议使用OpenVPN的UDP或者TCP协议，当出现连接问题的时候，开启Scramble功能选项。”Scramble功能应该是官方的魔改OpenVPN协议，加入了混淆算法，在敏感时期更容易连接上。比如在精简版客户端的界面点击Advanced，然后在弹出来的窗口点击options选项，Scramble选择Obfuscate，然后点击OK，重新启动客户端。
+
+[![Strong客户端精简版设置](https://www.safewebcn.com/img/strongvpn客户端设置.png)](#strong速度测试)
 
 **在大多数情况下选择OpenVPN TCP或者UDP协议，在电信和移动网络中，使用TCP协议，连接更加顺畅**，我建议优先连接下面这些节点：
 
