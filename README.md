@@ -414,7 +414,17 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 [![sigapore节点测速](https://www.safewebcn.com/img/expressvpn-sigapore-min.png)](#2-expressvpn--速度体验最佳)
 
-测试的Singapore – Marina Bay节点速度也很不错，下载速度测试值为42.14Mb/s，顺便说一下，我们的测试中，ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。总体上来说ExpressVPN是我测试的所有翻墙软件中，在电脑端（Windows、MacBook）和手机端（iPhone、安卓手机）使用体验最好，尤其是网络速度方面。
+测试的Singapore – Marina Bay节点速度也很不错，下载速度测试值为42.14Mb/s，顺便说一下，我们的测试中，ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。
+
+iPhone手机使用移动4G网络连接ExpressVPN的Marina Bay节点，使用SpeedTest软件进行在线测速，连接和测速界面如下图：
+
+[![连接Marina Bay节点](https://www.safewebcn.com/img/expressvpn-iphone-UI-in-China.png)](#2-expressvpn--速度体验最佳)
+
+[![Marina Bay节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest.png)](#2-expressvpn--速度体验最佳)
+
+从上面的测试截图看到，iPhone使用移动4G网络连接Marina Bay节点，测试结果还不错，能跑满我这里的移动4G网络带宽，实际使用体验也在我所现在使用的翻墙软件中属于最好的。
+
+总体上来说ExpressVPN是我测试的所有翻墙软件中，在电脑端（Windows、MacBook）和手机端（iPhone、安卓手机）使用体验最好，尤其是网络速度方面。
 
 综合评价：这款VPN是我经常使用的一款，从16年开始使用到现在，其客户端的美观简洁、服务的稳定性、连接速度在我们测试的所有VPN产品中属于一流，可称得上是在国内最好用的翻墙VPN。在我们的测试中，ExpressVPN几乎没有对我们的网速造成任何影响，浏览网页、观看YouTube十分流畅。ExpressVPN的服务器遍布全球94个国家，并且对使用流量和带宽没有任何限制。
 
