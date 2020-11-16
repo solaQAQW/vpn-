@@ -16,7 +16,7 @@
 
 >其实就2020年的今天来看，VPN加密翻墙依然是最适合小白的主流安全科学上网工具，同样也是我长期关注和测试的。**如果你不想多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择下列2款**：
 >
-> - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（活动链接）</a>，这款在国内速度体验最好，也是我自己很喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新使用，<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开ExpressVPN官网</a>需梯子。它设备支持最全面，已经运营了12年（至2020年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。
+> - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（活动链接）</a>，这款在国内速度体验最好，也是我自己很喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新使用，<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开ExpressVPN官网</a>需梯子。它设备支持最全面，iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选，已经运营了12年（至2020年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。
 
 > - [StrongVPN](#1-strongvpn--性价比最佳)，这款我已经使用了1年多，性价比还不错。总体来讲，在过去的使用时间里，全年可用率基本能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。支持Wireguard协议，在手机上使用可以实现秒连。**在国内的Windows、Mac和安卓用户可以找客服要精简客户端V1 app，在中国登录和连接更为顺畅**，而标准客户端在敏感时期大封锁的时候可能会出现连接问题，需等几天更新之后才能恢复正常。目前有打折的优惠券可以使用，**Strong翻墙时的网络速度相对于<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>要慢一些，不过对于平时对油管4K视频不是刚需的用户也够用了**。StrongVPN官网域名在中国被墙（软件APP能正常使用），有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要使用本地网络访问，这点比较坑。[国内的本地网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
