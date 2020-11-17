@@ -243,7 +243,9 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 >**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版客户端V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">备用下载地址</a>），这是找官网技术客服给我的，因为标准版的Windows客户端在国内部分地区首次使用账号登录困难，精简版客户端更适合在中国使用**。安装专用精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
 >
 >**重要提示**：有部分读者反映购买StrongVPN后，在StrongVPN的精简版V1 App中无法选择OpenVPN协议或是登陆出现问题，就此我咨询了客服，如果出现这种情况，需要在官网右下角联系技术客服"Technical Support"，开通OpenVPN account就行了。如果英文不熟悉，可以参考我的烂英文对话:
+>
 >“Hello,I live in China.I am using leagcy V1 app but cannot login,the V2 app doesn't work for me.”
+>
 >“Could you help me open my access to legacy OpenVPN account?”
 >
 >**Mac和安卓手机用户也可以找客服获取精简版客户端V1 app**，连接成功率很高，相较于通用标准版客户端在国内使用也更加稳定。
