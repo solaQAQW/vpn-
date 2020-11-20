@@ -1,6 +1,6 @@
 # 翻墙软件VPN推荐，稳定好用(含2020优惠)
 
-最近更新：`2020年11月4日`
+最近更新：`2020年11月20日`
 
 >翻墙（科学上网）重不重要？不会翻墙回不了Gmail邮件，不能Google找程序代码，不翻墙能不能看YouTube视频？Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。我在国内针对中国国际互联网用户的翻墙软件进行测试和评价，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具。
 
@@ -92,13 +92,13 @@
 
 >除非你是网络安全技术方面的大咖或者有捣腾VPS这方面的兴趣，否则我现在不建议这么做，尤其是采用目前流行的脚本的方法，ip很容易死。
 
-过去几年租用VPS服务器自建翻墙工具一度很流行，以前很多有点技术基础的人也在用这种方法，买了VPS服务器，下载安装脚本文件，就能翻墙了。这种方案的好处是服务器独享，仅自己一个人用，如果服务器有CN线路的话速度上也有优势，确实在刚开始我也推荐大家这样做，因为一个人独享一台服务器的资源，而且翻墙的成本也不高。但**缺点就是现在IP太容易被墙**，尤其是<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工</a>、<a rel="nofollow noopener" href="https://www.vultr.com/?ref=6804316" target="_blank">Vultr</a>和DO这些国内用户众多的机房，因为防火长城不断在升级，对于翻墙流量的识别越来越精准。这些流行且技术含量不高的翻墙方法对于防火长城来说只需一眼就知道你在翻墙，然后导致ip被封，由于使用翻墙的多了，厂商的IP资源是有限的，很多的vps厂商已经不支持免费换IP，即使付费换了IP也不能保证是没被墙的，换来换去结果是防火长城屏蔽的IP越来越多，几个在国内最受欢迎的vps品牌也很难找到可用的IP了，那么服务器就相当于是报废了。近1年我就陆陆续续收到一些读者留言，问买的1年的服务器用了不到2个月被墙了怎么办，有些读者是换了IP也不能用，没办法，这台VPS只能放着吃灰了。在Google上的搜索也主要是IP被墙的问题，比如搬瓦工的热门搜索如下图：
+过去几年租用VPS服务器自建翻墙工具一度很流行，以前很多有点技术基础的人也在用这种方法，买了VPS服务器，下载安装脚本文件，就能翻墙了。这种方案的好处是服务器独享，仅自己一个人用，如果服务器有CN线路的话速度上也有优势，确实在刚开始我也推荐大家这样做，因为一个人独享一台服务器的资源，而且翻墙的成本也不高。但**缺点就是现在使用市面通用协议的IP太容易被墙**，尤其是<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工</a>、<a rel="nofollow noopener" href="https://www.vultr.com/?ref=6804316" target="_blank">Vultr</a>和DO这些国内用户众多的机房，因为防火长城不断在升级，对于翻墙流量的识别越来越精准。这些流行且技术含量不高的翻墙方法对于防火长城来说只需一眼就知道你在翻墙，然后导致ip被封，由于使用翻墙的多了，厂商的IP资源是有限的，很多的vps厂商已经不支持免费换IP，即使付费换了IP也不能保证是没被墙的，换来换去结果是防火长城屏蔽的IP越来越多，几个在国内最受欢迎的vps品牌也很难找到可用的IP了，那么服务器就相当于是报废了。近1年我就陆陆续续收到一些读者留言，问买的1年的服务器用了不到2个月被墙了怎么办，有些读者是换了IP也不能用，没办法，这台VPS只能放着吃灰了。在Google上的搜索也主要是IP被墙的问题，比如搬瓦工的热门搜索如下图：
 
 [![Google搜索搬瓦工](https://www.safewebcn.com/img/bw-google-search.png)](#买vps自建翻墙服务器)
 
-前几年这种翻墙方案性价比还不错，但是就2020年来说，似乎找到未被屏蔽的IP有点困难了，况且付费换一个IP需8美元！以现在防火墙对于翻墙（SS/SSR/VPN等）的流量识别算法，大部分用户不出2个月IP就会被封。
+前几年这种翻墙方案性价比还不错，但是就2020年来说，似乎找到未被屏蔽的IP有点困难了，况且付费换一个IP需8美元！以现在防火墙对于翻墙（SS/SSR/VPN等）的流量识别算法，大部分用户不出1个月IP就会被封。
 
-大型的VPN服务商IP资源多，被封了再换一批，个人使用这种VPS翻墙就很蛋疼了，被封了只能花钱换IP，很可能下一个IP又是被封的，总之够折腾！这种VPS搭搭网站还行，用来翻墙还是算了。
+大型的VPN服务商IP资源多，而且一般对通用VPN协议进行二次开发，加入混淆算法，被探测到在时间上比一般自建的要慢很多。即使被封了再换一批ip，个人使用这种VPS翻墙就很蛋疼了，被封了只能花钱换IP，很可能下一个IP又是被封的，总之够折腾！这种VPS搭搭网站还行，用来翻墙还是算了。
 
 ## 什么VPN适合中国用户？
 
@@ -242,7 +242,7 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 >**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版客户端V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">备用下载地址</a>），这是找官网技术客服给我的，因为标准版的Windows客户端在国内部分地区首次使用账号登录困难，精简版客户端更适合在中国使用**。安装专用精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
 >
->**重要提示**：有部分读者反映购买StrongVPN后，在StrongVPN的精简版V1 App中无法选择OpenVPN协议或是登陆出现问题，就此我咨询了客服，如果出现这种情况，需要在用户后台点击“Support Ticket”，点击“Submit  new ticket”，提交开通OpenVPN account，一般很快就会开通；或者在官网右下角联系技术客服"Technical Support"，开通OpenVPN account就行了。如果英文不熟悉，可以参考:
+>**重要提示**：有部分读者反映购买StrongVPN后，在StrongVPN的精简版V1 App中无法选择OpenVPN协议或是登陆出现问题，就此我咨询了客服，如果出现这种情况，需要在用户后台点击“Support Ticket”，点击“Submit  new ticket”，提交开通OpenVPN account，一般提交后很快就会开通；或者在官网右下角联系在线技术客服"Technical Support"，开通OpenVPN account就行了。如果英文不熟悉，可以参考:
 >
 >“Hello,I live in China.I am using legacy V1 app but cannot login,the V2 app doesn't work for me.”
 >
