@@ -4,7 +4,7 @@
 
 >翻墙（科学上网）重不重要？不会翻墙回不了Gmail邮件，不能Google找程序代码，不翻墙能不能看YouTube视频？Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。我在国内针对中国国际互联网用户的翻墙软件进行测试和评价，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具。
 
-[![翻墙VPN推荐](https://www.safewebcn.com/img/wall-min.png "梯子")](#%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6vpn%E6%8E%A8%E8%8D%90%E6%8C%87%E5%8D%97%E5%90%AB2020%E4%BC%98%E6%83%A0)
+[![翻墙VPN推荐](https://www.safewebcn.com/img/wall-min.png "梯子")](#%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6vpn%E6%8E%A8%E8%8D%90%E7%A8%B3%E5%AE%9A%E5%A5%BD%E7%94%A8%E5%90%AB2020%E4%BC%98%E6%83%A0)
 
 >这篇文章是中国安全翻墙攻略的**详细版**，讨论翻墙软件、科学上网方法和网络安全的相关问题。如果只想快速选个科学上网软件来翻墙，直接看[本文下方目录](#本文内容导航)。
 
