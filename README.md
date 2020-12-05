@@ -1,6 +1,6 @@
 # 翻墙软件VPN推荐，稳定好用(含2020优惠)
 
-最近更新：`2020年11月20日`
+最近更新：`2020年12月5日`
 
 >翻墙（科学上网）重不重要？不会翻墙回不了Gmail邮件，不能Google找程序代码，不翻墙能不能看YouTube视频？Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。我在国内针对中国国际互联网用户的翻墙软件进行测试和评价，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具。
 
@@ -160,7 +160,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#1-strongvpn--性价比最佳)
 
->2020年11月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，有优惠码可使用。Windows、Mac和Android设备用户建议找官网在线客服(Technical Support)获取精简客户端V1 app，这个版本适合中国用户使用，在国内使用OpenVPN（TCP或UDP）协议连接成功率一直很高（在敏感时期比标准客户端连接也更加稳定），而官方标准客户端版本在敏感时期有时会遇到连接问题，需等待版本或线路更新才能恢复正常。
+>2020年12月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，有优惠码可使用。Windows、Mac和Android设备用户建议找官网在线客服(Technical Support)获取精简客户端V1 app，这个版本适合中国用户使用，在国内使用OpenVPN（TCP或UDP）协议连接成功率一直很高（在敏感时期比标准客户端连接也更加稳定），而官方标准客户端版本在敏感时期有时会遇到连接问题，需等待版本或线路更新才能恢复正常。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
 
@@ -347,7 +347,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 ## 2.<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank"> ExpressVPN – 速度体验最佳</a>
 
->2020年11月使用，确认可用，速度体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快，这款VPN在iPhone上的使用体验最好。
+>2020年12月使用，确认可用，速度体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快，这款VPN在iPhone上的使用体验最好。
 
 [![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
 
@@ -520,7 +520,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 ## 4.<a rel="nofollow noopener" href="http://linkv.org/panda/" target="_blank"> PandaVPN</a>
 
->2020年10月测试，确认可用，体验中规中矩。
+>2020年11月测试，确认可用，体验中规中矩。
 
 [![PandaVPN](https://www.safewebcn.com/img/panda-min.png)](http://linkv.org/panda/)
 
@@ -600,7 +600,7 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 [![PureVPN](https://www.safewebcn.com/img/purevpn-logo.png)](#6-purevpn)
 
->2020年9月测试，勉强可用但没有亮点，体验很一般，少数节点能连上，但网速不算快。国内不再不推荐使用这款。**唯一优势是方便国外翻墙回国（墙外翻回墙内）**。
+>2020年10月测试，勉强可用但没有亮点，体验很一般，少数节点能连上，但网速不算快。**国内不再不推荐使用这款，唯一优势是方便国外翻墙回国（墙外翻回墙内）**。
 
 国内打开PureVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
 
