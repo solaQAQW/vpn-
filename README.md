@@ -2,7 +2,7 @@
 
 最近更新：`2020年12月5日`
 
->翻墙（科学上网）重不重要？不会翻墙回不了Gmail邮件，不能Google找程序代码，不翻墙能不能看YouTube视频？Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。我在国内针对中国国际互联网用户的翻墙软件进行测试和评价，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具。
+>翻墙（科学上网）重不重要？不会翻墙回不了Gmail邮件，不能Google找程序代码，不翻墙能不能看YouTube视频？Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。由于工作出差和生活需要我在国内不同地区长期需要翻墙，就自己的使用感受和对翻墙软件这个行业的发展，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术。
 
 [![翻墙VPN推荐](https://www.safewebcn.com/img/wall-min.png "梯子")](#%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6vpn%E6%8E%A8%E8%8D%90%E7%A8%B3%E5%AE%9A%E5%A5%BD%E7%94%A8%E5%90%AB2020%E4%BC%98%E6%83%A0)
 
@@ -10,7 +10,7 @@
 
 本文作者常年在国内出差，由于生活和工作需要，也为了自己查找资料更加便利，我手机和PC上安装了一共7-8个付费翻墙APP作为常年的备用，担心出差途中不能翻墙和公共网络的安全性，所有我比较关注这类翻墙软件在不同网络环境下的稳定性和隐私数据的安全性。根据自己过去2年的测试和使用体验，对几种国内流行的翻墙软件和技术方法做出对比，读者可根据自己的实际情况选择合适的翻墙工具。
 
-**重要提示**：在选择或者使用某款VPN的时候，**一定要把本文中与对应这款VPN相关的使用信息看完**，因为墙的不断增高，涉及到安装和使用过程中的线路选择问题，不然可能会导致使用不便。
+**重要提示**：在选择或者使用某款VPN的时候，**一定要把本文中与对应这款VPN相关的使用信息看完**，因为墙的不断增高，可能会涉及到安装和使用过程中的线路选择问题，不然可能会导致使用不便。
 
 建议下载本文的PDF版本：<a rel="nofollow noopener" href="https://www.safewebcn.com/download/vpn选择指南.pdf" target="_blank">2020版翻墙VPN选择指南PDF版本</a>(右键另存)，有一些VPN使用提示，随时查阅，以备不时之需。
 
@@ -20,7 +20,7 @@
 
 > - [StrongVPN](#1-strongvpn--性价比最佳)，这款我已经使用了1年多，性价比还不错。总体来讲，在过去的使用时间里，全年可用率基本能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。支持Wireguard协议，是为数不多支持Wireguard协议的VPN产品。**在国内的Windows、Mac和安卓用户可以找客服要精简客户端V1 app，在中国登录和连接更为顺畅**，而标准客户端在敏感时期大封锁的时候可能会出现连接问题，需等几天更新之后才能恢复正常。目前有打折的优惠券可以使用，**Strong翻墙时的网络速度相对于<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN</a>要慢一些，不过对于平时对油管4K视频不是刚需的用户也够用了**。StrongVPN官网域名在中国被墙（软件APP能正常使用），有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要使用本地网络访问，这点比较坑。[国内的本地网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
-> 如果打算自己用**VPS自己搭建梯子**，首先你要确保能自己应对使用VPS时可能出现的问题，比如无法连接、IP被封，网络技术和经验不深的读者不推荐这种方法；其次，**热门的<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。**目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个还不错的替代选择**，目前还没有很多国人扎堆，IP相对较新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度快，HostWinds的VPS用来搭梯子（技术小白不推荐）和建站都不错。可以免费换IP，换IP的方法：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
+> 如果打算自己用**VPS自己搭建梯子**，首先你要确保能自己应对使用VPS时可能出现的问题，比如无法连接、IP被封，**网络技术和经验不深的读者不推荐这种方法**；其次，**热门的<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个还不错的替代选择，目前还没有很多国人扎堆，IP相对较新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度快，HostWinds的VPS用来搭梯子（技术小白不推荐）和建站都不错。可以免费换IP，换IP的方法：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
 
 如果你是新手小白或者想了解更多翻墙方法的信息，请依次往下看，尤其是关于**翻墙的安全性问题**，这个问题日趋严重，且关系到每个互联网用户的信息安全和法律风险，但是目前却少有人关注。
 
