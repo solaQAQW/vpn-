@@ -37,7 +37,7 @@
 >### 6.[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 >### 7. [适合在中国使用的翻墙软件VPN，国内实测](#适合在中国使用的翻墙软件vpn国内实测)
 >>#### 7.1 [ExpressVPN-速度体验最佳](#1-expressvpn--速度体验最佳)
->>#### 7.2 [StrongVPN-性价比最佳](#2-strongvpn--性价比最佳)
+>>#### 7.2 [StrongVPN](#2-strongvpn--性价比最佳)
 >>#### 7.3 [NordVPN](#3-nordvpn)
 >>#### 7.4 [PandaVPN](#4-pandavpn)
 >>#### 7.5 [IVacy](#5-ivacy)
