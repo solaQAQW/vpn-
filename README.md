@@ -20,7 +20,7 @@
 
 
 
-> 如果打算自己用**VPS自己搭建梯子**，首先你要确保能自己应对使用VPS时可能出现的问题，比如无法连接、IP被封，**网络技术和经验不深的读者不推荐这种方法**；其次，**热门的<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个还不错的替代选择，目前还没有很多国人扎堆，IP相对较新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度快，HostWinds的VPS用来搭梯子（技术小白不推荐）和建站都不错。可以免费换IP，换IP的方法：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
+> 如果打算自己用**VPS自己搭建梯子**，首先你要确保能自己应对使用VPS时可能出现的问题，比如无法连接、IP被封，**网络技术和经验不深的读者不推荐这种方法**，因为现在自己租用VPS服务器架设、搭建梯子，使用市面常规通用协议很容易被墙探测到并屏蔽IP，很可能VPS服务器就只能放着吃灰了；其次，**热门的<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个还不错的替代选择，目前还没有很多国人扎堆，IP相对较新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度相对快些，HostWinds的VPS用来搭梯子（技术小白不推荐）和建站都还凑合。可以免费换IP（但不保证全新），换IP的方法：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
 
 如果你是新手小白或者想了解更多翻墙方法的信息，请依次往下看，尤其是关于**翻墙的安全性问题**，这个问题日趋严重，且关系到每个互联网用户的信息安全和法律风险，但是目前却少有人关注。
 
