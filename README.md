@@ -311,10 +311,6 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 **另外，和Windows系统一样，Mac和安卓用户也可以找客服获取精简版客户端V1 app，在敏感时期连接成功率很高，官网的标准版客户端遇到墙升级可能会存在连接问题，要等几日版本更新才能恢复正常使用**。
 
-下面是读者反馈使用StrongVPN的一些经验（感谢这位读者的反馈），如果使用过程中出现问题可以参考：
-
-[![Strong-feedback](https://www.safewebcn.com/img/strong-feedback-min.png)](#2-strongvpn--性价比最佳)
-
 除了最基本的VPN套餐，官网还会额外赠送250 GB SugarSync云储存套餐，赠送的服务值不值见仁见智。
 
 使用的时候直接通过客户端APP一键连接就行了，不用自己手动设置，敏感时期如果遇到封锁，可在官网右下角的在线聊天框找客服获取连接方案。能连接的节点比ExpressVPN多一些，建立连接所需的时间也比ExpressVPN略快，但是网络速度比ExpressVPN稍慢，不过打开网页和看Youtube高清视频也基本够用，无论是电脑还是手机（包括iPhone和安卓）APP客户端的使用体验和稳定性在我使用的VPN软件中仅次于ExpressVPN，对于在乎性价比的人来说，是除[ExpressVPN](#1-expressvpn--速度体验最佳)外的最佳选择。
@@ -365,11 +361,14 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 >**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版客户端V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">备用下载地址</a>），这是找官网技术客服给我的，因为标准版的Windows客户端在国内部分地区首次使用账号登录困难，精简版客户端更适合在中国使用**。安装专用精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
 >
->**重要提示**：有部分读者反映购买StrongVPN后，在StrongVPN的精简版V1 App中无法选择OpenVPN协议或是登陆出现问题，就此我咨询了客服，如果出现这种情况，需要在用户后台点击“Support Ticket”，点击“Submit  new ticket”，提交开通OpenVPN account，一般提交后很快就会开通；或者在官网右下角联系在线技术客服"Technical Support"，开通OpenVPN account就行了。如果英文不熟悉，可以参考:
+>**重要提示**：有部分读者反映购买StrongVPN后，在StrongVPN的精简版V1 App中无法选择OpenVPN协议或是登陆出现问题，就此我咨询了客服，如果出现这种情况，需要在用户后台点击“Support Ticket”，点击“Submit  new ticket”，提交开通OpenVPN account，一般提交后很快就会开通；或者在官网右下角联系在线技术客服"Technical Support"，开通OpenVPN account就行了。下图是本文读者反馈使用StrongVPN的一些经验（感谢这位读者的反馈^-^），如果使用过程中出现问题可以参考：
+
+[![Strong-feedback](https://www.safewebcn.com/img/strong-feedback-min.png)](#2-strongvpn--性价比最佳)
+
+如果英文不熟悉，可以参考:
 >
->“Hello,I live in China.I am using legacy V1 app but cannot login,the V2 app doesn't work for me.”
->
->“Could you help me open my access to legacy OpenVPN account?”
+>“Hello,I live in China.I am using legacy V1 app but cannot login,the V2 app doesn't work for me in China.”
+>“Could you please help me open my access to legacy OpenVPN account?”
 >
 >**Mac和安卓手机用户也可以找客服获取精简版客户端V1 app**，连接成功率很高，相较于通用标准版客户端在国内使用也更加稳定。
 
@@ -385,15 +384,15 @@ StrongVPN专用精简版客户端V1 App（中国用户推荐使用，比标准�
 
 [![Strong客户端精简版](https://www.safewebcn.com/img/strongvpn-china-client-min.png)](#使用建议)
 
-#### 使用WireGuard实现秒连
+#### 使用WireGuard协议
 
 StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后点击setting，在Protocol选择WireGuard，然后回到服务器选择线路连接，点击connect，等待1-3秒就能连上，如果没有反应，打开iPhone的系统设置，点击VPN，选择“StrongVPN WireGuard Configuration”（如下图）：
 
-[![Strong WireGuard](https://www.safewebcn.com/img/strong-wireguard-min.png)](#使用wireguard实现秒连)
+[![Strong WireGuard](https://www.safewebcn.com/img/strong-wireguard-min.png)](#使用wireguard协议)
 
-点击按钮，一般在1s左右就能实现连接（如下图），WireGuard协议在手机翻墙时特别方便，目前大多数VPN商家还没有加入WireGuard协议，这是StrongVPN的优势之一。
+点击按钮，一般很快就能建立连接（如下图），WireGuard协议在手机翻墙时比较方便，目前大多数VPN产品还还没有加入WireGuard协议，这是StrongVPN的优势之一。
 
-[![Strong WireGuard](https://www.safewebcn.com/img/strong-wireguard-2-min.png)](#使用wireguard实现秒连)
+[![Strong WireGuard](https://www.safewebcn.com/img/strong-wireguard-2-min.png)](#使用wireguard协议)
 
 
 ### Strong速度测试
@@ -414,7 +413,7 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 [![Strong客户端精简版设置](https://www.safewebcn.com/img/strongvpn客户端设置.png)](#strong速度测试)
 
-**在大多数情况下选择OpenVPN TCP或者UDP协议，在电信和移动网络中，使用TCP协议，连接更加顺畅**，我建议优先连接下面这些节点：
+**在大多数情况下选择OpenVPN TCP或者UDP协议，在电信和移动网络中，使用TCP协议，连接相对更加顺畅点**，当然你也可以根据你当地网络环境自己测试，我建议优先连接下面这些节点：
 
 - 韩国（South Korea - Seoul）
 
