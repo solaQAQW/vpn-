@@ -102,7 +102,7 @@
 
 [![Google搜索搬瓦工](https://www.safewebcn.com/img/bw-google-search.png)](#买vps自建翻墙服务器)
 
-前几年这种翻墙方案性价比还不错，但是就2020年来说，似乎找到未被屏蔽的IP有点困难了，况且付费换一个IP需8美元！以现在防火墙对于翻墙（SS/SSR/VPN等）的流量识别算法，大部分用户不出1个月IP就会被封。
+前几年这种翻墙方案性价比还不错，但是就近两年来说，似乎找到未被屏蔽的IP有点困难了，况且付费换一个IP需8美元！以现在防火墙对于翻墙（SS/SSR/VPN等）的流量识别算法，大部分用户不出1个月IP就会被封。
 
 大型的VPN服务商IP资源多，而且一般对通用VPN协议进行二次开发，加入混淆算法，被探测到在时间上比一般自建的要慢很多。即使被封了再换一批ip，个人使用这种VPS翻墙就很蛋疼了，被封了只能花钱换IP，很可能下一个IP又是被封的，总之够折腾！这种VPS搭搭网站还行，用来翻墙还是算了。
 
@@ -290,6 +290,8 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的大牌服务商。从近2年开始也开始重视开发中国市场，售后服务也不错，它也和Express一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告（官网查找 “What is the best VPN configuration for China?”），其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（在官网的右下角的“Zendesk chat”聊天框，选择Technical Support），2020年几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的精简客户端一直很稳定**。
 
 ### 如何打开StrongVPN官网？
+
+>下载安装Strong客户端和使用请详细阅读本文，避免后续使用出现问题。
 
 有梯子的同学直接可访问<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，但如果在套餐下单时页面出现“We detected that you are using a VPN or Proxy service...”而不能购买（可以顺利下单的话不用管），说明StrongVPN反欺诈系统检测到你是用代理IP访问的（国外存在代理IP盗刷信用卡），要断开梯子使用本地网络访问官网，方法如下文。
 
