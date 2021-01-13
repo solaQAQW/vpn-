@@ -167,7 +167,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 [![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
 
-ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN产品。但因为价格相对较高，我放在第二位，**适合不差钱和要求较好使用体验的朋友**。
+ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN产品，**适合对网络速度要求高和较好使用体验的朋友**。
 
 ### 为什么ExpressVPN是最好用的中国VPN翻墙软件？
 
