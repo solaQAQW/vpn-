@@ -1,6 +1,6 @@
 # 翻墙软件VPN推荐，稳定好用(含2021优惠)
 
-最近更新：`2021年1月2日`
+最近更新：`2021年1月16日`
 
 >翻墙（科学上网）重不重要？不会翻墙回不了Gmail邮件，不能Google找程序代码，不翻墙能不能看YouTube视频？Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。由于工作出差和生活需要我在国内不同地区长期需要翻墙，就自己的使用感受和对翻墙软件这个行业的发展，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术。
 
@@ -173,13 +173,13 @@ ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术�
 
 因为他看重中国市场，售后服务很不错。应对防火长城的封锁反应很快，一般2-3个工作日内就可以通过更新客户端解决，在封锁期内使用`L2TP – IPsec`”协议连接其他服务器也能使用，长期可用率能保持在95%左右，能在中国做到这样的翻墙软件真的寥寥无几。
 
-全球范围内的VPN软件多如牛毛，有耐心一直为中国用户提供镜像站点的一只手数得过来，ExpressVPN的镜像站点对中国用户始终保持着可访问。ExpressVPN的镜像网站除了域名和官网不同以外，其他服务和功能和官网一样的，在线客服沟通、用户账号登陆和app安装包下载都可以在镜像网站完成。而且镜像网站数据与官网实时互通，在镜像网站注册的账号也可以在官网域名和其他镜像网站使用。（注：目前镜像网站需要从软件、APP中的链接进入，仅用于客户端的下载和更新、客服沟通和账号信息查看）
+全球范围内的VPN软件多如牛毛，有耐心一直为中国用户提供镜像站点的一只手数得过来，ExpressVPN的镜像站点对中国用户始终保持着可访问。ExpressVPN的镜像网站除了域名和官网不同以外，其他服务和功能和官网基本一样的，在线客服沟通、用户账号登陆和app安装包下载都可以在镜像网站完成。而且镜像网站数据与官网实时互通，在镜像网站注册的账号也可以在官网域名和其他镜像网站使用。但是**目前镜像网站需要从软件、APP界面中的链接进入，仅用于客户端的下载和更新、客服沟通和账号后台信息查看**。
 
 > 由于冒牌网站很多，严重损害了品牌价值，**ExpressVPN官方已经不再使用镜像域名处理新用户的注册**，国内能访问的镜像域名仅供更新客户端使用，目前中国大陆的访客需要其他梯子才能进入ExpressVPN官网进行注册和购买。
 
 - 全世界都能访问
 
-因为版权保护，很多时候访问视频、音乐、社交媒体都会有限制。ExpressVPN为了应对内容限制和审查制度，做了许多工作，不仅支持Netflix等流媒体，并且在香港等地都有VPN服务器。
+因为版权保护，很多时候访问视频、音乐、社交媒体都会有限制。ExpressVPN为了应对内容限制和审查制度，做了许多工作，不仅支持Netflix网飞等流媒体，并且在香港等地都有VPN服务器。
 
 - 24小时在线客服
 
@@ -274,8 +274,11 @@ ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机�
 
 ### <center><a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
 
-> 由于冒牌网站很多，官方已经不再使用镜像域名（只能更新客户端使用），目前中国大陆的访客可能已经打不开ExpressVPN官网，需要梯子才能进入。
+> 由于冒牌网站很多，官方已经不再使用镜像域名（只提供更新客户端、联系客服使用）处理中国地区的新订单，目前中国大陆的访客可能已经打不开ExpressVPN官网，需要梯子才能进入。
 
+### 安全的浏览器（重要）
+
+[翻墙的安全性](#翻墙软件与vpn的区别--翻墙的安全性问题)尤为重要，前面已经讲过，翻墙还在使用国产浏览器的朋友赶紧更换，因为国产浏览器可能会留有后门和保存用户的访问记录，建议大家使用官方版本的Chrome浏览器，一定要是在Google官网下载的Chrome安装包进行安装，第三方平台很多留有后门。另外，可以设置Split Tunneling，让Chrome浏览器走VPN流量，其他浏览器（比如火狐Firefox）走本地流量，这样可以实现翻墙分流了，访问国内网站也会快不少。
 
 ## 2.<a rel="nofollow noopener" href="#如何打开strongvpn官网" target="_blank"> StrongVPN – 性价比最佳</a>
 
@@ -361,13 +364,11 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 ### StrongVPN如何使用？
 
-登录进官网用户后台界面后，点击“StrongVPN Clients”下载客户端APP，如果下载速度太慢，取消后重试。
-
-[![Strong客户端下载](https://www.safewebcn.com/img/strongvpn-client-min.png)](#strongvpn如何使用)
+登录进官网用户后台界面后，可以点击“StrongVPN Clients”下载通用版客户端APP（这个版本不建议中国用户使用，敏感时期会有连接问题，适合在中国使用的客户端请看下文），如果下载速度太慢，取消后重试。
 
 ### 使用建议
 
->**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版客户端V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">备用下载地址</a>），这是找官网技术客服给我的，因为标准版的Windows客户端在国内部分地区首次使用账号登录困难，精简版客户端更适合在中国使用**。安装专用精简版之前，最好把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
+>**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版客户端V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">备用下载地址</a>）**，这是我找官网技术客服给我的，因为标准版的Windows客户端在国内部分地区首次使用账号登录困难，精简版客户端更适合在中国使用，**最新版请咨询官网右下角客服获取，直接说在中国如何连接StrongVPN客服就懂了，会给你设置账号和最新版精简版客户端**。安装专用精简版之前，可能需要把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
 >
 >**重要提示**：有部分读者反映购买StrongVPN后，在StrongVPN的精简版V1 App中无法选择OpenVPN协议或是登陆出现问题，就此我咨询了客服，如果出现这种情况，需要在用户后台点击“Support Ticket”，点击“Submit  new ticket”，提交开通OpenVPN account，一般提交后很快就会开通；或者在官网右下角联系在线技术客服"Technical Support"，开通OpenVPN account就行了。下图是本文读者反馈使用StrongVPN的一些经验（感谢这位读者的反馈^-^），如果使用过程中出现问题可以参考：
 
@@ -382,7 +383,7 @@ StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的�
 
 Mac精简版<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/mac/StrongVPN_mac-latest.zip" target="_blank">V1 app下载地址</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/Strong_mac-latest.zip" target="_blank">备用下载地址</a>）
 
-下载安装APP客户端后，打开输入用户名密码登录就行了，在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
+下载安装APP客户端后，打开输入用户名密码登录就行了，如果仍有登陆问题，请看前文的解决方法。在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
 
 StrongVPN Windows客户端标准版(敏感时期被封锁会出现连接问题)：
 
@@ -466,11 +467,6 @@ StrongVPN虽然客户端不支持中文，但是对在在中国的用户反应�
 - **30天退款保证**
 
 StrongVPN同样支持30天退款保证，有足够的时间测试使用。
-
-
-### 安全的浏览器（重要）
-
-[翻墙的安全性](#翻墙软件与vpn的区别--翻墙的安全性问题)尤为重要，前面已经讲过，翻墙还在使用国产浏览器的朋友赶紧更换，因为国产浏览器可能会留有后门和保存用户的访问记录，建议大家使用官方版本的Chrome浏览器，一定要是在Google官网下载的Chrome安装包进行安装，第三方平台很多留有后门。另外，可以设置Split Tunneling，让Chrome浏览器走VPN流量，其他浏览器（比如火狐Firefox）走本地流量，这样可以实现翻墙分流了，访问国内网站也会快不少。
 
 
 ## 3.<a rel="nofollow noopener" href="https://linkv.org/nord/" target="_blank"> NordVPN</a>
