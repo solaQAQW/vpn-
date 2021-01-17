@@ -16,11 +16,9 @@
 
 >其实就2020和2021年的今天来看，VPN加密翻墙依然是最适合小白的主流安全科学上网工具，同样也是我长期关注和测试的。**如果你不想多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择**：
 >
-> - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（活动链接）</a>，这款在国内速度体验最好，也是我自己很喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新使用，<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开ExpressVPN官网</a>需梯子。它设备支持最全面，iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选，已经运营了13年（至2021年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。
+> - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（活动链接）</a>，这款在国内速度体验最好，也是我自己很喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新使用，<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开ExpressVPN官网</a>需其他梯子。它设备支持最全面，iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选，已经运营了13年（至2021年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。
 
-> - [StrongVPN](#2-strongvpn--性价比最佳)，这款我已经使用了2年左右，性价比还不错。总体来讲，在过去的使用时间里，全年可用率基本能达到95%左右，服务器也会经常更新。**在国内的Windows、Mac和安卓用户可以找客服要精简客户端V1 app，在中国登录和连接更为顺畅**，而官网的标准客户端在敏感时期大封锁的时候可能会出现连接问题，需等一段时间更新之后才能恢复正常，iPhone手机由于iOS系统的封闭，没有中国专属的APP，稳定性不如其他几种系统，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>。目前Strong有打折的优惠券可以使用，**Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度视频不是刚需的用户也够用了**。StrongVPN官网域名在中国被墙（软件APP能正常使用），[国内的本地网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要使用本地网络访问，这点比较坑。
-
-> 如果打算自己用**VPS自己搭建梯子**，首先你要确保能自己应对使用VPS时可能出现的问题，比如无法连接、IP被封，**网络技术和经验不深的读者不推荐这种方法**，因为现在自己租用VPS服务器架设、搭建梯子，使用市面常规通用协议很容易被墙探测到并屏蔽IP，很可能VPS服务器就只能放着吃灰了；其次，**热门的<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个还不错的替代选择，目前还没有很多国人扎堆，IP相对较新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度相对快些，HostWinds的VPS用来搭梯子（技术小白不推荐）和建站都还凑合。可以免费换IP（但不保证全新），换IP的方法：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
+如果目前没有梯子或是想挑选性价比的翻墙软件，也可以参考下文推荐的其他VPN进行对比和选择。
 
 如果你是新手小白或者想了解更多翻墙方法的信息，请依次往下看，尤其是关于**翻墙的安全性问题**，这个问题日趋严重，且关系到每个互联网用户的信息安全和法律风险，但是目前却少有人关注。
 
@@ -291,6 +289,8 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 ### StrongVPN在中国表现怎么样？
 
 StrongVPN是属于NetProtect旗下的品牌，同样也是世界排名前列的大牌服务商。从近2年开始也开始重视开发中国市场，售后服务也不错，它也和Express一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告（官网查找 “What is the best VPN configuration for China?”），其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（在官网的右下角的“Zendesk chat”聊天框，选择Technical Support），2020年几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的精简客户端一直很稳定**。
+
+> - [StrongVPN](#2-strongvpn--性价比最佳)这款我已经使用了2年左右，性价比还不错。总体来讲，在过去的使用时间里，全年可用率基本能达到95%左右，服务器也会经常更新。**在国内的Windows、Mac和安卓用户可以找客服要精简客户端V1 app，在中国登录和连接更为顺畅**，而官网的标准客户端在敏感时期大封锁的时候可能会出现连接问题，需等一段时间更新之后才能恢复正常，iPhone手机由于iOS系统的封闭，没有中国专属的APP，稳定性不如其他几种系统，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>。目前Strong有打折的优惠券可以使用，**Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度视频不是刚需的用户也够用了**。StrongVPN官网域名在中国被墙（软件APP能正常使用），[国内的本地网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要使用本地网络访问，这点比较坑。
 
 ### 如何打开StrongVPN官网？
 
@@ -710,6 +710,8 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 ### 其他翻墙姿势
 
 上文说过，通过租用国外服务器自己搭建翻墙工具我不是很推荐，ip太容易被墙。如果有基友要玩VPS翻墙的话，现在主流的在服务器搭建的科学上网方法是安装V2Ray或者Shadowsocks，VPS位置最好选择美国西海岸，Los Angeles/San Francisco或附近地区，相对比较稳定一些，VPS服务器选择<a rel="nofollow noopener" href="https://bandwagonhost.com/aff.php?aff=20789" target="_blank">搬瓦工</a>或者<a rel="nofollow noopener" href="https://www.vultr.com/?ref=6804316" target="_blank">Vultr</a>的VPS，性价比较高，国人用的多，出现问题更好和客服沟通。日本机房最好避开，ip能用的寥寥无几，美国机房ip多，情况稍好一些。V2Ray最近比较火，搭建也不复杂，<a rel="nofollow noopener" href="https://www.v2ray.com/" target="_blank">官网</a>提供了详细的搭建过程，也提供了客户端软件。不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解，而且个人隐私信息的安全也没有绝对的保证。北京理工大学在2019年3月25提交的论文【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦审核通过之后，V2ray也就宣告失效。
+
+> 如果打算自己用**VPS自己搭建梯子**，首先你要确保能自己应对使用VPS时可能出现的问题，比如无法连接、IP被封，**网络技术和经验不深的读者不推荐这种方法**，因为现在自己租用VPS服务器架设、搭建梯子，使用市面常规通用协议很容易被墙探测到并屏蔽IP，很可能VPS服务器就只能放着吃灰了；其次，**热门的<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个还不错的替代选择，目前还没有很多国人扎堆，IP相对较新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度相对快些，HostWinds的VPS用来搭梯子（技术小白不推荐）和建站都还凑合。可以免费换IP（但不保证全新），换IP的方法：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
 
 ## 关于VPN的一些问题
 
