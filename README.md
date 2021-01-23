@@ -242,9 +242,9 @@ iPhone手机使用移动4G网络连接ExpressVPN的Marina Bay节点，使用Spee
 
 [![连接Marina Bay节点](https://www.safewebcn.com/img/expressvpn-iphone-UI-in-China.png)](#1-expressvpn--速度体验最佳)
 
-[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-11.png)](#1-expressvpn--速度体验最佳)
+[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-1-23.png)](#1-expressvpn--速度体验最佳)
 
-从上面的测试截图看到，iPhone使用移动4G网络连接Marina Bay节点，测试结果还不错，能跑满我这里的移动4G网络带宽，实际使用体验也在我所现在使用的翻墙软件中属于最好的。
+从上面的测试截图看到，iPhone使用移动4G网络连接Marina Bay节点，测试结果还不错，能跑满我这里的移动4G实际网络带宽，iPhone的日常实际使用体验也在我所现在使用的翻墙软件中属于最好的。
 
 总体上来说ExpressVPN是我测试的所有翻墙软件中，在电脑端（Windows、MacBook）和手机端（iPhone、安卓手机）使用体验最好，尤其是网络速度方面。
 
