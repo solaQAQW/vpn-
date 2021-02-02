@@ -1,6 +1,6 @@
 # 翻墙软件VPN推荐，稳定好用(含2021优惠)
 
-最近更新：`2021年1月16日`
+最近更新：`2021年2月2日`
 
 >翻墙（科学上网）重不重要？不会翻墙回不了Gmail邮件，不能Google找程序代码，不翻墙能不能看YouTube视频？Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。由于工作出差和生活需要我在国内不同地区长期需要翻墙，就自己的使用感受和对翻墙软件这个行业的发展，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术。
 
@@ -17,6 +17,8 @@
 >其实就2020和2021年的今天来看，VPN加密翻墙依然是最适合小白的主流安全科学上网工具，同样也是我长期关注和测试的。**如果你不想多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择**：
 >
 > - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（活动链接）</a>，这款在国内速度体验最好，也是我自己很喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新使用，<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开ExpressVPN官网</a>需其他梯子。它设备支持最全面，iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选，已经运营了13年（至2021年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。
+>
+> - [StrongVPN](#2-strongvpn--性价比最佳)这款我已经使用了2年左右，性价比还不错。总体来讲，在过去的使用时间里，全年可用率基本能达到95%左右，服务器也会经常更新。**在国内的Windows、Mac和安卓用户可以找客服要精简客户端V1 app，在中国登录和连接更为顺畅**，而官网的标准客户端在敏感时期大封锁的时候可能会出现连接问题，需等一段时间更新之后才能恢复正常，iPhone手机由于iOS系统的封闭，没有中国专属的APP，稳定性不如其他几种系统，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>。目前Strong有打折的优惠券可以使用，**Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度视频不是刚需的用户也够用了**。StrongVPN官网域名在中国被墙（软件APP能正常使用），[国内的本地网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要使用本地网络访问，这点比较坑。
 
 如果目前没有梯子或是想挑选性价比的翻墙软件，也可以参考下文推荐的其他VPN进行对比和选择。
 
@@ -161,7 +163,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 ## 1.<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank"> ExpressVPN – 速度体验最佳</a>
 
->2021年1月使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，很多VPN软件并不好用，iPhone用户首选这款。
+>2021年2月使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，很多VPN软件并不好用，iPhone用户首选这款。
 
 [![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
 
@@ -209,10 +211,10 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
 
-- Hong Kong–4
-- Japan - Yokohama
 - Singapore–Marina Bay
 - USA–Los Angeles–5
+- Hong Kong–4
+- Japan - Yokohama
 - Canada - Toronto - 2
 - USA–Los Angeles–4
 - USA–Santa Monica
@@ -282,15 +284,13 @@ ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机�
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
->2021年1月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，有优惠码可使用。Windows、Mac和Android设备用户建议找官网在线客服(Technical Support)获取精简客户端V1 app，这个版本适合中国用户使用，在国内使用OpenVPN（TCP或UDP）协议连接成功率一直很高（在敏感时期比标准客户端连接也更加稳定），而官方标准客户端版本在敏感时期有时会遇到连接问题，需等待版本或线路更新才能恢复正常。另外iOS客户端上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法。iOS客户端用户还是建议选择[ExpressVPN](#1-expressvpn--速度体验最佳)。
+>2021年2月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，有优惠码可使用。Windows、Mac和Android设备用户建议找官网在线客服(Technical Support)获取精简客户端V1 app，这个版本适合中国用户使用，在国内使用OpenVPN（TCP或UDP）协议连接成功率一直很高（在敏感时期比标准客户端连接也更加稳定），而官方标准客户端版本在敏感时期有时会遇到连接问题，需等待版本或线路更新才能恢复正常。另外iOS客户端上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法。iOS客户端用户还是建议选择[ExpressVPN](#1-expressvpn--速度体验最佳)。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
 
 ### StrongVPN在中国表现怎么样？
 
 StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Global公司NetProtect项目旗下的品牌，J2 Global是纳斯达克上市公司（股票代码：JCOM），公司主营业务主要是为个人和企业提供通信和云计算服务，技术和资金实力十分雄厚。从近2年开始也开始重视开发中国市场，售后服务也不错，它也和Express一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，给在中国境内的用户提供最新的使用信息和公告（官网查找 “What is the best VPN configuration for China?”），其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（在官网的右下角的“Zendesk chat”聊天框，选择Technical Support），2020年几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的精简客户端一直很稳定**。
-
-> - [StrongVPN](#2-strongvpn--性价比最佳)这款我已经使用了2年左右，性价比还不错。总体来讲，在过去的使用时间里，全年可用率基本能达到95%左右，服务器也会经常更新。**在国内的Windows、Mac和安卓用户可以找客服要精简客户端V1 app，在中国登录和连接更为顺畅**，而官网的标准客户端在敏感时期大封锁的时候可能会出现连接问题，需等一段时间更新之后才能恢复正常，iPhone手机由于iOS系统的封闭，没有中国专属的APP，稳定性不如其他几种系统，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>。目前Strong有打折的优惠券可以使用，**Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度视频不是刚需的用户也够用了**。StrongVPN官网域名在中国被墙（软件APP能正常使用），[国内的本地网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要使用本地网络访问，这点比较坑。
 
 ### 如何打开StrongVPN官网？
 
@@ -473,7 +473,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 [![NordVPN](https://www.safewebcn.com/img/nord-min.png)](#3-nordvpn)
 
->2020年12月使用，确认可用，但目前可用节点不多，建议连接美国、日本等地区最新出来的节点，可参考下方最新的测试报告页面。NordVPN另一个翻墙方案是咨询客服获取服务器地址进行手动配置翻墙。
+>2021年1月使用，确认可用，但目前可用节点不多，建议连接美国、日本等地区最新出来的节点，可参考下方最新的测试报告页面。NordVPN另一个翻墙方案是咨询客服获取服务器地址进行手动配置翻墙。
 
 **<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看NordVPN最新节点速度测试报告</a>**
 
@@ -566,7 +566,7 @@ PandaVPN由中文团队开发，所以对中文支持很好，相比其他几家
 
 [![IVacy](https://www.safewebcn.com/img/ivacy-logo.png)](#6-ivacy)
 
->2020年10月测试，速度和连接成功率较低，勉强能凑合用。
+>2020年12月测试，速度和连接成功率较低，勉强能凑合用。
 
 ### 如何打开IVacy官网？
 
@@ -608,7 +608,7 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 [![PureVPN](https://www.safewebcn.com/img/purevpn-logo.png)](#6-purevpn)
 
->2020年10月测试，勉强可用但没有亮点，体验很一般，少数节点能连上，但网速不算快。**国内不再不推荐使用这款，唯一优势是方便国外翻墙回国（墙外翻回墙内）**。
+>2020年11月测试，勉强可用但没有亮点，体验很一般，少数节点能连上，但网速不算快。**国内不再不推荐使用这款，唯一优势是方便国外翻墙回国（墙外翻回墙内）**。
 
 国内打开PureVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
 
@@ -679,7 +679,6 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 其他国产的私人或者小型VPN避免使用，这些大部分都是名字叫VPN，只有翻墙的功能，并无安全性可言。其中不少涉嫌钓鱼，用户使用的时候被ISP发现并上报的，已经有记录的就有极光加速器、QuickQ、佛跳墙加速器、老王VPN、IP精灵、旋风加速器、坚果加速器、蚂蚁加速器、快连VPN、神风加速器等。
 
 **本文会根据测评情况和使用体验，定期更新排名，如果觉得内容有用的话，欢迎添加收藏。**
-
 
 ## <a rel="noopener" href="https://www.cepingtu.com/best-stable-vpn/" target="_blank">翻墙软件VPN推荐</a>的标准
 
