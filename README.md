@@ -8,17 +8,17 @@
 
 >这篇文章是中国安全翻墙攻略的**详细版**，讨论翻墙软件、科学上网方法和网络安全的相关问题。如果只想快速选个科学上网软件来翻墙，直接看下方本文目录导航。
 
-本文作者常年在国内出差，由于生活和工作需要，也为了自己查找资料更加便利，我手机和PC上安装了一共7-8个付费翻墙APP作为常年的备用，担心出差途中不能翻墙和公共网络的安全性，所有我比较关注这类翻墙软件在不同网络环境下的稳定性和隐私数据的安全性。根据自己过去2年的测试和使用体验，对几种国内流行的翻墙软件和技术方法做出对比，读者可根据自己的实际情况选择合适的翻墙工具。
+本文作者常年出差，由于生活和工作需要，也为了自己查找资料更加便利，我手机和PC上安装了一共7-8个付费翻墙APP作为常年的备用，担心出差途中不能翻墙和公共网络的安全性，所有我比较关注这类翻墙软件在不同网络环境下的稳定性和隐私数据的安全性。根据自己过去2年的测试和使用体验，对几种国内流行的翻墙软件和技术方法做出对比，读者可根据自己的实际情况选择合适的翻墙工具。
 
 **重要提示**：在选择或者使用某款VPN的时候，**一定要把本文中与对应这款VPN相关的使用信息看完**，因为墙的不断增高，可能会涉及到安装和使用过程中的线路选择问题，不然可能会导致使用不便。
 
 建议下载本文的PDF版本：<a rel="nofollow noopener" href="https://www.safewebcn.com/download/vpn选择指南.pdf" target="_blank">2021版翻墙VPN选择指南PDF版本</a>(右键另存)，有一些VPN使用提示，随时查阅，以备不时之需。
 
->其实就2020和2021年的今天来看，VPN加密翻墙依然是最适合小白的主流安全科学上网工具，同样也是我长期关注和测试的。**如果你不想多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择**：
+>其实就2021年的今天来看，VPN加密翻墙依然是最适合大多数人的最方便、安全的科学上网工具，同样也是我长期关注和测试的。**如果你不想多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择**：
 >
-> - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（活动链接）</a>，这款在国内速度体验最好，也是我自己很喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新使用，<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开ExpressVPN官网</a>需其他梯子。它设备支持最全面，iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选，已经运营了13年（至2021年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。
+> - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（活动链接）</a>，这款在国内速度体验最好，也是我自己很喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新使用，<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开ExpressVPN官网</a>需其他梯子。它设备支持最全面，iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选，已经运营了13年（至2021年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。平时使用建议OpenVPN和Lightway协议（Automatic也可以），敏感时期遇到墙升级，官方推荐的中国地区优化服务器线路如果遇到连接问题，可以切换L2TP协议，这个协议也有一些线路在敏感时期仍然可用，可以作为备用选择。
 >
-> - [StrongVPN](#2-strongvpn--性价比最佳)这款我已经使用了2年左右，性价比还不错。总体来讲，在过去的使用时间里，全年可用率基本能达到95%左右，服务器也会经常更新。**在国内的Windows、Mac和安卓用户可以找客服要精简客户端V1 app，在中国登录和连接更为顺畅**，而官网的标准客户端在敏感时期大封锁的时候可能会出现连接问题，需等一段时间更新之后才能恢复正常，iPhone手机由于iOS系统的封闭，没有中国专属的APP，稳定性不如其他几种系统，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>。目前Strong有打折的优惠券可以使用，**Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度视频不是刚需的用户也够用了**。StrongVPN官网域名在中国被墙（软件APP能正常使用），[国内的本地网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要使用本地网络访问，这点比较坑。
+> - [StrongVPN](#2-strongvpn--性价比最佳)这款我已经使用了2年左右，性价比还不错。总体来讲，在过去2年的使用时间里，全年可用率基本能达到95%左右，服务器也会经常更新。**在国内的Windows、Mac和安卓用户可以找客服要精简客户端V1 app，在中国登录和连接更为顺畅**，而官网的标准客户端在敏感时期大封锁的时候可能会出现连接问题，需等一段时间更新之后才能恢复正常，iPhone手机由于iOS系统的封闭，没有中国专属的APP，稳定性不如其他几种系统，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>。目前Strong有打折的优惠券可以使用，**Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度视频不是刚需的用户也够用了**。StrongVPN官网域名在中国被墙（软件APP能正常使用），[国内的本地网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要使用本地网络访问，这点比较坑。
 
 如果目前没有梯子或是想挑选性价比的翻墙软件，也可以参考下文推荐的其他VPN进行对比和选择。
 
@@ -221,6 +221,8 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 - France - Strasbourg
 - Germany - Nuremberg
 
+连接协议可以设置成默认的Automatic，也可以改为Lightway或OpenVPN协议，我一般使用Lightway或OpenVPN。其中Lightway是Expresss官方于2021年新开发的VPN协议，在保证安全性的前提下，在国内的速度和连接成功率更加有改善。Lightway协议目前是Expresss独家开发，比起传统的VPN协议更加具有优势。
+
 除了上面那些优化过的服务器线路，**中国用户也可以改为“`L2TP – IPsec`”协议使用其它的服务器线路**，但是其他那些服务器没有经过混淆算法优化，速度和稳定性可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
 
 关于使用和更新客户端的问题，请查看<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/21" target="_blank">问题#21</a>。关于更多ExpressVPN的信息，可以查看<a rel="noopener" href="https://www.cepingtu.com/express-vpn-review-in-china/" target="_blank">ExpressVPN在中国怎么样</a>。
@@ -252,7 +254,7 @@ iPhone手机使用移动4G网络连接ExpressVPN的Marina Bay节点，使用Spee
 
 综合评价：这款VPN是我经常使用的一款，从16年开始使用到现在，其客户端的美观简洁、服务的稳定性、连接速度在我们测试的所有VPN产品中属于一流，可称得上是在国内最好用的翻墙VPN。在我们的测试中，ExpressVPN几乎没有对我们的网速造成任何影响，浏览网页、观看YouTube十分流畅。ExpressVPN的服务器遍布全球94个国家，并且对使用流量和带宽没有任何限制。
 
-在安全性方面，他们也做得很好，支持256位`OpenVPN(TCP, UDP), L2TP-IPsec, SSTP和PPTP`等加密协议，并且不保留用户日志，用户可以放心上网而不必担心个人隐私泄露。
+在安全性方面，他们也做得很好，支持256位`Lightway, OpenVPN(TCP, UDP), L2TP-IPsec, SSTP和PPTP`等加密协议，并且不保留用户日志，用户可以放心上网而不必担心个人隐私泄露。
 
 ExpressVPN的客服是业内最好的之一，随时提供网上帮助。此外，ExpressVPN兼容各种常见设备，并且可以配置在路由器上，在电脑（Windows或Mac）和移动设备（iPhone、安卓、平板）上都可以使用，**最多支持5台设备同时在线使用**。
 
@@ -284,7 +286,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机�
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
->2021年2月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，有优惠码可使用。Windows、Mac和Android设备用户建议找官网在线客服(Technical Support)获取精简客户端V1 app，这个版本适合中国用户使用，在国内使用OpenVPN（TCP或UDP）协议连接成功率一直很高（在敏感时期比标准客户端连接也更加稳定），而官方标准客户端版本在敏感时期有时会遇到连接问题，需等待版本或线路更新才能恢复正常。另外iOS客户端上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法。iOS客户端用户还是建议选择[ExpressVPN](#1-expressvpn--速度体验最佳)。
+>2021年2月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，有优惠码可使用。**Windows、Mac和Android设备用户建议找官网在线客服(Technical Support)获取精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP或UDP）协议连接成功率一直很高**（在敏感时期比标准客户端连接也更加稳定），而官方标准客户端版本在敏感时期有时会遇到连接问题，需等待版本或线路更新才能恢复正常。另外iOS客户端上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法。iOS客户端用户还是建议选择[ExpressVPN](#1-expressvpn--速度体验最佳)。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
 
@@ -364,13 +366,13 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 ### StrongVPN如何使用？
 
-登录进官网用户后台界面后，可以点击“StrongVPN Clients”下载通用版客户端APP（这个版本不建议中国用户使用，敏感时期会有连接问题，适合在中国使用的客户端请看下文），如果下载速度太慢，取消后重试。
+登录进官网用户后台界面后，从“StrongVPN Clients”点击可以下载通用版客户端APP，但是**这个版本不建议中国用户使用，敏感时期会有连接问题，适合在中国使用的客户端请看下文**。
 
 ### 使用建议
 
 >**中国Windows用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版客户端V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">备用下载地址</a>）**，这是我找官网技术客服给我的，因为标准版的Windows客户端在国内部分地区首次使用账号登录困难，精简版客户端更适合在中国使用，**最新版请咨询官网右下角客服获取，直接说在中国如何连接StrongVPN客服就懂了，会给你设置账号和最新版精简版客户端**。安装专用精简版之前，可能需要把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
 >
->**重要提示**：有部分读者反映购买StrongVPN后，在StrongVPN的精简版V1 App中无法选择OpenVPN协议或是登陆出现问题，就此我咨询了客服，如果出现这种情况，需要在用户后台点击“Support Ticket”，点击“Submit  new ticket”，提交开通OpenVPN account，一般提交后很快就会开通；或者在官网右下角联系在线技术客服"Technical Support"，开通OpenVPN account就行了。下图是本文读者反馈使用StrongVPN的一些经验（感谢这位读者的反馈^-^），如果使用过程中出现问题可以参考：
+>**重要提示**：有部分读者反映购买StrongVPN后，在StrongVPN的精简版V1 App中无法选择OpenVPN协议或是登陆出现问题（“No Avaliable account”），就此我咨询了客服，如果出现这种情况，需要在用户后台点击“Support Ticket”，点击“Submit  new ticket”，提交开通OpenVPN account，一般提交后很快就会开通；或者在官网右下角联系在线技术客服"Technical Support"，开通OpenVPN account就行了。下图是本文读者反馈使用StrongVPN的一些经验（感谢这位读者的反馈^-^），如果使用过程中出现问题可以参考：
 
 [![Strong-feedback](https://www.safewebcn.com/img/strong-feedback-1.png)](#2-strongvpn--性价比最佳)
 
