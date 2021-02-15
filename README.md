@@ -1,6 +1,6 @@
 # 翻墙软件VPN推荐，稳定好用(含2021优惠)
 
-最近更新：`2021年2月2日`
+最近更新：`2021年2月15日`
 
 >翻墙（科学上网）重不重要？不会翻墙回不了Gmail邮件，不能Google找程序代码，不翻墙能不能看YouTube视频？Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。由于工作出差和生活需要我在国内不同地区长期需要翻墙，就自己的使用感受和对翻墙软件这个行业的发展，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术。
 
@@ -16,7 +16,7 @@
 
 >其实就2021年的今天来看，VPN加密翻墙依然是最适合大多数人的最方便、安全的科学上网工具，同样也是我长期关注和测试的。**如果你不想多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择**：
 >
-> - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（活动链接）</a>，这款在国内速度体验最好，也是我自己很喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新使用，<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开ExpressVPN官网</a>需其他梯子。它设备支持最全面，iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选，已经运营了13年（至2021年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。平时使用建议OpenVPN和Lightway协议（Automatic也可以），敏感时期遇到墙升级，官方推荐的中国地区优化服务器线路如果遇到连接问题，可以切换L2TP协议，这个协议也有一些线路在敏感时期仍然可用，可以作为备用选择。
+> - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（活动链接）</a>，这款在国内速度体验最好，也是我自己很喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新和联系客服使用，<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开ExpressVPN官网</a>需其他梯子。它设备支持最全面，iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选，已经运营了13年（至2021年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。平时使用建议OpenVPN或Lightway协议（Automatic也可以），Lightway协议是Express官方2021年独家研发的最新VPN协议，在国内的连接成功率很高。敏感时期遇到墙升级，官方推荐的中国地区优化服务器线路如果遇到连接问题，可以切换L2TP协议连接其他节点，这个协议也有一些线路在敏感时期仍然可用，可以作为备用选择。
 >
 > - [StrongVPN](#2-strongvpn--性价比最佳)这款我已经使用了2年左右，性价比还不错。总体来讲，在过去2年的使用时间里，全年可用率基本能达到95%左右，服务器也会经常更新。**在国内的Windows、Mac和安卓用户可以找客服要精简客户端V1 app，在中国登录和连接更为顺畅**，而官网的标准客户端在敏感时期大封锁的时候可能会出现连接问题，需等一段时间更新之后才能恢复正常，iPhone手机由于iOS系统的封闭，没有中国专属的APP，稳定性不如其他几种系统，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>。目前Strong有打折的优惠券可以使用，**Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度视频不是刚需的用户也够用了**。StrongVPN官网域名在中国被墙（软件APP能正常使用），[国内的本地网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要使用本地网络访问，这点比较坑。
 
@@ -475,13 +475,9 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 [![NordVPN](https://www.safewebcn.com/img/nord-min.png)](#3-nordvpn)
 
->2021年1月使用，确认可用，但目前可用节点不多，建议连接美国、日本等地区最新出来的节点，可参考下方最新的测试报告页面。NordVPN另一个翻墙方案是咨询客服获取服务器地址进行手动配置翻墙。
-
-**<a rel="nofollow noopener" href="https://vpncn.github.io/image/ExpressVPN%E5%92%8CNordVPN%E5%93%AA%E4%B8%AA%E5%A5%BD%E7%94%A8?.md" target="_blank">查看NordVPN最新节点速度测试报告</a>**
+>2021年1月使用，确认可用，但目前可用节点不多，建议连接美国、日本等地区最新出来的节点。如果遇到连接问题，**NordVPN另一个翻墙方案是咨询客服获取中国特别版，这个版本连接成功率高很多**。
 
 ### 如何打开NordVPN官网？
-
->**最新提示**：***目前Nord官网在国内的访问已经修复，如果不能访问官网请参照下列方法。***
 
 国内打开NordVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
 
