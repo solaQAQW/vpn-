@@ -165,7 +165,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 >2021年2月使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，很多VPN软件并不好用，iPhone用户首选这款。
 
-[![ExpressVPN](https://www.safewebcn.com/img/ExpressVPN-logo.png)](https://www.fastvpncn.com/expressvpn)
+[![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
 
 ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN产品，**适合对网络速度要求高和较好使用体验的朋友**。
 
@@ -203,7 +203,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ### ExpressVPN的缺点
 
-[![express-vpn-servers](https://www.safewebcn.com/img/express-vpn-servers.png)](https://www.fastvpncn.com/expressvpn)
+[![express-vpn-servers](https://www.safewebcn.com/img/express-vpn-servers-min.png)](https://www.fastvpncn.com/expressvpn)
 
 - ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右，现在有限时优惠**买一年送三个月活动，每月$6.67/月**，支持支付宝支付。
 
@@ -234,19 +234,21 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 - 路由器：Netgear R7000
 
 部分测试截图如下：
-[![LA5节点测速](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-min.png)](#1-expressvpn--速度体验最佳)
+[![LA5节点测速](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-2021.png)](#1-expressvpn--速度体验最佳)
 
 我们连接Los Angeles – 5节点，在Chrome浏览器使用Speedtest进行在线测速，测速结果如下图，可以看到，ping延迟是196ms，还不错，下载速度是56.96Mb/s，上传的速度是16.53Mb/s，观看Youtube高清视频不存在卡顿。
 
-[![sigapore节点测速](https://www.safewebcn.com/img/expressvpn-sigapore-min.png)](#1-expressvpn--速度体验最佳)
+[![sigapore节点测速](https://www.safewebcn.com/img/expressvpn-sigapore.png-2021.png)](#1-expressvpn--速度体验最佳)
 
 测试的Singapore – Marina Bay节点速度也很不错，下载速度测试值为42.14Mb/s，顺便说一下，我们的测试中，ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。
 
+iPhone手机使用电信WiFi网络连接ExpressVPN的Marina Bay节点，连接界面如下图：
+
+[![连接Marina Bay节点](https://www.safewebcn.com/img/expressvpn-iphone-marina_bay.png)](#1-expressvpn--速度体验最佳)
+
 iPhone手机使用移动4G网络连接ExpressVPN的Marina Bay节点，使用SpeedTest软件进行在线测速，连接和测速界面如下图：
 
-[![连接Marina Bay节点](https://www.safewebcn.com/img/expressvpn-iphone-UI-in-China.png)](#1-expressvpn--速度体验最佳)
-
-[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-1-23.png)](#1-expressvpn--速度体验最佳)
+[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-2-16-min.png)](#1-expressvpn--速度体验最佳)
 
 从上面的测试截图看到，iPhone使用移动4G网络连接Marina Bay节点，测试结果还不错，能跑满我这里的移动4G实际网络带宽，iPhone的日常实际使用体验也在我所现在使用的翻墙软件中属于最好的。
 
