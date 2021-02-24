@@ -414,11 +414,11 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 日本东京节点测速：
 
-[![Strong客户端精简版](https://www.safewebcn.com/img/StrongVPN-speedtest-tokyo-min.png)](#strong速度测试)
+[![Strong客户端精简版](https://www.safewebcn.com/img/StrongVPN-speedtest-tokyo-2021-2.png)](#strong速度测试)
 
 韩国首尔节点测速：
 
-[![Strong客户端精简版](https://www.safewebcn.com/img/strong-seoul-speedtest-min.png)](#strong速度测试)
+[![Strong客户端精简版](https://www.safewebcn.com/img/strong-seoul-speedtest-2021-2.png)](#strong速度测试)
 
 这是最近我使用StrongVPN时的测试结果，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps；Seoul节点ping值67ms，下载速度为28.03Mbps，上行速度为22.09Mbps。浏览网页、看视频够用，但看清晰度为4K及以上的视频会有点吃力，这点不如[ExpressVPN](#1-expressvpn--速度体验最佳)。StrongVPN速度较快的节点选择可以查看：[线路选择提示](#strong线路选择提示)。
 
