@@ -346,7 +346,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，一般就可以直接下载客户端并安装使用了。
 
-**如果不能使用，查看是不是支付过程出现了问题**，需要<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">登录官网用户后台</a>确认支付，点击“Billing Area”：
+**如果后续不能登录或使用，查看是不是支付过程出现了问题导致扣款失败**，需要<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">登录官网用户后台</a>确认支付，点击“Billing Area”：
 
 [![Strong-billing](https://www.safewebcn.com/img/strongvpn-billing-min.png)](#如何获取strongvpn)
 
@@ -389,13 +389,15 @@ Mac精简版<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com
 
 下载安装APP客户端后，打开输入用户名密码登录就行了，如果仍有登陆问题，请看前文的解决方法。在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
 
-StrongVPN Windows客户端标准版(敏感时期被封锁会出现连接问题)：
+StrongVPN Windows客户端标准版(**这个版本不推荐在国内使用，敏感时期被封锁会出现连接问题**)：
 
 [![Strong客户端标准版](https://www.safewebcn.com/img/strong-connect.png)](#使用建议)
 
-StrongVPN专用精简版客户端V1 App（中国用户推荐使用，比标准版客户端更容易连接）：
+StrongVPN专用精简版客户端V1 App（**中国用户推荐使用，国内比标准版客户端更容易连接**）：
 
 [![Strong客户端精简版](https://www.safewebcn.com/img/strongvpn-china-client-min.png)](#使用建议)
+
+精简版客户端可以找在线客服获取，获取方法见上文。
 
 #### 使用WireGuard协议
 
