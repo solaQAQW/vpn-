@@ -1,6 +1,6 @@
 # 翻墙软件VPN推荐，稳定好用(含2021优惠)
 
-最近更新：`2021年3月3日`
+最近更新：`2021年4月3日`
 
 >翻墙（科学上网）重不重要？翻不了墙就不能回Gmail邮件，不能Google找程序代码，不翻墙就不能看YouTube视频，Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。由于工作出差和生活学习需要我经常在国内不同地区翻墙上网，就自己的使用感受和对翻墙软件这个行业的发展，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术。
 
@@ -18,7 +18,7 @@
 >
 > - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（优惠活动链接）</a>，这款在国内体验最好，速度最快，也是我自己很喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新和联系客服使用，<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开ExpressVPN官网</a>需其他梯子。它设备支持最全面，iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选，已经运营了13年（至2021年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。平时使用建议OpenVPN或Lightway协议（Automatic也可以），Lightway协议是Express官方2021年独家研发的最新VPN协议，在国内的连接成功率很高。敏感时期遇到墙升级，官方推荐的中国地区优化服务器线路如果遇到连接问题，可以切换L2TP协议连接其他节点，这个协议也有一些线路在敏感时期仍然可用，可以作为备用选择。
 >
-> - [StrongVPN](#2-strongvpn--性价比最佳)，这款综合性价比最高，我已经使用了2年左右。总体来讲，在过去2年的使用时间里，全年可用率基本能达到95%左右，服务器也会常年更新。**在国内的Windows、Mac和安卓用户可以找客服要精简客户端V1 app，在中国登录和连接更为顺畅**，而官网的标准客户端在敏感时期大封锁的时候可能会出现连接问题，需等一段时间更新之后才能恢复正常，**国内用户最好直接使用适合中国地区使用的简化版客户端的OpenVPN协议进行连接，下文中有教程**。iPhone手机由于iOS系统的封闭，没有中国专属的APP，稳定性不如其他几种系统，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>。目前Strong有打折的优惠券可以使用，**Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度视频不是刚需的用户也够用了**。StrongVPN官网域名在中国被墙（软件APP能正常使用），[国内的本地网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑host文件才可以访问，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能顺利访问官网。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要使用本地网络访问，这点比较坑。
+> - [StrongVPN](#2-strongvpn--性价比最佳)，这款综合性价比最高，我已经使用了2年左右。总体来讲，在过去2年的使用时间里，全年可用率基本能达到95%左右，服务器也会常年更新。**在国内的Windows、Mac和安卓用户可以找客服要精简客户端V1 app，在中国登录和连接更为顺畅**，而官网的标准客户端在敏感时期大封锁的时候可能会出现连接问题，需等一段时间更新之后才能恢复正常，**国内用户最好直接使用适合中国地区使用的简化版客户端的OpenVPN协议进行连接，下文中有教程**。iPhone手机由于iOS系统的封闭，没有中国专属的APP，稳定性不如其他几种系统，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>。目前Strong有打折的优惠券可以使用，**Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度不是刚需的用户也够用了**。StrongVPN官网域名在中国被墙（软件APP能正常使用），[国内的本地网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑host文件才可以访问，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能顺利访问官网。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要使用本地网络访问，这点比较坑。
 
 如果目前没有梯子或是想挑选性价比的翻墙软件，也可以参考下文推荐的其他VPN进行对比和选择。
 
@@ -163,7 +163,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 ## 1.<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank"> ExpressVPN – 速度体验最佳</a>
 
->2021年3月使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，很多VPN软件并不好用，iPhone用户首选这款。
+>2021年4月使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，很多VPN软件并不好用，iPhone用户首选这款。
 
 [![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
 
@@ -294,7 +294,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机�
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
->2021年3月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，有优惠码可使用。**Windows、Mac和Android设备用户建议找官网在线客服(Technical Support)获取精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP或UDP）协议连接成功率一直很高**（在敏感时期比标准客户端连接也更加稳定），而官方标准客户端版本在敏感时期有时会遇到连接问题，需等待版本或线路更新才能恢复正常。另外iOS客户端上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法。iOS客户端用户还是建议选择[ExpressVPN](#1-expressvpn--速度体验最佳)。
+>2021年4月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比不错，一年的套餐价格对比其他大牌应该最便宜，有优惠码可使用。**Windows、Mac和Android设备用户建议找官网在线客服(Technical Support)获取精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP或UDP）协议连接成功率一直很高**（在敏感时期比标准客户端连接也更加稳定），而官方标准客户端版本在敏感时期有时会遇到连接问题，需等待版本或线路更新才能恢复正常。另外iOS客户端上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法。iOS客户端用户还是建议选择[ExpressVPN](#1-expressvpn--速度体验最佳)。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市有950+的VPN服务器，拥有近60000个IP地址资源。
 
@@ -485,7 +485,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 [![NordVPN](https://www.safewebcn.com/img/nord-min.png)](#3-nordvpn)
 
->2021年1月使用，确认可用，但目前可用节点不多，建议连接美国、日本等地区最新出来的节点。如果遇到连接问题，**NordVPN另一个翻墙方案是咨询客服获取中国特别版，这个版本连接成功率高很多**。
+>2021年2月使用，确认可用，但目前可用节点不多，建议连接美国、日本等地区最新出来的节点。如果遇到连接问题，**NordVPN另一个翻墙方案是咨询客服获取中国特别版，这个版本连接成功率高很多**。
 
 ### 如何打开NordVPN官网？
 
@@ -536,7 +536,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 ## 4.<a rel="nofollow noopener" href="http://linkv.org/panda/" target="_blank"> PandaVPN</a>
 
->2020年11月测试，确认可用，体验中规中矩。
+>2021年3月测试，确认可用，体验中规中矩。
 
 [![PandaVPN](https://www.safewebcn.com/img/panda-min.png)](http://linkv.org/panda/)
 
