@@ -210,7 +210,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 首先进入<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（优惠活动链接）</a>网站，然后点击“Get ExpressVPN”按钮，进入套餐选择页面：
 
-[![ExpressVPN套餐](https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-price-table-min-660x507.png)](#如何购买expressvpn)
+[![ExpressVPN套餐](https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-price-table-min-660x507.png)](#https://www.fastvpncn.com/expressvpn)
 
 输入Email地址，必须输入真实的Email地址，因为之后需要接收包含账号和登录密码的邮件。
 
@@ -303,7 +303,7 @@ ExpressVPN的客服是业内最好的之一，随时提供网上帮助。此外�
 
 套餐的价格：性价比最高的是1年套餐，同时他们保证30天内使用不满意无条件退款，所以你有足够的时间来测试。
 
-[![ExpressVPN付款方式](https://www.safewebcn.com/img/express-vpn-payment.png "ExpressVPN付款方式截图")](https://www.fastvpncn.com/expressvpn)
+[![ExpressVPN付款方式](https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-payment-select-min.png "ExpressVPN付款方式截图")](https://www.fastvpncn.com/expressvpn)
 
 ExpressVPN支持银联、信用卡、Paypal等多种方式付款。付款后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 
