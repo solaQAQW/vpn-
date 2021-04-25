@@ -202,6 +202,40 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 30之内如果你觉得ExpressVPN不好用，可以找客服申请无条件退款，这点确实是大厂风范。
 
+### 如何购买ExpressVPN
+
+因为国内政策原因，目前能使用支付宝付款的大厂VPN越来越少，如果只接受支付宝付款方式，就不用考虑ExpressVPN了，[StrongVPN](#2-strongvpn--性价比最佳)和<a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年VPN</a>目前能用支付宝。如果没有带外币功能的信用卡和Paypal，国内银行卡（银联）也能支付。
+
+国内购买ExpressVPN步骤如下：
+
+首先进入<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（优惠活动链接）</a>网站，然后点击“Get ExpressVPN”按钮，进入套餐选择页面：
+
+[![ExpressVPN套餐](https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-price-table-min-660x507.png)](#如何购买expressvpn)
+
+输入Email地址，必须输入真实的Email地址，因为之后需要接收包含账号和登录密码的邮件。
+
+[![填入Email地址](https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-fill-out-email-min.png)](#如何购买expressvpn)
+
+接下来选择付款方式，如果有可以付外币的信用卡（带Visa、MasterCard等标志）和Paypal，**优先使用信用卡和Paypal付款。如果没有，也可以选择银联付款方式，用国内银行卡付款**：
+
+[![ExpressVPN付款方式](https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-payment-select-min.png)](#如何购买expressvpn)
+
+ - 信用卡直接填入卡信息扣款成功就行；
+ - Paypal在付款页面进行结算；
+ - 选择银联付款方式，在弹出的页面点击银联标志：
+
+[![ExpressVPN付款方式](https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-payment-select-2-min.png)](#如何购买expressvpn)
+
+其他付款方式不多说，根据自身条件灵活选择。
+
+点击银联标志之后进入中国银联的结算页面，填入卡号，点击next，到这一步就和国内的银联付款的步骤一样了。
+
+提示：有读者反映使用工行的卡不能付款，其他银行可以正常付款。
+
+付款成功后，登录之前注册时填入的邮箱，会发来一封包含ExpressVPN账号和临时密码的邮件，查看邮件并进行密码修改设置。
+
+在ExpressVPN官网右上角点击“My Account”，登录用户信息管理后台，复制激活码（ACTIVATION CODE），安装客户端App后，在客户端输入激活码，就能开始使用和翻墙了。
+
 ### ExpressVPN的缺点
 
 [![express-vpn-servers](https://www.safewebcn.com/img/express-vpn-servers-min.png)](https://www.fastvpncn.com/expressvpn)
@@ -209,6 +243,8 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 - ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右，现在有限时优惠**买一年送三个月活动，每月$6.67/月**，支持银联卡、Paypal和信用卡等支付方式。
 
 >适合注重隐私数据保护和较好的使用体验的朋友。如果要求性价比，[StrongVPN](#2-strongvpn--性价比最佳)可能更适合你，[StrongVPN](#2-strongvpn--性价比最佳)建议优先连接韩国、欧洲地区、日本、新加坡的服务器节点，速度相对其他节点更快，但整体速度我的体验是不如ExpressVPN，各方面使用体验Expresss还是比StrongVPN好一些。
+
+### ExpressVPN使用提示
 
 在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
 
@@ -228,6 +264,8 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 关于使用和更新客户端的问题，请查看<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/21" target="_blank">问题#21</a>。关于更多ExpressVPN的信息，可以查看<a rel="noopener" href="https://www.cepingtu.com/express-vpn-review-in-china/" target="_blank">ExpressVPN在中国怎么样</a>。
 
+### ExpressVPN速度测试
+
 我们最近对官方推荐的节点进行了测试，测试的网络环境是：
 
 - 客户端：Windows
@@ -235,21 +273,21 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 - 路由器：Netgear R7000
 
 部分测试截图如下：
-[![LA5节点测速](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-2021.png)](#1-expressvpn--速度体验最佳)
+[![LA5节点测速](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-2021.png)](#expressvpn速度测试)
 
 我们连接Los Angeles – 5节点，在Chrome浏览器使用Speedtest进行在线测速，测速结果如下图，可以看到，ping延迟是196ms，还不错，下载速度是56.96Mb/s，上传的速度是16.53Mb/s，观看Youtube高清视频不存在卡顿。
 
-[![sigapore节点测速](https://www.safewebcn.com/img/expressvpn-sigapore.png-2021.png)](#1-expressvpn--速度体验最佳)
+[![sigapore节点测速](https://www.safewebcn.com/img/expressvpn-sigapore.png-2021.png)](#expressvpn速度测试)
 
 测试的Singapore – Marina Bay节点速度也很不错，下载速度测试值为42.14Mb/s，顺便说一下，我们的测试中，ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。
 
 iPhone手机使用电信WiFi网络连接ExpressVPN的Marina Bay节点，连接界面如下图：
 
-[![连接Marina Bay节点](https://www.safewebcn.com/img/expressvpn-iphone-marina_bay.png)](#1-expressvpn--速度体验最佳)
+[![连接Marina Bay节点](https://www.safewebcn.com/img/expressvpn-iphone-marina_bay.png)](#expressvpn速度测试)
 
 iPhone手机使用移动4G网络连接ExpressVPN的Marina Bay节点，使用SpeedTest软件进行在线测速，连接和测速界面如下图：
 
-[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-2-16-min.png)](#1-expressvpn--速度体验最佳)
+[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-2-16-min.png)](#expressvpn速度测试)
 
 从上面的测试截图看到，iPhone使用移动4G网络连接Marina Bay节点，测试结果还不错，能跑满我这里的移动4G实际网络带宽，iPhone的日常实际使用体验也在我所现在使用的翻墙软件中属于最好的。
 
