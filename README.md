@@ -759,15 +759,15 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 ### 其他翻墙姿势
 
-上文说过，通过租用国外服务器自己搭建翻墙工具我不是很推荐，ip太容易被墙。如果有基友要玩VPS翻墙的话，现在主流的在服务器搭建的科学上网方法是安装V2Ray或者Shadowsocks，VPS位置最好选择美国西海岸，Los Angeles/San Francisco或附近地区，相对比较稳定一些，VPS服务器选择<a rel="nofollow noopener" href="https://bandwagonhost.com/aff.php?aff=20789" target="_blank">搬瓦工</a>或者<a rel="nofollow noopener" href="https://www.vultr.com/?ref=6804316" target="_blank">Vultr</a>的VPS，性价比较高，国人用的多，出现问题更好和客服沟通。日本机房最好避开，ip能用的寥寥无几，美国机房ip多，情况稍好一些。V2Ray最近比较火，搭建也不复杂，<a rel="nofollow noopener" href="https://www.v2ray.com/" target="_blank">官网</a>提供了详细的搭建过程，也提供了客户端软件。不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解，而且个人隐私信息的安全也没有绝对的保证。北京理工大学在2019年3月25提交的论文【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦审核通过之后，V2ray也就宣告失效。
+上文说过，通过租用国外服务器自己搭建翻墙工具我不是很推荐，ip太容易被墙。如果有读者要玩VPS翻墙的话，现在主流的在服务器搭建的科学上网方法是安装V2Ray或者Shadowsocks，VPS位置最好选择美国西海岸，Los Angeles/San Francisco或附近地区，相对比较稳定一些，VPS服务器选择<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>，性价比较高，IP较新，也存在一些被封的IP，但相较于Vultr等国人扎堆的VPS好很多。V2Ray最近比较火，搭建也不复杂，<a rel="nofollow noopener" href="https://www.v2ray.com/" target="_blank">官网</a>提供了详细的搭建过程，也提供了客户端软件。不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解，而且个人隐私信息的安全也没有绝对的保证。北京理工大学在2019年提交的论文【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦审核通过并应用到防火长城之后，V2ray也就不好用了。
 
-> 如果打算自己用**VPS自己搭建梯子**，首先你要确保能自己应对使用VPS时可能出现的问题，比如无法连接、IP被封，**网络技术和经验不深的读者不推荐这种方法**，因为现在自己租用VPS服务器架设、搭建梯子，使用市面常规通用协议很容易被墙探测到并屏蔽IP，很可能VPS服务器就只能放着吃灰了；其次，**热门的<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个还不错的替代选择，目前还没有很多国人扎堆，IP相对较新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度相对快些，HostWinds的VPS用来搭梯子（技术小白不推荐）和建站都还凑合。可以免费换IP（但不保证全新），换IP的方法：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
+> 如果打算自己用**VPS自己搭建梯子**，首先你要确保能自己应对使用VPS时可能出现的问题，比如无法连接、IP被封，**网络技术和经验不深的读者不推荐这种方法**，因为现在自己租用VPS服务器架设、搭建梯子，使用市面常规通用协议很容易被墙探测到并屏蔽IP，很可能VPS服务器就只能放着吃灰了；其次，**热门的<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个还不错的替代选择，相对来说目前还没有很多国人扎堆，IP相对较新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度会快些，HostWinds的VPS用来搭梯子（技术小白不推荐）和建站都还凑合。可以免费换IP（但不保证全新），换IP的方法：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
 
 ## 关于VPN的一些问题
 
 ### VPN的基本原理是什么？
 
-VPN是英文Virtual Private Network的缩写，翻译过来就是虚拟专用网络。VPN最初的设计是为了让世界上任一两台电脑，在一个加密的通道中传输数据，只是在数据上加密了，而不是在硬件上区别开来，所以就称为虚拟。也因此成为了绕过网络封锁的翻墙工具。VPN相比于Shadowsocks来说要更加底层一些，它首先通过操作系统虚拟一张网卡，之后所以的收发数据都通过这张网卡加密。
+VPN是英文Virtual Private Network的缩写，翻译过来就是虚拟专用网络。VPN最初的设计是为了让世界上任一两台电脑，在一个加密的通道中传输数据，保障通信数据的安全，只是在数据上加密了，而不是在硬件上区别开来，所以就称为虚拟。国内的手机或电脑设备连接国外服务器，建立VPN加密通信，也因此成为了绕过网络封锁的翻墙工具。VPN相比于Shadowsocks来说要更加底层一些，它首先通过操作系统虚拟一张网卡，之后所以的收发数据都通过这张网卡加密。
 
 ### 什么是中国防火长城？
 
