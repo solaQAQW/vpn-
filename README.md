@@ -1,6 +1,6 @@
 # 翻墙软件VPN推荐，稳定好用(含2021优惠)
 
-最近更新：`2021年5月5日`
+最近更新：`2021年5月16日`
 
 >翻墙（科学上网）重不重要？翻不了墙就不能回Gmail邮件，不能Google找程序代码，不翻墙就不能看YouTube视频，Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？我想大家都知道，不然你也不会来到这里了。由于工作出差和生活学习需要我经常在国内不同地区翻墙上网，就自己的使用感受和对翻墙软件这个行业的发展，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术。
 
@@ -731,7 +731,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 **本文会根据测评情况和使用体验，定期更新排名，如果觉得内容有用的话，欢迎添加收藏。**
 
-## <a rel="noopener" href="https://www.cepingtu.com/best-stable-vpn/" target="_blank">翻墙软件VPN推荐</a>的标准
+## <a rel="noopener" href="https://www.fastvpncn.com/" target="_blank">翻墙VPN软件推荐</a>的标准
 
 我们的VPN推荐基于这些标准，所以我们也建议大家考虑下面这些选择标准，或者参考上面的VPN排名j及我分享的最新使用信息，而不是盲目的付费购买。
 
@@ -761,7 +761,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 上文说过，通过租用国外服务器自己搭建翻墙工具我不是很推荐，ip太容易被墙。如果有读者要玩VPS翻墙的话，现在主流的在服务器搭建的科学上网方法是安装V2Ray或者Shadowsocks，VPS位置最好选择美国西海岸，Los Angeles/San Francisco或附近地区，相对比较稳定一些，VPS服务器选择<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>，性价比较高，IP较新，也存在一些被封的IP，但相较于Vultr等国人扎堆的VPS好很多。V2Ray最近比较火，搭建也不复杂，<a rel="nofollow noopener" href="https://www.v2ray.com/" target="_blank">官网</a>提供了详细的搭建过程，也提供了客户端软件。不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解，而且个人隐私信息的安全也没有绝对的保证。北京理工大学在2019年提交的论文【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦审核通过并应用到防火长城之后，V2ray也就不好用了。
 
-> 如果打算自己用**VPS自己搭建梯子**，首先你要确保能自己应对使用VPS时可能出现的问题，比如无法连接、IP被封，**网络技术和经验不深的读者不推荐这种方法**，因为现在自己租用VPS服务器架设、搭建梯子，使用市面常规通用协议很容易被墙探测到并屏蔽IP，很可能VPS服务器就只能放着吃灰了；其次，**热门的<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个还不错的替代选择，相对来说目前还没有很多国人扎堆，IP相对较新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度会快些，HostWinds的VPS用来搭梯子（技术小白不推荐）和建站都还凑合。可以免费换IP（但不保证全新），换IP的方法：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
+> 如果打算自己用**VPS自己搭建梯子**，首先你要确保能自己应对使用VPS时可能出现的问题，比如无法连接、IP被封，**网络技术和经验不深的读者不推荐这种方法**，因为现在自己租用VPS服务器架设、搭建梯子，使用市面常规通用协议很容易被墙探测到并屏蔽IP，很可能VPS服务器就只能放着吃灰了，因为现在较流行的翻墙协议和技术无非是SS（R）、V2Ray、Trojan、Vmess等，目前防火长城主要是学习和判别流量特征，对这几种都能比较准确的识别和封锁，像这种与同一台境外VPS或域名进行长时间、大流量传输本来就不正常，无论流量怎么伪装都会有这种特征，下一次大规模屏蔽也只是时间的问题；其次，**热门的<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个还不错的替代选择，相对来说目前还没有很多国人扎堆，IP相对较新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度会快些，HostWinds的VPS用来搭梯子（技术小白不推荐）和建站都还凑合。可以免费换IP（但不保证全新），换IP的方法：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
 
 ## 关于VPN的一些问题
 
