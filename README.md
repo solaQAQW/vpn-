@@ -2,7 +2,7 @@
 
 最近更新：`2021年5月16日`
 
->翻墙（科学上网）重不重要？我想大家都知道，不然你也不会看到这篇文章了，翻不了墙就不能回Gmail邮件，不能Google找程序代码，不翻墙就不能看YouTube视频，Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？由于工作出差和生活学习需要我经常在国内不同地区翻墙上网，就自己的使用感受和对翻墙软件这个行业的了解，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术。
+>翻墙（科学上网）重不重要？我想大家都知道，不然也不会看到这篇文章了，翻不了墙就不能Google找程序代码，不能回Gmail邮件，不翻墙就不能看YouTube视频，Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？由于工作出差和生活学习需要我经常在国内不同地区翻墙上网，就自己的使用感受和对翻墙软件这个行业的了解，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术。
 
 [![翻墙VPN推荐](https://www.safewebcn.com/img/wall-min.png "梯子")](#%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6vpn%E6%8E%A8%E8%8D%90%E7%A8%B3%E5%AE%9A%E5%A5%BD%E7%94%A8%E5%90%AB2021%E4%BC%98%E6%83%A0)
 
@@ -12,12 +12,12 @@
 
 **重要提示**：在选择或者使用某款VPN之前，**一定要把本文中与对应这款VPN相关的使用信息看完**，因为墙的不断增高，可能会涉及到安装和使用过程中的线路选择问题，不然可能会导致使用不便。
 
-建议下载本文的PDF版本：<a rel="nofollow noopener" href="https://www.safewebcn.com/download/vpn选择指南.pdf" target="_blank">2021版翻墙VPN选择指南PDF版本</a>(右键另存)，有一些VPN使用提示，随时查阅，以备不时之需。
+建议下载本文的PDF版本：<a rel="nofollow noopener" href="https://www.safewebcn.com/download/vpn选择指南.pdf" target="_blank">2021版翻墙VPN选择指南PDF版本</a>(右键另存)，有一些VPN详细信息和使用提示，随时查阅，以备不时之需。
 
 >其实就2021年的今天来看，使用VPN加密、安全翻墙依然是最适合大多数人的最方便、安全的科学上网工具，同样也是我长期关注和测试的。**如果你不想多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择下面的几款，翻墙使用体验和基本信息简单介绍一下**：
 > - [StrongVPN](#2-strongvpn--性价比最佳)，这款价格最便宜，综合性价比最高，支持支付宝付款。我已经使用了2年左右，总体来讲，在过去2年的使用时间里，全年可用率基本能达到95%左右，服务器IP也会常年更新。**在国内的Windows、Mac和安卓用户可以在官网右下角的“Help”帮助窗口，找客服要精简客户端V1 app，在中国登录和连接更为顺畅**，而官网的标准客户端在敏感时期封锁的时候可能会出现连接问题，需等一段时间更新之后才能恢复正常，**国内用户最好直接使用适合中国地区使用的简化版客户端的OpenVPN协议进行连接，下文中有教程**。支持支付宝付款，这点比较方便。iPhone手机由于iOS系统的封闭，没有中国专属的APP，稳定性不如其他几种系统，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>。目前Strong有打折的优惠券可以使用，**Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度不是刚需的用户也够用了**。StrongVPN官网域名在中国被墙（软件APP能正常使用），[国内的网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑host文件才可以访问，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能顺利访问官网。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要断开梯子、使用本地网络访问，这点比较麻烦。StrongVPN的退款时限是30天，所以有充分的时间进行测试，遇到问题可以联系在线客服，官网右下角对话框或者发Ticket消息都行，一般的问题基本都能解决。
 > 
-> - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（优惠活动链接）</a>，这款**在国内体验最好，速度在我所用过的VPN中最快**，也是我自己很喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新和联系客服使用，**<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开ExpressVPN官网</a>需其他梯子**。它设备支持最全面，**iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选**，已经运营了13年（至2021年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。**平时使用建议OpenVPN或Lightway协议（Automatic也可以），Lightway协议是Express官方2021年独家研发的最新VPN协议，在国内的连接成功率很高**。敏感时期遇到墙升级，官方推荐的中国地区优化服务器线路如果遇到连接问题，可以切换L2TP协议连接其他节点，这个协议也有一些线路在敏感时期仍然可用，可以作为备用选择。目前由于政策原因，ExpressVPN的支付宝付款通道被暂停了，优先选择银联卡(国内银行卡)、VISA和MasterCard信用卡和Paypal（查看[购买ExpressVPN的方法](#如何购买expressvpn)）。ExpressVPN有30天试用期内不满意可全额退款政策，退款是按付款方式原路返回。
+> - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（优惠活动链接）</a>，这款**在国内体验最好，速度在我所用过的VPN中最快**，也是我自己很喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新和联系客服使用，**<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开ExpressVPN官网</a>需其他梯子**。它设备支持最全面，**iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选**，已经运营了13年（至2021年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。**平时使用建议OpenVPN或Lightway协议（Automatic也可以），Lightway协议是Express官方2021年独家研发的最新VPN协议，在国内的连接成功率很高**。敏感时期遇到墙升级，官方推荐的针对中国地区优化的服务器线路如果遇到连接问题，可以切换L2TP协议连接其他节点，这个协议也有一些线路在敏感时期仍然可用，可以作为备用选择。目前由于政策原因，ExpressVPN的支付宝付款通道被暂停了，优先选择银联卡(国内银行卡)、VISA和MasterCard信用卡和Paypal（查看[购买ExpressVPN的方法](#如何购买expressvpn)）。ExpressVPN有30天试用期内不满意可全额退款政策，退款是按付款方式原路返回。
 > 
 > - <a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年VPN（额外10%优惠链接）</a>，镜像官网在国内大多数时候可直接访问，虽然名字包含“VPN”，但传输协议是SSR，其实是机场，国外华人出品，安全性不如真正的VPN，但我使用大半年的时间，性价比和体验还是不错的，LightYear光年VPN可以作为前2款的备用选择，有国内可访问的镜像网站。我一般的使用场景是配合上面2个真正的VPN使用，可以用来访问其它VPN的官网和偶尔看视频用用，毕竟速度还不错，如果涉及重要账号登录和敏感信息的操作，我还是会用Express或Strong，毕竟这2款是国外大公司开发正儿八经的VPN，安全性也更有保证。支持支付宝付款，光年VPN退款时限是7天内。
 
