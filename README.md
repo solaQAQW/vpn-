@@ -143,7 +143,7 @@ StrongVPN、PandaVPN、Nord和IVacy都是下载安装客户端后，输入注册
 
 ### 安卓Android手机客户端
 
-大体和电脑端一样，直接可以在官网下载pkg的安装包进行安装，唯一不同的是也可以在“Google Play”上进行安装，但Google Play要连上梯子才能访问，所有最好找有安装包直接下载的。
+安卓客户端的安装过程大体和电脑端一样，直接可以在官网下载pkg的安装包进行安装，唯一不同的是也可以在“Google Play”上进行安装，但Google Play要连上梯子才能访问，所有最好找有安装包直接下载的。
 
 >IVacy有点坑，我在官网上没找到pkg的安装包，Play商店的中国区又没上架，只能用美区ID安装或者找客服索取下载链接。
 
@@ -208,9 +208,9 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ### 如何购买ExpressVPN
 
-因为国内政策原因，目前能使用支付宝付款的大厂VPN越来越少，如果只接受支付宝付款方式，就不用考虑ExpressVPN了，[StrongVPN](#2-strongvpn--性价比最佳)和<a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年VPN</a>目前能用支付宝。如果没有带外币功能的信用卡和Paypal，国内银行卡（银联）也能支付。
+因为国内政策原因，目前能使用支付宝付款的大厂VPN越来越少，如果只接受支付宝付款方式，就不用考虑ExpressVPN了，[StrongVPN](#2-strongvpn--性价比最佳)和<a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年VPN</a>目前能用支付宝。如果没有带外币功能的信用卡（VISA/MasterCard等）和Paypal，国内银行卡（银联）也能支付。
 
-国内购买ExpressVPN步骤如下：
+国内银行卡购买ExpressVPN步骤如下：
 
 首先进入<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（优惠活动链接）</a>网站，然后点击“Get ExpressVPN”按钮，进入套餐选择页面：
 
