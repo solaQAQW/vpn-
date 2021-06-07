@@ -1,6 +1,6 @@
 # 翻墙软件VPN推荐，稳定好用(含2021优惠)
 
-最近更新：`2021年5月16日`
+最近更新：`2021年6月7日`
 
 >翻墙（科学上网）重不重要？我想大家都知道，不然也不会看到这篇文章了，翻不了墙就不能Google找程序代码，不能回Gmail邮件，不翻墙就不能看YouTube视频，Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？由于工作出差和生活学习需要我经常在国内不同地区翻墙上网，就自己的使用感受和对翻墙软件这个行业的了解，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术。
 
@@ -317,7 +317,7 @@ ExpressVPN支持银联、信用卡、Paypal等多种方式付款。付款后，�
 >
 >安装或者使用过程中出现问题一定要联系在线客服，通过官网右下角的在线聊天框进入，之前有几次墙升级导致无法连接都是找客服解决的，还多送了一个月的使用期。
 >
->**推荐用户**：对速度和稳定性有要求的用户、iPhone和Mac用户首选
+>**推荐用户**：对速度和稳定性有要求的用户、iPhone用户首选
 
 ### <center><a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
 
@@ -353,7 +353,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 **国内本地网络访问方法**：Strong官网在中国被墙，国内打开官网需要改电脑Host文件，因为其官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
-改电脑Host文件方法很简单，国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**，手机用户建议在电脑上打开本页面操作，因为手机由于系统版本原因改host操作较麻烦，下面是操作步骤：
+改电脑Host文件方法很简单，国内Windows/Mac用户可以直接下载hosts文件解锁官网，手机用户建议在电脑上打开本页面操作，因为手机由于系统权限原因改host操作较麻烦，下面是操作步骤：
 
 1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)。
 
@@ -452,6 +452,8 @@ StrongVPN专用精简版客户端V1 App（**中国用户推荐使用，国内比
 
 StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后点击setting，在Protocol选择WireGuard，然后回到服务器选择线路连接，点击connect，等待1-3秒就能连上，如果没有反应，打开iPhone的系统设置，点击VPN，选择“StrongVPN WireGuard Configuration”（如下图）：
 
+（根据部分读者反映，WireGuard在国内部分地区不稳定，不如OpenVPN协议）
+
 [![Strong WireGuard](https://www.safewebcn.com/img/strong-wireguard-min.png)](#使用wireguard协议)
 
 点击按钮，一般很快就能建立连接（如下图），WireGuard协议在手机翻墙时比较方便，目前大多数VPN产品还还没有加入WireGuard协议，这是StrongVPN的优势之一。
@@ -534,7 +536,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 国内打开NordVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
 
-国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**（手机用户建议在电脑上打开本页面操作）：
+国内Windows/Mac用户可以直接下载hosts文件解锁VPN官网（手机用户建议在电脑上打开本页面操作）：
 
 1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
 
@@ -546,7 +548,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
 
-NordVPN在全球范围内应该是为数不多的能和ExpressVPN抗衡的服务商之一，在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前客户端直连翻墙**建议连接新出的服务器**，服务器越新连通率越高，速度也快，建议连接美国、日本、新加坡、英国、加拿大这些服务器(如下图)。学会使用OpenVPN手动配置，很简单，官网有教程，它的速度和稳定性会更高，敏感时期**配合用OpenVPN或IKEV2进行手动配置**可以保证全年95%左右的可用率。
+NordVPN在全球范围内应该是为数不多的能和ExpressVPN抗衡的服务商之一，在中国的速度表现也非常不错，拥有军用级别的加密技术，目前三年优惠活动也比较划算。但目前客户端直连翻墙**建议连接新出的服务器**，服务器越新连通率越高，速度也快，建议连接美国、日本、新加坡、英国、加拿大这些服务器(如下图)。学会使用OpenVPN手动配置，很简单，官网有教程，它的速度和稳定性会更高，敏感时期配合用OpenVPN或IKEV2进行手动配置，**或者咨询客服获取中国特供客户端连接，这个版本连接成功率高很多**。
 
 NordVPN Windows客户端日本节点：
 
@@ -623,7 +625,7 @@ PandaVPN由中文团队开发，所以对中文支持很好，相比其他几家
 
 国内打开IVacy官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
 
-国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**（手机用户建议在电脑上打开本页面操作）：
+国内Windows/Mac用户可以直接下载hosts文件解锁VPN官网（手机用户建议在电脑上打开本页面操作）：
 
 1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
 
@@ -663,7 +665,7 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 国内打开PureVPN官网需要改电脑Host文件，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。方法很简单：
 
-国内Windows/Mac用户可以直接下载hosts文件**解锁本文中所有VPN官网**（手机用户建议在电脑上打开本页面操作）：
+国内Windows/Mac用户可以直接下载hosts文件解锁官网（手机用户建议在电脑上打开本页面操作）：
 
 1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
 
