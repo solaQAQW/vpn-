@@ -509,40 +509,40 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 (日本、韩国、美国的San Franciso、英国的Rugby london都不错。如果只上网飞的话，推荐日本节点，快而且内容多。)
 
-South Korea Seoul: icn303
-Japan Tokyo: hnd302
-Germany Frankfurt: fra301-303
-Australia Melbourne: mel301
-Sydney: syd301,302
-Belgium Brussels: bru301
-Canada Montreal: yul301-303
-Toronto: yyz301
-France Paris: cdg301
-Marseille: mrs301
-Israel Tal Aviv: tlv301
-Italy Milan: mxp301
-Malaysia Kuala Lumpur: kul302
-Netherlands Amsterdam: ams302-304
-Poland Warsaw: waw302
-Portugal Lisbon: lis301
-Singapore Singapore: sin301,302
-Spain Madrid: mad301
-Sweden Stockholm: arn301,302
-UK Manchester: man303
-Canterbury: mse302
-London: lcy313-318
-Rugby: bhx302
-US Atlanta: atl301-303
-New York: jfk301, 303-318
-San Francisco: sfo301 - 311
-Las Vegas: las303-305
-Chicago: ord307-309
-Miami: mia303-307
-Washington DC: iad301-303, 305
-Phoenix: phx303,304
-Los Angeles: lax301-305,307
-Seattle: sea301
-Dallas: dfw301
+- **South Korea** Seoul: icn303
+- **Japan** Tokyo: hnd302
+- **Germany** Frankfurt: fra301-303
+- **Australia** Melbourne: mel301
+- **Sydney**: syd301,302
+- **Belgium** Brussels: bru301
+- **Canada** Montreal: yul301-303
+- Toronto: yyz301
+- **France** Paris: cdg301
+- Marseille: mrs301
+- **Israel** Tal Aviv: tlv301
+- **Italy** Milan: mxp301
+- **Malaysia** Kuala Lumpur: kul302
+- **Netherlands** Amsterdam: ams302-304
+- **Poland** Warsaw: waw302
+- **Portugal** Lisbon: lis301
+- **Singapore** Singapore: sin301,302
+- **Spain** Madrid: mad301
+- **Sweden** Stockholm: arn301,302
+- **UK** Manchester: man303
+- Canterbury: mse302
+- London: lcy313-318
+- Rugby: bhx302
+- **US** Atlanta: atl301-303
+- New York: jfk301, 303-318
+- San Francisco: sfo301 - 311
+- Las Vegas: las303-305
+- Chicago: ord307-309
+- Miami: mia303-307
+- Washington DC: iad301-303, 305
+- Phoenix: phx303,304
+- Los Angeles: lax301-305,307
+- Seattle: sea301
+- Dallas: dfw301
 
 - **支持设备**
 
