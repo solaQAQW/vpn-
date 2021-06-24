@@ -19,9 +19,9 @@
 > 
 > - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（优惠活动链接）</a>，这款**在国内体验最好，速度在我所用过的VPN中最快**，也是我自己很喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新和联系客服使用，**<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开ExpressVPN官网</a>需其他梯子**。它设备支持最全面，**iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选**，已经运营了13年（至2021年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。**平时使用建议OpenVPN或Lightway协议（Automatic也可以），Lightway协议是Express官方2021年独家研发的最新VPN协议，在国内的连接成功率很高**。敏感时期遇到墙升级，官方推荐的针对中国地区优化的服务器线路如果遇到连接问题，可以切换L2TP协议连接其他节点，这个协议也有一些线路在敏感时期仍然可用，可以作为备用选择。目前由于政策原因，ExpressVPN的支付宝付款通道被暂停了，优先选择银联卡(国内银行卡)、VISA和MasterCard信用卡和Paypal（查看[购买ExpressVPN的方法](#如何购买expressvpn)）。ExpressVPN有30天试用期内不满意可全额退款政策，退款是按付款方式原路返回。
 > 
-> - <a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年VPN（额外10%优惠链接）</a>，镜像官网在国内大多数时候可直接访问，虽然名字包含“VPN”，但传输协议是SSR，其实是机场，国外华人出品，安全性不如真正的VPN，但我使用大半年的时间，性价比和体验还是不错的，LightYear光年VPN可以作为前2款的备用选择，有国内可访问的镜像网站。我一般的使用场景是配合上面2个真正的VPN使用，可以用来访问其它VPN的官网和偶尔看视频用用，毕竟速度还不错，如果涉及重要账号登录和敏感信息的操作，我还是会用Express或Strong，毕竟这2款是国外大公司开发正儿八经的VPN，安全性也更有保证。支持支付宝付款，光年VPN退款时限是7天内。
+> - <a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年VPN（额外10%优惠链接）</a>，镜像官网在国内大多数时候可直接访问，虽然名字包含“VPN”，但传输协议是SSR，其实是机场，国外华人出品，安全性不如真正的VPN，但我使用大半年的时间，性价比和体验还是不错的，LightYear光年VPN可以作为前2款的备用选择，有时会推出国内可访问的镜像网站。我一般的使用场景是配合上面2个真正的VPN使用，可以用来访问其它VPN的官网和偶尔看视频用用，毕竟速度还不错，如果涉及重要账号登录和敏感信息的操作，我还是会用Express或Strong，毕竟这2款是国外大公司开发正儿八经的VPN，安全性也更有保证。支持支付宝付款，光年VPN退款时限是7天内。
 
-如果目前没有梯子无法访问官网，一般我建议选择[StrongVPN](#2-strongvpn--性价比最佳)和<a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年VPN</a>，Strong官网改电脑的host设置就能访问，光年VPN有镜像网站，大部分时候可以从国内直接访问。
+大家都知道，有点名气的翻墙软件网站都被墙了，国内无法访问。如果目前没有梯子无法访问VPN官网，一般我建议选择[StrongVPN](#2-strongvpn--性价比最佳)和<a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年VPN</a>，Strong官网改电脑的host设置就能访问，光年VPN有时会推出镜像网站，可以从国内直接访问。
 
 如果想挑选高性价比、符合自己需求的翻墙软件，也可以参考下文推荐的VPN进行对比和选择。
 
