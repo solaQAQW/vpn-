@@ -818,11 +818,11 @@ VPN是英文Virtual Private Network的缩写，翻译过来就是虚拟专用网
 
 ## 其他VPN避坑提示
 
-### <a rel="nofollow noopener" href="http://linkv.org/panda/" target="_blank"> PandaVPN</a>
+### PandaVPN
 
 >2021年3月测试，体验一般，国产翻墙软件，创办时间不长，安全性一般，长期套餐有风险，谨慎选择。
 
-[![PandaVPN](https://www.safewebcn.com/img/panda-min.png)](http://linkv.org/panda/)
+[![PandaVPN](https://www.safewebcn.com/img/panda-min.png)](#pandavpn)
 
 >这款我去年开始使用，虽然创办时间不算长，但是不管是连接成功率还是速度上来说，在我使用的这几个月还算凑合。
 
@@ -855,7 +855,7 @@ PandaVPN由中文团队开发，所以对中文支持很好，相比其他几家
 付款方式主要包含Visa信用卡、PayPal等，有7天退款政策，不过**有小伙伴反映退款慢，要催客服**。
 
 
-### <a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年VPN</a>（疑似跑路，注意避坑）
+### 光年VPN（疑似跑路，注意避坑）
 
 > - ~~虽然名字包含“VPN”，但传输协议是SSR，其实是机场，国外华人出品，安全性不如真正的VPN，但我使用大半年的时间，性价比和体验还是不错的，LightYear光年VPN可以作为前2款的备用选择，有时会推出国内可访问的镜像网站。我一般的使用场景是配合上面2个真正的VPN使用，可以用来访问其它VPN的官网和偶尔看视频用用，毕竟速度还不错~~，如果涉及重要账号登录和敏感信息的操作，我还是会用Express或Strong，毕竟这2款是国外大公司开发正儿八经的VPN，安全性也更有保证。~~支持支付宝付款，光年VPN退款时限是7天内~~。(目前光年VPN无法连接、客服无人应答，暂不推荐)
 
