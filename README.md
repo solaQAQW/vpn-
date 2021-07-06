@@ -49,7 +49,7 @@
 >>#### 7.5 [PureVPN](#5-purevpn)
 >
 >### 8.[不要入坑的VPN](#不要入坑的vpn)
->### 9.[翻墙软件VPN推荐的标准](#翻墙软件vpn推荐的标准)
+>### 9.[翻墙软件VPN推荐的标准](#翻墙vpn软件推荐的标准)
 
 ## 翻墙的安全性问题 – 翻墙软件与VPN的区别
 
@@ -744,7 +744,7 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 **本文会根据测评情况和使用体验，定期更新排名，如果觉得内容有用的话，欢迎添加收藏。**
 
-## <a rel="noopener" href="https://www.fastvpncn.com/" target="_blank">翻墙VPN软件推荐</a>的标准
+## <a rel="noopener" href="https://www.fastvpncn.com/" target="_blank">翻墙软件VPN推荐</a>的标准
 
 我们的VPN推荐基于这些标准，所以我们也建议大家考虑下面这些选择标准，或者参考上面的VPN排名j及我分享的最新使用信息，而不是盲目的付费购买。
 
