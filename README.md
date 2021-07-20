@@ -2,7 +2,7 @@
 
 最近更新：`2021年7月3日`
 
->2021年7月信息汇总，**PureVPN、Ivacy、VyprVPN、SurfShark、蓝灯VPN等**在国内很难使用，服务器经常被封，大家注意避坑。NordVPN之前也是被重点打击，目前表现一般。**光年VPN疑似要跑路**，超过10天不能连接，客服也无人应答。**ExpressVPN和StrongVPN表现尚可，属于长期可用**，ExpressVPN全平台适用，体验也最好；StrongVPN最便宜，适用Windows、Mac和安卓手机端（使用特供版客户端稳定性不错），iPhone要联系客服手动配置翻墙。
+>2021年7月信息汇总：**PureVPN、Ivacy、VyprVPN、SurfShark、蓝灯VPN等**在国内很难使用，服务器经常被封，大家注意避坑。NordVPN之前也是被重点打击，目前表现一般。**光年VPN疑似跑路**，超过半个月不能连接，客服也无人应答。**ExpressVPN和StrongVPN表现尚可，属于长期可用**，ExpressVPN全平台适用，体验也最好；StrongVPN最便宜，适用Windows、Mac和安卓手机端（使用特供版客户端稳定性不错），iPhone要联系客服手动配置翻墙。
 > 
 >顺便提一句，**创立时间不超过3年的VPN或翻墙软件，建议大家谨慎选择**，特别是国产的翻墙软件，基本都是私人作坊式运作，不仅是安全性存疑，而且近几年跑路的太多了，退款和售后是没有的。因为行业的混乱和政策风险，干一阵跑路再换马甲重新开张赚钱更容易、也更安全，这一点国外大厂VPN品牌好很多，因为客户大部分是国外用户，比较认品牌，合法且能稳定盈利，至少不会跑路，一般的退款政策的时限是30天左右，至于能不能在国内使用，还是要仔细甄别。
 
@@ -379,9 +379,9 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 除了最基本的VPN套餐，官网还会额外赠送250 GB SugarSync云储存套餐，赠送的服务值不值见仁见智。
 
-使用的时候直接通过客户端APP一键连接就行了，不用自己手动设置，敏感时期如果遇到封锁，可在官网右下角的在线聊天框找客服获取连接方案。能连接的节点比ExpressVPN多一些，建立连接所需的时间也比ExpressVPN略快，但是网络速度比ExpressVPN稍慢，不过打开网页和看Youtube高清视频也基本够用，无论是电脑还是手机（包括iPhone和安卓）APP客户端的使用体验和稳定性在我使用的VPN软件中仅次于ExpressVPN，对于在乎性价比的人来说，是除[ExpressVPN](#1-expressvpn--速度体验最佳)外的最佳选择。
+使用的时候直接通过精简版客户端APP一键连接就行了，不用自己手动设置，敏感时期如果遇到封锁，可在官网右下角的在线聊天框找客服获取连接方案。能连接的节点比ExpressVPN多一些，建立连接所需的时间也比ExpressVPN略快，但是网络速度比ExpressVPN慢，不过打开网页和看Youtube高清视频也基本够用，无论是电脑还是手机（包括iPhone和安卓）APP客户端的使用体验和稳定性在我使用的大厂VPN软件中目前仅次于ExpressVPN，**对于在乎性价比的人来说，是除[ExpressVPN](#1-expressvpn--速度体验最佳)外的最佳选择**。
 
-如果安装或者连接遇到问题，可以在官网的右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持），咨询客服相关问题，我有几次遇到连接问题都是找技术支持解决的。**连接协议建议选择`OpenVPN UDP/TCP`**，UDP和TCP哪个好用用那个。
+如果安装或者连接遇到问题，可以在官网的右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持），咨询客服相关问题，我有几次遇到连接问题都是找技术支持解决的。**连接协议建议选择`OpenVPN UDP/TCP`**，UDP和TCP哪个好用用那个，我自己一般习惯使用TCP，感觉更好连接一些。
 
 ### 如何获取StrongVPN？
 
@@ -389,7 +389,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 [![Strong-device](https://www.safewebcn.com/img/strongvpn-plan-price-min.png)](#如何获取strongvpn)
 
-付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%**，优惠码是`TAKEOFF20` ，点击“Have a coupon?”输入优惠码。
+付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%**，优惠码是`TAKEOFF20` ，点击“Have a coupon?”输入优惠码。或者进入官网后，拉到页面最下方，在“Interact”栏点击“Coupons“也能看到。
 
 [![Strong优惠码](https://www.safewebcn.com/img/strongvpn-alipay-payment-min.png)](#如何获取strongvpn)
 
