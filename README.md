@@ -438,6 +438,8 @@ Mac精简版<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com
 
 下载安装APP客户端、联系客服开通OpenVPN账户后，打开输入用户名密码登录就行了，如果仍有登陆问题，请看前文的解决方法。在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
 
+**在中国能用的节点选择具体的方法，可以查看[Strong线路选择](#strong线路选择)**。
+
 StrongVPN专用精简版客户端V1 App（**中国用户推荐使用，国内使用比标准版客户端更容易连接**）：
 
 [![Strong客户端精简版](https://www.safewebcn.com/img/strongvpn-china-client-min.png)](#使用建议)
@@ -472,7 +474,7 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 [![Strong客户端精简版](https://www.safewebcn.com/img/strong-seoul-speedtest-2021-2.png)](#strong速度测试)
 
-这是最近我使用时的测试结果，测试平台为SpeedTest网页测速，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps；Seoul节点ping值67ms，下载速度为28.03Mbps，上行速度为22.09Mbps。浏览网页、看视频够用，但看清晰度为2K及以上的视频会有点吃力，这点不如[ExpressVPN](#1-expressvpn--速度体验最佳)，另外，实际使用时的网速和上网时段、网络环境都有很大的关系。StrongVPN速度较快的节点选择可以查看：[线路选择提示](#strong线路选择提示)。
+这是最近我使用时的测试结果，测试平台为SpeedTest网页测速，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps；Seoul节点ping值67ms，下载速度为28.03Mbps，上行速度为22.09Mbps。浏览网页、看视频够用，但看清晰度为2K及以上的视频会有点吃力，这点不如[ExpressVPN](#1-expressvpn--速度体验最佳)，另外，实际使用时的网速和上网时段、网络环境都有很大的关系。StrongVPN速度较快的节点选择可以查看：[线路选择](#strong线路选择)。
 
 官方建议：Change your VPN connection protocol If changing server did not help you get connected, try changing your protocol. We recommend using OpenVPN via UDP or OpenVPN via TCP configuration for customers in China. If both fails, then try the aforementioned protocols with Scramble feature enabled.
 
@@ -496,17 +498,25 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 由于墙的不断升级，建议使用精简版客户端，可以找在线客服获取，直接说在中国使用就会帮你设置好账户。
 
-### Strong线路选择提示
+### Strong线路选择
 
 在不同的网络运营商下，连接同一节点的速度也可能不同，每个节点的网络速度也会不一样。但StrongVPN我选择线路有一点原则，就是选择当前使用人数相对较少的节点。然后多测试几个节点，选择速度最满意的作为常用节点。
 
 登录官网用户后台，然后点击'VPN Accounts'，在下拉框里面点击'Legacy VPN Accounts Summary'，查看下面的“Servers available”，就可以查看各个节点和当前使用人数。我测试的结果是当前使用人数相对较少的节点的速度还是好于人数上万的节点。
 
-另外读者<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/104" target="_blank">lthero-big分享的国内能用线路列表</a>也很不错，感谢lthero-big的分享。方法如下：
+**线路选择方法如下**：
 
-一般登陆入简化版客户端，默认是San Franciso的。如果要换到其它地方，点Change Location 选服务器，再找到想换的国家->城市->具体的节点（有编号，这个找客服要一些好用的留着），再点switch，再次connnect就行。
+一般登陆入简化版客户端，默认是San Franciso的。如果要换到其它节点，**点Change Location选服务器**：
 
-找客服要的，目前中国能用的线路。一定要精确到某个城市的具体线路：
+[![Strong客户端选服务器](https://www.fastvpncn.com/wp-content/uploads/2021/07/strongvpn-change-location-min.png)](#strong线路选择)
+
+在弹出的窗口选择By server（Manual）手动选择服务器，再找到想换的国家->城市->连接协议（Open）->具体的节点（见下图），有编号，然后点击Next，之后转换服务器(Switch)，再次connnect就行。
+
+[![Strong客户端选服务器](https://www.fastvpncn.com/wp-content/uploads/2021/07/strongvpn-server-switcher-min.png)](#strong线路选择)
+
+另外读者lthero-big分享的国内能用线路列表也很不错：
+
+找客服要的，目前中国能用的线路，一定要精确到某个城市的具体线路。
 
 (日本、韩国、美国的San Franciso、英国的Rugby london都不错。如果只上网飞的话，推荐日本节点，快而且内容多。)
 
