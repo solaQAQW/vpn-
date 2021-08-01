@@ -438,7 +438,11 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 Mac精简版<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/mac/StrongVPN_mac-latest.zip" target="_blank">V1 app下载地址</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/Strong_mac-latest.zip" target="_blank">备用下载地址</a>）
 
-下载安装APP客户端、联系客服开通OpenVPN账户后，打开输入用户名密码登录就行了，如果仍有登陆问题，请看前文的解决方法。在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
+下载安装APP客户端、联系客服开通OpenVPN账户后，打开输入用户名密码登录就行了，如果仍有登陆问题，请看前文的解决方法。
+
+**选择国内能连接翻墙的节点的具体方法，可以查看[Strong线路如何选择](#strong线路选择)**。
+
+在中国使用，连接协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
 
 StrongVPN专用精简版客户端V1 App（**中国用户推荐使用，国内使用比标准版客户端更容易连接**）：
 
@@ -447,7 +451,6 @@ StrongVPN专用精简版客户端V1 App（**中国用户推荐使用，国内使
 StrongVPN Windows客户端标准版(**这个版本不推荐在国内使用，敏感时期被封锁会出现连接问题**)：
 
 [![Strong客户端标准版](https://www.safewebcn.com/img/strong-connect.png)](#使用建议)
-
 
 精简版客户端可以找在线客服获取，获取方法见上文。
 
@@ -474,7 +477,7 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 [![Strong客户端精简版](https://www.safewebcn.com/img/strong-seoul-speedtest-2021-2.png)](#strong速度测试)
 
-这是最近我使用时的测试结果，测试平台为SpeedTest网页测速，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps；Seoul节点ping值67ms，下载速度为28.03Mbps，上行速度为22.09Mbps。浏览网页、看视频够用，但看清晰度为2K及以上的视频会有点吃力，这点不如[ExpressVPN](#1-expressvpn--速度体验最佳)，另外，实际使用时的网速和上网时段、网络环境都有很大的关系。StrongVPN速度较快的节点选择可以查看：[线路选择提示](#strong线路选择提示)。
+这是最近我使用时的测试结果，测试平台为SpeedTest网页测速，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps；Seoul节点ping值67ms，下载速度为28.03Mbps，上行速度为22.09Mbps。浏览网页、看视频够用，但看清晰度为2K及以上的视频会有点吃力，这点不如[ExpressVPN](#1-expressvpn--速度体验最佳)，另外，实际使用时的网速和上网时段、网络环境都有很大的关系。StrongVPN速度较快的节点选择可以查看：[Strong线路选择提示](#strong线路选择)。
 
 官方建议：Change your VPN connection protocol If changing server did not help you get connected, try changing your protocol. We recommend using OpenVPN via UDP or OpenVPN via TCP configuration for customers in China. If both fails, then try the aforementioned protocols with Scramble feature enabled.
 
@@ -498,15 +501,25 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 由于墙的不断升级，建议使用精简版客户端，可以找在线客服获取，直接说在中国使用就会帮你设置好账户。
 
-### Strong线路选择提示
+### Strong线路选择
 
 在不同的网络运营商下，连接同一节点的速度也可能不同，每个节点的网络速度也会不一样。但StrongVPN我选择线路有一点原则，就是选择当前使用人数相对较少的节点。然后多测试几个节点，选择速度最满意的作为常用节点。
 
 登录官网用户后台，然后点击'VPN Accounts'，在下拉框里面点击'Legacy VPN Accounts Summary'，查看下面的“Servers available”，就可以查看各个节点和当前使用人数。我测试的结果是当前使用人数相对较少的节点的速度还是好于人数上万的节点。
 
-另外读者<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/104" target="_blank">lthero-big分享的国内能用线路列表</a>也很不错，感谢lthero-big的分享。方法如下：
-
 一般登陆入简化版客户端，默认是San Franciso的。如果要换到其它地方，点Change Location 选服务器，再找到想换的国家->城市->具体的节点（有编号，这个找客服要一些好用的留着），再点switch，再次connnect就行。
+
+**精简版客户端节点选择方法**：
+
+首次登陆精简版客户端，一般默认的节点是San Franciso。要换到其它节点，**首先点击客户端界面上的“Change Location”选服务器**，如下图：
+
+[![Strong客户端Change Location](https://www.fastvpncn.com/wp-content/uploads/2021/07/strongvpn-change-location-min.png)](#strong线路选择)
+
+新弹出的界面中选择“By server(Manual)”手动模式，然后再选择国家->城市->连接协议（Open）->具体的节点（见下图），有编号（可以找客服给你在中国能连的服务器编号)，然后点击Next和Switch换节点，再次connnect就行。
+
+[![Strong客户端选服务器](https://www.fastvpncn.com/wp-content/uploads/2021/07/strongvpn-server-switcher-min.png)](#strong线路选择)
+
+另外读者<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/104" target="_blank">lthero-big分享的国内能用线路列表</a>也很不错，感谢lthero-big的分享。
 
 找客服要的，目前中国能用的线路。一定要精确到某个城市的具体线路：
 
