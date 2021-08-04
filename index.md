@@ -1,6 +1,6 @@
 # 好用的VPN推荐，只剩2款好用(2021翻墙避坑攻略)
 
-最近更新：`2021年7月3日`
+最近更新：`2021年8月4日`
 
 >2021年7月使用表现简介：**PureVPN、Ivacy、SurfShark、VyprVPN、蓝灯VPN等**在国内已经很难连接，服务器隔一段时间就会被封，看到不少博客上还挂着这些，说在中国能用，大家注意避坑。NordVPN之前也是被重点打击，目前表现一般，使用的话最好找客服获取特供客户端进行连接。**光年VPN疑似跑路**，超过半个月不能连接，客服也无人应答。**ExpressVPN和StrongVPN表现尚可，长期可用**，ExpressVPN全平台适用，体验也最好；StrongVPN最便宜，适用Windows、Mac和安卓手机端（使用特供版客户端稳定性不错），iPhone要联系客服手动配置翻墙。
 > 
@@ -279,11 +279,11 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 - 路由器：Netgear R7000
 
 部分测试截图如下：
-[![LA5节点测速](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-2021.png)](#expressvpn速度测试)
+[![LA5节点测速](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-2021-08-min.png)](#expressvpn速度测试)
 
 我们连接Los Angeles – 5节点，在Chrome浏览器使用Speedtest进行在线测速，测速结果如下图，可以看到，ping延迟是196ms，还不错，下载速度是56.96Mb/s，上传的速度是16.53Mb/s，观看Youtube高清视频不存在卡顿。
 
-[![sigapore节点测速](https://www.safewebcn.com/img/expressvpn-sigapore.png-2021.png)](#expressvpn速度测试)
+[![sigapore节点测速](https://www.safewebcn.com/img/expressvpn-sigapore-2021-8-min.png)](#expressvpn速度测试)
 
 测试的Singapore – Marina Bay节点速度也很不错，下载速度测试值为42.14Mb/s，顺便说一下，我们的测试中，ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。
 
@@ -293,7 +293,7 @@ iPhone手机使用电信WiFi网络连接ExpressVPN的Marina Bay节点，连接�
 
 iPhone手机使用移动4G网络连接ExpressVPN的Marina Bay节点，使用SpeedTest软件进行在线测速，连接和测速界面如下图：
 
-[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-2-16-min.png)](#expressvpn速度测试)
+[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-7-28-min.png)](#expressvpn速度测试)
 
 从上面的测试截图看到，iPhone使用移动4G网络连接Marina Bay节点，测试结果还不错，能跑满我这里的移动4G实际网络带宽，iPhone的日常实际使用体验也在我所现在使用的翻墙软件中属于最好的。
 
@@ -339,7 +339,7 @@ ExpressVPN支持银联、信用卡、Paypal等多种方式付款。付款后，�
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
->2021年7月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，**目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的**，有优惠码可使用。**Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP或UDP）协议连接成功率一直很高**（在大多数时期比标准客户端连接也更加稳定），这也是尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本或线路更新才能恢复正常。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法,iPhone用户还是建议选择[ExpressVPN](#1-expressvpn--速度体验最佳)。
+>2021年8月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，**目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的**，有优惠码可使用。**Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP或UDP）协议连接成功率一直很高**（在大多数时期比标准客户端连接也更加稳定），这也是尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本或线路更新才能恢复正常。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法,iPhone用户还是建议选择[ExpressVPN](#1-expressvpn--速度体验最佳)。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市拥有950+个VPN服务器，以及近60000个IP地址，前文说过，大量的IP地址资源对于墙的封锁是最有效的办法。
 
@@ -471,11 +471,11 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 日本东京节点测速：
 
-[![Strong客户端精简版](https://www.safewebcn.com/img/StrongVPN-speedtest-tokyo-2021-2.png)](#strong速度测试)
+[![Strong客户端精简版](https://www.safewebcn.com/img/StrongVPN-speedtest-tokyo-2021-08-min.png)](#strong速度测试)
 
 韩国首尔节点测速：
 
-[![Strong客户端精简版](https://www.safewebcn.com/img/strong-seoul-speedtest-2021-2.png)](#strong速度测试)
+[![Strong客户端精简版](https://www.safewebcn.com/img/strong-seoul-speedtest-2021-08-min.png)](#strong速度测试)
 
 这是最近我使用时的测试结果，测试平台为SpeedTest网页测速，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps；Seoul节点ping值67ms，下载速度为28.03Mbps，上行速度为22.09Mbps。浏览网页、看视频够用，但看清晰度为2K及以上的视频会有点吃力，这点不如[ExpressVPN](#1-expressvpn--速度体验最佳)，另外，实际使用时的网速和上网时段、网络环境都有很大的关系。StrongVPN速度较快的节点选择可以查看：[Strong线路选择提示](#strong线路选择)。
 
@@ -519,9 +519,7 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 [![Strong客户端选服务器](https://www.fastvpncn.com/wp-content/uploads/2021/07/strongvpn-server-switcher-min.png)](#strong线路选择)
 
-另外读者<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/104" target="_blank">lthero-big分享的国内能用线路列表</a>也很不错，感谢lthero-big的分享。
-
-找客服要的，目前中国能用的线路。一定要精确到某个城市的具体线路：
+下面的线路是之前找客服要的，在中国能用的线路，给大家参考。按上面的方法选择线路，一定要精确到某个城市的具体线路的编号：
 
 (日本、韩国、美国的San Franciso、英国的Rugby london都不错。如果只上网飞的话，推荐日本节点，快而且内容多。)
 
@@ -566,11 +564,11 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 - **协议支持**
 
-提供L2TP, SSTP, OpenVPN（UDP/TCP,IPSec,IKEv2和WireGuard，是我使用的VPN服务里面支持协议最多的。另外说一下，StrongVPN是全局代理，连接成功之后同一系统的软件都走VPN流量。
+提供L2TP, SSTP, OpenVPN（UDP/TCP,IPSec,IKEv2和WireGuard，是我使用的VPN产品里面支持协议算多的了，对于在国内使用，只要OpenVPN（UDP/TCP)协议就足够了。另外说一下，StrongVPN是全局代理，连接成功之后同一系统的软件都走VPN流量。
 
 - **注重中国市场**
 
-StrongVPN虽然客户端不支持中文，但是对在在中国的用户反应的连接问题很重视，能始终在防火墙升级后以最快的速度更新服务器，修复在中国的连接问题，敏感时期如果遇到连接问题建议找客服获取备用的连接服务器线路和方案。
+StrongVPN虽然客户端不支持中文，但是对在在中国的用户反应的连接问题很重视，能始终在防火墙升级后以最快的速度更新服务器，修复在中国的连接问题，敏感时期如果遇到连接问题建议找客服获取备用的连接服务器线路和方案。支持支付宝付款，这点在大厂VPN中如今很难得了。
 
 - **加密技术/隐私保护**
 
@@ -582,7 +580,7 @@ StrongVPN虽然客户端不支持中文，但是对在在中国的用户反应�
 
 - **30天退款保证**
 
-StrongVPN同样支持30天退款保证，有足够的时间测试使用。
+StrongVPN同样支持30天退款保证，有足够的时间测试使用。如果需要退款，可以找客服申请处理就行了，退款方式是按付款的路径原路返回。
 
 
 ## 3.<a rel="nofollow noopener" href="https://linkv.org/nord/" target="_blank"> NordVPN</a>
