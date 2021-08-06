@@ -385,7 +385,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 [![Strong-device](https://www.safewebcn.com/img/strongvpn-plan-price-min.png)](#如何获取strongvpn)
 
-付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%**，优惠码是`TAKEOFF20` ，点击“Have a coupon?”输入优惠码。或者进入官网后，拉到页面最下方，在“Interact”栏点击“Coupons“也能看到。
+付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%**，优惠码是`TAKEOFF20` ，点击“Have a coupon?”输入优惠码。或者进入官网后，拉到页面最下方，在“Interact”栏点击“Coupons“也能看到，**如果活动价格折扣大于这个优惠折扣，系统默认以最大折扣的活动价为准**。另外支付宝支付的话只能买一个月或一年，后续续费的话要手动付款续费，不想续费不用管就行了；信用卡和Paypal支付的话是自动续费，但如果不想续费，可以在使用期限到之前随时取消续费。
 
 [![Strong优惠码](https://www.safewebcn.com/img/strongvpn-alipay-payment-min.png)](#如何获取strongvpn)
 
