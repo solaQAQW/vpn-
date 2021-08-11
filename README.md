@@ -14,7 +14,7 @@
 
 建议下载本文的PDF版本：<a rel="nofollow noopener" href="https://www.safewebcn.com/download/vpn选择指南.pdf" target="_blank">2021版翻墙VPN选择指南PDF版本</a>(右键另存)，有一些VPN详细信息和使用提示，随时查阅，以备不时之需。**不过关于VPN、翻墙之类的信息大家自己看看就行了，不要在国内网络传播，原因你懂的！**
 
->2021年7月信息汇总：**PureVPN、Ivacy、VyprVPN、SurfShark、蓝灯VPN等**在国内很难使用，服务器经常被封，大家注意避坑。NordVPN之前也是被重点打击，目前表现一般。**光年VPN疑似跑路**，超过半个月不能连接，客服也无人应答。**ExpressVPN和StrongVPN表现尚可，属于长期可用**，ExpressVPN全平台适用，体验也最好；StrongVPN最便宜，适用Windows、Mac和安卓手机端（使用特供版客户端稳定性不错），iPhone要联系客服手动配置翻墙。
+>2021年8月信息汇总：**PureVPN、Ivacy、VyprVPN、SurfShark、蓝灯VPN等**在国内很难使用，服务器经常被封，大家注意避坑。NordVPN之前也是被重点打击，目前表现一般。**光年VPN疑似跑路**，超过半个月不能连接，客服也无人应答。**ExpressVPN和StrongVPN表现尚可，属于长期可用**，ExpressVPN全平台适用，体验也最好；StrongVPN最便宜，适用Windows、Mac和安卓手机端（使用特供版客户端稳定性不错），iPhone要联系客服手动配置翻墙。
 > 
 >顺便提一句，**创立时间不超过3年的VPN或翻墙软件，建议大家谨慎选择**，特别是国产的翻墙软件，基本都是私人作坊式运作，不仅是安全性存疑，而且近几年跑路的太多了，退款和售后是没有的。因为行业的混乱和政策风险，干一阵跑路再换马甲重新开张赚钱更容易、也更安全，这一点国外大厂VPN品牌好很多，因为客户大部分是国外用户，比较认品牌，合法且能稳定盈利，至少不会跑路，一般的退款政策的时限是30天左右，至于能不能在国内使用，还是要仔细甄别。
 
@@ -210,7 +210,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ### 如何购买ExpressVPN
 
-因为国内政策原因，目前能使用支付宝付款的大厂VPN越来越少，如果只接受支付宝付款方式，就不用考虑ExpressVPN了，[StrongVPN](#2-strongvpn--性价比最佳)和<a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年VPN</a>目前能用支付宝。如果没有带外币功能的信用卡（VISA/MasterCard等）和Paypal，国内银行卡（银联）也能支付。
+因为国内政策原因，目前能使用支付宝付款的大厂VPN越来越少，如果只接受支付宝付款方式，就不用考虑ExpressVPN了，[StrongVPN](#2-strongvpn--性价比最佳)目前能用支付宝。如果没有带外币功能的信用卡（VISA/MasterCard等）和Paypal，国内银行卡（银联）也能支付。
 
 国内银行卡购买ExpressVPN步骤如下：
 
