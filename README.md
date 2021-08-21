@@ -263,11 +263,12 @@ Paypal和信用卡就不用说了，和在其他网站上付款一样，比较�
 - Japan - Yokohama
 - France - Strasbourg
 - Canada - Toronto - 2
-- USA–Los Angeles–4
 - USA–Santa Monica
 - Germany - Nuremberg
+- UK - Wembley
+- ...
 
-连接协议可以设置成默认的Automatic，也可以改为Lightway或OpenVPN协议，我一般使用Lightway或OpenVPN。其中Lightway是Expresss官方于2021年新开发的VPN协议，在保证安全性的前提下，在国内的速度和连接成功率更加有改善。Lightway协议目前是Expresss独家开发，比起传统的VPN协议更加具有优势。
+连接协议可以设置成默认的Automatic，也可以改为Lightway或OpenVPN协议，我一般使用Lightway或OpenVPN。其中Lightway是Expresss官方于2021年新开发的VPN协议，在保证安全性的前提下，在国内的速度和连接成功率更加有改善。Lightway协议目前是Expresss独家开发，目前看连接成功率比起传统的VPN协议更加具有优势。
 
 除了上面那些优化过的服务器线路，**中国用户也可以改为“`L2TP – IPsec`”协议使用其它的服务器线路**，但是其他那些服务器没有经过混淆算法优化，速度和稳定性可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
 
@@ -485,7 +486,7 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 [![Strong客户端精简版设置](https://www.safewebcn.com/img/strongvpn客户端设置.png)](#strong速度测试)
 
-**在大多数情况下选择OpenVPN TCP或者UDP协议，在电信和移动网络中，使用TCP协议，连接相对更加顺畅点**，当然你也可以根据你当地网络环境自己测试，我建议优先连接下面这些节点：
+**在大多数情况下选择OpenVPN TCP或者UDP协议，在电信和移动网络中，使用TCP协议，连接相对更加顺畅点**，当然你也可以根据你当地网络环境自己测试，**我推荐优先连接下面这些地区，具体的服务器选择方法请参考：[Strong国内能连的服务器选择方法](#strong线路选择)**。
 
 - 韩国（South Korea - Seoul）
 
@@ -499,15 +500,13 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 美国的不少节点可以连接，但在我自己测试相对其他地区慢一些（电信网络），**网络环境不同最佳节点可能也不一样**，你可以自己测试进行节点的选择。
 
-由于墙的不断升级，建议使用精简版客户端，可以找在线客服获取，直接说在中国使用就会帮你设置好账户。
+由于墙的不断升级，建议使用精简版客户端，可以直接找在线客服获取，直接说在中国使用就会帮你设置好账户。
 
 ### Strong线路选择
 
-在不同的网络运营商下，连接同一节点的速度也可能不同，每个节点的网络速度也会不一样。但StrongVPN我选择线路有一点原则，就是选择当前使用人数相对较少的节点。然后多测试几个节点，选择速度最满意的作为常用节点。
+登录官网用户后台，然后点击'VPN Accounts'，在下拉框里面点击'Legacy VPN Accounts Summary'，查看下面的“Servers available”，就可以查看各个节点和当前使用人数。在不同的网络运营商下，连接同一节点的速度也可能不同，每个节点的网络速度也会不一样。但StrongVPN我选择线路有一点原则，就是选择当前使用人数相对较少的节点。然后多测试几个节点，选择速度最满意的作为常用节点。我测试的结果是当前使用人数相对较少的节点的速度还是好于人数上万的节点，当然和服务器的带宽也有很大的关系。
 
-登录官网用户后台，然后点击'VPN Accounts'，在下拉框里面点击'Legacy VPN Accounts Summary'，查看下面的“Servers available”，就可以查看各个节点和当前使用人数。我测试的结果是当前使用人数相对较少的节点的速度还是好于人数上万的节点。
-
-**线路选择方法如下**：
+**StrongVPN精简版线路选择方法如下**：
 
 一般登陆入简化版客户端，默认是San Franciso的。如果要换到其它节点，**点Change Location选服务器**：
 
