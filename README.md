@@ -20,11 +20,11 @@
 
 其实就2021年的今天来看，使用VPN加密、安全翻墙依然是最适合大多数人的最方便、安全的科学上网工具，同样也是我长期关注和测试的。目前国内还能使用的正规VPN已经被墙的差不多了，只剩下看重中国市场的几款大牌VPN还算稳定。**如果你不想多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择下面的几款，翻墙使用体验和基本信息简单介绍一下**：
 
-> - [StrongVPN](#2-strongvpn--性价比最佳)，2005年创立的老牌VPN，母公司是纳斯达克上市科技公司J2 Global.目前StrongVPN的**价格在大厂VPN中最便宜**，综合性价比最高，支持支付宝付款。我已经使用了2年左右，总体来讲，在过去2年的使用时间里，全年可用率基本能达到95%左右，服务器IP也会常年更新。**在国内的Windows、Mac和安卓用户可以在官网右下角的“Help”在线帮助窗口、或者在用户后台页面发ticket找客服要精简客户端V1 app（中国特供客户端），直接说在中国使用客服就会帮你设置好，客服7/24在线，精简版使用OpenVPN协议在中国登录和连接更为顺畅**，而官网的标准客户端在敏感时期封锁的时候可能会出现连接问题，需要等更新之后才能恢复，**国内用户最好直接使用适合中国地区使用的简化版客户端的OpenVPN协议进行连接，下文中有教程**。支持支付宝付款，这点比较方便。iPhone手机由于iOS系统封闭的限制，目前还没有为中国网络环境特供的APP，而且StrongVPN的通用iOS版本面对墙封锁的稳定性欠佳，有时需联系客服进行手动配置，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>。目前Strong有打折的优惠券可以使用，**Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度不是刚需的用户也够用了**。StrongVPN官网域名在中国被墙（软件APP能正常使用），[国内的网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑host文件才可以访问，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能顺利访问官网。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要断开梯子、使用本地网络访问，这点比较麻烦。StrongVPN的退款时限是30天，所以有充分的时间进行测试，遇到问题可以联系在线客服，官网右下角对话框或者发Ticket消息都行，一般的问题基本都能解决。
+> - [StrongVPN](#1-strongvpn--性价比最佳)，2005年创立的老牌VPN，母公司是纳斯达克上市科技公司J2 Global.目前StrongVPN的**价格在大厂VPN中最便宜**，综合性价比最高，支持支付宝付款。我已经使用了2年左右，总体来讲，在过去2年的使用时间里，全年可用率基本能达到95%左右，服务器IP也会常年更新。**在国内的Windows、Mac和安卓用户可以在官网右下角的“Help”在线帮助窗口、或者在用户后台页面发ticket找客服要精简客户端V1 app（中国特供客户端），直接说在中国使用客服就会帮你设置好，客服7/24在线，精简版使用OpenVPN协议在中国登录和连接更为顺畅**，而官网的标准客户端在敏感时期封锁的时候可能会出现连接问题，需要等更新之后才能恢复，**国内用户最好直接使用适合中国地区使用的简化版客户端的OpenVPN协议进行连接，下文中有教程**。支持支付宝付款，这点比较方便。iPhone手机由于iOS系统封闭的限制，目前还没有为中国网络环境特供的APP，而且StrongVPN的通用iOS版本面对墙封锁的稳定性欠佳，有时需联系客服进行手动配置，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>。目前Strong有打折的优惠券可以使用，**Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度不是刚需的用户也够用了**。StrongVPN官网域名在中国被墙（软件APP能正常使用），[国内的网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑host文件才可以访问，因为官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能顺利访问官网。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要断开梯子、使用本地网络访问，这点比较麻烦。StrongVPN的退款时限是30天，所以有充分的时间进行测试，遇到问题可以联系在线客服，官网右下角对话框或者发Ticket消息都行，一般的问题基本都能解决。
 > 
 > - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（优惠活动链接）</a>，这款**在国内体验最好，速度在我所用过的VPN中最快**，也是我自己很喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新和联系客服使用，**<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开ExpressVPN官网</a>需其他梯子**。它设备支持最全面，**iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选**，已经运营了13年（至2021年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。**平时建议使用Lightway协议进行连接（Automatic也可以），Lightway协议是Express官方2021年独家研发的最新VPN协议，在国内的连接成功率很高**。敏感时期遇到墙升级，官方推荐的针对中国地区优化的服务器线路如果遇到连接问题，可以切换L2TP协议（电脑端）连接其他节点，这个协议也有一些线路在敏感时期仍然可用，可以作为备用选择，**服务器线路的更新一般需要2-3个工作日开始陆续恢复，注意要更新最新的客户端才能恢复使用**。目前由于国内的政策原因，ExpressVPN的支付宝付款通道被支付宝方面终止了，替代的购买方式是优先选择银联卡(国内银行卡)、Paypal和含外币功能的信用卡（VISA和MasterCard等）（查看[购买ExpressVPN的方法](#如何购买expressvpn)）。ExpressVPN有30天试用期内不满意可全额退款政策，退款是按付款方式原路返回。
 
-大家都知道，有点名气的翻墙软件网站都被墙了，国内无法访问。如果目前没有梯子无法访问VPN官网，一般我建议选择[StrongVPN](#2-strongvpn--性价比最佳)，Strong官网改电脑的host设置就能访问，但是要从电脑上设置访问，当然购买套餐后手机App是可以使用的（iPhone目前要手动配置翻墙）。
+大家都知道，有点名气的翻墙软件网站都被墙了，国内无法访问。如果目前没有梯子无法访问VPN官网，一般我建议选择[StrongVPN](#1-strongvpn--性价比最佳)，Strong官网改电脑的host设置就能访问，但是要从电脑上设置访问，当然购买套餐后手机App是可以使用的（iPhone目前要手动配置翻墙）。
 
 如果想挑选高性价比、符合自己需求的翻墙软件，也可以参考下文推荐的VPN进行对比和选择。
 
@@ -42,8 +42,8 @@
 >### 5. [什么VPN适合中国用户？](#什么vpn适合中国用户)
 >### 6.[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 >### 7. [适合在中国使用的翻墙软件VPN](#适合在中国使用的翻墙软件vpn国内实测)
->>#### 7.1 [ExpressVPN-速度体验最佳](#1-expressvpn--速度体验最佳)
->>#### 7.2 [StrongVPN-性价比最佳](#2-strongvpn--性价比最佳)
+>>#### 7.1 [StrongVPN-性价比最佳](#1-strongvpn--性价比最佳)
+>>#### 7.2 [ExpressVPN-速度体验最佳](#2-expressvpn--速度体验最佳)
 >>#### 7.3 [NordVPN](#3-nordvpn)
 >>#### 7.4 [IVacy](#4-ivacy)
 >>#### 7.5 [PureVPN](#5-purevpn)
@@ -169,177 +169,11 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 >注意：因为防火长城的不断迭代更新，过去几年很多VPN商家接二连三遭受屏蔽或跑路。下文的几个VPN，都经过我长期的使用和测试，对防火长城封锁的应对最快，能比较快速地进行软件客户端和服务器节点的更新，能满足国内用户长期使用的需求。另外，我会在文中就每款VPN最近的使用体验进行总结，该文章会不断更新，请收藏本页面以便以后查看。
 
-## 1.<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank"> ExpressVPN – 速度体验最佳</a>
+## 1.<a rel="nofollow noopener" href="#如何打开strongvpn官网" target="_blank"> StrongVPN – 性价比最佳</a>
 
->2021年8月使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，大多数VPN软件在国内并不好用，**ExpressVPN的iOS版本内置了LightWay（UDP/TCP）和IKEV2协议，LightWay是Express官方新推出的独家开发的协议，一键连接效果很不错，iPhone用户首选这款**。目前由于国内政策原因，支付宝付款方式被暂停了，可以优先选择Paypal、国内银联卡或带外币功能的信用卡购买。
+[![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#1-strongvpn--性价比最佳)
 
-[![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
-
-ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN产品，**适合对网络速度要求高和较好使用体验的朋友**，尤其是iPhone用户，由于iOS系统的限制，它明显比其他一些大厂VPN在iOS端好用很多。
-
-### 为什么ExpressVPN是最好用的中国VPN翻墙软件？
-
-因为他看重中国市场，售后服务很不错。应对防火长城的封锁反应很快，一般2-3个工作日内就可以通过更新客户端解决，在封锁期内使用`L2TP – IPsec`”协议连接其他服务器也能使用，长期可用率能保持在95%左右，能在中国做到这样的翻墙软件真的寥寥无几。
-
-全球范围内的VPN软件多如牛毛，有耐心一直为中国用户提供镜像站点的一只手数得过来，ExpressVPN的镜像站点对中国用户始终保持着可访问。ExpressVPN的镜像网站除了域名和官网不同以外，其他服务和功能和官网基本一样的，在线客服沟通、用户账号登陆和app安装包下载都可以在镜像网站完成。而且镜像网站数据与官网实时互通，在镜像网站注册的账号也可以在官网域名和其他镜像网站使用。但是**目前镜像网站需要从软件、APP界面中的链接进入，仅用于客户端的下载和更新、客服沟通和账号后台信息查看**。
-
-> 由于冒牌网站屡次出现，损害了ExpressVPN的品牌价值，**ExpressVPN官方已经不再使用镜像域名处理新用户的注册**，国内能访问的镜像域名仅供更新客户端使用，目前中国大陆的访客需要其他梯子才能进入ExpressVPN官网进行注册和购买。
-
-- 全世界都能访问
-
-因为版权保护，很多时候访问视频、音乐、社交媒体都会有限制。ExpressVPN为了应对内容限制和审查制度，做了许多工作，不仅支持Netflix网飞等流媒体，并且在香港等地都有VPN服务器。
-
-- 24小时在线客服
-
-如果在安装和使用过程遇到了问题，可以通过电子邮件或者在官网在线聊天框实时聊天的方式联系客服。之前有一次我发现官方推荐的节点突然连接不上了，找客服询问解决方法，才知道原来是遇到墙升级，要更新客户端，客服也很爽快，直接给我套餐期限延长了一个月，所以说遇到问题别自己憋着，一定要主动地联系客服。
-
-- 中国大陆速度最快
-
-看Youtube的1080P甚至4K视频毫无压力，当然也取决你本地网络的带宽是否够大。首先是APP会自动检测ping值最快的服务器，不需要自己一个个去试，一般软件检测到的（`Smart Location`）就是当时延迟最佳节点，但不一定是速度最快的，所以你也可以收藏你喜欢的节点进行连接，比如`Smart Location`经常给我定位到HK-4节点，但我更喜欢Los Angeles 4/5或者Marina Bay节点，对我来说速度更快一些。其次，断线自动重连，虽然只是个小功能但真的很有用，而且每次重连时它会自动切断网络（`Kill Switch`），防止某些应用程序流量和隐私信息无意间泄露，造成安全隐患，当然这个功能一般大厂的VPN产品也都支持。
-
-- 隐私保护
-
-ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是说不像很多口是心非的不良厂商，ExpressVPN的无日志政策是实打实的无日志。因为据我所知，ExpressVPN是目前唯一提供无硬盘服务器的VPN厂商，用户数据被储存在临时内存中，技术上，这种服务器无法保留任何上网痕迹，重启或断掉所有信息都会被抹得一干二净。传输速度方面也比传统的硬盘快不止一个数量级，在使用用户多的时候这个优势尤为明显。
-
-- 同时访问内外网
-
-开VPN最让人烦恼的问题是打开国内网站会变慢，有些甚至会打不开。拆分通道技术（`Split Tunneling`）让你配置哪些应用程序走VPN加密通道，哪些走本地网络流量。
-
-- 30天退款承诺
-
-30之内如果你觉得ExpressVPN不好用，可以找客服申请无条件退款，这点确实是大厂风范。
-
-### 如何购买ExpressVPN
-
-因为国内政策原因，目前能使用支付宝付款的大厂VPN越来越少，如果只接受支付宝付款方式，就不用考虑ExpressVPN了，[StrongVPN](#2-strongvpn--性价比最佳)目前能用支付宝。购买ExpressVPN优先选择Paypal和信用卡，如果没有带外币功能的信用卡（VISA/MasterCard等），国内银行卡（银联）也能支付。
-
-Paypal和信用卡就不用说了，和在其他网站上付款一样，比较简单。付款成功后，登录注册时的邮箱，会收到一封包含ExpressVPN账号和临时密码的邮件，查看邮件并进行密码修改设置、以及复制激活码（ACTIVATION CODE）和登录客户端。
-
-国内银行卡购买ExpressVPN步骤如下：
-
-首先进入<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（优惠活动链接）</a>网站，然后点击“Get ExpressVPN”按钮，进入套餐选择页面：
-
-[![ExpressVPN套餐](https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-price-table-min-660x507.png)](https://www.fastvpncn.com/expressvpn)
-
-输入Email地址，必须输入真实的Email地址，因为之后需要接收包含账号和登录密码的邮件。
-
-[![填入Email地址](https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-fill-out-email-min.png)](#如何购买expressvpn)
-
-接下来选择付款方式，如果有可以付外币的信用卡（带Visa、MasterCard等标志）和Paypal，**优先使用信用卡和Paypal付款。如果没有，也可以选择银联付款方式，用国内银行卡付款**：
-
-[![ExpressVPN付款方式](https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-payment-select-min.png)](#如何购买expressvpn)
-
- - 信用卡直接填入卡信息扣款成功就行；
- - Paypal在付款页面进行结算；
- - 选择银联付款方式，在弹出的页面点击银联标志：
-
-[![ExpressVPN付款方式](https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-payment-select-2-min.png)](#如何购买expressvpn)
-
-其他付款方式不多说，根据自身条件灵活选择。
-
-点击银联标志之后进入中国银联的结算页面，填入卡号，点击next，到这一步就和国内的银联付款的步骤一样了。
-
-提示：有读者反映使用工行的卡不能付款，其他银行可以正常付款。
-
-付款成功后，登录之前注册时填入的邮箱，会发来一封包含ExpressVPN账号和临时密码的邮件，查看邮件并进行密码修改设置。
-
-在ExpressVPN官网右上角点击“My Account”，登录用户信息管理后台，复制激活码（ACTIVATION CODE），安装客户端App后，在客户端输入激活码，就能开始使用和翻墙了。
-
-### ExpressVPN的缺点
-
-[![express-vpn-servers](https://www.safewebcn.com/img/express-vpn-servers-min.png)](#https://www.fastvpncn.com/expressvpn)
-
-- ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右，现在有限时优惠**买一年送三个月活动，每月$6.67/月**，支持银联卡、Paypal和信用卡等支付方式。
-
->适合注重隐私数据保护和较好的使用体验的朋友。如果要求性价比，[StrongVPN](#2-strongvpn--性价比最佳)可能更适合你，[StrongVPN](#2-strongvpn--性价比最佳)建议优先连接韩国、欧洲地区、日本、新加坡的服务器节点，速度相对其他节点更快，但整体速度我的体验是不如ExpressVPN，各方面使用体验Expresss还是比StrongVPN好一些。
-
-### ExpressVPN使用提示
-
-在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
-
-- Singapore–Marina Bay
-- USA–Los Angeles–5
-- Hong Kong–4
-- Japan - Yokohama
-- France - Strasbourg
-- Canada - Toronto - 2
-- USA–Santa Monica
-- Germany - Nuremberg
-- UK - Wembley
-- ...
-
-连接协议可以设置成默认的Automatic，也可以改为Lightway或OpenVPN协议，我一般使用Lightway或OpenVPN。其中Lightway是Expresss官方于2021年新开发的VPN协议，在保证安全性的前提下，在国内的速度和连接成功率更加有改善。Lightway协议目前是Expresss独家开发，目前看连接成功率比起传统的VPN协议更加具有优势。
-
-除了上面那些优化过的服务器线路，**中国用户也可以改为“`L2TP – IPsec`”协议使用其它的服务器线路**，但是其他那些服务器没有经过混淆算法优化，速度和稳定性可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
-
-关于使用和更新客户端的问题，请查看<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/21" target="_blank">问题#21</a>。关于更多ExpressVPN的信息，可以查看<a rel="noopener" href="https://www.cepingtu.com/express-vpn-review-in-china/" target="_blank">ExpressVPN在中国怎么样</a>。
-
-### ExpressVPN速度测试
-
-我们最近对官方推荐的节点进行了测试，测试的网络环境是：
-
-- 客户端：Windows
-- 电信100M 无线WiFi
-- 路由器：Netgear R7000
-
-部分测试截图如下：
-[![LA5节点测速](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-2021-08-min.png)](#expressvpn速度测试)
-
-我们连接Los Angeles – 5节点，在Chrome浏览器使用Speedtest进行在线测速，测速结果如下图，可以看到，ping延迟是196ms，还不错，下载速度是56.96Mb/s，上传的速度是16.53Mb/s，观看Youtube高清视频不存在卡顿。
-
-[![sigapore节点测速](https://www.safewebcn.com/img/expressvpn-sigapore-2021-8-min.png)](#expressvpn速度测试)
-
-测试的Singapore – Marina Bay节点速度也很不错，下载速度测试值为42.14Mb/s，顺便说一下，我们的测试中，ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。
-
-iPhone手机使用电信WiFi网络连接ExpressVPN的Marina Bay节点，连接界面如下图：
-
-[![连接Marina Bay节点](https://www.safewebcn.com/img/expressvpn-iphone-marina_bay.png)](#expressvpn速度测试)
-
-iPhone手机使用移动4G网络连接ExpressVPN的Marina Bay节点，使用SpeedTest软件进行在线测速，连接和测速界面如下图：
-
-[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-7-28-min.png)](#expressvpn速度测试)
-
-从上面的测试截图看到，iPhone使用移动4G网络连接Marina Bay节点，测试结果还不错，能跑满我这里的移动4G实际网络带宽，iPhone的日常实际使用体验也在我所现在使用的翻墙软件中属于最好的。
-
-总体上来说ExpressVPN是我测试的所有翻墙软件中，在电脑端（Windows、MacBook）和手机端（iPhone、安卓手机）使用体验最好，尤其是网络速度方面。
-
-综合评价：这款VPN是我经常使用的一款，从16年开始使用到现在，其客户端的美观简洁、服务的稳定性、连接速度在我们测试的所有VPN产品中属于一流，可称得上是在国内最好用的翻墙VPN。在我们的测试中，ExpressVPN几乎没有对我们的网速造成任何影响，浏览网页、观看YouTube十分流畅。ExpressVPN的服务器遍布全球94个国家，并且对使用流量和带宽没有任何限制。
-
-在安全性方面，他们也做得很好，支持256位`Lightway, OpenVPN(TCP, UDP), L2TP-IPsec, SSTP和PPTP`等加密协议，并且不保留用户日志，用户可以放心上网而不必担心个人隐私泄露。
-
-ExpressVPN的客服是业内最好的之一，随时提供网上帮助。此外，ExpressVPN兼容各种常见设备，并且可以配置在路由器上，在电脑（Windows或Mac）和移动设备（iPhone、安卓、平板）上都可以使用，**最多支持5台设备同时在线使用**。
-
-[![ExpressVPN支持设备](https://www.safewebcn.com/img/express-vpn-devices.png "ExpressVPN支持设备截图")](#1-expressvpn--速度体验最佳)
-
-套餐的价格：性价比最高的是1年套餐，同时他们保证30天内使用不满意无条件退款，所以你有足够的时间来测试。
-
-[![ExpressVPN付款方式](https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-payment-select-min.png "ExpressVPN付款方式截图")](https://www.fastvpncn.com/expressvpn)
-
-ExpressVPN支持银联、信用卡、Paypal等多种方式付款。付款后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
-
->**2021最新提示**：ExpressVPN在国内电脑端（Windows/Mac OS）和手机端（iOS/安卓）的APP客户端直接一键连接就行了，不用自己手动配置。
->
->另外，ExpressVPN在国内使用的稳定性也非常不错，在目前防火长城不断升级的大环境下，能保证95%以上的稳定使用时间，按照过去2年的使用经验，一般3个月左右服务器可能会暂时被屏蔽几天，但改用L2TP协议的服务器还能使用，而且官方每次的应对很快，2-3个工作日会推出更新版本，更新客户端就可以继续使用了。
->
->安装或者使用过程中出现问题一定要联系在线客服，通过官网右下角的在线聊天框进入，之前有几次墙升级导致无法连接都是找客服解决的，还多送了一个月的使用期。
->
->**推荐用户**：对速度和稳定性有要求的用户、iPhone用户首选
-
-### <center><a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
-
-> 由于冒牌网站很多，官方已经不再使用镜像域名（只提供更新客户端、联系客服使用）处理中国地区的新订单，目前中国大陆的访客可能已经打不开ExpressVPN官网，需要梯子才能进入。
-
-### 续费如何获得优惠？
-
-如果买了ExpresssVPN之后打算续费年套餐的，通过本页面的优惠链接进入，然后**用新邮箱注册新账号，可以获得三个月时长的免费赠送，旧账号续费或直接进官网购买年套餐是没有这个活动的**。所以有续费打算的请收藏本页面，续费购买时**首先要断开ExpressVPN，清除浏览器cookie或者换一个浏览器，然后点击本页面的优惠链接进入官网，换一个新的Email进行注册购买就行了**。
-
-其他品牌续费获得优惠的操作方法也是一样的，因为一般年套餐的优惠只对新帐号开放，为了避免被系统认为是重复注册，需要清除浏览器cookie记录或者换一个浏览器再进行注册。
-
-## 2.<a rel="nofollow noopener" href="#如何打开strongvpn官网" target="_blank"> StrongVPN – 性价比最佳</a>
-
-[![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
-
->2021年8月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，**目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的**，有优惠码可使用。**Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP或UDP）协议连接成功率一直很高**（在大多数时期比标准客户端连接也更加稳定），这也是尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本或线路更新才能恢复正常。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法,iPhone用户还是建议选择[ExpressVPN](#1-expressvpn--速度体验最佳)。
+>2021年8月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，**目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的**，有优惠码可使用。**Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP或UDP）协议连接成功率一直很高**（在大多数时期比标准客户端连接也更加稳定），这也是尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本或线路更新才能恢复正常。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法,iPhone用户还是建议选择[ExpressVPN](#2-expressvpn--速度体验最佳)。因综合性价比最好，暂把它列在第一位。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市拥有950+个VPN服务器，以及近60000个IP地址，前文说过，大量的IP地址资源对于墙的封锁是最有效的办法。
 
@@ -371,7 +205,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 如何购买和使用请看下文，尤其是使用的时候有几个需要注意的事项。
 
-[![Strong-device](https://www.safewebcn.com/img/strong-home.png)](#2-strongvpn--性价比最佳)
+[![Strong-device](https://www.safewebcn.com/img/strong-home.png)](#1-strongvpn--性价比最佳)
 
 这款VPN是我在19年初开始使用，总体来讲，在过去2年的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的Windows用户可以下载StrongVPN特供精简版客户端V1 app，在中国登录和连接更为顺畅，Windows版的标准版客户端在国内的某些网络首次登录可能比较困难，精简版客户端V1 app版本在敏感时期时连接成功率也很稳定**。后文放上官网精简版的下载链接，也可以联系客服提供精简版客户端V1 app的下载地址。iPhone苹果手机APP版本的登录和使用直接使用App Store下载安装即可，但标准版客户端的使用肯定不如特供的精简版稳定。
 
@@ -379,7 +213,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 除了最基本的VPN套餐，官网还会额外赠送250 GB SugarSync云储存套餐，赠送的服务值不值见仁见智。
 
-使用的时候直接通过精简版客户端APP一键连接就行了，不用自己手动设置，敏感时期如果遇到封锁，可在官网右下角的在线聊天框找客服获取连接方案。能连接的节点比ExpressVPN多一些，建立连接所需的时间也比ExpressVPN略快，但是网络速度比ExpressVPN慢，不过打开网页和看Youtube高清视频也基本够用，无论是电脑还是手机（包括iPhone和安卓）APP客户端的使用体验和稳定性在我使用的大厂VPN软件中目前仅次于ExpressVPN，**对于在乎性价比的人来说，是除[ExpressVPN](#1-expressvpn--速度体验最佳)外的最佳选择**。
+使用的时候直接通过精简版客户端APP一键连接就行了，不用自己手动设置，敏感时期如果遇到封锁，可在官网右下角的在线聊天框找客服获取连接方案。能连接的节点比ExpressVPN多一些，建立连接所需的时间也比ExpressVPN略快，但是网络速度比ExpressVPN慢，不过打开网页和看Youtube高清视频也基本够用，无论是电脑还是手机（包括iPhone和安卓）APP客户端的使用体验和稳定性在我使用的大厂VPN软件中目前仅次于ExpressVPN，**对于在乎性价比的人来说，是除[ExpressVPN](#2-expressvpn--速度体验最佳)外的最佳选择**。
 
 如果安装或者连接遇到问题，可以在官网的右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持），咨询客服相关问题，我有几次遇到连接问题都是找技术支持解决的。**连接协议建议选择`OpenVPN UDP/TCP`**，UDP和TCP哪个好用用那个，我自己一般习惯使用TCP，感觉更好连接一些。
 
@@ -429,7 +263,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 >
 >**重要提示**：有部分读者反映购买StrongVPN后，在StrongVPN特供的精简版V1 App中无法选择OpenVPN协议或是登陆出现问题，就此我咨询了客服，如果出现这种情况，需要在官网右下角联系技术客服"Technical Support"，联系客服说在中国使用就行了，客服会马上帮你开通OpenVPN account；或者在用户后台发个ticket：点击“Support Ticket”，点击“Submit new ticket”，提交开通OpenVPN account，一般很快就会开通。下图是本文读者反馈使用StrongVPN的一些经验（感谢这位读者的反馈^-^），如果使用过程中出现问题可以参考：
 
-[![Strong-feedback](https://www.safewebcn.com/img/strong-feedback-1.png)](#2-strongvpn--性价比最佳)
+[![Strong-feedback](https://www.safewebcn.com/img/strong-feedback-1.png)](#1-strongvpn--性价比最佳)
 
 如果英文不熟悉，可以参考:
 >
@@ -478,7 +312,7 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 [![Strong客户端精简版](https://www.safewebcn.com/img/strong-seoul-speedtest-2021-08-min.png)](#strong速度测试)
 
-这是最近我使用时的测试结果，测试平台为SpeedTest网页测速，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps；Seoul节点ping值67ms，下载速度为28.03Mbps，上行速度为22.09Mbps。浏览网页、看视频够用，但看清晰度为2K及以上的视频会有点吃力，这点不如[ExpressVPN](#1-expressvpn--速度体验最佳)，另外，实际使用时的网速和上网时段、网络环境都有很大的关系。StrongVPN速度较快的节点选择可以查看：[线路选择](#strong线路选择)。
+这是最近我使用时的测试结果，测试平台为SpeedTest网页测速，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps；Seoul节点ping值67ms，下载速度为28.03Mbps，上行速度为22.09Mbps。浏览网页、看视频够用，但看清晰度为2K及以上的视频会有点吃力，这点不如[ExpressVPN](#2-expressvpn--速度体验最佳)，另外，实际使用时的网速和上网时段、网络环境都有很大的关系。StrongVPN速度较快的节点选择可以查看：[线路选择](#strong线路选择)。
 
 官方建议：Change your VPN connection protocol If changing server did not help you get connected, try changing your protocol. We recommend using OpenVPN via UDP or OpenVPN via TCP configuration for customers in China. If both fails, then try the aforementioned protocols with Scramble feature enabled.
 
@@ -580,6 +414,172 @@ StrongVPN虽然客户端不支持中文，但是对在在中国的用户反应�
 - **30天退款保证**
 
 StrongVPN同样支持30天退款保证，有足够的时间测试使用。
+
+## 2.<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank"> ExpressVPN – 速度体验最佳</a>
+
+>2021年8月使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，大多数VPN软件在国内并不好用，**ExpressVPN的iOS版本内置了LightWay（UDP/TCP）和IKEV2协议，LightWay是Express官方新推出的独家开发的协议，一键连接效果很不错，iPhone用户首选这款**。目前由于国内政策原因，支付宝付款方式被暂停了，可以优先选择Paypal、国内银联卡或带外币功能的信用卡购买。
+
+[![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
+
+ExpressVPN可以说是最适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN产品，**适合对网络速度要求高和较好使用体验的朋友**，尤其是iPhone用户，由于iOS系统的限制，它明显比其他一些大厂VPN在iOS端好用很多。
+
+### 为什么ExpressVPN是最好用的中国VPN翻墙软件？
+
+因为他看重中国市场，售后服务很不错。应对防火长城的封锁反应很快，一般2-3个工作日内就可以通过更新客户端解决，在封锁期内使用`L2TP – IPsec`”协议连接其他服务器也能使用，长期可用率能保持在95%左右，能在中国做到这样的翻墙软件真的寥寥无几。
+
+全球范围内的VPN软件多如牛毛，有耐心一直为中国用户提供镜像站点的一只手数得过来，ExpressVPN的镜像站点对中国用户始终保持着可访问。ExpressVPN的镜像网站除了域名和官网不同以外，其他服务和功能和官网基本一样的，在线客服沟通、用户账号登陆和app安装包下载都可以在镜像网站完成。而且镜像网站数据与官网实时互通，在镜像网站注册的账号也可以在官网域名和其他镜像网站使用。但是**目前镜像网站需要从软件、APP界面中的链接进入，仅用于客户端的下载和更新、客服沟通和账号后台信息查看**。
+
+> 由于冒牌网站屡次出现，损害了ExpressVPN的品牌价值，**ExpressVPN官方已经不再使用镜像域名处理新用户的注册**，国内能访问的镜像域名仅供更新客户端使用，目前中国大陆的访客需要其他梯子才能进入ExpressVPN官网进行注册和购买。
+
+- 全世界都能访问
+
+因为版权保护，很多时候访问视频、音乐、社交媒体都会有限制。ExpressVPN为了应对内容限制和审查制度，做了许多工作，不仅支持Netflix网飞等流媒体，并且在香港等地都有VPN服务器。
+
+- 24小时在线客服
+
+如果在安装和使用过程遇到了问题，可以通过电子邮件或者在官网在线聊天框实时聊天的方式联系客服。之前有一次我发现官方推荐的节点突然连接不上了，找客服询问解决方法，才知道原来是遇到墙升级，要更新客户端，客服也很爽快，直接给我套餐期限延长了一个月，所以说遇到问题别自己憋着，一定要主动地联系客服。
+
+- 中国大陆速度最快
+
+看Youtube的1080P甚至4K视频毫无压力，当然也取决你本地网络的带宽是否够大。首先是APP会自动检测ping值最快的服务器，不需要自己一个个去试，一般软件检测到的（`Smart Location`）就是当时延迟最佳节点，但不一定是速度最快的，所以你也可以收藏你喜欢的节点进行连接，比如`Smart Location`经常给我定位到HK-4节点，但我更喜欢Los Angeles 4/5或者Marina Bay节点，对我来说速度更快一些。其次，断线自动重连，虽然只是个小功能但真的很有用，而且每次重连时它会自动切断网络（`Kill Switch`），防止某些应用程序流量和隐私信息无意间泄露，造成安全隐患，当然这个功能一般大厂的VPN产品也都支持。
+
+- 隐私保护
+
+ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是说不像很多口是心非的不良厂商，ExpressVPN的无日志政策是实打实的无日志。因为据我所知，ExpressVPN是目前唯一提供无硬盘服务器的VPN厂商，用户数据被储存在临时内存中，技术上，这种服务器无法保留任何上网痕迹，重启或断掉所有信息都会被抹得一干二净。传输速度方面也比传统的硬盘快不止一个数量级，在使用用户多的时候这个优势尤为明显。
+
+- 同时访问内外网
+
+开VPN最让人烦恼的问题是打开国内网站会变慢，有些甚至会打不开。拆分通道技术（`Split Tunneling`）让你配置哪些应用程序走VPN加密通道，哪些走本地网络流量。
+
+- 30天退款承诺
+
+30之内如果你觉得ExpressVPN不好用，可以找客服申请无条件退款，这点确实是大厂风范。
+
+### 如何购买ExpressVPN
+
+因为国内政策原因，目前能使用支付宝付款的大厂VPN越来越少，如果只接受支付宝付款方式，就不用考虑ExpressVPN了，[StrongVPN](#1-strongvpn--性价比最佳)目前能用支付宝。购买ExpressVPN优先选择Paypal和信用卡，如果没有带外币功能的信用卡（VISA/MasterCard等），国内银行卡（银联）也能支付。
+
+Paypal和信用卡就不用说了，和在其他网站上付款一样，比较简单。付款成功后，登录注册时的邮箱，会收到一封包含ExpressVPN账号和临时密码的邮件，查看邮件并进行密码修改设置、以及复制激活码（ACTIVATION CODE）和登录客户端。
+
+国内银行卡购买ExpressVPN步骤如下：
+
+首先进入<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（优惠活动链接）</a>网站，然后点击“Get ExpressVPN”按钮，进入套餐选择页面：
+
+[![ExpressVPN套餐](https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-price-table-min-660x507.png)](https://www.fastvpncn.com/expressvpn)
+
+输入Email地址，必须输入真实的Email地址，因为之后需要接收包含账号和登录密码的邮件。
+
+[![填入Email地址](https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-fill-out-email-min.png)](#如何购买expressvpn)
+
+接下来选择付款方式，如果有可以付外币的信用卡（带Visa、MasterCard等标志）和Paypal，**优先使用信用卡和Paypal付款。如果没有，也可以选择银联付款方式，用国内银行卡付款**：
+
+[![ExpressVPN付款方式](https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-payment-select-min.png)](#如何购买expressvpn)
+
+ - 信用卡直接填入卡信息扣款成功就行；
+ - Paypal在付款页面进行结算；
+ - 选择银联付款方式，在弹出的页面点击银联标志：
+
+[![ExpressVPN付款方式](https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-payment-select-2-min.png)](#如何购买expressvpn)
+
+其他付款方式不多说，根据自身条件灵活选择。
+
+点击银联标志之后进入中国银联的结算页面，填入卡号，点击next，到这一步就和国内的银联付款的步骤一样了。
+
+提示：有读者反映使用工行的卡不能付款，其他银行可以正常付款。
+
+付款成功后，登录之前注册时填入的邮箱，会发来一封包含ExpressVPN账号和临时密码的邮件，查看邮件并进行密码修改设置。
+
+在ExpressVPN官网右上角点击“My Account”，登录用户信息管理后台，复制激活码（ACTIVATION CODE），安装客户端App后，在客户端输入激活码，就能开始使用和翻墙了。
+
+### ExpressVPN的缺点
+
+[![express-vpn-servers](https://www.safewebcn.com/img/express-vpn-servers-min.png)](#https://www.fastvpncn.com/expressvpn)
+
+- ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右，现在有限时优惠**买一年送三个月活动，每月$6.67/月**，支持银联卡、Paypal和信用卡等支付方式。
+
+>适合注重隐私数据保护和较好的使用体验的朋友。如果要求性价比，[StrongVPN](#1-strongvpn--性价比最佳)可能更适合你，StrongVPN建议优先连接韩国、欧洲地区、日本、新加坡的服务器节点，速度相对其他节点更快，但整体速度我的体验是不如ExpressVPN，各方面使用体验Expresss还是比StrongVPN好一些。
+
+### ExpressVPN使用提示
+
+在中国大陆使用ExpressVPN，建议选择连接官方推荐的VPN服务器线路，这些服务器线路是ExpressVPN官方针对中国地区做过的混淆服务器优化，推荐中国用户使用：
+
+- Singapore–Marina Bay
+- USA–Los Angeles–5
+- Hong Kong–4
+- Japan - Yokohama
+- France - Strasbourg
+- Canada - Toronto - 2
+- USA–Santa Monica
+- Germany - Nuremberg
+- UK - Wembley
+- ...
+
+连接协议可以设置成默认的Automatic，也可以改为Lightway或OpenVPN协议，我一般使用Lightway或OpenVPN。其中Lightway是Expresss官方于2021年新开发的VPN协议，在保证安全性的前提下，在国内的速度和连接成功率更加有改善。Lightway协议目前是Expresss独家开发，目前看连接成功率比起传统的VPN协议更加具有优势。
+
+除了上面那些优化过的服务器线路，**中国用户也可以改为“`L2TP – IPsec`”协议使用其它的服务器线路**，但是其他那些服务器没有经过混淆算法优化，速度和稳定性可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
+
+关于使用和更新客户端的问题，请查看<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/21" target="_blank">问题#21</a>。关于更多ExpressVPN的信息，可以查看<a rel="noopener" href="https://www.fastvpncn.com/2021%e5%b9%b4expressvpn%e5%9c%a8%e5%9b%bd%e5%86%85%e4%bd%bf%e7%94%a8%e6%80%8e%e4%b9%88%e6%a0%b7%ef%bc%9f/" target="_blank">ExpressVPN在中国怎么样</a>。
+
+### ExpressVPN速度测试
+
+我们最近对官方推荐的节点进行了测试，测试的网络环境是：
+
+- 客户端：Windows
+- 电信100M 无线WiFi
+- 路由器：Netgear R7000
+
+部分测试截图如下：
+[![LA5节点测速](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-2021-08-min.png)](#expressvpn速度测试)
+
+我们连接Los Angeles – 5节点，在Chrome浏览器使用Speedtest进行在线测速，测速结果如下图，可以看到，ping延迟是196ms，还不错，下载速度是56.96Mb/s，上传的速度是16.53Mb/s，观看Youtube高清视频不存在卡顿。
+
+[![sigapore节点测速](https://www.safewebcn.com/img/expressvpn-sigapore-2021-8-min.png)](#expressvpn速度测试)
+
+测试的Singapore – Marina Bay节点速度也很不错，下载速度测试值为42.14Mb/s，顺便说一下，我们的测试中，ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。
+
+iPhone手机使用电信WiFi网络连接ExpressVPN的Marina Bay节点，连接界面如下图：
+
+[![连接Marina Bay节点](https://www.safewebcn.com/img/expressvpn-iphone-marina_bay.png)](#expressvpn速度测试)
+
+iPhone手机使用移动4G网络连接ExpressVPN的Marina Bay节点，使用SpeedTest软件进行在线测速，连接和测速界面如下图：
+
+[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-7-28-min.png)](#expressvpn速度测试)
+
+从上面的测试截图看到，iPhone使用移动4G网络连接Marina Bay节点，测试结果还不错，能跑满我这里的移动4G实际网络带宽，iPhone的日常实际使用体验也在我所现在使用的翻墙软件中属于最好的。
+
+总体上来说ExpressVPN是我测试的所有翻墙软件中，在电脑端（Windows、MacBook）和手机端（iPhone、安卓手机）使用体验最好，尤其是网络速度方面。
+
+综合评价：这款VPN是我经常使用的一款，从16年开始使用到现在，其客户端的美观简洁、服务的稳定性、连接速度在我们测试的所有VPN产品中属于一流，可称得上是在国内最好用的翻墙VPN。在我们的测试中，ExpressVPN几乎没有对我们的网速造成任何影响，浏览网页、观看YouTube十分流畅。ExpressVPN的服务器遍布全球94个国家，并且对使用流量和带宽没有任何限制。
+
+在安全性方面，他们也做得很好，支持256位`Lightway, OpenVPN(TCP, UDP), L2TP-IPsec, SSTP和PPTP`等加密协议，并且不保留用户日志，用户可以放心上网而不必担心个人隐私泄露。
+
+ExpressVPN的客服是业内最好的之一，随时提供网上帮助。此外，ExpressVPN兼容各种常见设备，并且可以配置在路由器上，在电脑（Windows或Mac）和移动设备（iPhone、安卓、平板）上都可以使用，**最多支持5台设备同时在线使用**。
+
+[![ExpressVPN支持设备](https://www.safewebcn.com/img/express-vpn-devices.png "ExpressVPN支持设备截图")](#2-expressvpn--速度体验最佳)
+
+套餐的价格：性价比最高的是1年套餐，同时他们保证30天内使用不满意无条件退款，所以你有足够的时间来测试。
+
+[![ExpressVPN付款方式](https://www.vpnzhihu.com/wp-content/uploads/2021/04/expressvpn-payment-select-min.png "ExpressVPN付款方式截图")](https://www.fastvpncn.com/expressvpn)
+
+ExpressVPN支持银联、信用卡、Paypal等多种方式付款。付款后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
+
+>**2021最新提示**：ExpressVPN在国内电脑端（Windows/Mac OS）和手机端（iOS/安卓）的APP客户端直接一键连接就行了，不用自己手动配置。
+>
+>另外，ExpressVPN在国内使用的稳定性也非常不错，在目前防火长城不断升级的大环境下，能保证95%以上的稳定使用时间，按照过去2年的使用经验，一般3个月左右服务器可能会暂时被屏蔽几天，但改用L2TP协议的服务器还能使用，而且官方每次的应对很快，2-3个工作日会推出更新版本，更新客户端就可以继续使用了。
+>
+>安装或者使用过程中出现问题一定要联系在线客服，通过官网右下角的在线聊天框进入，之前有几次墙升级导致无法连接都是找客服解决的，还多送了一个月的使用期。
+>
+>**推荐用户**：对速度和稳定性有要求的用户、iPhone用户首选
+
+### <center><a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
+
+> 由于冒牌网站很多，官方已经不再使用镜像域名（只提供更新客户端、联系客服使用）处理中国地区的新订单，目前中国大陆的访客可能已经打不开ExpressVPN官网，需要梯子才能进入。
+
+### 续费如何获得优惠？
+
+如果买了ExpresssVPN之后打算续费年套餐的，通过本页面的优惠链接进入，然后**用新邮箱注册新账号，可以获得三个月时长的免费赠送，旧账号续费或直接进官网购买年套餐是没有这个活动的**。所以有续费打算的请收藏本页面，续费购买时**首先要断开ExpressVPN，清除浏览器cookie或者换一个浏览器，然后点击本页面的优惠链接进入官网，换一个新的Email进行注册购买就行了**。
+
+其他品牌续费获得优惠的操作方法也是一样的，因为一般年套餐的优惠只对新帐号开放，为了避免被系统认为是重复注册，需要清除浏览器cookie记录或者换一个浏览器再进行注册。
 
 
 ## 3.<a rel="nofollow noopener" href="https://linkv.org/nord/" target="_blank"> NordVPN</a>
@@ -863,7 +863,7 @@ PandaVPN由中文团队开发，所以对中文支持很好，相比其他几家
 
 熊猫VPN创办时间不长，我使用也不到半年，虽然总体体验还行，但是**长期的可用性我还不清楚，总之对于这款，如果想入手，建议先购买短期套餐，觉得不错再续费使用，总之，新创立的小品牌服务质量和售后还要观望，有跑路风险，这方面还是比不过已成熟运营多年的大品牌**。
 
-虽说名字是VPN，但我感觉这家的底层技术更类似于SSR，因为客户端里能区分全局代理或分应用代理，官网称有256位加密保护，不过我感觉对于隐私安全的保护不如[StrongVPN](#2-strongvpn--性价比最佳)或[Express](#1-expressvpn--速度体验最佳)、以及Nord，暂且把它作为VPN看待。
+虽说名字是VPN，但我感觉这家的底层技术更类似于SSR，因为客户端里能区分全局代理或分应用代理，官网称有256位加密保护，不过我感觉对于隐私安全的保护不如[StrongVPN](#1-strongvpn--性价比最佳)或[Express](#2-expressvpn--速度体验最佳)、以及Nord，暂且把它作为VPN看待。
 
 最开始使用体验不错，但近一个月的**稳定性**体验下降了，估计是用的人多了，被墙“重点关照”，而服务器的承载能力没提升，这方面比Express和StrongVPN差一些，不过勉强也能接受。
 
