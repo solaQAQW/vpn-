@@ -191,7 +191,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 改电脑Host文件方法很简单，国内Windows/Mac用户可以直接下载hosts文件解锁官网，手机用户建议在电脑上打开本页面操作，因为手机由于系统权限原因改host操作较麻烦，下面是操作步骤：
 
-1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)。
+1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts"> 下载地址</a>(右键打开)。
 
 2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
@@ -594,7 +594,7 @@ ExpressVPN支持银联、信用卡、Paypal等多种方式付款。付款后，�
 
 国内Windows/Mac用户可以直接下载hosts文件解锁VPN官网（手机用户建议在电脑上打开本页面操作）：
 
-1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键打开)
+1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts"> 下载地址</a>(右键打开)
 
 2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
