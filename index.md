@@ -2,7 +2,7 @@
 
 最近更新：`2021年8月14日`
 
->2021年8月使用表现简介：**PureVPN、Ivacy、SurfShark、VyprVPN等**在国内已经很难连接，蓝灯VPN存在翻墙隐私泄露，且服务器隔一段时间就会被封，看到不少博客上还挂着在推荐这些说在中国能用，大家注意避坑。NordVPN之前也是被重点打击，目前表现一般，使用的话最好找客服获取特供客户端进行连接。**光年跑路**，客服无人应答，也不会有退款。**ExpressVPN和StrongVPN一直表现尚可，长期可用**，ExpressVPN全平台适用，体验也最好；StrongVPN最便宜，适用Windows、Mac和安卓手机端（使用特供精简版客户端稳定性不错），iPhone要联系客服手动配置翻墙。
+>2021年8月使用表现简介：**PureVPN、Ivacy、SurfShark、VyprVPN等**在国内已经很难连接，蓝灯VPN存在翻墙隐私泄露，且服务器隔一段时间就会被封，看到不少博客上还挂着在推荐这些说在中国能用，大家注意避坑。NordVPN之前也是被重点打击，目前表现一般，使用的话最好找客服获取特供客户端进行连接。**光年跑路**，客服无人应答，也不会有退款。**ExpressVPN和StrongVPN一直表现尚可，长期可用**，ExpressVPN全平台适用，体验也最好；StrongVPN最便宜，适用Windows、Mac和安卓手机端（使用特供精简版客户端稳定性不错），iPhone表现不如Express，要联系客服手动配置翻墙。
 > 
 >另外，**建议大家选择创立时间超过3年以上的大牌VPN，并且退款时限至少半个月以上**。特别留意国产的翻墙软件，一般也就开张0-1年左右，基本都是私人作坊式运作，大多没有退款政策，少数能退款的也就7天时限，另外安全性有很大问题，而且近几年跑路的太多了，退款和售后是没有的。因为行业的混乱和政策风险，干一阵跑路再换马甲重新开张赚钱更容易、也更安全，这一点国外大厂VPN品牌好很多，因为客户大部分是国外用户，比较认品牌，合法且能稳定盈利，至少不会跑路，连接协议是正儿八经的VPN强加密协议（一般是OpenVPN和IKEV2），安全性没问题，感兴趣的可以去看[翻墙安全性的相关内容](#翻墙的安全性问题--翻墙软件与vpn的区别)，一般的退款政策的时限是30天左右，至于能不能在国内使用，还是要仔细甄别。
 
@@ -384,11 +384,11 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 **另外，和Windows系统一样，Mac和安卓用户也可以找客服获取精简版客户端V1 app，在敏感时期连接成功率很高，官网的标准版客户端遇到墙升级可能会存在连接问题，要等几日版本更新才能恢复正常使用**。
 
-除了最基本的VPN套餐，官网还会额外赠送250 GB SugarSync云储存套餐，赠送的服务值不值见仁见智。
-
 使用的时候直接通过精简版客户端APP一键连接就行了，不用自己手动设置，敏感时期如果遇到封锁，可在官网右下角的在线聊天框找客服获取连接方案。能连接的节点比ExpressVPN多一些，建立连接所需的时间也比ExpressVPN略快，但是网络速度比ExpressVPN慢，不过打开网页和看Youtube高清视频也基本够用，无论是电脑还是手机（包括iPhone和安卓）APP客户端的使用体验和稳定性在我使用的大厂VPN软件中目前仅次于ExpressVPN，**对于在乎性价比的人来说，是除[ExpressVPN](#1-expressvpn--速度体验最佳)外的最佳选择**。
 
 如果安装或者连接遇到问题，可以在官网的右下角的“帮助”在线聊天框，选择在线聊天->Technical Support（技术支持），咨询客服相关问题，我有几次遇到连接问题都是找技术支持解决的。**连接协议建议选择`OpenVPN UDP/TCP`**，UDP和TCP哪个好用用那个，我自己一般在Windows习惯使用TCP，感觉更好连接一些；Mac上UDP和TCP连接都差不多。
+
+除了最基本的VPN套餐，官网还会额外赠送250 GB SugarSync云储存套餐，赠送的服务值不值见仁见智。
 
 ### 如何获取StrongVPN？
 
@@ -402,7 +402,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
 
-在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，一般就可以直接下载客户端并安装使用了。
+在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，一般就可以联系客服下载精简版客户端并安装使用了，国内能连的服务器线路可以参考：[Strong线路如何选择](#strong线路选择)。
 
 **如果后续不能登录或使用，查看是不是支付过程出现了问题导致扣款失败**，需要<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">登录官网用户后台</a>确认支付，点击“Billing Area”：
 
@@ -460,18 +460,6 @@ StrongVPN Windows客户端标准版(**这个版本不推荐在国内使用，敏
 [![Strong客户端标准版](https://www.safewebcn.com/img/strong-connect.png)](#使用建议)
 
 精简版客户端可以找在线客服获取，获取方法见上文。
-
-#### 使用WireGuard协议
-
-StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后点击setting，在Protocol选择WireGuard，然后回到服务器选择线路连接，点击connect，等待1-3秒就能连上，如果没有反应，打开iPhone的系统设置，点击VPN，选择“StrongVPN WireGuard Configuration”（如下图）：
-
-（**根据部分读者反映，WireGuard在国内部分地区不稳定，不如精简客户端使用的OpenVPN协议**）
-
-[![Strong WireGuard](https://www.safewebcn.com/img/strong-wireguard-min.png)](#使用wireguard协议)
-
-点击按钮，一般很快就能建立连接（如下图），WireGuard协议在手机翻墙时比较方便，目前大多数VPN产品还还没有加入WireGuard协议，这是StrongVPN的优势之一。
-
-[![Strong WireGuard](https://www.safewebcn.com/img/strong-wireguard-2-min.png)](#使用wireguard协议)
 
 
 ### Strong速度测试
