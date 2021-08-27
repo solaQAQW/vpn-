@@ -229,7 +229,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
 
-在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，一般就可以直接下载客户端并安装使用了。
+在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，联系在线客服下载精简版客户端，就可以安装使用了。
 
 **如果后续不能登录或使用，查看是不是支付过程出现了问题导致扣款失败**，需要<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">登录官网用户后台</a>确认支付，点击“Billing Area”：
 
@@ -259,7 +259,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 ### 使用建议
 
->**中国Window用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版客户端V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">备用下载地址</a>）**，这是我找官网技术客服给我的，推荐在中国使用的。因为墙的干扰标准版的客户端在国内部分地区首次使用账号登录困难，精简版客户端更适合在中国使用，**最新版请咨询官网右下角客服获取，直接说在中国使用StrongVPN客服就懂了，会给你设置账号和最新版精简版客户端**。安装专用精简版之前，可能需要把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
+>**中国Window用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版客户端V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">备用下载地址</a>）**，这是我找官网技术客服给我的，推荐在中国使用的。因为墙的干扰标准版的客户端在国内部分地区首次使用账号登录困难，精简版客户端更适合在中国使用，**最新版请咨询官网右下角客服获取，直接说在中国使用StrongVPN客服就懂了，会给你设置账号和最新版精简版客户端**。安装专用精简版之前，可能需要把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，可以在官网右下角的“Help”在线聊天框，选择Technical Support（技术支持）提出你的问题。
 >
 >**重要提示**：有部分读者反映购买StrongVPN后，在StrongVPN特供的精简版V1 App中无法选择OpenVPN协议或是登陆出现问题，就此我咨询了客服，如果出现这种情况，需要在官网右下角联系技术客服"Technical Support"，联系客服说在中国使用就行了，客服会马上帮你开通OpenVPN account；或者在用户后台发个ticket：点击“Support Ticket”，点击“Submit new ticket”，提交开通OpenVPN account，一般很快就会开通。下图是本文读者反馈使用StrongVPN的一些经验（感谢这位读者的反馈^-^），如果使用过程中出现问题可以参考：
 
@@ -274,7 +274,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 Mac精简版<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/mac/StrongVPN_mac-latest.zip" target="_blank">V1 app下载地址</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/Strong_mac-latest.zip" target="_blank">备用下载地址</a>）
 
-下载安装APP客户端、联系客服开通OpenVPN账户后，打开输入用户名密码登录就行了，如果仍有登陆问题，请看前文的解决方法。在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
+**联系客服下载安装精简版客户端后，客服会给你的账号开通精简版客户端的登录权限，打开输入用户名密码登录就能使用了**。如果仍有登陆问题，请看前文的解决方法。在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
 
 **在中国能用的节点选择具体的方法，可以查看[Strong线路选择](#strong线路选择)**。
 
@@ -285,7 +285,6 @@ StrongVPN专用精简版客户端V1 App（**中国用户推荐使用，国内使
 StrongVPN Windows客户端标准版(**这个版本不推荐在国内使用，敏感时期被封锁会出现连接问题**)：
 
 [![Strong客户端标准版](https://www.safewebcn.com/img/strong-connect.png)](#使用建议)
-
 
 精简版客户端可以找在线客服获取，获取方法见上文。
 
