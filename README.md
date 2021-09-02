@@ -1,6 +1,6 @@
 # 翻墙软件VPN推荐，稳定好用(含2021优惠)
 
-最近更新：`2021年8月18日`
+最近更新：`2021年9月2日`
 
 >本文是中国安全翻墙攻略的**详细版**，讨论翻墙软件、科学上网和网络安全的相关问题，并根据实际的使用体验介绍各款翻墙软件，VPN等近期使用情况，供大家参考和避坑。如果只想快速选个科学上网软件来翻墙，直接看下方本文目录导航。
 
@@ -173,7 +173,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#1-strongvpn--性价比最佳)
 
->2021年8月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，**目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的**，有优惠码可使用。**Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP或UDP）协议连接成功率一直很高**（在大多数时期比标准客户端连接也更加稳定），这也是尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本或线路更新才能恢复正常。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法,iPhone用户还是建议选择[ExpressVPN](#2-expressvpn--速度体验最佳)。因综合性价比最好，暂把它列在第一位。
+>2021年9月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，**目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的**，有优惠码可使用。**Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP或UDP）协议连接成功率一直很高**（在大多数时期比标准客户端连接也更加稳定），这也是尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本或线路更新才能恢复正常。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法,iPhone用户还是建议选择[ExpressVPN](#2-expressvpn--速度体验最佳)。因综合性价比最好，暂把它列在第一位。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市拥有950+个VPN服务器，以及近60000个IP地址，前文说过，大量的IP地址资源对于墙的封锁是最有效的办法。
 
@@ -292,7 +292,7 @@ StrongVPN Windows客户端标准版(**这个版本不推荐在国内使用，敏
 
 StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后点击setting，在Protocol选择WireGuard，然后回到服务器选择线路连接，点击connect，等待1-3秒就能连上，如果没有反应，打开iPhone的系统设置，点击VPN，选择“StrongVPN WireGuard Configuration”（如下图）：
 
-（**根据部分读者反映，WireGuard在国内部分地区不稳定，不如精简客户端使用的OpenVPN协议**）
+（**WireGuard协议只有官网下载安装的标准版客户端提供，但是根据部分读者反映，WireGuard协议在国内使用不稳定，会出现显示连接却上不了网的情况，不如使用精简客户端使用的OpenVPN协议稳定**。）
 
 [![Strong WireGuard](https://www.safewebcn.com/img/strong-wireguard-min.png)](#使用wireguard协议)
 
@@ -416,7 +416,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 ## 2.<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank"> ExpressVPN – 速度体验最佳</a>
 
->2021年8月使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，大多数VPN软件在国内并不好用，**ExpressVPN的iOS版本内置了LightWay（UDP/TCP）和IKEV2协议，LightWay是Express官方新推出的独家开发的协议，一键连接效果很不错，iPhone用户首选这款**。目前由于国内政策原因，支付宝付款方式被暂停了，可以优先选择Paypal、国内银联卡或带外币功能的信用卡购买。
+>2021年9月使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，大多数VPN软件在国内并不好用，**ExpressVPN的iOS版本内置了LightWay（UDP/TCP）和IKEV2协议，LightWay是Express官方新推出的独家开发的协议，一键连接效果很不错，iPhone用户首选这款**。目前由于国内政策原因，支付宝付款方式被暂停了，可以优先选择Paypal、国内银联卡或带外币功能的信用卡购买。
 
 [![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
 
@@ -585,7 +585,7 @@ ExpressVPN支持银联、信用卡、Paypal等多种方式付款。付款后，�
 
 [![NordVPN](https://www.safewebcn.com/img/nord-min.png)](#3-nordvpn)
 
->2021年3月使用，确认可用，但目前可用节点不多，建议连接美国、日本等地区最新出来的节点。如果遇到连接问题，**NordVPN另一个翻墙方案是咨询客服获取中国特别版，这个版本连接成功率高很多**。
+>2021年6月使用，确认可用，但目前可用节点不多，建议连接美国、日本等地区最新出来的节点。如果遇到连接问题，**NordVPN另一个翻墙方案是咨询客服获取特供版客户端，这个版本连接成功率高一些**。
 
 ### 如何打开NordVPN官网？
 
@@ -637,7 +637,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 [![IVacy](https://www.safewebcn.com/img/ivacy-logo.png)](#6-ivacy)
 
->2021年2月测试，速度和连接成功率较低，勉强能凑合用，谨慎选择。
+>2021年8月测试，速度和连接成功率较低，勉强能凑合用，谨慎选择。有国内的服务器，方便身处国外的朋友翻墙回国，解锁一些有国内版权的网站资源。
 
 ### 如何打开IVacy官网？
 
