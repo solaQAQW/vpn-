@@ -512,11 +512,12 @@ StrongVPN Windows客户端标准版(**这个版本不推荐在国内使用，敏
 
 下面的线路是之前找客服要的，在中国能用的线路，给大家参考。按上面的方法选择线路，一定要精确到某个城市的具体线路的编号：
 
+注：下面的服务器线路在所有时间段不一定都能连，部分线路可能会有被墙的，大家可以自己测试，最新的可用线路列表可以找客服获取。
+
 (日本、韩国、美国的San Franciso、英国的Rugby london都不错。如果只上网飞的话，推荐日本节点，快而且内容多。)
 
 - **South Korea** Seoul: icn303
-- **Japan** Tokyo: hnd302
-- **Germany** Frankfurt: fra301-303
+- **Germany** Frankfurt: fra302-303
 - **Australia** Melbourne: mel301
 - **Sydney**: syd301,302
 - **Belgium** Brussels: bru301
@@ -525,6 +526,7 @@ StrongVPN Windows客户端标准版(**这个版本不推荐在国内使用，敏
 - **France** Paris: cdg301
 - Marseille: mrs301
 - **Israel** Tal Aviv: tlv301
+- **Japan** Tokyo: hnd302
 - **Italy** Milan: mxp301
 - **Malaysia** Kuala Lumpur: kul302
 - **Netherlands** Amsterdam: ams302-304
