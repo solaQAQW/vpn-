@@ -209,8 +209,6 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 这款VPN是我在19年初开始使用，总体来讲，在过去2年的使用时间里，全年可用率能达到95%左右，服务器经常会更新，每次登陆客户端都会自动检测服务器更新。**在国内的Windows、Mac和安卓手机用户可以找在线客服获取特供的StrongVPN精简版客户端V1 app，在中国登录和连接更为顺畅，官网上面直接下载安装的标准版客户端在国内可能存在登录和连接的问题，精简版客户端V1 app版本在敏感时期时连接成功率也比较稳定**。后文放上官网精简版的下载链接，也可以联系客服提供精简版客户端V1 app的下载地址。iPhone手机APP版本的登录和使用直接使用App Store下载安装即可，但标准版客户端的使用肯定不如特供的精简版稳定，iPhone上使用如有连接问题要找客服获取备份的服务器地址进行手动配置。
 
-**另外，和Windows系统一样，也可以找客服获取精简版客户端V1 app，在敏感时期连接成功率很高，官网的标准版客户端遇到墙升级可能会存在连接问题，要等几日版本更新才能恢复正常使用**。
-
 使用的时候直接通过精简版客户端APP一键连接就行了，不用自己手动设置，敏感时期如果遇到封锁，可在官网右下角的在线聊天框找客服获取连接方案。能连接的节点比ExpressVPN多一些，建立连接所需的时间也比ExpressVPN略快，但是网络速度比ExpressVPN慢，不过打开网页和看Youtube高清视频也基本够用，无论是电脑还是手机（包括iPhone和安卓）APP客户端的使用体验和稳定性在我使用的大厂VPN软件中目前仅次于ExpressVPN，**对于在乎性价比的人来说，是除[ExpressVPN](#2-expressvpn--速度体验最佳)外的最佳选择**。
 
 除了最基本的VPN套餐之外，还会额外赠送250 GB SugarSync云储存套餐，感觉是个加密的云网盘，赠送的服务值不值见仁见智。
@@ -221,13 +219,11 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 1.进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>（右键打开），然后点击“Join Now”按钮，进入选择套餐页面：
 
-[![Strong-device](https://www.safewebcn.com/img/strongvpn-plan-price-min.png)](#如何获取strongvpn)
+[![Strong-device](https://www.safewebcn.com/img/StrongVPN-price-table-min.png)](#如何获取strongvpn)
 
-付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%**，优惠码是`TAKEOFF20` ，点击“Have a coupon?”输入优惠码。或者进入官网后，拉到页面最下方，在“Interact”栏点击“Coupons“也能看到，**如果活动价格折扣大于这个优惠折扣，系统默认以最大折扣的活动价为准**。另外支付宝支付的话只能买一个月或一年，后续续费的话要手动付款续费，不想续费不用管就行了；信用卡和Paypal支付的话是自动续费，但如果不想续费，可以在使用期限到之前随时取消续费。
+付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%**，优惠码是`TAKEOFF20` ，进入官网后，拉到页面最下方，在“Interact”栏点击“Coupons“也能看到，**如果活动价格折扣大于这个优惠折扣，系统默认以最大折扣的活动价为准**。另外支付宝支付的话只能买一个月或一年，后续续费的话要手动付款续费，不想续费不用管就行了；信用卡和Paypal支付的话是自动续费，但如果不想续费，可以在使用期限到之前随时取消续费。
 
-[![Strong优惠码](https://www.safewebcn.com/img/strongvpn-alipay-payment-min.png)](#如何获取strongvpn)
-
-输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
+接着输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
 
 在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，联系在线客服下载精简版客户端，就可以安装使用了。
 
@@ -259,9 +255,11 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 ### 使用建议
 
->**中国Window用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版客户端V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">备用下载地址</a>）**，这是我找官网技术客服给我的，推荐在中国使用的。因为墙的干扰标准版的客户端在国内部分地区首次使用账号登录困难，精简版客户端更适合在中国使用，**最新版请咨询官网右下角客服获取，直接说在中国使用StrongVPN客服就懂了，会给你设置账号和最新版精简版客户端**。安装专用精简版之前，可能需要把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，可以在官网右下角的“Help”在线聊天框，选择Technical Support（技术支持）提出你的问题。
+>**中国墙内Windows、Mac电脑用户和安卓手机用户建议下载StrongVPN的精简版客户端V1 app（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">Windows备用下载地址</a>）**，这是我找官网技术客服给我的，推荐在中国使用的。因为墙的干扰标准版的客户端在国内部分地区首次使用账号登录困难，精简版客户端更适合在中国使用，**最新版请咨询官网右下角客服获取，直接说在中国使用StrongVPN客服就懂了，会给你设置账号和最新版精简版客户端**。安装专用精简版之前，可能需要把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，可以在官网右下角的“Help”在线聊天框，选择Technical Support（技术支持）提出你的问题。
 >
->**重要提示**：有部分读者反映购买StrongVPN后，在StrongVPN特供的精简版V1 App中无法选择OpenVPN协议或是登陆出现问题，就此我咨询了客服，如果出现这种情况，需要在官网右下角联系技术客服"Technical Support"，联系客服说在中国使用就行了，客服会马上帮你开通OpenVPN account；或者在用户后台发个ticket：点击“Support Ticket”，点击“Submit new ticket”，提交开通OpenVPN account，一般很快就会开通。下图是本文读者反馈使用StrongVPN的一些经验（感谢这位读者的反馈^-^），如果使用过程中出现问题可以参考：
+>Mac精简版<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/mac/StrongVPN_mac-latest.zip" target="_blank">V1 app下载地址</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/Strong_mac-latest.zip" target="_blank">备用下载地址</a>），使用前最好联系客服，说一下在中国使用，他会帮你设置账号，不然默认账号可能登录后没有OpenVPN协议的选项或者不能登录。
+>
+>**重要提示**：有部分读者反映购买StrongVPN后，在StrongVPN特供的精简版V1 App中无法选择OpenVPN协议或是登陆出现问题，就此我咨询了客服，如果出现这种情况，需要在官网右下角的“Help”聊天框选择技术客服"Technical Support"，联系客服说在中国使用就行了，客服会马上帮你开通OpenVPN account；或者在用户后台发个ticket：点击“Support Ticket”，点击“Submit new ticket”，提交开通OpenVPN account，一般很快就会开通。下图是本文读者反馈使用StrongVPN的一些经验（感谢这位读者的反馈^-^），如果使用过程中出现问题可以参考：
 
 [![Strong-feedback](https://www.safewebcn.com/img/strong-feedback-1.png)](#1-strongvpn--性价比最佳)
 
@@ -269,10 +267,6 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 >
 >“Hello,I live in China.I am using legacy V1 app but cannot login,the V2 app doesn't work for me in China.”
 >“Could you please help me open my access to legacy OpenVPN account?”
->
->**Mac和安卓手机用户也可以找客服获取精简版客户端V1 app**，连接成功率很高，相较于通用标准版客户端在国内使用也更加稳定。
-
-Mac精简版<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/mac/StrongVPN_mac-latest.zip" target="_blank">V1 app下载地址</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/Strong_mac-latest.zip" target="_blank">备用下载地址</a>）
 
 **联系客服下载安装精简版客户端后，客服会给你的账号开通精简版客户端的登录权限，打开输入用户名密码登录就能使用了**。如果仍有登陆问题，请看前文的解决方法。在中国使用，协议（Protocol）建议选择OpenVPN，如果连接不畅需要重新安装OpenVPN的TAP驱动。
 
