@@ -227,6 +227,10 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，联系在线客服下载精简版客户端，就可以安装使用了。
 
+支付过程中可以会有订单处理遇到问题（如下图），解决办法和下面一样，需要登录用户后台的“Billing Area”板块，确认付款订单就行了。
+
+[![Strong-problem](https://www.safewebcn.com/img/Strong-problem-min.png)](#如何获取strongvpn)
+
 **如果后续不能登录或使用，查看是不是支付过程出现了问题导致扣款失败**，需要<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">登录官网用户后台</a>确认支付，点击“Billing Area”：
 
 [![Strong-billing](https://www.safewebcn.com/img/strongvpn-billing-min.png)](#如何获取strongvpn)
