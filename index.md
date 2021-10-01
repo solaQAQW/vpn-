@@ -484,15 +484,12 @@ StrongVPN Windows客户端标准版(**这个版本不推荐在国内使用，敏
 
 **在大多数情况下选择OpenVPN TCP或者UDP协议，在电信和移动网络中，使用TCP协议，连接相对更加顺畅点**，当然你也可以根据你当地网络环境自己测试，我建议优先连接下面这些地区，不过具体服务器的选择请参考[线路选择方法](#strong线路选择)。
 
+
+- 欧洲（UK、德国、法国、意大利、西班牙等），线路多，更容易连接
+- 北美地区的节点
 - 韩国（South Korea - Seoul）
-
 - 日本（Japan）
-
-- 新加坡
-
-- 台湾
-
-- 欧洲和北美地区的节点
+- 澳大利亚
 
 美国的不少节点可以连接，但在我自己测试相对其他地区慢一些（电信网络），**网络环境不同最佳节点可能也不一样**，你可以自己测试进行节点的选择。
 
@@ -518,7 +515,6 @@ StrongVPN Windows客户端标准版(**这个版本不推荐在国内使用，敏
 
 (日本、韩国、美国的San Franciso、英国的Rugby london都不错。如果只上网飞的话，推荐日本节点，快而且内容多。)
 
-- **South Korea** Seoul: icn303
 - **Germany** Frankfurt: fra302-303
 - **Australia** Melbourne: mel301
 - **Sydney**: syd301,302
@@ -535,6 +531,7 @@ StrongVPN Windows客户端标准版(**这个版本不推荐在国内使用，敏
 - **Poland** Warsaw: waw302
 - **Portugal** Lisbon: lis301
 - **Singapore** Singapore: sin301,302
+- **South Korea** Seoul: icn303
 - **Spain** Madrid: mad301
 - **Sweden** Stockholm: arn301,302
 - **UK** Manchester: man303
