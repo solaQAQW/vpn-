@@ -319,15 +319,15 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 **在大多数情况下选择OpenVPN TCP或者UDP协议，在电信和移动网络中，使用TCP协议，连接相对更加顺畅点**，当然你也可以根据你当地网络环境自己测试，**我推荐优先连接下面这些地区，具体的服务器选择方法请参考：[Strong国内能连的服务器选择方法](#strong线路选择)**。
 
-- 韩国（South Korea - Seoul）
+- 欧洲地区的节点（德法西意等）,节点多，更容易连接，速度也还行
 
-- 日本（Japan）
+- 英国（UK）
 
-- 欧洲地区的节点（德法西意等）
+- 韩国（South Korea - Seoul），速度较快，但节点不多
 
 - 美国旧金山和洛杉矶地区
 
-- 英国
+- 日本（Japan）
 
 美国的不少节点可以连接，但在我自己测试相对其他地区慢一些（电信网络），**网络环境不同最佳节点可能也不一样**，你可以自己测试进行节点的选择。
 
@@ -355,7 +355,6 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 **注：下列线路不一定全部在所有时间段都能连接，因为一直以来墙每隔一段时间就加高一次，可能部分线路会有连不上的，不时也会有新的服务器线路加入进来，大家可以自己测试，最新的线路列表可以找客服获取**。
 
-- **South Korea** Seoul: icn303
 - **Germany** Frankfurt: fra302-303
 - **Australia** Melbourne: mel301
 - **Sydney**: syd301,302
@@ -372,6 +371,7 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 - **Portugal** Lisbon: lis301
 - **Singapore** Singapore: sin301,302
 - **Spain** Madrid: mad301
+- **South Korea** Seoul: icn303
 - **Sweden** Stockholm: arn301,302
 - **UK** Manchester: man303
 - Canterbury: mse302
