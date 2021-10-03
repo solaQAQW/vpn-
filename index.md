@@ -385,7 +385,9 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 **联系客服的方法：**
 
 >1.通过在线聊天窗口，这种方式最快，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">打开官网</a>，点击右下角黄色的“Help”弹出窗口，点击Get in touch，然后点击 “Live Chat”，输入信息开启聊天。客服团队也有中文客服在线，可以在聊天窗口使用中文沟通。
+>
 >2.官网登录账号，用户后台界面点击“Support tickets”，然后Submit new ticket，输入信息发送，一般最长一个工作日内回复信息。
+>
 >3.用注册StrongVPN相同的邮箱，发送邮件到 billing@strongvpn.com，邮件内容：Please enable V1 account for me because I am in China.(激活针对V1精简版客户端的账号)
 
 **另外，和Windows系统一样，Mac和安卓用户也可以找客服获取精简版客户端V1 app，在敏感时期连接成功率很高，官网的标准版客户端存在连接问题**。
