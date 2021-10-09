@@ -259,15 +259,15 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 ### 使用建议
 
->**中国墙内Windows、Mac电脑用户和安卓手机用户建议下载StrongVPN的精简版客户端V1 app（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">Windows备用下载地址</a>）**，这是我找官网技术客服给我的，推荐在中国使用的。因为墙的干扰标准版的客户端在国内部分地区首次使用账号登录困难，精简版客户端更适合在中国使用，**最新版请咨询官网右下角客服获取，直接说在中国使用StrongVPN客服就懂了，会帮你激活账号和给你最新版精简版客户端的下载地址**。安装专用精简版之前，可能需要把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，**可以在官网右下角的“Help”在线聊天框->Get in touch->Live Chat，选择Technical Support（技术支持）提出你的问题，也有中文客服在线，可以在聊天窗口使用中文沟通**。
+>**中国墙内Windows、Mac电脑用户和安卓手机用户建议下载StrongVPN的精简版客户端V1 app（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">Windows备用下载地址</a>）**，这是官网技术客服给我的，推荐在中国使用这个客户端。因为墙的干扰标准版的客户端在国内部分地区首次使用账号登录困难，精简版客户端更适合在中国使用，**最新版请咨询官网右下角客服获取，直接说在中国使用StrongVPN客服就懂了，会帮你激活账号和给你最新版精简版客户端的下载地址**。安装专用精简版之前，可能需要把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，**可以在官网右下角的“Help”在线聊天框->Get in touch->Live Chat，选择Technical Support（技术支持）提出你的问题，也有中文客服在线，可以在聊天窗口使用中文沟通**。
 
 **联系客服方式：**
 
-1.官网右下角的“Help”在线聊天框->Get in touch->Live Chat，或者用户后台页面的Support tickets->Submit new ticket，填写信息;
+1.联系在线客服，这种方式最快。官网右下角的“Help”在线聊天框->Get in touch->Live Chat，或者用户后台页面的Support tickets->Submit new ticket，填写信息提交;
 
 2.使用注册StrongVPN的邮箱发送邮件到billing@strongvpn.com ，邮件内容 ：Please enable V1 account for me because I am in China(激活针对V1精简版客户端的账号).
 
->Mac精简版<a rel="nofollow noopener" href="https://mirror3.reliablehosting.com/mac/StrongVPN_Mac-latest.dmg" target="_blank">V1 app下载地址</a>，使用前最好联系客服，说一下在中国使用，他会帮你设置账号，不然默认账号可能登录后没有OpenVPN协议的选项或者不能登录。
+>Mac精简版<a rel="nofollow noopener" href="https://mirror3.reliablehosting.com/mac/StrongVPN_Mac-latest.dmg" target="_blank">V1 app下载地址</a>，使用前联系客服，说一下在中国使用，他会帮你设置账号，不然默认账号可能登录后没有OpenVPN协议的选项或者不能登录这个客户端。
 >
 >**重要提示**：有部分读者反映购买StrongVPN后，在StrongVPN特供的精简版V1 App中无法选择OpenVPN协议或是登陆出现问题，就此我咨询了客服，如果出现这种情况，需要在官网右下角的“Help”聊天框选择技术客服"Technical Support"，联系客服说在中国使用就行了，客服会马上帮你开通OpenVPN account；或者在用户后台发个ticket：点击“Support Ticket”，点击“Submit new ticket”，提交开通OpenVPN account，一般很快就会开通。下图是本文读者反馈使用StrongVPN的一些经验（感谢这位读者的反馈^-^），如果使用过程中出现问题可以参考：
 
@@ -279,7 +279,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 >
 >2.Hello,I live in China.I am using legacy V1 app but cannot login,the V2 app doesn't work for me in China.
 
-**联系客服下载安装精简版客户端后，客服会给你的账号开通精简版客户端的登录权限，打开输入用户名密码登录就能使用了**。如果仍有登陆问题，请看前文的解决方法。在中国使用，协议（Protocol）建议选择OpenVPN(TCP)，如果连接不畅需要重新安装OpenVPN的TAP驱动。
+**联系客服下载安装精简版客户端后，客服会给你的账号开通精简版客户端的登录权限，打开输入用户名密码登录就能使用了**。如果仍有登陆问题，请看前文的解决方法。在中国使用，协议（Protocol）建议选择OpenVPN的TCP协议，如果连接不畅需要重新安装OpenVPN的TAP驱动，点击Advanced->options->Reinstall TAP Driver。
 
 **在中国能用的节点选择具体的方法，可以查看[Strong线路选择](#strong线路选择)**。
 
@@ -291,11 +291,11 @@ StrongVPN Windows客户端标准版V2 App(**这个版本不推荐在国内使用
 
 [![Strong客户端标准版](https://www.safewebcn.com/img/strong-connect.png)](#使用建议)
 
-精简版客户端可以找在线客服获取，获取方法见上文。
+精简版客户端可以找在线客服获取，适用于Windows、Mac和安卓系统，获取方法见上文。
 
 #### 使用WireGuard协议
 
-（**WireGuard协议只有官网下载安装的标准版客户端提供，但是根据部分读者反映，WireGuard协议在国内使用不稳定，会出现显示连接却上不了网的情况，不如使用精简客户端使用的OpenVPN协议稳定**。）
+（**WireGuard协议只有官网下载安装的标准版客户端提供，但是根据部分读者反映，WireGuard协议在国内使用不稳定，会出现显示连接却上不了网的情况，比较鸡肋，不如使用精简客户端使用的OpenVPN协议稳定**。）
 
 StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后点击setting，在Protocol选择WireGuard，然后回到服务器选择线路连接，点击connect，等待1-3秒就能连上，如果没有反应，打开iPhone的系统设置，点击VPN，选择“StrongVPN WireGuard Configuration”（如下图）：
 
@@ -318,31 +318,28 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 这是最近我使用时的测试结果，测试平台为SpeedTest网页测速，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps；Seoul节点ping值67ms，下载速度为28.03Mbps，上行速度为22.09Mbps。浏览网页、看视频够用，但看清晰度为2K及以上的视频会有点吃力，这点不如[ExpressVPN](#2-expressvpn--速度体验最佳)，另外，实际使用时的网速和上网时段、网络环境都有很大的关系。StrongVPN速度较快的节点选择可以查看：[线路选择](#strong线路选择)。
 
-官方建议：Change your VPN connection protocol If changing server did not help you get connected, try changing your protocol. We recommend using OpenVPN via TCP configuration for customers in China. If fails, then try the aforementioned protocols with Scramble feature enabled.
+**官方建议**：Change your VPN connection protocol If changing server did not help you get connected, try changing your protocol. We recommend using OpenVPN via TCP configuration for customers in China. If fails, then try the aforementioned protocols with Scramble feature enabled.
 
-官方的意思也就是说：“在中国使用建议使用OpenVPN的TCP协议，开启Scramble功能选项。”Scramble功能应该是官方的魔改OpenVPN协议，加入了混淆算法，在敏感时期更容易连接上。比如在精简版客户端的界面点击Advanced，然后在弹出来的窗口点击options选项，Scramble选择Obfuscate，然后点击OK，重新启动客户端。
+官方的意思也就是说：“**在中国使用OpenVPN的TCP协议，建议开启Scramble功能选项**。”Scramble功能应该是官方的魔改OpenVPN协议，二次开发加入了混淆算法，不像标准的OpenVPN协议流量容易被检测到，在敏感时期更容易连接上。**开启Scramble功能方法**：在精简版客户端的界面点击Advanced，然后在弹出来的窗口点击options选项，Scramble选择Obfuscate，然后点击Apply，等账号同步完成就好了。
 
 [![Strong客户端精简版设置](https://www.safewebcn.com/img/strongvpn客户端设置.png)](#strong速度测试)
 
 **在大多数情况下选择OpenVPN TCP或者UDP协议，在电信和移动网络中，使用TCP协议，连接相对更加顺畅点**，当然你也可以根据你当地网络环境自己测试，**我推荐优先连接下面这些地区，具体的服务器选择方法请参考：[Strong国内能连的服务器选择方法](#strong线路选择)**。
 
 - 欧洲地区的节点（德法西意等）,节点多，更容易连接，速度也还行
-
 - 英国（UK）
-
-- 韩国（South Korea - Seoul），速度较快，但节点不多
-
+- 韩国（South Korea - Seoul），速度较快
+- 日本（Japan），速度也不错
 - 美国旧金山和洛杉矶地区
 
-- 日本（Japan）
 
-美国的不少节点可以连接，但在我自己测试相对其他地区慢一些（电信网络），**网络环境不同最佳节点可能也不一样**，你可以自己测试进行节点的选择。
+美国的不少其他节点可以连接，但在我自己测试相对其他地区慢一些（电信网络），**网络环境不同最佳节点可能也不一样**，你可以自己测试进行节点的选择。
 
 由于墙的不断升级，建议使用精简版客户端，可以直接找在线客服获取，直接说在中国使用就会帮你设置好账户。
 
 ### Strong线路选择
 
-登录官网用户后台，然后点击'VPN Accounts'，在下拉框里面点击'Legacy VPN Accounts Summary'，查看下面的“Servers available”，就可以查看各个节点和当前使用人数。在不同的网络运营商下，连接同一节点的速度也可能不同，每个节点的网络速度也会不一样。但StrongVPN我选择线路有一点原则，就是选择当前使用人数相对较少的节点。然后多测试几个节点，选择速度最满意的作为常用节点。我测试的结果是当前使用人数相对较少的节点的速度还是好于人数上万的节点，当然和服务器的带宽也有很大的关系。
+登录官网用户后台，然后点击'VPN Accounts'，在下拉框里面点击'Legacy VPN Accounts Summary'，查看下面的“Servers available”，就可以查看各个节点和当前使用人数。在不同的网络运营商下，连接同一节点的速度也可能不同，每个节点的网络速度也会不一样。但StrongVPN我选择线路有一点原则，就是选择当前使用人数相对较少的节点。然后多测试几个节点，选择速度最满意的作为常用节点。我测试的结果是当前使用人数相对较少的节点的速度还是好于人数上万的节点，当然和服务器的带宽也有很大的关系，大家也可以按照下面的方法选择线路连接。
 
 **StrongVPN精简版线路选择方法如下**：
 
@@ -360,22 +357,23 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 (读者的反馈：韩国、美国的San Franciso、英国的Rugby、london、日本都不错。如果只上网飞的话，推荐日本节点，快而且内容多。)
 
-**注：下列线路不一定全部在所有时间段都能连接，因为一直以来墙每隔一段时间就加高一次，可能部分线路会有连不上的，不时也会有新的服务器线路加入进来，大家可以自己测试，最新的线路列表可以找客服获取**。
+**注：下面所列线路，不一定全部线路在所有时间段都能连接，因为一直以来墙每隔一段时间就加高一次，可能少部分线路会有连不上的，不过也会有新的服务器线路陆续加入进来，大家可以自己测试，最新的线路列表可以找客服获取**。连接过程中如果连接很慢，状态一直是connecting，直接点exit，然后重新打开客户端换个节点重新连接。
 
+- **South Korea** Seoul: icn303-305
 - **Germany** Frankfurt: fra301-303
-- **Australia** Melbourne: mel301; Sydney: syd301,302
+- **Australia** Melbourne: mel302; Sydney: syd301,302
 - **Belgium** Brussels: bru301
 - **Canada** Montreal: yul301-303; Toronto: yyz301
 - **France** Paris: cdg301; Marseille: mrs301
 - **Israel** Tal Aviv: tlv301
 - **Italy** Milan: mxp301
+- **Japan** Tokyo: hnd302
 - **Malaysia** Kuala Lumpur: kul302
 - **Netherlands** Amsterdam: ams302-304
 - **Poland** Warsaw: waw302
 - **Portugal** Lisbon: lis301
 - **Singapore** Singapore: sin301,302
 - **Spain** Madrid: mad301
-- **South Korea** Seoul: icn303
 - **Sweden** Stockholm: arn301,302
 - **UK** Manchester: man303
 - Canterbury: mse302
