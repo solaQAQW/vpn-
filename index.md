@@ -450,9 +450,9 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 以下方式任选一种即可：
 
--官网右下角的“Help”在线聊天框->Get in touch->Live Chat，直接发送“Please enable V1 account for me because I am in China.”。也有中文客服在线，可以在聊天窗口使用中文沟通。
--用户后台页面的 Support tickets->Submit new ticket，填写信息;
--使用注册 StrongVPN 的邮箱发送邮件到 billing@strongvpn.com ,邮件内容 ：Please enable V1 account for me because I am inChina(激活针对 V1 精简版客户端的账号).
+- 官网右下角的“Help”在线聊天框->Get in touch->Live Chat，直接发送“Please enable V1 account for me because I am in China.”。也有中文客服在线，可以在聊天窗口使用中文沟通。
+- 用户后台页面的 Support tickets->Submit new ticket，填写信息;
+- 使用注册 StrongVPN 的邮箱发送邮件到 billing@strongvpn.com ,邮件内容 ：Please enable V1 account for me because I am inChina(激活针对 V1 精简版客户端的账号).
 
 官网有中文客服，一般情况下，可以发送中文。如果英文不熟悉，可以参考下面，发送任意一句话就OK了:
 
