@@ -1,6 +1,8 @@
 # 好用的VPN推荐，仅2款好用(2021年10月翻墙避坑)
 
-最近更新：`2021年10月2日`
+最近更新：`2021年10月9日`
+
+>**目前在中国能稳定地长期使用、好用的翻墙VPN很少了，不少VPN测评网站上推荐名单常年不变，部分推荐的VPN在国内已经无法使用**。本文根据我自己实际使用体验，介绍各款翻墙软件VPN近期使用情况，供大家参考和排雷。这篇文章是中国安全翻墙攻略的**详细版**，讨论翻墙软件、科学上网和网络安全的相关问题。如果只想快速选个科学上网软件来翻墙，直接看下方本文目录导航，不过一定要把相关的使用信息看完。
 
 >2021年10月使用表现简介：**PureVPN、Ivacy、SurfShark、VyprVPN等**在国内已经很难连接，蓝灯VPN存在翻墙隐私泄露，且服务器隔一段时间就会被封，看到不少博客上还挂着在推荐这些说在中国能用，大家注意避坑。NordVPN之前也是被重点打击，目前表现一般，标准版客户端可用节点不多，使用的话最好找客服获取特供客户端进行连接。**光年跑路**，客服无人应答，也不会有退款。**ExpressVPN和StrongVPN一直表现尚可，长期可用**，ExpressVPN全平台适用，体验也最好；StrongVPN最便宜，适用Windows、Mac和安卓手机端（使用特供精简版客户端稳定性不错），iPhone表现不如Express，要联系客服手动配置翻墙。
 > 
@@ -9,8 +11,6 @@
 翻墙（科学上网）对于我们的学习和生活重不重要？那是肯定的，不然也不会看到这篇文章了，翻不了墙就不能Google找程序代码，不能回Gmail邮件，不翻墙就不能看YouTube视频，Udemy买的课程能不能看的舒服？HBO、Netflix能不能追剧？由于工作出差和生活学习需要我经常在国内不同地区翻墙上网，就自己的使用感受和对翻墙软件这个行业的了解，为读者推荐在国内最好用、稳定和安全的科学上网方法和工具，并长期关注VPN、SSR、WireGuard、V2Ray、蓝灯等翻墙和信息安全技术。
 
 [![翻墙VPN推荐](https://www.safewebcn.com/img/wall-min.png "梯子")](#%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6vpn%E6%8E%A8%E8%8D%90%E7%A8%B3%E5%AE%9A%E5%A5%BD%E7%94%A8%E5%90%AB2021%E4%BC%98%E6%83%A0)
-
->这篇文章是中国安全翻墙攻略的**详细版**，讨论翻墙软件、科学上网和网络安全的相关问题。如果只想快速选个科学上网软件来翻墙，直接看下方本文目录导航。
 
 本文作者常年出差，由于生活和工作需要，也为了自己查找资料更加便利，我手机和PC上安装了一共7-8个付费翻墙APP作为常年的备用，担心出差途中不能翻墙和公共网络的安全性，所有我比较关注这类翻墙软件在不同网络环境下的稳定性和隐私数据的安全性。根据自己过去2年的测试和使用体验，对几种国内流行的翻墙软件和技术方法做出对比，读者可根据自己的实际情况选择合适的翻墙工具。
 
@@ -344,7 +344,7 @@ ExpressVPN支持银联、信用卡、Paypal等多种方式付款。付款后，�
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
->2021年10月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，**目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的**，有优惠码可使用。**Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP或UDP）协议连接成功率一直很高**（在大多数时期比标准客户端连接也更加稳定），而且能连的节点也较多，这也是尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本更新。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法,iPhone用户建议使用[ExpressVPN](#1-expressvpn--速度体验最佳)，在iPhone的App版本中ExpressVPN长期的稳定性还是比StrongVPN要强，已经购买StrongVPN的iPhone用户可以找客服获取手动连接线路和方案。
+>2021年10月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，**目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的**，目前也有较大的价格优惠。**Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP或UDP）协议连接成功率一直很高**（在大多数时期比标准客户端连接也更加稳定），而且能连的节点也较多，这也是尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本更新。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法,iPhone用户建议使用[ExpressVPN](#1-expressvpn--速度体验最佳)，在iPhone的App版本中ExpressVPN长期的稳定性还是比StrongVPN要强，已经购买StrongVPN的iPhone用户可以找客服获取手动连接线路和方案。
 
 StrongVPN创办于2005年，是一家美国的老牌VPN服务商，在35个国家的59个城市拥有950+个VPN服务器，以及近60000个IP地址，前文说过，大量的IP地址资源是应对墙的封锁最有效的办法。
 
@@ -404,7 +404,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 [![Strong-device](https://www.safewebcn.com/img/StrongVPN-price-table-min.png)](#如何获取strongvpn)
 
-付款方式支持支付宝Alipay、信用卡和Paypal等，**目前有特价活动可以优惠20%**，进入官网后，拉到页面最下方，在“Interact”栏点击“Coupons“能看到优惠，单月套餐也可以使用。如果实时的促销优惠大于特价20%的优惠，以实时优惠为准。
+付款方式支持支付宝Alipay、信用卡和Paypal等，目前有特价活动，进入官网后，拉到页面最下方，在“Interact”栏点击“Coupons“能看到优惠，单月套餐也可以使用。**如果实时的促销优惠大于特价20%的优惠，以实时优惠为准。**
 
 输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
 
@@ -448,11 +448,21 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 [![Strong-feedback](https://www.safewebcn.com/img/strong-feedback-1.png)](#2-strongvpn--性价比最佳)
 
-官网有中文客服，一般情况下，可以发送中文。如果英文不熟悉，可以参考下面，发送任意一句话就OK了:
->Please enable V1 account for me because I am in China.
->“Hello,I live in China.I am using legacy V1 app but cannot login,the V2 app doesn't work for me in China.”
+**联系客服方式：**
 
-**下载地址：（需先联系客服激活登录账号）**
+以下方式任选一种即可：
+
+- 1. 官网右下角的“Help”在线聊天框->Get in touch->Live Chat，直接发送“Please enable V1 account for me because I am in China.”。也有中文客服在线，可以在聊天窗口使用中文沟通。
+- 2. 用户后台页面的 Support tickets->Submit new ticket，填写信息;
+- 3. 使用注册 StrongVPN 的邮箱发送邮件到 billing@strongvpn.com ,邮件内容 ：Please enable V1 account for me because I am inChina(激活针对 V1 精简版客户端的账号).
+
+官网有中文客服，一般情况下，可以发送中文。如果英文不熟悉，可以参考下面，发送任意一句话就OK了:
+
+>Please enable V1 account for me because I am in China.
+>
+>Hello,I live in China.I am using legacy V1 app but cannot login,the V2 app doesn't work for me in China.
+
+**下载地址：（需先联系客服激活登录账号，见上文）**
 
 <a rel="nofollow noopener" href="https://mirror3.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">Windows精简版客户端V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">备用下载地址</a>）
 
@@ -460,11 +470,9 @@ Mac精简版<a rel="nofollow noopener" href="https://mirror3.reliablehosting.com
 
 安卓精简版<a rel="nofollow noopener" href="https://mirror3.reliablehosting.com/android/1.7.0.apk" target="_blank">下载地址</a>
 
-下载安装APP客户端、联系客服开通OpenVPN账户后，打开输入用户名密码登录就行了，如果仍有登陆问题，请看前文的解决方法。
+下载安装APP客户端、联系客服开通OpenVPN账户权限后，打开输入用户名密码登录就可以使用了，如果仍有登陆问题，请联系客服说明问题。
 
-**选择国内能连接翻墙的节点的具体方法，可以查看[Strong线路如何选择](#strong线路选择)**。
-
-在中国使用，连接协议（Protocol）选择OpenVPN(TCP)，如果连接不畅需要重新安装OpenVPN的TAP驱动。
+在中国使用，**选择国内能连接翻墙的节点的具体方法，可以查看[Strong线路如何选择](#strong线路选择)**。连接协议（Protocol）选择OpenVPN(TCP)，如果连接不畅需要重新安装OpenVPN的TAP驱动，点击客户端界面的Advanced，然后点击options，最后点击左下角的Reinstall TAP Driver。
 
 StrongVPN专用精简版客户端V1 App（**中国用户推荐使用，国内使用比标准版客户端更容易连接**）：
 
@@ -491,7 +499,7 @@ StrongVPN Windows客户端标准版(**这个版本不推荐在国内使用，敏
 
 官方建议：Change your VPN connection protocol If changing server did not help you get connected, try changing your protocol. We recommend using OpenVPN via TCP configuration for customers in China. If fails, then try the aforementioned protocols with Scramble feature enabled.
 
-官方的意思也就是说：“在中国使用建议使用OpenVPN的TCP协议，并开启Scramble功能选项。”Scramble功能应该是官方的魔改OpenVPN协议，加入了混淆算法，在敏感时期更容易连接上。比如在精简版客户端的界面点击Advanced，然后在弹出来的窗口点击options选项，Scramble选择Obfuscate，然后点击OK，重新启动客户端。
+官方的意思也就是说：“在中国使用建议使用OpenVPN的TCP协议，并开启Scramble功能选项。”Scramble功能应该是官方二次开发的OpenVPN协议，加入了混淆算法，降低被墙探测到的几率，IP存活的时间更长，在敏感时期更容易连接上。比如在精简版客户端的界面点击Advanced，然后在弹出来的窗口点击options选项，Scramble选择Obfuscate，然后点击Apply，重新启动客户端。
 
 [![Strong客户端精简版设置](https://www.safewebcn.com/img/strongvpn客户端设置.png)](#strong速度测试)
 
@@ -500,17 +508,15 @@ StrongVPN Windows客户端标准版(**这个版本不推荐在国内使用，敏
 
 - 欧洲（UK、德国、法国、意大利、西班牙等），线路多，更容易连接
 - 北美地区的节点
-- 韩国（South Korea - Seoul）
+- 韩国（South Korea - Seoul），速度不错
 - 日本（Japan）
 - 澳大利亚
 
-美国的不少节点可以连接，但在我自己测试相对其他地区慢一些（电信网络），**网络环境不同最佳节点可能也不一样**，你可以自己测试进行节点的选择。
-
-由于墙的不断升级，建议使用精简版客户端，可以找在线客服获取，直接说在中国使用就会帮你设置好账户。
+美国的不少节点可以连接，但在我自己测试有些节点速度还不错，有些就一般（电信网络），**网络环境不同最佳节点可能也不一样**，你可以自己测试进行节点的选择。
 
 ### Strong线路选择
 
-在不同的网络运营商下，连接同一节点的速度也可能不同，每个节点的网络速度也会不一样。但StrongVPN我选择线路有一点原则，就是选择当前使用人数相对较少的节点。然后多测试几个节点，选择速度最满意的作为常用节点。登录官网用户后台，然后点击'VPN Accounts'，在下拉框里面点击'Legacy VPN Accounts Summary'，查看下面的“Servers available”，就可以查看各个节点和当前使用人数。我测试的结果是当前使用人数相对较少的节点的速度还是好于人数上万的节点。
+在不同的网络运营商下，连接同一节点的速度也可能不同，每个节点的网络速度也会不一样。但StrongVPN我选择线路有一点原则，就是选择当前使用人数相对较少的节点。然后多测试几个节点，选择速度最满意的作为常用节点。登录官网用户后台，然后点击'VPN Accounts'，在下拉框里面点击'Legacy VPN Accounts Summary'，查看下面的“Servers available”，就可以查看各个节点和当前使用人数。我测试的结果是当前使用人数相对较少的节点的速度还是好于人数上万的节点，不过这也很大程度上取决于服务器带宽和物理距离，也可以参考下文的步骤选择线路进行连接。
 
 **精简版客户端节点选择方法**：
 
@@ -524,13 +530,12 @@ StrongVPN Windows客户端标准版(**这个版本不推荐在国内使用，敏
 
 下面的线路是之前找客服要的，在中国能用的线路，给大家参考。按上面的方法选择线路，一定要精确到某个城市的具体线路的编号：
 
-注：下面的所有服务器线路在所有时间段不一定都能连，防火长城隔一段时间就会升级，部分线路可能会有被墙的，也会有新的线路加入，大家可以自己测试，最新的可用线路列表可以找在线客服获取。
+注：下面所示的服务器线路并不全，因为防火长城隔一段时间就会升级，少数线路可能会有被墙的，不过每次也会有新的可用线路加入，大家可以自己测试，最新的可用线路列表可以找在线客服获取。
 
 (日本、韩国、美国的San Franciso、英国的Rugby london都不错。如果只上网飞的话，推荐日本节点，快而且内容多。)
 
-- **Germany** Frankfurt: fra302-303
-- **Australia** Melbourne: mel301
-- **Sydney**: syd301,302
+- **Germany** Frankfurt: fra301-303
+- **South Korea** Seoul: icn303，304，305
 - **Belgium** Brussels: bru301
 - **Canada** Montreal: yul301-303
 - Toronto: yyz301
@@ -544,9 +549,10 @@ StrongVPN Windows客户端标准版(**这个版本不推荐在国内使用，敏
 - **Poland** Warsaw: waw302
 - **Portugal** Lisbon: lis301
 - **Singapore** Singapore: sin301,302
-- **South Korea** Seoul: icn303
 - **Spain** Madrid: mad301
 - **Sweden** Stockholm: arn301,302
+- **Australia** Melbourne: mel301
+- Sydney: syd301,302
 - **UK** Manchester: man303
 - Canterbury: mse302
 - London: lcy313-318
