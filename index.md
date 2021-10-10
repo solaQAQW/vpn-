@@ -2,7 +2,7 @@
 
 最近更新：`2021年10月9日`
 
->**目前在中国能稳定地长期使用、好用的翻墙VPN很少了，不少VPN测评网站上推荐名单常年不变，部分推荐的VPN在国内已经无法使用**。本文根据我自己实际使用体验，介绍各款翻墙软件VPN近期使用情况，供大家参考和排雷。这篇文章是中国安全翻墙攻略的**详细版**，讨论翻墙软件、科学上网和网络安全的相关问题。如果只想快速选个科学上网软件来翻墙，直接看下方本文目录导航，不过一定要把相关的使用信息看完。
+>**目前在中国能稳定地长期使用、好用的翻墙VPN很少了，不少VPN测评网站上的推荐名单常年不变，部分推荐的VPN在国内已经无法使用**。本文根据我自己的实际使用体验，介绍各款翻墙软件VPN近期使用情况，供大家参考和排雷。这篇文章是中国安全翻墙攻略的**详细版**，讨论翻墙软件、科学上网和网络安全的相关问题。如果只想快速选个科学上网软件来翻墙，直接看下方本文目录导航，不过一定要把相关的使用信息看完。
 
 >2021年10月使用表现简介：**PureVPN、Ivacy、SurfShark、VyprVPN等**在国内已经很难连接，蓝灯VPN存在翻墙隐私泄露，且服务器隔一段时间就会被封，看到不少博客上还挂着在推荐这些说在中国能用，大家注意避坑。NordVPN之前也是被重点打击，目前表现一般，标准版客户端可用节点不多，使用的话最好找客服获取特供客户端进行连接。**光年跑路**，客服无人应答，也不会有退款。**ExpressVPN和StrongVPN一直表现尚可，长期可用**，ExpressVPN全平台适用，体验也最好；StrongVPN最便宜，适用Windows、Mac和安卓手机端（使用特供精简版客户端稳定性不错），iPhone表现不如Express，要联系客服手动配置翻墙。
 > 
@@ -249,7 +249,7 @@ ExpressVPN并非如很多口是心非的不良厂商，它的无日志政策是�
 
 ### ExpressVPN的缺点
 
-[![express-vpn-servers](https://www.safewebcn.com/img/express-vpn-servers-min.png)](#https://www.fastvpncn.com/expressvpn)
+[![express-vpn-servers](https://www.safewebcn.com/img/express-vpn-servers-min.png)](https://www.fastvpncn.com/expressvpn)
 
 - ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右，现在有限时优惠**买一年送三个月活动，每月$6.67/月**，支持银联卡、Paypal和信用卡等支付方式。
 
@@ -273,7 +273,7 @@ ExpressVPN并非如很多口是心非的不良厂商，它的无日志政策是�
 
 除了上面那些优化过的服务器线路，**中国用户也可以改为“`L2TP – IPsec`”协议使用其它的服务器线路**，但是其他那些服务器没有经过混淆算法优化，速度和稳定性可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
 
-关于使用和更新客户端的问题，请查看<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/21" target="_blank">问题#21</a>。关于更多ExpressVPN的信息，可以查看<a rel="noopener" href="https://www.cepingtu.com/express-vpn-review-in-china/" target="_blank">ExpressVPN在中国怎么样</a>。
+关于使用和更新客户端的问题，请查看<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/21" target="_blank">问题#21</a>。关于更多ExpressVPN的信息，可以查看<a rel="noopener" href="https://www.fastvpncn.com/2021%E5%B9%B4expressvpn%E5%9C%A8%E5%9B%BD%E5%86%85%E4%BD%BF%E7%94%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F/" target="_blank">ExpressVPN在中国怎么样</a>。
 
 ### ExpressVPN速度测试
 
@@ -344,7 +344,7 @@ ExpressVPN支持银联、信用卡、Paypal等多种方式付款。付款后，�
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
->2021年10月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，**目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的**，目前也有较大的价格优惠。**Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP或UDP）协议连接成功率一直很高**（在大多数时期比标准客户端连接也更加稳定），而且能连的节点也较多，这也是尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本更新。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法,iPhone用户建议使用[ExpressVPN](#1-expressvpn--速度体验最佳)，在iPhone的App版本中ExpressVPN长期的稳定性还是比StrongVPN要强，已经购买StrongVPN的iPhone用户可以找客服获取手动连接线路和方案。
+>2021年10月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，**目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的**，目前也有较大的价格优惠。**Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP或UDP）协议连接成功率一直很高**（在大多数时期比标准客户端连接也更加稳定），而且能连的节点也较多，这也是尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本更新。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法,iPhone用户建议使用<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN</a>，在iPhone的App版本中ExpressVPN长期的稳定性还是比StrongVPN要强，已经购买StrongVPN的iPhone用户可以找客服获取手动连接线路和方案。
 
 StrongVPN创办于2005年，是一家美国的老牌VPN服务商，在35个国家的59个城市拥有950+个VPN服务器，以及近60000个IP地址，前文说过，大量的IP地址资源是应对墙的封锁最有效的办法。
 
@@ -380,7 +380,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 [![Strong-device](https://www.safewebcn.com/img/strong-home.png)](#2-strongvpn--性价比最佳)
 
-**在国内的Windows用户可以下载StrongVPN特供精简版客户端V1 app，在中国登录和连接更为顺畅，Windows版的标准版客户端在国内的某些网络首次登录可能比较困难，精简版客户端V1 app版本在敏感时期时连接成功率也很稳定**。后文放上官网精简版的下载链接，也可以联系客服提供精简版客户端V1 app的下载地址。iPhone苹果手机APP版本的登录和使用直接使用App Store下载安装即可，但标准版客户端的使用肯定不如特供的精简版稳定，需要通过iOS的系统进行手动设置，**iPhone在中国境内使用，联系客服提供相应的设置办法和信息**。
+**在国内的Windows、Mac和安卓用户建议联系客服下载使用StrongVPN特供精简版客户端V1 app，在中国登录和连接更为顺畅，官方直接下载安装的标准版客户端在国内登录和连接可能存在问题**。iPhone苹果手机APP版本的登录和使用直接使用App Store下载安装即可，但标准版客户端的使用肯定不如特供的精简版稳定，需要通过iOS的系统进行手动翻墙，**iPhone在中国境内使用StrongVPN，联系客服说iPhone版本App无法在中国使用，客服会给你配置信息和方法**。
 
 **联系客服的方法：**
 
@@ -390,11 +390,9 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 >
 >3.用注册StrongVPN相同的邮箱，发送邮件到 billing@strongvpn.com，邮件内容：Please enable V1 account for me because I am in China.(激活针对V1精简版客户端的账号)
 
-**另外，和Windows系统一样，Mac和安卓用户也可以找客服获取精简版客户端V1 app，在敏感时期连接成功率很高，官网的标准版客户端存在连接问题**。
-
 使用的时候直接通过精简版客户端APP一键连接就行了，不用自己手动设置，敏感时期如果遇到封锁，可在官网右下角的在线聊天框找客服获取连接方案。能连接的节点比ExpressVPN多一些，建立连接所需的时间也比ExpressVPN略快，但是网络速度比ExpressVPN慢，不过打开网页和看Youtube高清视频也基本够用，无论是电脑还是手机（包括iPhone和安卓）APP客户端的使用体验和稳定性在我使用的大厂VPN软件中目前仅次于ExpressVPN，**对于在乎性价比的人来说，是除[ExpressVPN](#1-expressvpn--速度体验最佳)外的最佳选择**。
 
-如果安装或者连接遇到问题，可以在官网的右下角的“帮助”在线聊天框，选择在线聊天->Technical Support（技术支持），咨询客服相关问题，我有几次遇到连接问题都是找技术支持解决的。**连接协议建议选择`OpenVPN TCP`**。
+如果安装或者连接遇到问题，可以在官网的右下角的“帮助”在线聊天框，选择在线聊天->Technical Support（技术支持），咨询客服相关问题，我有几次遇到连接问题都是找技术支持解决的。**连接协议建议选择`OpenVPN(TCP)协议`**。
 
 除了最基本的VPN套餐，官网还会额外赠送250 GB SugarSync云储存套餐，赠送的服务值不值见仁见智。
 
@@ -452,9 +450,9 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 以下方式任选一种即可：
 
-- 1. 官网右下角的“Help”在线聊天框->Get in touch->Live Chat，直接发送“Please enable V1 account for me because I am in China.”。也有中文客服在线，可以在聊天窗口使用中文沟通。
-- 2. 用户后台页面的 Support tickets->Submit new ticket，填写信息;
-- 3. 使用注册 StrongVPN 的邮箱发送邮件到 billing@strongvpn.com ,邮件内容 ：Please enable V1 account for me because I am inChina(激活针对 V1 精简版客户端的账号).
+-官网右下角的“Help”在线聊天框->Get in touch->Live Chat，直接发送“Please enable V1 account for me because I am in China.”。也有中文客服在线，可以在聊天窗口使用中文沟通。
+-用户后台页面的 Support tickets->Submit new ticket，填写信息;
+-使用注册 StrongVPN 的邮箱发送邮件到 billing@strongvpn.com ,邮件内容 ：Please enable V1 account for me because I am inChina(激活针对 V1 精简版客户端的账号).
 
 官网有中文客服，一般情况下，可以发送中文。如果英文不熟悉，可以参考下面，发送任意一句话就OK了:
 
@@ -530,7 +528,7 @@ StrongVPN Windows客户端标准版(**这个版本不推荐在国内使用，敏
 
 下面的线路是之前找客服要的，在中国能用的线路，给大家参考。按上面的方法选择线路，一定要精确到某个城市的具体线路的编号：
 
-注：下面所示的服务器线路并不全，因为防火长城隔一段时间就会升级，少数线路可能会有被墙的，不过每次也会有新的可用线路加入，大家可以自己测试，最新的可用线路列表可以找在线客服获取。
+**注：下面所示的服务器线路并不全，因为防火长城隔一段时间就会升级，少数线路可能会有被墙的，不过每次也会有新的可用线路加入，大家可以自己测试，最新的可用线路列表可以找在线客服获取。**
 
 (日本、韩国、美国的San Franciso、英国的Rugby london都不错。如果只上网飞的话，推荐日本节点，快而且内容多。)
 
