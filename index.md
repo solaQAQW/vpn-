@@ -20,7 +20,7 @@
 
 其实就2021年的今天来看，使用VPN加密、安全翻墙依然是最适合大多数人的最方便、安全的科学上网工具，同样也是我长期关注和测试的。目前国内还能使用的正规VPN已经被墙的差不多了，只剩下看重中国市场的几款大牌VPN还算稳定。**如果你不想多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择下面的2个，也是我长期使用的，接下来把基本信息和翻墙体验简单介绍一下**：
 
-> - [StrongVPN](#2-strongvpn--性价比最佳)，成立于2005年的老牌VPN，母公司是J2 Global集团（在纳斯达克上市）。目前StrongVPN的**价格在大厂VPN中最便宜**，综合性价比最高，支持支付宝付款，这点比较方便。我已经使用了2年左右，总体来讲，在过去2年的使用时间里，全年可用率基本能达到95%左右，有些服务器的IP也会常年更新。**使用请注意：在国内的Windows、Mac和安卓用户可以在官网右下角的“Help”在线帮助窗口、或者在用户后台页面发ticket找客服要精简客户端V1 app（中国特供客户端），直接说在中国使用客服就会帮你设置好，可以发中文，客服7/24在线。精简版客户端使用OpenVPN协议在中国的登录和连接更为顺畅**，而官网直接下载的标准客户端在敏感时期封锁的时候可能会出现连接问题，需要等更新之后才能恢复，**国内用户最好直接使用适合中国地区使用的简化版客户端的OpenVPN协议进行连接，下文中有教程**。iPhone手机由于iOS系统封闭的限制，目前还没有为中国网络环境特供的APP，而且StrongVPN的通用iOS版本面对墙封锁的稳定性欠佳，使用时需联系客服进行手动配置翻墙，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>。目前Strong有8折优惠券可以使用，**Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度不是刚需的用户也够用了**。StrongVPN官网域名在中国被墙（软件APP能正常使用），[国内的网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑host文件才可以访问，因为在国内Strong官网DNS被定位到不能访问的IP，需要修改本地的DNS才能顺利访问官网。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要断开梯子、使用本地网络访问，这点比较麻烦。**StrongVPN的退款时限是30天**，退款是全额按付款途径返回，所以有充分的时间进行测试，遇到问题可以联系在线客服，官网右下角“帮助”对话框或者发Ticket消息都行，大部分的问题基本都能解决。
+> - [StrongVPN](#2-strongvpn--性价比最佳)，成立于2005年的老牌VPN，母公司是J2 Global集团（在纳斯达克上市）。目前StrongVPN的**价格在大厂VPN中最便宜**，综合性价比最高，支持支付宝付款，这点比较方便。我已经使用了2年左右，总体来讲，在过去2年的使用时间里，全年可用率基本能达到95%左右，不挑线路的话是几乎100%能连，线路也会常年更新。**使用请注意：在国内的Windows、Mac和安卓用户建议使用StrongVPN特供的精简客户端，可以在官网右下角的“Help”在线帮助窗口、或者在用户后台页面发ticket找客服要精简客户端V1 app（中国特供客户端），直接说在中国使用客服就会帮你设置好，可以发中文，客服7/24在线。精简版客户端使用OpenVPN协议在中国的登录和连接更为顺畅**，而官网直接下载的标准客户端在敏感时期封锁的时候可能会出现连接问题，需要等更新版本，**国内用户最好直接使用适合中国地区使用的简化版客户端的OpenVPN协议进行连接，下文中有教程**。iPhone手机由于iOS系统封闭的限制，目前还没有为中国网络环境特供的APP，而且StrongVPN的通用iOS版本面对墙封锁的稳定性欠佳，使用时需联系客服进行手动配置翻墙，iPhone用户建议还是选择<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN</a>。**Strong翻墙时的网络速度相对于ExpressVPN要慢，不过对于平时对油管1080P及以上清晰度不是刚需的用户也够用了**。StrongVPN官网域名在中国被墙（软件APP能正常使用），[国内的网络打开StrongVPN官网](#如何打开strongvpn官网)需要改电脑host文件才可以访问，因为在国内Strong官网DNS被定位到不能访问的IP，需要修改本地的DNS才能顺利访问官网。有梯子的同学可以用梯子访问，如果用梯子不能购买，可能防欺诈系统检测到使用代理IP（可以购买不要管），就要断开梯子、使用本地网络访问，这点比较麻烦。**StrongVPN的退款时限是30天**，退款是全额按付款途径返回，所以有充分的时间进行测试，遇到问题可以联系在线客服，官网右下角“帮助”对话框或者发Ticket消息都行，大部分的问题基本都能解决。
 > 
 > - <a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">ExpressVPN（优惠活动链接）</a>，这款**在国内体验最好，速度在我所用过的VPN中最快**，也是我自己很喜欢的VPN产品，但在中国可访问的镜像网站无法购买，只针对客户端更新和联系客服使用，**<a rel="nofollow noopener" href="https://www.fastvpncn.com/expressvpn" target="_blank">打开ExpressVPN官网</a>需其他梯子**。它设备支持最全面，**iOS（iPhone、iPad）和Android安卓移动端用户翻墙首选**，已经运营了13年（至2021年），国内外口碑都很好，我相信你不是第一次听到它，事实上国内外几乎所有VPN测评网站上都在C位推荐它。安全性方面它也是行业中最好的之一，官方称为“军事级别”的加密算法，保护用户的上网信息的安全。它在中国使用不能称得上非常完美，但能保障在中国每年95%以上（我的使用体验）的可用率，速度也是我所使用和测试所有的科学上网VPN中最快的。**平时建议使用Lightway协议进行连接（Automatic也可以），Lightway协议是Express官方2021年独家研发的最新VPN协议，在国内的连接成功率很高**。敏感时期遇到墙升级，官方推荐的针对中国地区优化的服务器线路如果遇到连接问题，可以切换L2TP协议（电脑端）连接其他节点，这个协议也有一些线路在敏感时期仍然可用，可以作为备用选择，**服务器线路的更新一般需要2-3个工作日开始陆续恢复，注意要更新最新的客户端才能恢复使用**。目前由于政策原因，ExpressVPN的支付宝付款通道被暂停了，优先选择银联卡(国内银行卡)、VISA和MasterCard信用卡和Paypal（查看[购买ExpressVPN的方法](#如何购买expressvpn)）。ExpressVPN的退款政策是有30天的试用期，试用期内不满意可全额退款，退款是按付款方式原路返回。
 
@@ -350,15 +350,15 @@ StrongVPN创办于2005年，是一家美国的老牌VPN服务商，在35个国�
 
 ### StrongVPN在中国表现怎么样？
 
-StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Global公司NetProtect项目旗下的品牌，J2 Global是纳斯达克上市公司（股票代码：JCOM），公司主营业务主要是为个人和企业提供通信和云计算服务，技术和资金实力十分雄厚。从近2年开始也开始重视开发中国市场，售后服务也不错，它也和Express一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，**给在中国境内的用户提供最新的使用信息和公告，帖子有中文版（<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>点击右上角Help，搜索 “在中国境内如何下载，安装以及使用StrongVPN”）**，其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（在官网的右下角的“Help”帮助聊天框，选择Technical Support），2020年几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的精简客户端一直很稳定。从19年初开始使用到现在，过去2年总体使用情况来看，翻墙可用率可保持在95%左右**。服务器经常会时常更新，每次登陆客户端都会自动检测服务器的更新。
+StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Global公司NetProtect项目旗下的品牌，J2 Global是纳斯达克上市公司（股票代码：JCOM），公司主营业务主要是为个人和企业提供通信和云计算服务，技术和资金实力十分雄厚。从近2年开始也开始重视开发中国市场，售后服务也不错，它也和Express一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，**给在中国境内的用户提供最新的使用信息和公告，帖子有中文版（<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>点击右上角Help，搜索 “在中国境内如何下载，安装以及使用StrongVPN”）**，其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（在官网的右下角的“Help”帮助聊天框，选择Technical Support），2020年几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的精简客户端一直很稳定。从19年初开始使用到现在，过去2年总体使用情况来看，翻墙可用率可保持在95%以上**。服务器经常会时常更新，每次登陆客户端都会自动检测服务器的更新。
 
 另外提醒一下，建议在官网右下角的在线聊天框或者在用户后台页面发ticket，联系客服获取特供的精简版客户端，直接说在中国使用客服就会帮你搞定账号设置和提供精简版客户端最新版本的下载地址。这个版本在国内很好用，我一直用的精简版客户端，官网直接安装的通用版的节点时不时会被屏蔽，我很长时间没用了。
 
 ### 如何打开StrongVPN官网？
 
->下载安装Strong客户端和使用请详细阅读本文，避免后续使用出现问题。
+>购买、下载和安装Strong客户端和使用请详细阅读本文，避免后续使用出现问题。
 
-有梯子的同学直接可访问<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，但如果在套餐下单时页面出现“We detected that you are using a VPN or Proxy service...”而不能购买（可以顺利下单的话不用管），说明StrongVPN反欺诈系统检测到你是用代理IP访问的（国外存在代理IP盗刷信用卡），要断开梯子使用本地网络访问官网，方法如下文。
+有梯子的同学直接**可访问<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网（独家优惠）</a>**，但如果在套餐下单时页面出现“We detected that you are using a VPN or Proxy service...”而不能购买（可以顺利下单的话不用管），说明StrongVPN反欺诈系统检测到你是用代理IP访问的（国外存在代理IP盗刷信用卡），要断开梯子使用本地网络访问官网，方法如下文。
 
 **国内本地网络访问方法**：Strong官网在中国被墙，国内打开官网需要改电脑Host文件，因为其官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
@@ -366,11 +366,11 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键另存为)。
 
-2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
+2.Windows用户将下载的hosts文件移动到文件夹，路径是`C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
 3.完成之后清空浏览器缓存、刷新或重启浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank"> 点击获取StrongVPN独家优惠</a>。
 
-完成之后，就可以正常访问官网了。购买后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
+完成之后，就可以正常访问官网了。购买后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)，另外，**官网有如何在中国使用StrongVPN的中文版详细帖子：（<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">打开StrongVPN官网</a>，点击右上角Help，搜索 “在中国境内如何下载，安装以及使用StrongVPN”）**。
 
 如果访问官网仍然打不开，可能官方网站的服务器IP有变动，请在本页面issues提醒，或者等待1天左右，我会更新最新版本的hosts文件。
 
@@ -451,7 +451,9 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 以下方式任选一种即可：
 
 - 官网右下角的“Help”在线聊天框->Get in touch->Live Chat，直接发送“Please enable V1 account for me because I am in China.”。也有中文客服在线，可以在聊天窗口使用中文沟通。
+- 
 - 用户后台页面的 Support tickets->Submit new ticket，填写信息;
+- 
 - 使用注册 StrongVPN 的邮箱发送邮件到 billing@strongvpn.com ,邮件内容 ：Please enable V1 account for me because I am inChina(激活针对 V1 精简版客户端的账号).
 
 官网有中文客服，一般情况下，可以发送中文。如果英文不熟悉，可以参考下面，发送任意一句话就OK了:
@@ -460,7 +462,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 >
 >Hello,I live in China.I am using legacy V1 app but cannot login,the V2 app doesn't work for me in China.
 
-**下载地址：（需先联系客服激活登录账号，见上文）**
+**下载地址：（需先联系客服，见上文）**
 
 <a rel="nofollow noopener" href="https://mirror3.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">Windows精简版客户端V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">备用下载地址</a>）
 
