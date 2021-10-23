@@ -519,7 +519,7 @@ Paypal和信用卡就不用说了，和在其他网站上付款一样，比较�
 
 连接协议可以设置成默认的Automatic，也可以改为Lightway或OpenVPN协议，我一般使用Lightway或OpenVPN。其中Lightway是Expresss官方于2021年新开发的VPN协议，在保证安全性的前提下，在国内的速度和连接成功率更加有改善。Lightway协议目前是Expresss独家开发，目前看连接成功率比起传统的VPN协议更加具有优势。
 
-除了上面那些优化过的服务器线路，**中国用户也可以改为L2TP – IPsec协议和IKEV-2协议使用其它的服务器线路**，敏感期有少数线路能连，大家可以去测速，但是其他那些服务器没有经过混淆算法优化，速度和稳定性可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
+除了上面那些优化过的服务器线路，**中国用户也可以改为L2TP – IPsec协议和IKEV-2协议使用其它的服务器线路**，敏感期有少数线路能连，大家可以自己去测试，但是其他那些服务器线路没有经过混淆算法优化，速度和稳定性可能会不如官方推荐的线路，可以作为敏感时期的备用节点。
 
 关于使用和更新客户端的问题，请查看<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/21" target="_blank">问题#21</a>。关于更多ExpressVPN的信息，可以查看<a rel="noopener" href="https://www.fastvpncn.com/2021%e5%b9%b4expressvpn%e5%9c%a8%e5%9b%bd%e5%86%85%e4%bd%bf%e7%94%a8%e6%80%8e%e4%b9%88%e6%a0%b7%ef%bc%9f/" target="_blank">ExpressVPN在中国怎么样</a>。
 
@@ -554,7 +554,7 @@ iPhone手机使用移动4G网络连接ExpressVPN的Marina Bay节点，使用Spee
 
 综合评价：这款VPN是我经常使用的一款，从16年开始使用到现在，其客户端的美观简洁、服务的稳定性、连接速度在我们测试的所有VPN产品中属于一流，可称得上是在国内最好用的翻墙VPN。在我们的测试中，ExpressVPN几乎没有对我们的网速造成任何影响，浏览网页、观看YouTube十分流畅。ExpressVPN的服务器遍布全球94个国家，并且对使用流量和带宽没有任何限制。
 
-在安全性方面，他们也做得很好，支持256位`Lightway, OpenVPN(TCP, UDP), L2TP-IPsec, SSTP和PPTP`等加密协议，并且不保留用户日志，用户可以放心上网而不必担心个人隐私泄露。
+在安全性方面，他们也做得很好，支持256位`Lightway, OpenVPN(TCP, UDP), L2TP-IPsec, IKEV-2和PPTP`等加密协议，并且不保留用户日志，用户可以放心上网而不必担心个人隐私泄露。国内使用一般建议Lightway和OpenVPN协议，遇到封锁期可以尝试使用IKEV-2或L2TP-IPsec协议连接别的线路。
 
 ExpressVPN的客服是业内最好的之一，随时提供网上帮助。此外，ExpressVPN兼容各种常见设备，并且可以配置在路由器上，在电脑（Windows或Mac）和移动设备（iPhone、安卓、平板）上都可以使用，**最多支持5台设备同时在线使用**。
 
