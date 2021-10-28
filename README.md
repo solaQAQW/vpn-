@@ -183,7 +183,7 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 
 ### StrongVPN在中国表现怎么样？
 
-StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Global公司NetProtect项目旗下的品牌，J2 Global是纳斯达克上市公司（股票代码：JCOM），公司主营业务主要是为个人和企业提供通信和云计算服务，技术和资金实力十分雄厚。从近2年开始也开始重视开发中国市场，售后服务也不错，它也和Express一样，发布了一个在中国使用StrongVPN的并实时更新的帖子，**给在中国境内的用户提供最新的使用信息和公告，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”**。其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（在官网的右下角的“Help”帮助聊天框，选择Technical Support），2020年几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的精简客户端一直很稳定**。
+StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Global公司NetProtect项目旗下的品牌，J2 Global是纳斯达克上市公司（股票代码：JCOM），公司主营业务主要是为个人和企业提供通信和云计算服务，技术和资金实力十分雄厚。目前进入VPN领域已有16年，近几年开始也开始重视开发中国市场，他家售后服务很不错，它也和Express一样，为应对墙的持续封锁，发布了一个在中国使用StrongVPN的并实时更新的帖子，**给在中国境内的用户提供最新的使用信息和公告，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”**。其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（在官网的右下角的“Help”帮助聊天框，选择Technical Support），2020年几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的精简客户端一直很稳定**。
 
 ### 如何打开StrongVPN官网？
 
@@ -201,7 +201,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank"> 获取StrongVPN独家优惠</a>。
 
-完成之后，就可以正常访问官网了。另外，**官方针对中国用户发布了中文版的使用教程，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”**。
+完成之后，就可以正常访问官网了。另外，**官方为应对墙的持续升级，保障国内用户的使用，针对中国用户发布了中文版的使用教程，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”**，就可以看到文章了。
 
 购买后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 
@@ -227,7 +227,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 [![Strong-device](https://www.safewebcn.com/img/StrongVPN-price-table-min.png)](#如何获取strongvpn)
 
-付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%**，优惠码是`TAKEOFF20` ，进入官网后，拉到页面最下方，在“Interact”栏点击“Coupons“也能看到，**如果活动价格折扣大于这个优惠折扣，系统默认以最大折扣的活动价为准**。另外支付宝支付的话只能买一个月或一年，后续续费的话要手动付款续费，不想续费不用管就行了；信用卡和Paypal支付的话是自动续费，但如果不想续费，可以在使用期限到之前随时取消续费。
+付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%**，优惠码是`TAKEOFF20` ，进入官网后，拉到页面最下方，在“Interact”栏点击“Coupons“也能看到（单月套餐使用这个更划算），**如果活动价格折扣大于这个优惠折扣，系统默认以最大折扣的活动价为准**。另外支付宝支付的话只能买一个月或一年，后续续费的话要手动付款续费，不想续费不用管就行了；信用卡和Paypal支付的话是自动续费，但如果不想续费，可以在使用期限到之前随时取消续费。
 
 接着输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
 
@@ -271,7 +271,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 1.联系在线客服，这种方式最快。官网右下角的“Help”在线聊天框->Get in touch->Live Chat，或者用户后台页面的Support tickets->Submit new ticket，填写信息提交;
 
-2.使用注册StrongVPN的邮箱发送邮件到billing@strongvpn.com ，邮件内容 ：Please enable V1 account for me because I am in China(激活针对V1精简版客户端的账号).
+2.使用注册StrongVPN的邮箱发送邮件到billing@strongvpn.com ，邮件内容 ：Please enable V1 account for me because I am in China(激活针对V1精简版客户端的账号)，一般一个工作日内激活。
 
 >Mac精简版<a rel="nofollow noopener" href="https://mirror3.reliablehosting.com/mac/StrongVPN_Mac-latest.dmg" target="_blank">V1 app下载地址</a>，使用前联系客服，说一下在中国使用，他会帮你设置账号，不然默认账号可能登录后没有OpenVPN协议的选项或者不能登录这个客户端。
 >
