@@ -12,7 +12,7 @@
 
 **重要提示**：在选择或者使用某款VPN之前，**一定要把本文中与对应的这款VPN相关的使用信息看完**，因为墙的不断增高，可能会涉及到安装和使用过程中的线路和连接协议选择问题，不然可能会导致使用不便。
 
-另外可以阅读本文的PDF版本：<a rel="nofollow noopener" href="https://www.safewebcn.com/download/vpn选择指南.pdf" target="_blank">2021版翻墙VPN选择指南PDF版本</a>(右键另存)，有一些VPN详细信息和使用提示，随时查阅，以备不时之需。**不过关于VPN科学上网、翻墙之类的信息大家自己看看就行了，不要在国内网络传播，原因你懂的！**
+另外本文中有一些关于VPN使用的详细信息和使用提示，觉得有用可以收藏，方便随时查阅，以备不时之需。**不过关于VPN科学上网、翻墙之类的信息大家自己看看就行了，不要在国内网络传播，原因你懂的！**
 
 >2021年9-11月信息汇总：**PureVPN、Ivacy、VyprVPN、SurfShark、蓝灯VPN等**在国内很难使用，服务器经常被封，大家注意避坑。NordVPN之前也是被重点打击，目前表现一般，有时需手动配置。光年已跑路，无法连接、客服也无人应，应该是卷款跑路了，很多国产翻墙软件大都是这个套路，注意避坑。**只有ExpressVPN和StrongVPN表现一直比较稳定，长期可用，ExpressVPN全平台适用，体验也最好；StrongVPN最便宜，特供版客户端适用Windows、Mac和安卓手机端（特供版客户端在国内使用稳定性不错）**，iPhone上使用StrongVPN可能要联系客服手动配置翻墙。
 > 
@@ -184,11 +184,11 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 
 ### StrongVPN在中国表现怎么样？
 
-StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Global公司NetProtect项目旗下的品牌，J2 Global是纳斯达克上市公司（股票代码：JCOM），公司主营业务主要是为个人和企业提供通信和云计算服务，技术和资金实力十分雄厚。目前进入VPN领域已有16年，近几年开始也开始重视开发中国市场，他家售后服务很不错，它也和Express一样，为应对墙的持续封锁，发布了一个在中国使用StrongVPN的并实时更新的帖子，**给在中国境内的用户提供最新的使用信息和公告，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”**。其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（在官网的右下角的“Help”帮助聊天框，选择Technical Support），2020年几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的精简客户端一直很稳定**。
+StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Global公司NetProtect项目旗下的品牌，J2 Global是纳斯达克上市公司（股票代码：JCOM），公司主营业务主要是为个人和企业提供通信和云计算服务，技术和资金实力十分雄厚。目前进入VPN领域已有16年，近几年开始也开始重视开发中国市场，他家售后服务很不错，它也和Express一样，为应对墙的持续封锁，发布了一个在中国使用StrongVPN的并实时更新的帖子，**给在中国境内的用户提供最新的使用信息和公告，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”**。其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（在官网的右下角的“Help”帮助聊天框，选择Technical Support），2020年几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的精简客户端使用也一直比较稳定**。
 
 ### 如何打开StrongVPN官网？
 
->下载安装Strong客户端和使用请详细阅读本文，避免后续使用出现问题。
+>下载安装Strong的精简版客户端和使用请详细阅读本文，避免后续使用出现问题。
 
 有梯子的同学直接可访问<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，但如果在套餐下单时页面出现“We detected that you are using a VPN or Proxy service...”而不能购买（可以顺利下单的话不用管），说明StrongVPN反欺诈系统检测到你是用代理IP访问的（国外存在代理IP盗刷信用卡），要断开梯子使用本地网络访问官网，方法如下文。
 
