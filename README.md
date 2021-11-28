@@ -315,15 +315,19 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 ### Strong速度测试
 
+网络环境：Windows系统、中国电信宽带WiFi
+
+测试地区：深圳
+
 日本东京节点测速：
 
-[![Strong客户端精简版](https://www.safewebcn.com/img/StrongVPN-speedtest-tokyo-2021-08-min.png)](#strong速度测试)
+[![Strong客户端精简版](https://www.safewebcn.com/img/StrongVPN-speedtest-tokyo-2021-11.png)](#strong速度测试)
 
 韩国首尔节点测速：
 
-[![Strong客户端精简版](https://www.safewebcn.com/img/strong-seoul-speedtest-2021-08-min.png)](#strong速度测试)
+[![Strong客户端精简版](https://www.safewebcn.com/img/strong-seoul-speedtest-2021-11.png)](#strong速度测试)
 
-这是最近我使用时的测试结果，测试平台为SpeedTest网页测速，上面的速度测试截图可以看到，连接Tokyo的节点，ping值89ms，下载速度为10Mbps，上行速度为21.55Mbps；Seoul节点ping值67ms，下载速度为28.03Mbps，上行速度为22.09Mbps。浏览网页、看视频够用，但看清晰度为2K及以上的视频会有点吃力，这点不如[ExpressVPN](#2-expressvpn--速度体验最佳)，另外，实际使用时的网速和上网时段、网络环境都有很大的关系。StrongVPN速度较快的节点选择可以查看：[线路选择](#strong线路选择)。
+这是最近我使用时的测试结果，测试平台为SpeedTest网页测速，上面的速度测试截图可以看到，连接Tokyo的节点，ping值85ms，下载速度为11Mbps，上行速度为20.58Mbps；Seoul节点ping值69ms，下载速度为26.03Mbps，上行速度为20.23Mbps。浏览网页、看视频够用，但看清晰度为2K及以上的视频会有点吃力，这点不如[ExpressVPN](#2-expressvpn--速度体验最佳)，另外，实际使用时的网速和上网时段、网络环境都有很大的关系。StrongVPN速度较快的节点选择可以查看：[线路选择](#strong线路选择)。
 
 **官方建议**：Change your VPN connection protocol If changing server did not help you get connected, try changing your protocol. We recommend using OpenVPN via TCP configuration for customers in China. If fails, then try the aforementioned protocols with Scramble feature enabled.
 
@@ -529,15 +533,15 @@ Paypal和信用卡就不用说了，和在其他网站上付款一样，比较�
 我们最近对官方推荐的节点进行了测试，测试的网络环境是：
 
 - 客户端：Windows
-- 电信100M 无线WiFi
+- 深圳电信100M宽带 无线WiFi
 - 路由器：Netgear R7000
 
 部分测试截图如下：
-[![LA5节点测速](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-2021-08-min.png)](#expressvpn速度测试)
+[![LA5节点测速](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-2021-11.png)](#expressvpn速度测试)
 
 我们连接Los Angeles – 5节点，在Chrome浏览器使用Speedtest进行在线测速，测速结果如下图，可以看到，ping延迟是196ms，还不错，下载速度是56.96Mb/s，上传的速度是16.53Mb/s，观看Youtube高清视频不存在卡顿。
 
-[![sigapore节点测速](https://www.safewebcn.com/img/expressvpn-sigapore-2021-8-min.png)](#expressvpn速度测试)
+[![sigapore节点测速](https://www.safewebcn.com/img/expressvpn-sigapore-2021-11.png)](#expressvpn速度测试)
 
 测试的Singapore – Marina Bay节点速度也很不错，下载速度测试值为42.14Mb/s，顺便说一下，我们的测试中，ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。
 
@@ -547,7 +551,7 @@ iPhone手机使用电信WiFi网络连接ExpressVPN的Marina Bay节点，连接�
 
 iPhone手机使用移动4G网络连接ExpressVPN的Marina Bay节点，使用SpeedTest软件进行在线测速，连接和测速界面如下图：
 
-[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-7-28-min.png)](#expressvpn速度测试)
+[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-2021-11.png)](#expressvpn速度测试)
 
 从上面的测试截图看到，iPhone使用移动4G网络连接Marina Bay节点，测试结果还不错，能跑满我这里的移动4G实际网络带宽，iPhone的日常实际使用体验也在我所现在使用的翻墙软件中属于最好的。
 
