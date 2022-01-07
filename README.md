@@ -226,9 +226,9 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 1.进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>（右键打开），然后点击“Join Now”按钮，进入选择套餐页面：
 
-[![Strong-device](https://www.safewebcn.com/img/StrongVPN-price-table-min.png)](#如何获取strongvpn)
+[![Strong-device](https://www.safewebcn.com/img/StrongVPN-price-table-2022-1.png)](#如何获取strongvpn)
 
-付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%以上**，优惠码是`TAKEOFF20`或是`WELCOMESAFER` ，进入官网后，拉到页面最下方，在“Interact”栏点击“Coupons“也能看到（单月套餐使用这个更划算），**如果活动价格折扣大于这个优惠折扣，系统默认以最大折扣的活动价为准**。另外支付宝支付的话只能买一个月或一年，后续续费的话要手动付款续费，不想续费不用管就行了；信用卡和Paypal支付的话是自动续费，但如果不想续费，可以在使用期限到之前随时取消续费。
+付款方式支持支付宝Alipay、银联卡、信用卡和Paypal等，**目前有特价活动可以优惠20%以上**，优惠码是`TAKEOFF20`、`NEWSTRONG`或是`WELCOMESAFER` ，进入官网后，拉到页面最下方，在“Interact”栏点击“Coupons“也能看到（单月套餐使用这个更划算），**如果活动价格折扣大于这个优惠折扣，系统默认以最大折扣的活动价为准**，套餐页面的链接中的cpn后面的参数可以改为优惠码，重新进入链接后价格会重新计算。另外支付宝支付的话只能买一个月或一年，后续续费的话要手动付款续费，不想续费不用管就行了；信用卡和Paypal支付的话是自动续费，但如果不想续费，可以在使用期限到之前随时取消续费。
 
 接着输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
 
