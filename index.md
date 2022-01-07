@@ -367,7 +367,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 改电脑Host文件方法很简单，国内Windows/Mac用户可以直接下载hosts文件解锁官网，手机用户建议在电脑上打开本页面操作，因为手机由于系统权限原因改host操作较麻烦，下面是操作步骤：
 
-1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键另存为)。
+1.下载hosts文件： <a rel="nofollow noopener" href="https://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键另存为)。
 
 2.Windows用户将下载的hosts文件移动到文件夹，路径是`C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
@@ -405,7 +405,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 [![Strong-device](https://www.safewebcn.com/img/StrongVPN-price-table-min.png)](#如何获取strongvpn)
 
-付款方式支持支付宝Alipay、信用卡和Paypal等，目前有特价活动，进入官网后，拉到页面最下方，在“Interact”栏点击“Coupons“能看到优惠，单月套餐也可以使用。**如果实时的促销优惠大于特价20%的优惠，以实时优惠为准。**
+付款方式支持支付宝Alipay、信用卡和Paypal等，目前有特价活动，进入官网后，拉到页面最下方，在“Interact”栏点击“Coupons“能看到优惠，单月套餐也可以使用。**如果实时的促销优惠大于特价20%的优惠，以实时优惠为准。**（在套餐选择页面的连接里面有“?cpn=...&”这个参数，这是优惠券码，新人优惠码是NEWSTRONG，目前打5折，可以改为“?cpn=NEWSTRONG&”）
 
 输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
 
