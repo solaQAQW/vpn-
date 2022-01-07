@@ -403,7 +403,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 1.进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>（右键打开），然后点击“Join Now”按钮，进入选择套餐页面：
 
-[![Strong-device](https://www.safewebcn.com/img/StrongVPN-price-table-min.png)](#如何获取strongvpn)
+[![Strong-device](https://www.safewebcn.com/img/StrongVPN-price-table-2022-1.png)](#如何获取strongvpn)
 
 付款方式支持支付宝Alipay、信用卡和Paypal等，目前有特价活动，进入官网后，拉到页面最下方，在“Interact”栏点击“Coupons“能看到优惠，单月套餐也可以使用。**如果实时的促销优惠大于特价20%的优惠，以实时优惠为准。**（在套餐选择页面的连接里面有“?cpn=...&”这个参数，这是优惠券码，新人优惠码是NEWSTRONG，目前打5折，可以改为“?cpn=NEWSTRONG&”）
 
