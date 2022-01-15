@@ -200,9 +200,23 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
-3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank"> 获取StrongVPN独家优惠</a>。
+3.完成之后**清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面**，然后<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank"> 获取StrongVPN独家优惠</a>。
 
-完成之后，就可以正常访问官网了。另外，**官方为应对墙的持续升级，保障国内用户的使用，针对中国用户发布了中文版的使用教程，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”**，就可以看到文章了。
+完成之后，就可以正常访问官网了。
+
+如果还是无法访问，可能需要修改网络的DNS。步骤如下：
+
+打开控制面板->网络与Ineternet->查看网络状态与任务->更改适配器设置->右键你目前连接的网络，选择“属性”->取消勾选“Internet协议版本6（Tcp/Ipv6）”->选择“Internet协议版本4（Tcp/Ipv4）”，点击“属性”
+
+最后选择“使用下面的DNS服务器地址”，将DNS修改为：
+
+8.8.8.8
+
+8.8.4.4
+
+点击确定就完成设置了。
+
+另外，**官方为应对墙的持续升级，保障国内用户的使用，针对中国用户发布了中文版的使用教程，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”**，就可以看到文章了。
 
 购买后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 
