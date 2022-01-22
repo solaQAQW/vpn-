@@ -196,7 +196,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 改电脑Host文件方法很简单，国内Windows/Mac用户可以直接下载hosts文件解锁官网，手机用户建议在电脑上打开本页面操作，因为手机由于系统权限原因改host操作较麻烦，下面是操作步骤：
 
-1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键另存为)。
+1.下载hosts文件： <a rel="nofollow noopener" href="https://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键另存为)。
 
 2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
@@ -375,11 +375,11 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 另外读者lthero-big分享的国内能用线路列表也很不错：
 
-下面找客服要的，目前中国能用的线路，一定要精确到某个城市的具体线路。
+下面是客服给的目前中国能用的线路，一定要精确到某个城市的具体线路。
 
 (读者lthero-big的反馈：韩国、美国的San Franciso、英国的Rugby、london、日本都不错。如果只上网飞的话，推荐日本节点，快而且内容多。)
 
-**注：下面所列线路，不一定全部线路在所有时间段都能连接，因为一直以来墙每隔一段时间就加高一次，可能少部分线路会有连不上的，不过也会有新的服务器线路陆续加入进来，有些不在列表上的线路也有能连的，所列线路还不全面，大家可以自己测试，最新的可用线路列表可以找客服获取**。如果连接过程中连接很慢，状态一直是connecting，直接点exit，然后重新打开客户端换个节点重新连接。
+**注：下面所列线路，不一定全部线路在所有时间段都能连接，因为一直以来墙每隔一段时间就加高一次，有时与某个服务器线路的连接也有可能遇到网络故障，一般可能少部分线路会有连不上的，不过也会有新的服务器线路陆续加入进来，有些不在列表上的线路也有能连的，所列线路还不全面，大家可以自己测试，最新的可用线路列表可以找客服获取**。如果连接过程中连接很慢，状态一直是connecting，直接点exit，然后重新打开客户端换个节点重新连接。
 
 - **South Korea** Seoul: icn303-305
 - **Germany** Frankfurt: fra301-303
@@ -423,7 +423,7 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 - **注重中国市场**
 
-StrongVPN虽然客户端不支持中文，但是对在在中国的用户反应的连接问题很重视，官网专门有针对中国用户使用的文章，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”，并能始终在防火墙升级后快速地加入新的可用服务器，修复在中国的连接问题，敏感时期如果遇到连接问题建议找客服获取备用的连接服务器线路和方案。
+StrongVPN虽然客户端不支持中文，但是对在在中国的用户反应的连接问题很重视，**官网专门有针对中国用户使用的文章，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”**，并能始终在防火墙升级后快速地加入新的可用服务器，修复在中国的连接问题，敏感时期如果遇到连接问题建议找客服获取备用的连接服务器线路和方案。
 
 - **加密技术/隐私保护**
 
@@ -616,11 +616,11 @@ ExpressVPN支持银联、信用卡、Paypal等多种方式付款。付款后，�
 
 国内Windows/Mac用户可以直接下载hosts文件解锁VPN官网（手机用户建议在电脑上打开本页面操作）：
 
-1.下载hosts文件： <a rel="nofollow noopener" href="http://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键另存为)
+1.下载hosts文件： <a rel="nofollow noopener" href="https://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键另存为)
 
 2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
-3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="http://linkv.org/nord" target="_blank"> 点击获取NordVPN官网优惠</a>。
+3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://linkv.org/nord/" target="_blank"> 点击获取NordVPN官网优惠</a>。
 
 完成之后，就可以正常访问官网和使用客户端了。
 
