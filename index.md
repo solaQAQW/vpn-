@@ -347,7 +347,7 @@ ExpressVPN支持银联、信用卡、Paypal等多种方式付款。付款后，�
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#2-strongvpn--性价比最佳)
 
->2022年1月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，**目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的**，目前也有较大的价格优惠。**Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP）协议连接成功率一直很高**（在大多数时期比标准客户端连接也更加稳定），而且能连的节点也较多，这也是尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本更新。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法,iPhone用户建议使用<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN</a>，在iPhone的iOS App版本中ExpressVPN长期的稳定性还是比StrongVPN要强，已经购买StrongVPN的iPhone用户可以找客服获取手动连接线路和方案。
+>2022年1月使用，确认可用，可用节点较多，有些节点网络速度不错，有些节点网络速度就一般，要自己测试。性价比最好，**目前StrongVPN所有套餐的价位应该是大牌VPN里面最便宜的**，目前也有较大的价格优惠。**Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，获取方法在下文中，这个版本适合中国用户使用，在国内使用OpenVPN（TCP）协议连接成功率一直很高**（在大多数时期比标准客户端连接也更加稳定），而且能连的节点也较多，这也是尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本更新。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取备用连接方法,iPhone用户建议使用<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank">ExpressVPN</a>，在iPhone的iOS App版本中ExpressVPN长期的稳定性还是比StrongVPN要强，已经购买StrongVPN的iPhone用户可以找客服获取手动连接线路和方案。另外如果使用支付宝Aliapy付款，官网直接提交订单到支付宝可能会遇到问题，可以查看下文中的解决方法。
 
 StrongVPN创办于2005年，是一家美国的老牌VPN服务商，在35个国家的59个城市拥有950+个VPN服务器，以及近60000个IP地址，前文说过，大量的IP地址资源是应对墙的封锁最有效的办法。
 
@@ -378,6 +378,22 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 如果访问官网仍然打不开，可能官方网站的服务器IP有变动，请在本页面issues提醒，或者等待1天左右，我会更新最新版本的hosts文件。
 
 如有不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
+
+### 支付宝如何购买StrongVPN？
+
+由于国内政策原因，**支付宝已经单方面取消几乎所有知名VPN官网的付款通道了**。StrongVPN通过支付宝Alipay付款也遇到这种问题，在官网提交的订单在到支付宝付款页面时可能会出现问题，如果输入邮箱提交后一直在“Your order is being processed now”这个页面停留，或是支付宝付款页面显示“参数遇到问题”：
+
+[![Strong-alipay-fail](https://www.safewebcn.com/img/strongvpn-alipay-fail.png)](#支付宝如何购买strongvpn)
+
+这时需要打开你之前注册StrongVPN的邮箱，会收到发过来的3条Email信息：
+
+[![Strong-email](https://www.safewebcn.com/img/strongvpn-email.png)](#支付宝如何购买strongvpn)
+
+“Account Login”这封邮件有用户名和临时密码信息，然后点击“Invoice Payment Reminder”这封邮件，打开邮件中的账单详情链接进行登录查看，输入用户名和临时密码(或者登录StrongVPN官网的用户后台，点击Billing Area->Invoices->unpaid)，可以看到订单详情以及Alipay（支付宝）付款选项，点击后进入支付宝网站就能正常付款了。
+
+[![Strong-alipay-payment](https://www.safewebcn.com/img/strong-alipay-payment.png)](#支付宝如何购买strongvpn)
+
+**购买后，点击官网右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”，是最新针对中国用户发布的中文版使用教程。**
 
 如何购买和使用请看下文，尤其是使用的时候有几个需要注意的事项。
 
@@ -411,7 +427,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，一般就可以联系客服下载精简版客户端并安装使用了，国内能连的服务器线路可以参考：[Strong线路如何选择](#strong线路选择)。
 
-支付过程中可能会遇到问题（如下图），我付款时就遇到了，解决办法和下文一样，需要登录用户后台的“Billing Area”板块，付款订单进行确认就OK了。
+支付过程中可能会遇到问题（如下图）或是支付宝付款页面显示“参数遇到问题”，我付款时就遇到了，解决办法和下文一样，需要登录用户后台的“Billing Area”板块，付款订单进行确认就OK了。
 
 [![Strong-problem](https://www.safewebcn.com/img/Strong-problem-min.png)](#如何获取strongvpn)
 
