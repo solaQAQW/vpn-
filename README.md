@@ -178,7 +178,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#1-strongvpn--性价比最佳)
 
->2022年1月使用，确认可用。这款我使用了3年，可用节点较多，有些节点的网络传输速度不错，有些节点的速度就一般，要根据自己的网络环境测试。**性价比最好，目前StrongVPN的套餐价位应该是大牌VPN里面最便宜的**，有优惠码可使用。**Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，直接说在中国使用就行了，这个版本适合中国用户使用，在国内使用OpenVPN（TCP）协议连接成功率一直很高**（在大多数时期比标准客户端连接也更加稳定），这也是Strong官方尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本更新。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取手动配置连接方法,iPhone用户还是建议选择[ExpressVPN](#2-expressvpn--速度体验最佳)。因综合性价比最好，而且通过精简版客户端连接一直比较稳定，暂把它列在第一位。
+>2022年1月使用，确认可用。这款我使用了3年，可用节点较多，有些节点的网络传输速度不错，有些节点的速度就一般，要根据自己的网络环境测试。**性价比最好，目前StrongVPN的套餐价位应该是大牌VPN里面最便宜的**，有优惠码可使用。**Windows、Mac和Android设备用户建议在官网的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，直接说在中国使用就行了，这个版本适合中国用户使用，在国内使用OpenVPN（TCP）协议连接成功率一直很高**（在大多数时期比标准客户端连接也更加稳定），这也是Strong官方尽量避免被墙的策略，而官方的标准客户端版本在敏感时期有时会遇到登录或连接问题，需等待版本更新。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，上次被封之后一键连接还没恢复正常，可以联系在线客服获取手动配置连接方法,iPhone用户还是建议选择[ExpressVPN](#2-expressvpn--速度体验最佳)。**因综合性价比最好并支持支付宝Alipay付款，而且通过精简版客户端连接一直比较稳定**，暂把它列在第一位。另外支付宝付款可以参考后文的教程，避免出现不能付款的问题。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市拥有950+个VPN服务器，以及近60000个IP地址，前文说过，大量的IP地址资源对于墙的封锁是最有效的办法，而且不论官方宣传的服务器IP数量多少，StrongVPN近两年在国内的上网表现比NordVPN、Pure、IVacy、Vypr等好多了，连接成功率很高（精简版客户端），**可能因为混淆算法的缘故，服务器线路（精简版客户端）被屏蔽的次数和概率要远小于其他这些VPN**。
 
@@ -188,7 +188,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 ### 如何打开StrongVPN官网？
 
->下载安装Strong的精简版客户端和使用请详细阅读本文，避免后续使用出现问题。
+>下载安装Strong的精简版客户端和使用请详细阅读本文或者官网的提示文章，避免后续使用出现问题。
 
 有梯子的同学直接可访问<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，但如果在套餐下单时页面出现“We detected that you are using a VPN or Proxy service...”而不能购买（可以顺利下单的话不用管），说明StrongVPN反欺诈系统检测到你是用代理IP访问的（国外存在代理IP盗刷信用卡），要断开梯子使用本地网络访问官网，方法如下文。
 
@@ -198,7 +198,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 1.下载hosts文件： <a rel="nofollow noopener" href="https://linkv.org/download/hosts" target="_blank"> 下载地址</a>(右键另存为)。
 
-2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
+2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件到其他地方。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
 3.完成之后**清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面**，然后<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank"> 获取StrongVPN独家优惠</a>。
 
@@ -262,7 +262,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，联系在线客服下载精简版客户端，就可以安装使用了。
 
-支付过程中可能会有订单处理遇到问题（如下图）或者套餐页面直接提交到支付宝付款显示“参数遇到问题”，很好解决，和下文一样，需要登录用户后台的“Billing Area”板块，确认付款订单就行了。
+支付过程中可能会有订单处理遇到问题（如下图）或者套餐页面直接提交到支付宝付款显示“参数遇到问题”，很好解决，和下文一样，**需要进入注册提交的邮箱查收包含帐号密码的邮件，并登录用户后台的“Billing Area”板块，确认付款订单就行了**。
 
 [![Strong-problem](https://www.safewebcn.com/img/Strong-problem-min.png)](#如何获取strongvpn)
 
