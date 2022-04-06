@@ -276,7 +276,7 @@ ExpressVPN并非如很多口是心非的不良厂商，它的无日志政策是�
 
 除了上面那些优化过的服务器线路，**中国用户也可以尝试改为L2TP或IKEV-2协议连接其它的服务器线路，依然会有部分线路可以连接**，但是其他那些服务器没有经过混淆算法优化，速度和稳定性可能会不如官方推荐的服务器线路，可以作为敏感时期的备用节点。
 
-关于使用和更新客户端的问题，请查看<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/21" target="_blank">问题#21</a>。关于更多ExpressVPN的信息，可以查看<a rel="noopener" href="https://www.fastvpncn.com/2021%E5%B9%B4expressvpn%E5%9C%A8%E5%9B%BD%E5%86%85%E4%BD%BF%E7%94%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F/" target="_blank">ExpressVPN在中国怎么样</a>。
+关于使用和更新客户端的问题，请查看本文后面的问题列举。关于更多ExpressVPN的信息，可以查看<a rel="noopener" href="https://www.fastvpncn.com/2021%E5%B9%B4expressvpn%E5%9C%A8%E5%9B%BD%E5%86%85%E4%BD%BF%E7%94%A8%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F/" target="_blank">ExpressVPN在中国怎么样</a>。
 
 ### ExpressVPN速度测试
 
