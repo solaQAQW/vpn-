@@ -568,13 +568,13 @@ Paypal和信用卡就不用说了，和在其他网站上付款一样，比较�
 - 路由器：Netgear R7000
 
 部分测试截图如下：
-[![LA5节点测速](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-2021-11.png)](#expressvpn速度测试)
+[![LA5节点测速](https://www.safewebcn.com/img/ExpressVPN-speedtest-LA5-2022-3.png)](#expressvpn速度测试)
 
 我们连接Los Angeles – 5节点，在Chrome浏览器使用Speedtest进行在线测速，测速结果如下图，可以看到，ping延迟是196ms，还不错，下载速度是56.96Mb/s，上传的速度是16.53Mb/s，观看Youtube高清视频不存在卡顿。
 
-[![sigapore节点测速](https://www.safewebcn.com/img/expressvpn-sigapore-2021-11.png)](#expressvpn速度测试)
+[![sigapore节点测速](https://www.safewebcn.com/img/expressvpn-sigapore-2022-3.png)](#expressvpn速度测试)
 
-测试的Singapore – Marina Bay节点速度也很不错，下载速度测试值为42.14Mb/s，顺便说一下，我们的测试中，ExpressVPN的美国Los Angeles – 4/5节点和Singapore – Marina Bay节点在电信网络下比Hongkong和Tokyo的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。
+测试的Singapore – Marina Bay节点速度也很不错，下载速度测试值为42.14Mb/s，顺便说一下，我们的测试中，ExpressVPN的美国Los Angeles – 5节点和Singapore – Marina Bay节点在电信网络下比Tokyo和其他地区的节点稍快一些，但是测试只是测试，只能作为参考，因为使用的实际感受会因网络环境、时间、操作系统的变化而发生一些变化，你可以根据自己的网络环境进行尝试，选择速度快的节点作为常用节点。
 
 iPhone手机使用电信WiFi网络连接ExpressVPN的Marina Bay节点，连接界面如下图：
 
@@ -582,7 +582,7 @@ iPhone手机使用电信WiFi网络连接ExpressVPN的Marina Bay节点，连接�
 
 iPhone手机使用移动4G网络连接ExpressVPN的Marina Bay节点，使用SpeedTest软件进行在线测速，连接和测速界面如下图：
 
-[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-2021-11.png)](#expressvpn速度测试)
+[![iPhone ExpressVPN节点测速](https://www.safewebcn.com/img/expressvpn-iphone-speedtest-2022-3.png)](#expressvpn速度测试)
 
 从上面的测试截图看到，iPhone使用移动4G网络连接Marina Bay节点，测试结果还不错，能跑满我这里的移动4G实际网络带宽，iPhone的日常实际使用体验也在我所现在使用的翻墙软件中属于最好的。
 
