@@ -404,7 +404,7 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 **注：下面所列线路，不一定全部线路在所有时间段都能连接，因为一直以来墙每隔一段时间就加高一次，有时与某个服务器线路的连接也有可能遇到网络故障，一般可能少部分线路会有连不上的，不过也会有新的服务器线路陆续加入进来，有些不在列表上的线路也有能连的，所列线路还不全面，大家可以自己测试，最新的可用线路列表可以找客服获取**。如果连接过程中连接很慢，状态一直是connecting，直接点exit，然后重新打开客户端换个节点重新连接。
 
-（如果在敏感时期遇到封锁，会出现连接问题，官方一般需要一段时间来修复线路，期间建议联系客服获取可用的服务器线路和推荐的临时协议，SSTP/L2TP等）
+（**如果在敏感时期遇到封锁，会出现连接问题，官方一般需要一段时间来修复线路，期间建议联系客服获取可用的服务器线路和推荐的临时协议**，SSTP/L2TP等）
 
 - **South Korea** Seoul: icn303-305
 - **Germany** Frankfurt: fra301-303
@@ -464,7 +464,7 @@ StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 ## 2.<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank"> ExpressVPN – 速度体验最佳</a>
 
->2022年4月使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，大多数VPN软件在国内并不好用，**ExpressVPN的iOS版本内置了LightWay（UDP/TCP）和IKEV2协议，LightWay是Express官方新推出的独家开发的协议，一键连接效果很不错，iPhone用户首选这款**。目前由于国内政策原因，支付宝付款方式被暂停了，可以优先选择Paypal、国内银联卡或带外币功能的信用卡购买。
+>2022年5月使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，大多数VPN软件在国内并不好用，**ExpressVPN的iOS版本内置了LightWay（UDP/TCP）和IKEV2协议，LightWay是Express官方新推出的独家开发的协议，一键连接效果很不错，iPhone用户首选这款**。目前由于国内政策原因，支付宝付款方式被暂停了，可以优先选择Paypal、国内银联卡或带外币功能的信用卡购买。
 
 [![ExpressVPN](https://www.safewebcn.com/img/express-logo-2021.png)](https://www.fastvpncn.com/expressvpn)
 
