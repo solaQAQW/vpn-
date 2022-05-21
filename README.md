@@ -1,6 +1,6 @@
 # 翻墙软件VPN推荐，中国仅2款好用(2022年5月最新)
 
-最近更新：`2022年5月4日`
+最近更新：`2022年5月21日`
 
 >**目前在国内能长期稳定、好用的翻墙VPN很少了，包括我看到的不少VPN评论网站也是东抄抄西抄抄，很多没有时效性的内容，部分推荐的在国内并不好用，而且很多博主都身处国外，很少有在国内的使用体验，尤其是近2年防火长城的封锁太频繁，不少以前还能用的VPN现在几乎无法使用，注意查看下文提醒避免入坑。本文根据实际的使用体验介绍各款翻墙软件VPN近期使用情况，并结合最新的使用情况持续更新，供大家参考和避坑**。本文是中国安全翻墙攻略的**详细版**，讨论翻墙软件、科学上网和网络安全的相关问题，如果只想快速选个科学上网软件来翻墙，直接看下方本文目录导航。
 
@@ -185,9 +185,9 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 [![StrongVPN](https://www.safewebcn.com/img/strong-logo.png)](#1-strongvpn--性价比最佳)
 
->2022年5月使用，确认可用。这款我使用了3年，可用节点中有些节点的网络传输速度不错，有些节点的速度就一般，要根据自己的网络环境测试。**目前StrongVPN的套餐价位的性价比应该是大牌VPN里面最好的**，有优惠码可使用。**通用版客户端直接在官网用户后台下载安装即可，目前在国内能使用**。另外，Windows、Mac和Android设备用户建议在官网Support页面的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，直接说在中国使用就行了，通用版客户端很多时候也能用，可以把精简版客户端作为备用选择。这也是Strong官方尽量避免被墙的策略，官方的标准客户端版本在敏感时期可能会遇到登录或连接问题，需等待版本更新，另外**如果遇到大封锁，联系客服获取可用的服务器线路和推荐协议**。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，大部分时候都能连，敏感时期可以联系在线客服获取手动配置连接方法。**因综合性价比最好并支持支付宝Alipay付款，而且通过精简版客户端连接一直比较稳定**，暂把它列在第一位。另外支付宝Alipay付款可以参考后文的教程，避免出现不能付款的问题。
+>2022年5月使用，确认可用。这款我使用了3年，可用节点中有些节点的网络传输速度不错，有些节点的速度就一般，要根据自己的网络环境测试。**目前StrongVPN的套餐价位的性价比应该是大牌VPN里面最好的**，有优惠码可使用。**通用版客户端直接在官网用户后台下载安装即可，目前在国内能使用**。另外，Windows、Mac和Android设备用户建议在官网用户页面的右下方的“Help”聊天框找在线客服(Technical Support)获取特供的精简客户端V1 app，直接说在中国使用就行了，通用版客户端很多时候也能用，可以把精简版客户端作为备用选择。这也是Strong官方尽量避免被墙的策略，官方的标准客户端版本在敏感时期可能会遇到登录或连接问题，需等待版本更新，另外**如果遇到大封锁，联系客服获取可用的服务器线路和推荐协议**。另外由于iOS系统的限制，客户端没有备用的iOS的特供版本，只有通用版本，大部分时候都能连，敏感时期可以联系在线客服获取手动配置连接方法。**因综合性价比最好并支持支付宝Alipay付款，而且通过精简版客户端连接一直比较稳定**，暂把它列在第一位。另外支付宝Alipay付款可以参考后文的教程，避免出现不能付款的问题。
 >
->**2022年最新提醒**：目前国内能使用V2版本的客户端，也就是官网上直接下载的通用版客户端，协议选择OpenVPN或者IKEV2，Win/MacOS/Android/iOS系统客户端都能使用，如有任何问题直接在官网的Support页面的在线窗口询问客服。
+>**2022年最新提醒**：目前国内能使用V2版本的客户端，也就是官网上直接下载的通用版客户端，协议选择OpenVPN或者IKEV2，Win/MacOS/Android/iOS系统客户端都能使用，如有任何问题直接在官网用户页面的在线窗口询问客服。
 
 StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国家的59个城市拥有950+个VPN服务器，以及近60000个IP地址，前文说过，大量的IP地址资源对于墙的封锁是最有效的办法，而且不论官方宣传的服务器IP数量多少，StrongVPN近两年在国内的上网表现比NordVPN、Pure、IVacy、Vypr等好多了，连接成功率很高，**可能因为混淆算法的缘故，服务器线路被屏蔽的次数和概率要小于其他这些VPN**。但是也可能遇到封锁，毕竟几乎所有的翻墙软件都会遇到这个问题，**大封锁时期如果遇到连接不上的问题，直接联系客服获取当前可用的服务器线路和使用客服推荐的临时方案**。
 
@@ -195,7 +195,7 @@ StrongVPN是一家美国的老牌VPN服务商，成立于2005年，在35个国�
 
 ### StrongVPN在中国表现怎么样？
 
-StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Global公司NetProtect项目旗下的品牌，J2 Global是纳斯达克上市公司（目前改名为Ziff Davis集团，股票代码：ZD），公司主营业务主要是为个人和企业提供通信、软件和数字媒体服务，技术和资金实力十分雄厚。目前进入VPN领域已有16年，近几年开始也开始重视开发中国市场，他家售后服务很不错，它也和ExpressVPN一样，为应对墙的持续封锁，发布了一个在中国使用StrongVPN的并实时更新的帖子，**给在中国境内的用户提供最新的使用信息和公告，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”**。其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（在官网的右下角的“Help”帮助聊天框，选择Technical Support），过去的几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的线路使用也一直比较稳定**。
+StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Global公司NetProtect项目旗下的品牌，J2 Global是纳斯达克上市公司（目前改名为Ziff Davis集团，股票代码：ZD），公司主营业务主要是为个人和企业提供通信、软件和数字媒体服务，技术和资金实力十分雄厚。目前进入VPN领域已有16年，近几年开始也开始重视开发中国市场，他家售后服务很不错，它也和ExpressVPN一样，为应对墙的持续封锁，发布了一个在中国使用StrongVPN的并实时更新的帖子，**给在中国境内的用户提供最新的使用信息和公告，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”**。其实据我了解，这款VPN在过去几年在中国一直可用，只是由于官网被墙，在国人用户群体中略显小众，使用者是以在中国的老外居多。**技术客服很给力（官网登录账号后，点击右下角的“Help”帮助聊天框，选择Technical Support），过去的几次大封锁期间，我都是通过技术客服给我的备用翻墙方案，备用的线路使用也一直比较稳定**。
 
 **2022年最新提醒**：目前国内能使用V2版本的客户端，也就是官网的用户后台“StrongVPN Client”直接下载的通用版客户端，协议选择OpenVPN或者IKEV2，Win/MacOS/Android/iOS系统客户端都能使用，如有任何问题直接在官网的Support页面的在线窗口询问客服或是发Ticket询问。
 
@@ -229,8 +229,6 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 点击确定就完成设置了。
 
-另外，**官方为应对墙的持续升级，保障国内用户的使用，针对中国用户发布了中文版的使用教程，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”**，就可以看到文章了。
-
 如果访问官网仍然打不开，可能官方网站的服务器IP有变动，请在本页面issues提醒，或者等待1天左右，我会更新最新版本的hosts文件。
 
 如果对Host文件不懂，请<a rel="nofollow noopener" href="https://vpncn.github.io/image/%E5%A6%82%E4%BD%95%E6%94%B9host%E6%96%87%E4%BB%B6" target="_blank"> 查看这篇文章</a>。
@@ -261,7 +259,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 除了最基本的VPN套餐之外，还会额外赠送250 GB SugarSync云储存套餐，感觉是个加密的云网盘，赠送的服务值不值见仁见智。
 
-如果安装或者连接遇到问题，可以在官网的右下角的“Help”聊天框，选择Technical Support（技术支持），咨询客服相关问题，我有几次遇到连接问题都是找技术支持解决的。**连接协议建议选择`OpenVPN TCP`**，有UDP和TCP两种协议，官方推荐使用TCP协议并开启Scramble混淆选项，我自己一般也习惯使用TCP，感觉更好连接一些，**不过在敏感时期，如果遇到线路被封，客服会提供临时的连接方案和协议，例如SSTP/L2TP等协议的线路**。
+如果安装或者连接遇到问题，可以在官网用户页面的右下角的“Help”聊天框，选择Technical Support（技术支持），咨询客服相关问题，我有几次遇到连接问题都是找技术支持解决的。**连接协议建议选择`OpenVPN TCP`**，有UDP和TCP两种协议，官方推荐使用TCP协议并开启Scramble混淆选项，我自己一般也习惯使用TCP，感觉更好连接一些，**不过在敏感时期，如果遇到线路被封，客服会提供临时的连接方案和协议，例如SSTP/L2TP等协议的线路**。
 
 ### 如何获取StrongVPN？
 
@@ -303,7 +301,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 ### StrongVPN如何使用？
 
-登录进官网用户后台界面后，从“StrongVPN Clients”点击可以下载通用版客户端APP，但是**这个版本在敏感时期可能会有连接问题，推荐同时安装特供的精简版客户端**，可以直接找在线客服获取，直接说在中国使用就会帮你设置好账户。
+登录进官网用户后台界面后，从“StrongVPN Clients”点击可以下载通用版客户端APP，**如果在敏感时期遇到连接问题，到时可以安装特供的精简版客户端作为备用**，可以直接找在线客服获取，直接说在中国使用就会帮你设置好账户。
 
 [![Strong客户端](https://www.safewebcn.com/img/strongvpn-client-min.png)](#strongvpn如何使用)
 
@@ -311,11 +309,11 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 **2022年最新提醒**：目前国内能使用V2版本的客户端，也就是上图中直接下载的通用版客户端，协议选择OpenVPN或者IKEV2，Win/MacOS/Android/iOS系统客户端都能使用，如有任何问题直接在官网的Support页面的在线窗口询问客服。
 
-**除了使用通用版客户端，中国墙内Windows、Mac电脑用户和安卓手机用户建议同时下载StrongVPN的精简版客户端V1 app（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">Windows备用下载地址</a>）**，作为备用选择。最新版请咨询官网右下角客服获取，直接说在中国使用StrongVPN客服就懂了，会帮你激活账号和给你最新版精简版客户端的下载地址。安装专用精简版之前，可能需要把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，**可以在官网Support页面右下角的“Help”在线聊天框->Get in touch->Live Chat，选择Technical Support（技术支持）提出你的问题，也有中文客服在线，可以在聊天窗口使用中文沟通**。
+**除了使用通用版客户端，遇到连接问题时，Windows、Mac电脑用户和安卓手机用户可以同时下载StrongVPN的精简版客户端V1 app（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">Windows备用下载地址</a>）**，作为备用选择。最新版请咨询官网右下角客服获取，直接说在中国使用StrongVPN客服就懂了，会帮你激活账号和给你最新版精简版客户端的下载地址。安装专用精简版之前，可能需要把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，**可以在官网用户页面右下角的“Help”在线聊天框->Get in touch->Live Chat，选择Technical Support（技术支持）提出你的问题，也有中文客服在线，可以在聊天窗口使用中文沟通**。
 
 **联系客服方式：**
 
-1.联系在线客服，这种方式最快。官网Support页面右下角的“Help”在线聊天框->Get in touch->Live Chat，或者用户后台页面的Support tickets->Submit new ticket，填写信息提交：Please enable V1 account for me because I am in China;
+1.联系在线客服，这种方式最快。官网用户页面右下角的“Help”在线聊天框->Get in touch->Live Chat，或者用户后台页面的Support tickets->Submit new ticket，填写信息提交：Please enable V1 account for me because I am in China;
 
 2.使用注册StrongVPN的邮箱发送邮件到billing@strongvpn.com ，邮件内容 ：Please enable V1 account for me because I am in China(激活针对V1精简版客户端的账号)，一般一个工作日内激活。
 
@@ -347,7 +345,7 @@ StrongVPN Windows标准版客户端：
 
 #### 使用WireGuard协议
 
-（**WireGuard协议只有官网下载安装的标准版客户端提供，但是根据部分读者反映，WireGuard协议在国内使用不稳定，会出现显示连接却上不了网的情况，比较鸡肋，不如使用精简客户端使用的OpenVPN协议稳定**。）
+（**WireGuard协议只有官网下载安装的标准版客户端提供，但是根据部分读者反映，WireGuard协议在国内使用不稳定，会出现显示连接却上不了网的情况，比较鸡肋，有时候不如使用OpenVPN协议稳定**。）
 
 StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后点击setting，在Protocol选择WireGuard，然后回到服务器选择线路连接，点击connect，等待1-3秒就能连上，如果没有反应，打开iPhone的系统设置，点击VPN，选择“StrongVPN WireGuard Configuration”（如下图）：
 
@@ -456,7 +454,7 @@ StrongVPN支持WireGuard协议，以iPhone为例，先打开StrongVPN，然后�
 
 - **注重中国市场**
 
-StrongVPN虽然客户端不支持中文，但是对在在中国的用户反应的连接问题很重视，**官网专门有针对中国用户使用的文章，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入Strong官网</a>，点击右上角Help，查找 “在中国境内如何下载，安装以及使用StrongVPN”**，并能始终在防火墙升级后快速地加入新的可用服务器，修复在中国的连接问题，敏感时期如果遇到连接问题建议找客服获取备用的连接服务器线路和方案。
+StrongVPN虽然客户端不支持中文，但是对在在中国的用户反应的连接问题很重视，客服在线聊天系统支持中文交流并能实时翻译，能始终在防火墙升级后快速地加入新的可用服务器，修复在中国的连接问题，敏感时期如果遇到连接问题建议找客服获取备用的连接服务器线路和方案。
 
 - **加密技术/隐私保护**
 
