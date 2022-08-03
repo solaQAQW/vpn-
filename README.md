@@ -10,7 +10,7 @@
 
 > - <a rel="nofollow noopener" href="https://panel.sakura-cat.club/#/register?code=9BlsgrFl" target="_blank">樱花猫</a>
 8.8 95g 有阿根廷土耳其等节点，还有不限时流量包,带游戏加速节点（直连，中转加专线），常用流媒体解锁，有不限时流量包，非常适合小流量用户，性价比超高，而且有奈飞和D+账号可以白嫖！
-> - <a rel="nofollow noopener" href="[https://panel.sakura-cat.club/#/register?code=9BlsgrFl](https://share.eleven.observer/auth/register.html?code=ueih)" target="_blank">奶瓶</a>
+> - <a rel="nofollow noopener" href="https://share.eleven.observer/auth/register.html?code=ueih" target="_blank">奶瓶</a>
 > 37 90g 老牌机场，客服30分钟内回应，节点贼多，基本各地都有，出问题比较少，高峰时期稳定快速，适合怕麻烦和懒癌患者，香港延迟大概79ms，基本也是我现在的主力，使用体验非常舒适，打开外网相当于在内网一样，也基本满足我各类需求比如奈飞之类的（全专线）
 
 > ## 本文内容导航
