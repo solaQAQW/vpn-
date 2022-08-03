@@ -8,7 +8,7 @@
 
 [![机场推荐](https://www.safewebcn.com/img/wall-min.png "梯子")](#%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6vpn%E6%8E%A8%E8%8D%90%E7%A8%B3%E5%AE%9A%E5%A5%BD%E7%94%A8%E5%90%AB2021%E4%BC%98%E6%83%A0)
 
-> - <a rel="nofollow noopener" href="[https://panel.sakura-cat.club/#/register?code=9BlsgrFl]" target="_blank">樱花猫</a>
+> - <a rel="nofollow noopener" href="https://panel.sakura-cat.club/#/register?code=9BlsgrFl" target="_blank">樱花猫</a>
 
 本文作者从事IT相关行业，经常国内国外两头跑，由于生活和工作需要，为了联系国外客户和查找资料更加便利，我手机和PC上安装了一共7-8个付费翻墙APP作为常年的备用，之前试用过PASS的更多。由于担心不能翻墙和出差途中公共网络的安全性，所有我比较关注这类翻墙软件在不同网络环境下的**连接稳定性**和保护隐私数据的**安全性**。根据自己过去2年的测试和使用体验，对几种国内流行的翻墙软件和技术方法做出对比，读者可根据自己的实际情况选择合适的翻墙工具。另外提醒一点，**如果看重隐私和加密的话一定要使用国外大厂的VPN**，不要使用机场，机场大都是国人在运营，只能翻墙，数据加密和隐私保护做的并不好，而且现在机场的访问流量被监控的太严重。
 
