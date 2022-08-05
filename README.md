@@ -8,7 +8,7 @@
 
 [![机场推荐](https://www.safewebcn.com/img/wall-min.png "梯子")](#%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6vpn%E6%8E%A8%E8%8D%90%E7%A8%B3%E5%AE%9A%E5%A5%BD%E7%94%A8%E5%90%AB2021%E4%BC%98%E6%83%A0)
 
-> - <a rel="nofollow noopener" href="https://panel.sakura-cat.club/#/register?code=9BlsgrFl" target="_blank">樱花猫</a>
+> - <a rel="nofollow noopener" href="https://panel.sakuracat.link/#/register?code=9BlsgrFl" target="_blank">樱花猫</a>
 8.8 95g 有阿根廷土耳其等节点，还有不限时流量包,带游戏加速节点（直连，中转加专线），常用流媒体解锁，还有不限时流量包，非常适合小流量用户使用，性价比超高，而且有奈飞和D+账号等可以白嫖
 > - <a rel="nofollow noopener" href="https://share.eleven.observer/auth/register.html?code=ueih" target="_blank">奶瓶</a>
 37 90g/55 600g 老牌机场，客服30分钟内回应，节点贼多，基本全球各地都有，出问题比较少，高峰期也能快速稳定，非常适合怕麻烦和懒癌患者，香港延迟大概79ms（全专线），也是我个人的主力机场，打开外网相当于打开内网一样快，非常良好的使用体验，看片从此不用等缓冲。
